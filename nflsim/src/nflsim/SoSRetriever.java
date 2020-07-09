@@ -23,15 +23,15 @@ public class SoSRetriever extends GameSim
 		{
 			for(int j=0;j<32;j++)
 			{
-				if(g.TeamInfo[i][j].contains("NY"))
+				if(g.TeamInfo[i][j].contains("NY "))
 				{
 					teams[i][j] = g.TeamInfo[i][j];
-					teams[i][j].replaceAll("NY", "New York");
+					teams[i][j].replaceAll("NY ", "New York ");
 				}
-				if(g.TeamInfo[i][j].contains("LA"))
+				if(g.TeamInfo[i][j].contains("LA "))
 				{
 					teams[i][j] = g.TeamInfo[i][j];
-					teams[i][j].replaceAll("LA", "Los Angeles");
+					teams[i][j].replaceAll("LA ", "Los Angeles ");
 				}
 				teams[i][j] = g.TeamInfo[i][j];
 			}
