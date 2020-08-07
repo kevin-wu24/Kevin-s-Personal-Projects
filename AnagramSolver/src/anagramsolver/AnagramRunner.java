@@ -12,5 +12,6 @@ public class AnagramRunner {
 		String sorted = new String(chars);
 		AnagramGenerator ag = new AnagramGenerator();
 		System.out.println(Arrays.toString(ag.GetAnagrams(sorted).toArray()));
+		System.out.println(ag.getScore());
 	}
 }

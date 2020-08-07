@@ -11,6 +11,7 @@ public class AnagramGenerator {
 	//Generates anagrams with at least 3 letters
 	File words = new File("words_alpha.txt");
 	Hashtable<String, ArrayList<String>> anagrams = new Hashtable<String,ArrayList<String>>();
+	ArrayList<String> result = new ArrayList<String>();
 	public AnagramGenerator() throws Exception
 	{
 		String str = "";
@@ -35,7 +36,7 @@ public class AnagramGenerator {
 	}
 	public ArrayList<String> GetAnagrams(String str)
 	{
-		ArrayList<String> result = new ArrayList<String>();
+		
 		Set<String> keys = anagrams.keySet();
 		for(String key: keys)
 		{
@@ -43,6 +44,24 @@ public class AnagramGenerator {
 				result.addAll(anagrams.get(key));
 		}
 		return result;
+	}
+	public int getScore()
+	{
+		int ans = 0;
+		for(int i = 0; i < result.size(); i++)
+		{
+			if(result.get(i).length() == 3)
+				ans += 100;
+			else if(result.get(i).length() == 4)
+				ans += 400;
+			else if(result.get(i).length() == 5)
+				ans += 1200;
+			else if(result.get(i).length() == 6)
+				ans += 2000;
+			else if(result.get(i).length() == 7)
+				ans += 3000;
+		}
+		return ans;		
 	}
 }
 
