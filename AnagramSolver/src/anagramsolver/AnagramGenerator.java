@@ -29,7 +29,9 @@ public class AnagramGenerator {
         			anagrams.get(sorted).add(str);
         		}
         		else
+        		{
         			anagrams.get(sorted).add(str);
+        		}
         	}
         }
         br.close();
@@ -40,8 +42,23 @@ public class AnagramGenerator {
 		Set<String> keys = anagrams.keySet();
 		for(String key: keys)
 		{
-			if(str.contains(key))
+			StringBuilder sortedParam = new StringBuilder(str);
+			boolean sameChars = true;
+			for(int i = 0 ; i < key.length(); i++)
+			{
+				if(sortedParam.toString().contains(key.substring(i,i+1)))
+				{
+					sortedParam = sortedParam.deleteCharAt(sortedParam.indexOf(key.substring(i,i+1)));
+				}
+				else
+				{
+					sameChars = false;
+				}
+			}
+			if(sameChars)
+			{
 				result.addAll(anagrams.get(key));
+			}
 		}
 		return result;
 	}
