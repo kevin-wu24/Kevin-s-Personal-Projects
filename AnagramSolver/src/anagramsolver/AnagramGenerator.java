@@ -7,11 +7,17 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Set;
 
-public class AnagramGenerator {
-	//Generates anagrams with at least 3 letters
+public class AnagramGenerator 
+{
 	File words = new File("words_alpha.txt");
 	Hashtable<String, ArrayList<String>> anagrams = new Hashtable<String,ArrayList<String>>();
 	ArrayList<String> result = new ArrayList<String>();
+	
+	/**
+	 * Anagrams hash table will have an alphabetized String as key.
+	 * Each key's value is an list of all possible anagrams created from the key string.
+	 * @throws Exception
+	 */
 	public AnagramGenerator() throws Exception
 	{
 		String str = "";
@@ -36,9 +42,13 @@ public class AnagramGenerator {
         }
         br.close();
 	}
+	/**
+	 * @param str
+	 * @return a list of all possible anagrams that can be made using
+	 * the characters in the parameter String.
+	 */
 	public ArrayList<String> GetAnagrams(String str)
-	{
-		
+	{	
 		Set<String> keys = anagrams.keySet();
 		for(String key: keys)
 		{
@@ -62,21 +72,34 @@ public class AnagramGenerator {
 		}
 		return result;
 	}
+	/**
+	 * @return maximum Anagrams score possible for a given string
+	 */
 	public int getScore()
 	{
 		int ans = 0;
 		for(int i = 0; i < result.size(); i++)
 		{
 			if(result.get(i).length() == 3)
+			{
 				ans += 100;
+			}
 			else if(result.get(i).length() == 4)
+			{
 				ans += 400;
+			}
 			else if(result.get(i).length() == 5)
+			{
 				ans += 1200;
+			}
 			else if(result.get(i).length() == 6)
+			{
 				ans += 2000;
-			else if(result.get(i).length() == 7)
+			}
+			else
+			{
 				ans += 3000;
+			}
 		}
 		return ans;		
 	}
