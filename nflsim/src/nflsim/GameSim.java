@@ -478,7 +478,7 @@ public class GameSim {
                 {
                     for(int i = str.indexOf("data-stat=\"pass_yds_per_att\" >"); i<str.indexOf("data-stat=\"pass_yds_per_att\" >") + 34; i++)
                     {   
-                    c = c + 50;    
+                    	c = c + 50;    
                         if(Character.isDigit(str.charAt(i))||str.substring(i,i+1).equals(".") )
                             awayYPA = awayYPA + str.substring(i,i+1);
                     }
@@ -490,8 +490,8 @@ public class GameSim {
             {
                 for(int i = str.indexOf("data-stat=\"sacks\" >"); i<str.indexOf("data-stat=\"sacks\" >") + 21; i++)
                 {   
-                        if(Character.isDigit(str.charAt(i))||str.substring(i,i+1).equals(".") )
-                            awaySPG = awaySPG + str.substring(i,i+1);
+                	if(Character.isDigit(str.charAt(i))||str.substring(i,i+1).equals(".") )
+                		awaySPG = awaySPG + str.substring(i,i+1);
                 }
             }
         }
@@ -678,38 +678,6 @@ public class GameSim {
         System.out.println(game1.simGame(homeTeam, awayTeam, week));
         System.out.println("Shows possible game results.");
         System.out.println(game1.avgGameWithEstSpread(homeTeam, awayTeam, week));
-        System.out.println("Shows long run score over 1000 simulations and ideal spread for favorite.");
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-            
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        System.out.println("Shows long run score over 1000 simulations and ideal spread for favorite.");        
     }
 }

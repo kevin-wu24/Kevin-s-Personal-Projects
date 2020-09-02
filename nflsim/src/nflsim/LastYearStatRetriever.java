@@ -3,17 +3,12 @@ import java.io.*;
 import java.net.*;
 import javax.net.ssl.HttpsURLConnection;
 
-public class LastYearStatRetriever extends GameSim
+public class LastYearStatRetriever
 {
-	String subYear = "2019";
-	String teamurl = "";
-	public static void main(String[] args) throws Exception
-	{
-		LastYearStatRetriever s = new LastYearStatRetriever();
-		s.start();
-	}
+	static String subYear = "2019";
+	static String teamurl = "";
 	
-	public void start() throws Exception
+	public static void main(String[] args) throws Exception
 	{
 		GameSim game = new GameSim();
 		game.setYearAndInfo();

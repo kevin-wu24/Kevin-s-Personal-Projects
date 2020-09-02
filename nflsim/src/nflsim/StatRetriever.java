@@ -4,15 +4,10 @@ import java.net.*;
 import javax.net.ssl.HttpsURLConnection;
 
 
-public class StatRetriever extends GameSim
+public class StatRetriever
 {
-	public static void main(String[] args) throws Exception
-	{
-		StatRetriever s = new StatRetriever();
-		s.start();
-	}
 	
-	public void start() throws Exception
+	public static void main(String[] args) throws Exception
 	{
 		GameSim g = new GameSim();
 		g.setYearAndInfo();

@@ -35,15 +35,17 @@ public class Game {
     	awayLast = l.getPoints(awayName);
     	
     	if(WeekNum == 1)
-        {
-        	
+        {       	
         	return homeName + " " + Math.round(homeLast+3*Home.calcEffWinPct()+1.5) +"     " + awayName + " " + Math.round(awayLast);
         }
     	else if(WeekNum <= 4)
     	{
     		return homeName + " " + Math.round((1.0/(double)WeekNum)*homeLast+Math.log(WeekNum)/Math.log(4)*Home.calcPoints()+3*Home.calcEffWinPct()+1.5) + "     " + awayName + " " + Math.round((1.0/(double)WeekNum)*awayLast+Math.log(WeekNum)/Math.log(4)*Away.calcPoints());
     	}
-    	return homeName + " " + Math.round(Home.calcPoints()+3*Home.calcEffWinPct()+1.5) + "     " + awayName + " " + Math.round(Away.calcPoints());
+    	else
+    	{
+    		return homeName + " " + Math.round(Home.calcPoints()+3*Home.calcEffWinPct()+1.5) + "     " + awayName + " " + Math.round(Away.calcPoints());
+    	}
     }
     
     public String avgGameWithEstSpread(Team Home, Team Away, int WeekNum) throws Exception
