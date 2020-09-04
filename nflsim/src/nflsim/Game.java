@@ -28,18 +28,7 @@ public class Game {
 		homeLast = lastYearPoints.getPoints(homeName);
 		lastYearPoints.setPoints(awayName);
 		awayLast = lastYearPoints.getPoints(awayName);
-    	if(WeekNum == 1)
-        {    
-        	return homeName + " " + calcScore(Home, WeekNum, "home") +"     " + awayName + " " + calcScore(Away, WeekNum, "away");
-        }
-    	else if(WeekNum <= 4)
-    	{
-    		return homeName + " " + calcScore(Home, WeekNum, "home") + "     " + awayName + " " + calcScore(Away, WeekNum, "away");
-    	}
-    	else
-    	{
-    		return homeName + " " + calcScore(Home, WeekNum, "home") + "     " + awayName + " " + calcScore(Away, WeekNum, "away");
-    	}
+    	return homeName + " " + calcScore(Home, WeekNum, "home") + "     " + awayName + " " + calcScore(Away, WeekNum, "away");
     }
     
     public String avgGameWithEstSpread(Team Home, Team Away, int WeekNum) throws Exception
