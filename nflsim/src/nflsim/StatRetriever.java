@@ -6,11 +6,9 @@ import javax.net.ssl.HttpsURLConnection;
 
 public class StatRetriever
 {
-	
 	public static void main(String[] args) throws Exception
 	{
 		GameSim g = new GameSim();
-		g.setYearAndInfo();
         for(int i =0; i < 32; i++)
         {
         	URL url = new URL(g.TeamInfo[1][i]);
@@ -20,7 +18,7 @@ public class StatRetriever
             BufferedReader in = new BufferedReader(isr);
             String inputLine;
             
-            File file = new File(g.TeamInfo[0][i]+".txt"); //Your file
+            File file = new File(g.TeamInfo[0][i]+".txt");
             FileOutputStream fos = new FileOutputStream(file);
             PrintStream ps = new PrintStream(fos);
             System.setOut(ps);
@@ -41,7 +39,7 @@ public class StatRetriever
         BufferedReader in = new BufferedReader(isr);
         String inputLine;
         
-        File file = new File("TOP.txt"); //Your file
+        File file = new File("TOP.txt");
         FileOutputStream fos = new FileOutputStream(file);
         PrintStream ps = new PrintStream(fos);
         System.setOut(ps);
@@ -52,6 +50,6 @@ public class StatRetriever
           
         }    
         
-        in.close();
+        in.close();        
 	}
 }

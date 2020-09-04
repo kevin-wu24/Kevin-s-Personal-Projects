@@ -7,12 +7,14 @@ import java.util.Calendar;
 
 public class GameSim {
 	String year = "";
+	String previousYear = "";
 	int week = 1;
 	String[][] TeamInfo = new String[4][32];
 	
-	public void setYearAndInfo()
+	public GameSim()
 	{
-		year = "2019";
+		year = "" + (Calendar.getInstance().get(Calendar.YEAR)-1);
+		previousYear = year;
 		Calendar current = Calendar.getInstance();
 		Calendar week1 = Calendar.getInstance();
 		week1.set(2020, 9, 14);
@@ -37,7 +39,6 @@ public class GameSim {
 			 }
 			 
 		 }
-		
 	}
 	
 	public void simGame() throws Exception
@@ -66,8 +67,7 @@ public class GameSim {
         double HomeHistoryToWin = input.nextDouble();        
         System.out.println("Enter " + AwayName + " Matchup History Under Current Coach (Wins/Games):");
         double AwayHistoryToWin = input.nextDouble();
-
-        
+                
         File top = new File("TOP.txt");
         for(int i = 0; i < 32; i++)
         {

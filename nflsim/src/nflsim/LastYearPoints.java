@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.Hashtable;
 import java.util.Dictionary;
 
-public class LastYearPoints extends GameSim
+public class LastYearPoints
 {
 	String subYear = "2019";
 	String team = "";
@@ -24,7 +24,6 @@ public class LastYearPoints extends GameSim
 		dictionary.put("LAC", "LAC2019.txt");
 		
 		GameSim game = new GameSim();
-		game.setYearAndInfo();
 		for(int j = 0;j<32;j++)
 		{
 			if(game.TeamInfo[0][j].equals(TeamName))

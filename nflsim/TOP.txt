@@ -929,20 +929,14 @@
 				<li><a href="/mlb/schedules/" >Daily Schedule</a></li>
 				<li><a href="/mlb/schedules/season/" >Season Schedule</a></li>
                                 
-                                                                                          <li><a href="/mlb/matchup/giants-rockies-2020-09-02" >SF Giants @ Colorado</a></li>
-                                                              <li><a href="/mlb/matchup/mets-orioles-2020-09-02" >NY Mets @ Baltimore</a></li>
-                                                              <li><a href="/mlb/matchup/blue-jays-marlins-2020-09-02" >Toronto @ Miami</a></li>
-                                                              <li><a href="/mlb/matchup/cardinals-reds-2020-09-02" >St. Louis @ Cincinnati</a></li>
-                                                              <li><a href="/mlb/matchup/cubs-pirates-2020-09-02" >Chi Cubs @ Pittsburgh</a></li>
-                                                              <li><a href="/mlb/matchup/rays-yankees-2020-09-02" >Tampa Bay @ NY Yankees</a></li>
-                                                              <li><a href="/mlb/matchup/nationals-phillies-2020-09-02" >Washington @ Philadelphia</a></li>
-                                                              <li><a href="/mlb/matchup/braves-red-sox-2020-09-02" >Atlanta @ Boston</a></li>
-                                                              <li><a href="/mlb/matchup/tigers-brewers-2020-09-02" >Detroit @ Milwaukee</a></li>
-                                                              <li><a href="/mlb/matchup/indians-royals-2020-09-02" >Cleveland @ Kansas City</a></li>
-                                                              <li><a href="/mlb/matchup/rangers-astros-2020-09-02" >Texas @ Houston</a></li>
-                                                              <li><a href="/mlb/matchup/white-sox-twins-2020-09-02" >Chi Sox @ Minnesota</a></li>
-                                                              <li><a href="/mlb/matchup/padres-angels-2020-09-02" >San Diego @ LA Angels</a></li>
-                                                              <li><a href="/mlb/matchup/diamondbacks-dodgers-2020-09-02" >Arizona @ LA Dodgers</a></li>
+                                                                                          <li><a href="/mlb/matchup/cubs-pirates-2020-09-03" >Chi Cubs @ Pittsburgh</a></li>
+                                                              <li><a href="/mlb/matchup/rangers-astros-2020-09-03" >Texas @ Houston</a></li>
+                                                              <li><a href="/mlb/matchup/nationals-phillies-2020-09-03" >Washington @ Philadelphia</a></li>
+                                                              <li><a href="/mlb/matchup/yankees-mets-2020-09-03" >NY Yankees @ NY Mets</a></li>
+                                                              <li><a href="/mlb/matchup/padres-angels-2020-09-03" >San Diego @ LA Angels</a></li>
+                                                              <li><a href="/mlb/matchup/blue-jays-red-sox-2020-09-03" >Toronto @ Boston</a></li>
+                                                              <li><a href="/mlb/matchup/white-sox-royals-2020-09-03" >Chi Sox @ Kansas City</a></li>
+                                                              <li><a href="/mlb/matchup/diamondbacks-dodgers-2020-09-03" >Arizona @ LA Dodgers</a></li>
                                                           							</ul>
 		</li>
         <li><a href="#" class="expand-controller ">Rankings <svg class="icon"><use xlink:href="#icon-arrow-right2"></use></svg></a>
@@ -1028,8 +1022,8 @@
 				<li><a href="/nba/schedules/" >Daily Schedule</a></li>
 				<li><a href="/nba/schedules/season/" >Season Schedule</a></li>
                                 
-                                                                                          <li><a href="/nba/matchup/heat-bucks-2020-09-02" >Miami vs. Milwaukee</a></li>
-                                                              <li><a href="/nba/matchup/thunder-rockets-2020-08-30" >Okla City vs. Houston</a></li>
+                                                                                          <li><a href="/nba/matchup/raptors-celtics-2020-08-31" >Toronto vs. Boston</a></li>
+                                                              <li><a href="/nba/matchup/nuggets-clippers-2020-09-03" >Denver vs. LA Clippers</a></li>
                                                           			</ul>
 		</li>
         <li><a href="#" class="expand-controller ">Rankings <svg class="icon"><use xlink:href="#icon-arrow-right2"></use></svg></a>
@@ -1743,7 +1737,7 @@
 					<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 				</div>
 			<input type="hidden" name="team_id" value="" class="team-id-val">
-			<input type="hidden" name="formtime" value="1599061194" class="formtime-val">
+			<input type="hidden" name="formtime" value="1599183906" class="formtime-val">
 			<input type="hidden" name="user_id" value="" class="userid-val">
 			<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 				
@@ -1978,7 +1972,7 @@
 								<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 							</div>
 							<input type="hidden" name="team_id" value="" class="team-id-val">
-							<input type="hidden" name="formtime" value="1599061194" class="formtime-val">
+							<input type="hidden" name="formtime" value="1599183906" class="formtime-val">
 							<input type="hidden" name="user_id" value="" class="userid-val">
 							<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 						</div> <!-- desktop-bar-text-wrapper -->
@@ -2696,27 +2690,27 @@
         <h2 class="visuallyhidden">From the Blog</h2>
 <div class="sidebar-blog-posts">
 	  				<div class="post">
+				<a href="https://www.teamrankings.com/blog/nfl/nfl-preseason-predictions-2020-win-totals-projected-standings-super-bowl-odds" class="clearfix">
+					<div class="image"><img src="https://teamrankings-blog-images.s3.amazonaws.com/wordpress-uploads/prod/796202002020349_SBLIV-e1599070088174-300x180.jpg" alt=""></div>
+					<h3 class="post-title">NFL Preseason Predictions 2020: Win Totals, Projected Standings, Super Bowl Odds</h3>
+				</a>
+			</div> <!-- post -->
+					<div class="post">
+				<a href="https://www.teamrankings.com/blog/football/nfl-preseason-rankings-2020-tampa-bay-surges-chiefs-lead-the-way" class="clearfix">
+					<div class="image"><img src="https://teamrankings-blog-images.s3.amazonaws.com/wordpress-uploads/prod/357200902133_tb_tc-e1599069841567-300x180.jpg" alt=""></div>
+					<h3 class="post-title">NFL Preseason Rankings 2020: Tampa Bay Surges, Chiefs Lead the Way</h3>
+				</a>
+			</div> <!-- post -->
+					<div class="post">
+				<a href="https://www.teamrankings.com/blog/nfl/preseason-rankings-ratings-explanation" class="clearfix">
+					<div class="image"><img src="https://teamrankings-blog-images.s3.amazonaws.com/wordpress-uploads/prod/164121216186_GB_at_CHI-300x180.jpg" alt=""></div>
+					<h3 class="post-title">How TeamRankings Makes NFL Preseason Rankings</h3>
+				</a>
+			</div> <!-- post -->
+					<div class="post">
 				<a href="https://www.teamrankings.com/blog/college-football/college-football-preseason-predictions-2020-every-conference-and-team-playing-this-fall" class="clearfix">
 					<div class="image"><img src="https://teamrankings-blog-images.s3.amazonaws.com/wordpress-uploads/prod/DFH191228192278NDvsIS-e1598543645587-300x180.jpg" alt=""></div>
 					<h3 class="post-title">College Football Preseason Predictions 2020: Every Conference and Team Playing This Fall</h3>
-				</a>
-			</div> <!-- post -->
-					<div class="post">
-				<a href="https://www.teamrankings.com/blog/college-football/college-football-preseason-rankings-2020" class="clearfix">
-					<div class="image"><img src="https://teamrankings-blog-images.s3.amazonaws.com/wordpress-uploads/prod/DGQ191012153_ALA_at_TAMU-e1598537024312-300x180.jpg" alt=""></div>
-					<h3 class="post-title">College Football Preseason Rankings 2020: Clemson and Alabama Favorites Again</h3>
-				</a>
-			</div> <!-- post -->
-					<div class="post">
-				<a href="https://www.teamrankings.com/blog/college-football/preseason-rankings-ratings-explainer" class="clearfix">
-					<div class="image"><img src="https://teamrankings-blog-images.s3.amazonaws.com/wordpress-uploads/prod/UGA1-300x180.jpg" alt=""></div>
-					<h3 class="post-title">How TeamRankings Makes College Football Preseason Rankings</h3>
-				</a>
-			</div> <!-- post -->
-					<div class="post">
-				<a href="https://www.teamrankings.com/blog/site-updates/2020-football-guarantee-teamrankings-subscribers" class="clearfix">
-					<div class="image"><img src="https://teamrankings-blog-images.s3.amazonaws.com/wordpress-uploads/prod/DGQ191201056_NE_at_HOU-e1597960758299-300x180.jpg" alt=""></div>
-					<h3 class="post-title">The 2020 Football Guarantee For TeamRankings Subscribers</h3>
 				</a>
 			</div> <!-- post -->
 		</div> <!-- blog-posts -->

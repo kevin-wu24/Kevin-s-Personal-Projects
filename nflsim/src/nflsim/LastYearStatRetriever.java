@@ -10,10 +10,7 @@ public class LastYearStatRetriever
 	
 	public static void main(String[] args) throws Exception
 	{
-		GameSim game = new GameSim();
-		game.setYearAndInfo();
-
-		
+		GameSim game = new GameSim();		
         for(int i =0; i < 32; i++)
         {
         	teamurl = game.TeamInfo[1][i];
@@ -25,7 +22,7 @@ public class LastYearStatRetriever
             BufferedReader in = new BufferedReader(isr);
             String inputLine;
             
-            File file = new File(game.TeamInfo[0][i]+subYear+".txt"); //Your file
+            File file = new File(game.TeamInfo[0][i]+subYear+".txt");
             FileOutputStream fos = new FileOutputStream(file);
             PrintStream ps = new PrintStream(fos);
             System.setOut(ps);
@@ -46,7 +43,7 @@ public class LastYearStatRetriever
         BufferedReader in = new BufferedReader(isr);
         String inputLine;
         
-        File file = new File("TOP"+subYear+".txt"); //Your file
+        File file = new File("TOP"+subYear+".txt");
         FileOutputStream fos = new FileOutputStream(file);
         PrintStream ps = new PrintStream(fos);
         System.setOut(ps);

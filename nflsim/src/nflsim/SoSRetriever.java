@@ -2,7 +2,7 @@ package nflsim;
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-public class SoSRetriever extends GameSim
+public class SoSRetriever
 {
 	double[][] SOS = new double[3][32];
 	String[][] teams = new String[4][32];
@@ -12,13 +12,11 @@ public class SoSRetriever extends GameSim
 		SoSRetriever sos = new SoSRetriever();
 		sos.setSOSInfo();
 		sos.calcSOS();
-
 	}
 	
 	public void setSOSInfo()
 	{
 		GameSim g = new GameSim();
-		g.setYearAndInfo();
 		for(int i=0; i<4;i++)
 		{
 			for(int j=0;j<32;j++)
@@ -28,12 +26,15 @@ public class SoSRetriever extends GameSim
 					teams[i][j] = g.TeamInfo[i][j];
 					teams[i][j].replaceAll("NY ", "New York ");
 				}
-				if(g.TeamInfo[i][j].contains("LA "))
+				else if(g.TeamInfo[i][j].contains("LA "))
 				{
 					teams[i][j] = g.TeamInfo[i][j];
 					teams[i][j].replaceAll("LA ", "Los Angeles ");
 				}
-				teams[i][j] = g.TeamInfo[i][j];
+				else
+				{
+					teams[i][j] = g.TeamInfo[i][j];
+				}
 			}
 		}
 	}
@@ -42,7 +43,6 @@ public class SoSRetriever extends GameSim
 	{
 		
 		GameSim g = new GameSim();
-		g.setYearAndInfo();
 		for(int i = 0; i < 32;i++)
 		{
 			teams[1][i].replaceAll(g.year, y);
@@ -83,8 +83,7 @@ public class SoSRetriever extends GameSim
 	        	}
 	        }
 	        SOS[0][j] = Double.parseDouble(gameswon);
-	        SOS[1][j] = Double.parseDouble(gameswon)+Double.parseDouble(gameslost)+Double.parseDouble(gamestied);
-	        
+	        SOS[1][j] = Double.parseDouble(gameswon)+Double.parseDouble(gameslost)+Double.parseDouble(gamestied);	        
 		}
 		
 		for(int i = 0; i < 32; i++)
@@ -116,7 +115,9 @@ public class SoSRetriever extends GameSim
 		for(int i = 0; i <32; i ++)
 		{
 			if(teams[0][i].equals(TeamName))
+			{
 				return SOS[2][i];
+			}
 		}
 		return 0.0;
 	}

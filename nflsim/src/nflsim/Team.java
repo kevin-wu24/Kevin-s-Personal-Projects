@@ -24,12 +24,12 @@ private double WinPct, HistoryToWin, PointDiff, PPDrive, StrengthOSched, TimeOPo
         TimeOPoss = Top;
         TimePDrive = Tpd;
     }
-    //+ indicates QB advantage for your team, - indicates QB advantage for other team
+
     public void QBFactor(QB a)
     {
        QB = a.calcQBIndex();
     }
-    // same as QBSway but with coaching matchups
+    
     public void CoachFactor(Coach a)
     {
         Coach = a.calcCoachIndex();
@@ -48,7 +48,6 @@ private double WinPct, HistoryToWin, PointDiff, PPDrive, StrengthOSched, TimeOPo
     
     public double calcPoints()
     {
-        // put your code here
         double temp = 0;
         temp = calcEffWinPct()*PointDiff*1.1 + (HistoryToWin + QB + Coach)+((Math.random()*(TimeOPoss/TimePDrive))*PPDrive+PointDiff*0.1);
         if(temp > 30)
@@ -58,15 +57,13 @@ private double WinPct, HistoryToWin, PointDiff, PPDrive, StrengthOSched, TimeOPo
         return temp; 
     }
     
-       
     public double calcAvgPoints()
     {
-        double avg = 0;
-        for(int i = 0; i < 1000; i++)
-        {
-            avg+=calcPoints();
-        }
-        return avg/1000;
-        
+    	int sum = 0;
+    	for(int i = 0; i < 1000; i++)
+    	{
+    		sum+= calcPoints();
+    	}
+    	return sum/1000;
     }
 }
