@@ -5,7 +5,7 @@ import java.io.FileReader;
 public class SoSRetriever
 {
 	double[][] SOS = new double[3][32];
-	String[][] teams = new String[4][32];
+	String[][] teams = new String[5][32];
 	
 	public static void main(String[] args) throws Exception
 	{
@@ -17,7 +17,7 @@ public class SoSRetriever
 	public void setSOSInfo()
 	{
 		GameSim g = new GameSim();
-		for(int i=0; i<4;i++)
+		for(int i=0; i<5;i++)
 		{
 			for(int j=0;j<32;j++)
 			{
@@ -98,7 +98,7 @@ public class SoSRetriever
 	        	{
 	        		for(int j = 0; j < 32; j++)
 	        		{
-	        			if(str.contains(teams[2][j]))
+	        			if(str.contains(teams[4][j]) || (str.contains(teams[2][j])))
 	        			{
 	        				totalWins+= SOS[0][j];
 	        				totalGames+= SOS[1][j];
@@ -122,4 +122,27 @@ public class SoSRetriever
 		return 0.0;
 	}
 	
+	public double getGamesWon(String TeamName)
+	{
+		for(int i = 0; i <32; i ++)
+		{
+			if(teams[0][i].equals(TeamName))
+			{
+				return SOS[0][i];
+			}
+		}
+		return 0.0;
+	}
+	
+	public double getTotalGamesPlayed(String TeamName)
+	{
+		for(int i = 0; i <32; i ++)
+		{
+			if(teams[0][i].equals(TeamName))
+			{
+				return SOS[1][i];
+			}
+		}
+		return 0.0;
+	}
 }

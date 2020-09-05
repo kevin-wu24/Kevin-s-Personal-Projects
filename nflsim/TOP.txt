@@ -859,12 +859,12 @@
 	        <ul class="nav-list hidden">
 				<li><a href="/ncf/schedules/season/" >Season Schedule</a></li>
                                 
-                                                                                          <li><a href="/college-football/matchup/jaguars-golden-eagles-week-1-2020" >S Alabama @ S Mississippi</a></li>
-                                                              <li><a href="/college-football/matchup/blue-raiders-black-knights-week-1-2020" >Middle Tenn @ Army</a></li>
+                                                                                          <li><a href="/college-football/matchup/blue-raiders-black-knights-week-1-2020" >Middle Tenn @ Army</a></li>
                                                               <li><a href="/college-football/matchup/mustangs-bobcats-week-1-2020" >S Methodist @ Texas State</a></li>
                                                               <li><a href="/college-football/matchup/red-wolves-tigers-week-1-2020" >Arkansas St @ Memphis</a></li>
                                                               <li><a href="/college-football/matchup/cougars-midshipmen-week-1-2020" >BYU @ Navy</a></li>
                                                               <li><a href="/college-football/matchup/warhawks-trojans-week-1-2020" >LA Monroe @ Troy</a></li>
+                                                              <li><a href="/college-football/matchup/jaguars-golden-eagles-week-1-2020" >S Alabama @ S Mississippi</a></li>
                                                           				<li><a href="/ncf/schedules/season/">More...</a></li>
 			</ul>
 		</li>
@@ -929,14 +929,23 @@
 				<li><a href="/mlb/schedules/" >Daily Schedule</a></li>
 				<li><a href="/mlb/schedules/season/" >Season Schedule</a></li>
                                 
-                                                                                          <li><a href="/mlb/matchup/cubs-pirates-2020-09-03" >Chi Cubs @ Pittsburgh</a></li>
-                                                              <li><a href="/mlb/matchup/rangers-astros-2020-09-03" >Texas @ Houston</a></li>
-                                                              <li><a href="/mlb/matchup/nationals-phillies-2020-09-03" >Washington @ Philadelphia</a></li>
-                                                              <li><a href="/mlb/matchup/yankees-mets-2020-09-03" >NY Yankees @ NY Mets</a></li>
-                                                              <li><a href="/mlb/matchup/padres-angels-2020-09-03" >San Diego @ LA Angels</a></li>
-                                                              <li><a href="/mlb/matchup/blue-jays-red-sox-2020-09-03" >Toronto @ Boston</a></li>
-                                                              <li><a href="/mlb/matchup/white-sox-royals-2020-09-03" >Chi Sox @ Kansas City</a></li>
-                                                              <li><a href="/mlb/matchup/diamondbacks-dodgers-2020-09-03" >Arizona @ LA Dodgers</a></li>
+                                                                                          <li><a href="/mlb/matchup/padres-athletics-2020-09-05" >San Diego @ Oakland</a></li>
+                                                              <li><a href="/mlb/matchup/cardinals-cubs-2020-09-05" >St. Louis @ Chi Cubs</a></li>
+                                                              <li><a href="/mlb/matchup/marlins-rays-2020-09-05" >Miami @ Tampa Bay</a></li>
+                                                              <li><a href="/mlb/matchup/reds-pirates-2020-09-05" >Cincinnati @ Pittsburgh</a></li>
+                                                              <li><a href="/mlb/matchup/white-sox-royals-2020-09-05" >Chi Sox @ Kansas City</a></li>
+                                                              <li><a href="/mlb/matchup/astros-angels-2020-09-05" >Houston @ LA Angels</a></li>
+                                                              <li><a href="/mlb/matchup/brewers-indians-2020-09-05" >Milwaukee @ Cleveland</a></li>
+                                                              <li><a href="/mlb/matchup/nationals-braves-2020-09-05" >Washington @ Atlanta</a></li>
+                                                              <li><a href="/mlb/matchup/tigers-twins-2020-09-05" >Detroit @ Minnesota</a></li>
+                                                              <li><a href="/mlb/matchup/phillies-mets-2020-09-05" >Philadelphia @ NY Mets</a></li>
+                                                              <li><a href="/mlb/matchup/blue-jays-red-sox-2020-09-05" >Toronto @ Boston</a></li>
+                                                              <li><a href="/mlb/matchup/yankees-orioles-2020-09-05" >NY Yankees @ Baltimore</a></li>
+                                                              <li><a href="/mlb/matchup/cubs-cardinals-2020-09-05" >Chi Cubs vs. St. Louis</a></li>
+                                                              <li><a href="/mlb/matchup/rangers-mariners-2020-09-05" >Texas @ Seattle</a></li>
+                                                              <li><a href="/mlb/matchup/rockies-dodgers-2020-09-05" >Colorado @ LA Dodgers</a></li>
+                                                              <li><a href="/mlb/matchup/diamondbacks-giants-2020-09-05" >Arizona @ SF Giants</a></li>
+                                                              <li><a href="/mlb/matchup/angels-astros-2020-08-26" >LA Angels vs. Houston</a></li>
                                                           							</ul>
 		</li>
         <li><a href="#" class="expand-controller ">Rankings <svg class="icon"><use xlink:href="#icon-arrow-right2"></use></svg></a>
@@ -1022,8 +1031,8 @@
 				<li><a href="/nba/schedules/" >Daily Schedule</a></li>
 				<li><a href="/nba/schedules/season/" >Season Schedule</a></li>
                                 
-                                                                                          <li><a href="/nba/matchup/raptors-celtics-2020-08-31" >Toronto vs. Boston</a></li>
-                                                              <li><a href="/nba/matchup/nuggets-clippers-2020-09-03" >Denver vs. LA Clippers</a></li>
+                                                                                          <li><a href="/nba/matchup/raptors-celtics-2020-09-02" >Toronto vs. Boston</a></li>
+                                                              <li><a href="/nba/matchup/nuggets-clippers-2020-09-05" >Denver vs. LA Clippers</a></li>
                                                           			</ul>
 		</li>
         <li><a href="#" class="expand-controller ">Rankings <svg class="icon"><use xlink:href="#icon-arrow-right2"></use></svg></a>
@@ -1589,75 +1598,21 @@
 		
 		<div class="content-wrapper clearfix">
 									
-										
-			<style>
-				.banner-promo-sportsbooks {display:flex;justify-content: space-between; align-items: center;background: #fff;padding:1.5em;}
-				.banner-promo-sportsbooks .headline {font-size: 2em; font-weight: bold;}
-				.banner-promo-sportsbooks .subhead {font-size: 1.125em;}
-				.state-units-wrapper {width: 60%;display: grid;grid-template-columns: repeat(4, 1fr);grid-gap:20px;}
-				.state {border: 1px solid #ccc;text-align: center;}
-				.state a {display: block;padding: 1em .5em;height: 100%;}
-				.state a:hover, .state a:active, .state a:focus {text-decoration: none; box-shadow: 0 0 10px rgba(33, 113, 205, .5);}
-				.state a:hover p, .state a:active p, .state a:focus p {text-decoration: underline;}
-				.state .icon {width: 50px; height: 50px;fill: #333;margin-bottom: 10px;}
-				.state p {font-weight: bold;margin: 0;font-size: 1.125em;}
-				
-				.mobile-promo-sportsbooks {background: #333; color: #fff;padding: 1em 0;text-align: center;}
-				.mobile-promo-sportsbooks .headline {font-weight: bold;font-size: 1.75em;margin:0;}
-				.mobile-promo-sportsbooks .subhead {font-size: 1.125em;}
-			</style>
-		
-		
-		<div class="top-banner-google-ad mobile-only">
-			<div class="mobile-promo-sportsbooks">
-				<div class="headline">USA Sportsbooks</div>
-				<div class="subhead">Legal. Online. Bet now!</div>
-				<p class="space-bottom-none"><a href="https://betiq.teamrankings.com/online-sports-betting/" class="btn btn-blue btn-short">See offers for your state</a></p>
-			</div>
-		</div> <!-- top-banner-google-ad -->
-		
-		<div class="top-banner-google-ad desktop-only">
-			<div class="banner-promo-sportsbooks">
-				<div class="text-block">
-					<div class="headline">Legal USA Sports Betting</div>
-					<div class="subhead">See top online sportsbooks and signup offers.</div>
-				</div>
-				<div class="state-units-wrapper">
-					<div class="state">
-						<a href="https://betiq.teamrankings.com/online-sports-betting/new-jersey-sportsbooks/">
-							<div class="state-content">			
-								<svg class="icon icon-state-solid-nj"><use xlink:href="#icon-state-solid-nj"></use></svg>
-								<p>New Jersey</p>
-							</div>
-						</a>
-					</div>
-				
-					<div class="state">
-						<a href="https://betiq.teamrankings.com/online-sports-betting/indiana-sportsbooks/">
-							<div class="state-content">
-								<svg class="icon icon-state-solid-in"><use xlink:href="#icon-state-solid-in"></use></svg>
-								<p>Indiana</p>
-							</div>
-						</a>
-					</div>
-					<div class="state">
-						<a href="https://betiq.teamrankings.com/online-sports-betting/west-virginia-sportsbooks/">
-							<div class="state-content">
-								<svg class="icon icon-state-solid-wv"><use xlink:href="#icon-state-solid-wv"></use></svg>
-								<p>West Virginia</p>
-							</div>
-						</a>
-					</div>
-					<div class="state">
-						<a href="https://betiq.teamrankings.com/online-sports-betting/">
-							<div class="state-content">
-								<svg class="icon icon-state-solid-us"><use xlink:href="#icon-state-solid-us"></use></svg>
-								<p>All states</p>
-							</div>
-						</a>
-					</div>
-				</div> <!-- state-units-wrapper -->
-			</div> <!-- banner-promo-sportsbooks -->
+										<div class="top-banner-google-ad">
+			<div class="google-ad responsive-ad ">
+									
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<!-- Responsive banner - top of page -->
+					<ins class="adsbygoogle"
+					     style="display:block"
+					     data-ad-client="ca-pub-6173524996008316"
+					     data-ad-slot="6818605789"
+					     data-ad-format="auto"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+					
+							</div> <!-- google-ad -->
 		</div> <!-- top-banner-google-ad -->
 				
 			<div class="mobile-only">
@@ -1737,7 +1692,7 @@
 					<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 				</div>
 			<input type="hidden" name="team_id" value="" class="team-id-val">
-			<input type="hidden" name="formtime" value="1599183906" class="formtime-val">
+			<input type="hidden" name="formtime" value="1599339065" class="formtime-val">
 			<input type="hidden" name="user_id" value="" class="userid-val">
 			<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 				
@@ -1972,7 +1927,7 @@
 								<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 							</div>
 							<input type="hidden" name="team_id" value="" class="team-id-val">
-							<input type="hidden" name="formtime" value="1599183906" class="formtime-val">
+							<input type="hidden" name="formtime" value="1599339065" class="formtime-val">
 							<input type="hidden" name="user_id" value="" class="userid-val">
 							<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 						</div> <!-- desktop-bar-text-wrapper -->
@@ -2958,6 +2913,10 @@
 
 
 	
+	
+		
+		<script type="text/javascript" src="https://a.omappapi.com/app/js/api.min.js" data-campaign="tgeuy41reiibtvtczgus" data-user="13994" async></script>
+		
 
 
 
