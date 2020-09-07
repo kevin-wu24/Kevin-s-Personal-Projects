@@ -43,7 +43,7 @@ public class AnagramGenerator
         br.close();
 	}
 	/**
-	 * @param str
+	 * @param str: a sorted string
 	 * @return a list of all possible anagrams that can be made using
 	 * the characters in the parameter String.
 	 */
