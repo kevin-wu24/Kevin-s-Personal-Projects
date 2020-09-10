@@ -29,12 +29,12 @@ public class GameSim {
                   "https://www.pro-football-reference.com/teams/rav/"+year+".htm","https://www.pro-football-reference.com/teams/pit/"+year+".htm","https://www.pro-football-reference.com/teams/cle/"+year+".htm","https://www.pro-football-reference.com/teams/cin/"+year+".htm","https://www.pro-football-reference.com/teams/htx/"+year+".htm","https://www.pro-football-reference.com/teams/clt/"+year+".htm","https://www.pro-football-reference.com/teams/jax/"+year+".htm","https://www.pro-football-reference.com/teams/oti/"+year+".htm",
                   "https://www.pro-football-reference.com/teams/dal/"+year+".htm","https://www.pro-football-reference.com/teams/phi/"+year+".htm","https://www.pro-football-reference.com/teams/nyg/"+year+".htm","https://www.pro-football-reference.com/teams/was/"+year+".htm","https://www.pro-football-reference.com/teams/sfo/"+year+".htm","https://www.pro-football-reference.com/teams/sea/"+year+".htm","https://www.pro-football-reference.com/teams/ram/"+year+".htm","https://www.pro-football-reference.com/teams/crd/"+year+".htm",
                   "https://www.pro-football-reference.com/teams/gnb/"+year+".htm","https://www.pro-football-reference.com/teams/min/"+year+".htm","https://www.pro-football-reference.com/teams/det/"+year+".htm","https://www.pro-football-reference.com/teams/chi/"+year+".htm","https://www.pro-football-reference.com/teams/nor/"+year+".htm","https://www.pro-football-reference.com/teams/car/"+year+".htm","https://www.pro-football-reference.com/teams/tam/"+year+".htm","https://www.pro-football-reference.com/teams/atl/"+year+".htm"},
-                 {"New England", "Buffalo", "Miami", "NY Jets", "Kansas City", "Las Vegas", "LA Chargers", "Denver", "Baltimore", "Pittsburgh", "Cleveland", "Cincinnati", "Houston", "Indianapolis", "Jacksonville", "Tennessee", "Dallas", "Philadelphia", "NY Giants", "Washington", "San Francisco", "Seattle", "LA Rams", "Arizona", "Green Bay", "Minnesota","Detroit", "Chiacago", "New Orleans", "Carolina", "Tampa Bay", "Atlanta"},
-                 {"Cam Newton", "Josh Allen", "Tua Tagovailoa", "Sam Darnold", "Patrick Mahomes", "Derek Carr", "Justin Herbert", "Drew Lock", "Lamar Jackson", "Ben Roethlisberger", "Baker Mayfield", "Joe Burrow", "Deshaun Watson", "Philip Rivers", "Garder Minshew", "Ryan Tannehill", "Dak Prescott", "Carson Wentz", "Daniel Jones", "Dwayne Haskins", "Jimmy Garoppolo", "Russel Wilson", "Jared Goff", "Kyler Murray", "Aaron Rodgers", "Kirk Cousins", "Matthew Stafford","Mitchell Trubisky", "Drew Brees","Teddy Bridgewater","Tom Brady","Matt Ryan"},
+                 {"New England", "Buffalo", "Miami", "NY Jets", "Kansas City", "Las Vegas", "LA Chargers", "Denver", "Baltimore", "Pittsburgh", "Cleveland", "Cincinnati", "Houston", "Indianapolis", "Jacksonville", "Tennessee", "Dallas", "Philadelphia", "NY Giants", "Washington", "San Francisco", "Seattle", "LA Rams", "Arizona", "Green Bay", "Minnesota","Detroit", "Chicago", "New Orleans", "Carolina", "Tampa Bay", "Atlanta"},
+                 {"Cam Newton", "Josh Allen", "Ryan Fitzpatrick", "Sam Darnold", "Patrick Mahomes", "Derek Carr", "Tyrod Taylor", "Drew Lock", "Lamar Jackson", "Ben Roethlisberger", "Baker Mayfield", "Joe Burrow", "Deshaun Watson", "Philip Rivers", "Garder Minshew", "Ryan Tannehill", "Dak Prescott", "Carson Wentz", "Daniel Jones", "Dwayne Haskins", "Jimmy Garoppolo", "Russel Wilson", "Jared Goff", "Kyler Murray", "Aaron Rodgers", "Kirk Cousins", "Matthew Stafford","Mitchell Trubisky", "Drew Brees","Teddy Bridgewater","Tom Brady","Matt Ryan"},
                  {"Patriots", "Bills", "Dolphins", "Jets", "Chiefs", "Raiders", "Chargers", "Broncos", "Ravens", "Steelers", "Browns", "Bengals", "Texans", "Colts", "Jaguars", "Titans", "Cowboys", "Eagles", "Giants", "Football Team", "49ers", "Seahawks", "Rams", "Cardinals", "Packers", "Vikings", "Lions", "Bears", "Saints", "Panthers", "Buccaneers", "Falcons"}};
-		 for(int i = 0; i < 5; i ++)
+		 for(int i = 0; i < TeamInfo.length; i ++)
 		 {
-			 for(int j = 0; j<32; j++)
+			 for(int j = 0; j<TeamInfo[0].length; j++)
 			 {
 				 TeamInfo[i][j] = teams[i][j];
 			 }
@@ -44,17 +44,17 @@ public class GameSim {
 	
 	public void simGame() throws Exception
     {
-        String HomeName1 = "";
-        String AwayName1 = "";
+        String HomeNameLonger = "";
+        String AwayNameLonger = "";
         Scanner input = new Scanner(System.in);
         System.out.println("Enter Home Team Name:");
         String HomeName = input.nextLine();
         System.out.println("Enter Away Team Name:");
         String AwayName = input.nextLine();
         System.out.println("Enter " + HomeName + " QB Name:");
-        String HomeQB = input.nextLine();
+        String HomeQBName = input.nextLine();
         System.out.println("Enter " + AwayName + " QB Name:");
-        String AwayQB = input.nextLine();
+        String AwayQBName = input.nextLine();
         
         System.out.println("Enter Vegas Opening Line ML (- number for favored team):");
         double OpeningML = input.nextDouble();
@@ -74,11 +74,11 @@ public class GameSim {
         {
         	if(HomeName.equals(TeamInfo[0][i]))
         	{
-        		HomeName1 = TeamInfo[2][i];
+        		HomeNameLonger = TeamInfo[2][i];
         	}
         	if(AwayName.equals(TeamInfo[0][i]))
         	{
-        		AwayName1 = TeamInfo[2][i];
+        		AwayNameLonger = TeamInfo[2][i];
         	}
         }
         SoSRetriever sos = new SoSRetriever();
@@ -91,21 +91,23 @@ public class GameSim {
         double AwayGamesWon = sos.getGamesWon(AwayName);
         double AwayGamesPlayed = sos.getTotalGamesPlayed(AwayName);
            
-        QB homeQB = createQB(HomeName, HomeQB, HomeGamesPlayed);
-        QB awayQB = createQB(AwayName, AwayQB, AwayGamesPlayed);
+        QB homeQB = createQB(HomeName, HomeQBName, HomeGamesPlayed);
+        QB awayQB = createQB(AwayName, AwayQBName, AwayGamesPlayed);
         
         Coach homeCoach = createCoach(HomeName, HomeGamesPlayed);
         Coach awayCoach = createCoach(AwayName, AwayGamesPlayed);
         
-        Team homeTeam = createTeam(HomeName, HomeName1, HomeGamesPlayed, HomeGamesWon, HomeSOS, HomeHistoryToWin, "TOP.txt");
+        Team homeTeam = createTeam(HomeName, HomeNameLonger, HomeGamesPlayed, HomeGamesWon, HomeSOS, HomeHistoryToWin, "TOP.txt");
         homeTeam.QBFactor(homeQB);
         homeTeam.CoachFactor(homeCoach);
-        Team awayTeam = createTeam(AwayName, AwayName1, AwayGamesPlayed, AwayGamesWon, AwaySOS, AwayHistoryToWin, "TOP.txt");
+        Team awayTeam = createTeam(AwayName, AwayNameLonger, AwayGamesPlayed, AwayGamesWon, AwaySOS, AwayHistoryToWin, "TOP.txt");
         awayTeam.QBFactor(awayQB);
         awayTeam.CoachFactor(awayCoach);
         
         Game game1 = new Game();
         game1.setNames(HomeName, AwayName);
+        System.out.println(HomeName + " QB: " + HomeQBName);
+        System.out.println(AwayName + " QB: " + AwayQBName);
         System.out.println("Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread");
         System.out.println(game1.EstProbChanceWinning(OpeningML, OpeningSpread));
         System.out.println(game1.simGame(homeTeam, awayTeam, week));
@@ -372,9 +374,8 @@ public class GameSim {
                          {    
                              TimeOfPossessionStr = TimeOfPossessionStr + str.substring(i,i+1);
                          }
-                         
-                         d++;
                      } 
+                     d++;
                  }
                  
                  while(e < 2)
@@ -386,8 +387,8 @@ public class GameSim {
                              TimeSeconds = TimeSeconds + str.substring(i,i+1);
                          } 
                         
-                         e++;
                      } 
+                     e++;
                  }
                  double secs = Double.parseDouble(TimeSeconds.toString())/60.0;
                  String homeSec = Double.toString(secs);
@@ -411,7 +412,7 @@ public class GameSim {
         {
         	TimePerDrive = 1 + (TimePerDrive-1)*100/60;
         }
-        double TimeOfPossession = Double.parseDouble(TimeOfPossessionStr.toString());
+        double TimeOfPossession = Double.parseDouble(TimeOfPossessionStr.toString());    
         thisTeam.setStats(WinPercentage, HistoryToWin, PointDifferential, PointsPerDrive, StrengthOfSchedule, TimeOfPossession, TimePerDrive);
 		return thisTeam;
 	}
