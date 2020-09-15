@@ -5,7 +5,6 @@ import javax.net.ssl.HttpsURLConnection;
 
 public class LastYearStatRetriever
 {
-	static String subYear = "2019";
 	static String teamurl = "";
 	
 	public static void main(String[] args) throws Exception
@@ -13,8 +12,7 @@ public class LastYearStatRetriever
 		GameSim game = new GameSim();		
         for(int i =0; i < 32; i++)
         {
-        	teamurl = game.TeamInfo[1][i];
-			teamurl.replaceAll(game.year, subYear);
+        	teamurl = game.TeamInfo[1][i].replaceAll(game.year, game.previousYear);
         	URL url = new URL(teamurl);
             HttpsURLConnection con = (HttpsURLConnection)url.openConnection();
             InputStream uin = con.getInputStream();
@@ -22,7 +20,7 @@ public class LastYearStatRetriever
             BufferedReader in = new BufferedReader(isr);
             String inputLine;
             
-            File file = new File(game.TeamInfo[0][i]+subYear+".txt");
+            File file = new File(game.TeamInfo[0][i]+game.previousYear+".txt");
             FileOutputStream fos = new FileOutputStream(file);
             PrintStream ps = new PrintStream(fos);
             System.setOut(ps);
@@ -43,7 +41,7 @@ public class LastYearStatRetriever
         BufferedReader in = new BufferedReader(isr);
         String inputLine;
         
-        File file = new File("TOP"+subYear+".txt");
+        File file = new File("TOP"+game.previousYear+".txt");
         FileOutputStream fos = new FileOutputStream(file);
         PrintStream ps = new PrintStream(fos);
         System.setOut(ps);

@@ -50,7 +50,7 @@ loadJS( _sr_modern_url, function() { vjs_ready(sr_fire_js); });
 
 
 
-    <meta name="revised" content="15:57:37 10-Sep-2020" />
+    <meta name="revised" content="19:36:31 10-Sep-2020" />
     <meta name="HandheldFriendly" content="True" />
     <meta name="HandheldFriendly" content="True" />
     <meta name="generated-by"     content="build_team_pages.pl" />
@@ -162,7 +162,7 @@ loadJS( _sr_modern_url, function() { vjs_ready(sr_fire_js); });
 	
 	
 	
-	<li><a href="https://fbref.com/it/">Calcio</a></li>
+	<li><a href="https://fbref.com/de/">Fu�ball</a></li>
 
 	<li><a href="https://www.sports-reference.com/blog/">Blog</a></li>
 
@@ -1579,7 +1579,7 @@ sr_menus_setupMainNav_button_inline();
 			
 				    <ul>
 	<li><a href="/players">Players</a>
-	    <div>In the News: <a title="Leonard Fournette" href="/players/F/FourLe00.htm">Leonard Fournette</a>, <a title="Tom Brady" href="/players/B/BradTo00.htm">Tom Brady</a>, <a title="Patrick Mahomes" href="/players/M/MahoPa00.htm">Patrick Mahomes</a>, <a title="Deshaun Watson" href="/players/W/WatsDe00.htm">Deshaun Watson</a>, <a title="Jimmy Garoppolo" href="/players/G/GaroJi00.htm">Jimmy Garoppolo</a>, <a title="Yannick Ngakoue" href="/players/N/NgakYa00.htm">Yannick Ngakoue</a> <a href="/players/">...</a></div>
+	    <div>In the News: <a title="Tom Brady" href="/players/B/BradTo00.htm">Tom Brady</a>, <a title="Leonard Fournette" href="/players/F/FourLe00.htm">Leonard Fournette</a>, <a title="Patrick Mahomes" href="/players/M/MahoPa00.htm">Patrick Mahomes</a>, <a title="Deshaun Watson" href="/players/W/WatsDe00.htm">Deshaun Watson</a>, <a title="Jimmy Garoppolo" href="/players/G/GaroJi00.htm">Jimmy Garoppolo</a>, <a title="Lamar Jackson" href="/players/J/JackLa00.htm">Lamar Jackson</a> <a href="/players/">...</a></div>
 	<div>Popular: <a title="Tom Brady" href="/players/B/BradTo00.htm">Tom Brady</a>, <a title="Cam Newton" href="/players/N/NewtCa00.htm">Cam Newton</a>, <a title="Aaron Donald" href="/players/D/DonaAa00.htm">Aaron Donald</a>, <a title="Russell Wilson" href="/players/W/WilsRu00.htm">Russell Wilson</a>, <a title="Aaron Rodgers" href="/players/R/RodgAa00.htm">Aaron Rodgers</a>, <a title="Odell Beckham" href="/players/B/BeckOd00.htm">Odell Beckham Jr.</a>, <a title="J.J. Watt" href="/players/W/WattJ.00.htm">J.J. Watt</a>, <a title="Peyton Manning" href="/players/M/MannPe00.htm">Peyton Manning</a>, <a title="Patrick Mahomes" href="/players/M/MahoPa00.htm">Patrick Mahomes</a>, <a title="Julio Jones" href="/players/J/JoneJu02.htm">Julio Jones</a>, <a title="Antonio Brown" href="/players/B/BrowAn04.htm">Antonio Brown</a>, <a title="Ben Roethlisberger" href="/players/R/RoetBe00.htm">Ben Roethlisberger</a>, <a title="Drew Brees" href="/players/B/BreeDr00.htm">Drew Brees</a>, <a title="Todd Gurley" href="/players/G/GurlTo01.htm">Todd Gurley</a> <a href="/players/">...</a></div>
 
 	<div><a href="/hof/">Hall of Famers</a>, <a href="/probowl/">Pro Bowlers</a>, <a href="/awards/ap-nfl-mvp-award.htm">MVPs</a>, <a href="/friv/linkify.cgi">Player Linker Tool</a> ...</div>
@@ -1680,7 +1680,7 @@ sr_menus_setupMainNav_button_inline();
 	<a href="https://www.paypal.me/sportsref" data-tip="Send us money via PayPal" data-label="PayPal" class="poptip"><svg class="icon paypal"><use xlink:href="#ic-paypal"></use></svg></a>
 
 <p>Every <a href="https://www.sports-reference.com/blog/sports-reference-social-media/">Sports Reference Social Media Account</a></p>
-<p><strong>Site Last Updated:</strong> Thursday, September 10,  8:23AM
+<p><strong>Site Last Updated:</strong> Monday, September 14,  9:21AM
 </p>
 <p><a href="https://www.sports-reference.com/feedback/" class="button alt">Question, Comment, Feedback, or Correction?</a></p>
 

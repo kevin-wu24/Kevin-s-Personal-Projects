@@ -41,7 +41,7 @@ public class Game {
     {
     	if(str.equals("home"))
     	{
-        	if(WeekNum <= 4)
+        	if(WeekNum < 4)
         	{
         		if(WeekNum == 1)
         		{
@@ -59,7 +59,7 @@ public class Game {
     	}
     	else if(str.equals("away"))
     	{
-    		if(WeekNum <= 4)
+    		if(WeekNum < 4)
         	{
         		if(WeekNum == 1)
         		{

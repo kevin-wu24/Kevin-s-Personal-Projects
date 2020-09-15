@@ -3,44 +3,19 @@ import java.io.File;
 import java.util.Scanner;
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.util.Calendar;
 
 public class GameSim {
-	String year = "";
-	String previousYear = "";
+	String year = "2020";
+	String previousYear = "2019";
 	int week = 1;
-	String[][] TeamInfo = new String[5][32];
-	
-	public GameSim()
-	{
-		year = "" + (Calendar.getInstance().get(Calendar.YEAR)-1);
-		previousYear = year;
-		Calendar current = Calendar.getInstance();
-		Calendar week1 = Calendar.getInstance();
-		week1.set(2020, 9, 14);
-		Calendar week17 = Calendar.getInstance();
-		week17.set(2021, 1, 15);
-		if(current.after(week1) && current.before(week17))
-		{
-			year = "2020";
-		}
-		 String[][] teams = {{"NE", "BUF", "MIA", "NYJ", "KC", "OAK", "LAC", "DEN","BAL","PIT","CLE","CIN","HOU","IND","JAX","TEN","DAL","PHI","NYG","WSH","SF","SEA","LAR","ARI","GB","MIN","DET","CHI","NO","CAR","TB","ATL"},
-                 {"https://www.pro-football-reference.com/teams/nwe/"+year+".htm","https://www.pro-football-reference.com/teams/buf/"+year+".htm","https://www.pro-football-reference.com/teams/mia/"+year+".htm","https://www.pro-football-reference.com/teams/nyj/"+year+".htm","https://www.pro-football-reference.com/teams/kan/"+year+".htm","https://www.pro-football-reference.com/teams/rai/"+year+".htm","https://www.pro-football-reference.com/teams/sdg/"+year+".htm","https://www.pro-football-reference.com/teams/den/"+year+".htm",
-                  "https://www.pro-football-reference.com/teams/rav/"+year+".htm","https://www.pro-football-reference.com/teams/pit/"+year+".htm","https://www.pro-football-reference.com/teams/cle/"+year+".htm","https://www.pro-football-reference.com/teams/cin/"+year+".htm","https://www.pro-football-reference.com/teams/htx/"+year+".htm","https://www.pro-football-reference.com/teams/clt/"+year+".htm","https://www.pro-football-reference.com/teams/jax/"+year+".htm","https://www.pro-football-reference.com/teams/oti/"+year+".htm",
-                  "https://www.pro-football-reference.com/teams/dal/"+year+".htm","https://www.pro-football-reference.com/teams/phi/"+year+".htm","https://www.pro-football-reference.com/teams/nyg/"+year+".htm","https://www.pro-football-reference.com/teams/was/"+year+".htm","https://www.pro-football-reference.com/teams/sfo/"+year+".htm","https://www.pro-football-reference.com/teams/sea/"+year+".htm","https://www.pro-football-reference.com/teams/ram/"+year+".htm","https://www.pro-football-reference.com/teams/crd/"+year+".htm",
-                  "https://www.pro-football-reference.com/teams/gnb/"+year+".htm","https://www.pro-football-reference.com/teams/min/"+year+".htm","https://www.pro-football-reference.com/teams/det/"+year+".htm","https://www.pro-football-reference.com/teams/chi/"+year+".htm","https://www.pro-football-reference.com/teams/nor/"+year+".htm","https://www.pro-football-reference.com/teams/car/"+year+".htm","https://www.pro-football-reference.com/teams/tam/"+year+".htm","https://www.pro-football-reference.com/teams/atl/"+year+".htm"},
-                 {"New England", "Buffalo", "Miami", "NY Jets", "Kansas City", "Las Vegas", "LA Chargers", "Denver", "Baltimore", "Pittsburgh", "Cleveland", "Cincinnati", "Houston", "Indianapolis", "Jacksonville", "Tennessee", "Dallas", "Philadelphia", "NY Giants", "Washington", "San Francisco", "Seattle", "LA Rams", "Arizona", "Green Bay", "Minnesota","Detroit", "Chicago", "New Orleans", "Carolina", "Tampa Bay", "Atlanta"},
-                 {"Cam Newton", "Josh Allen", "Ryan Fitzpatrick", "Sam Darnold", "Patrick Mahomes", "Derek Carr", "Tyrod Taylor", "Drew Lock", "Lamar Jackson", "Ben Roethlisberger", "Baker Mayfield", "Joe Burrow", "Deshaun Watson", "Philip Rivers", "Garder Minshew", "Ryan Tannehill", "Dak Prescott", "Carson Wentz", "Daniel Jones", "Dwayne Haskins", "Jimmy Garoppolo", "Russel Wilson", "Jared Goff", "Kyler Murray", "Aaron Rodgers", "Kirk Cousins", "Matthew Stafford","Mitchell Trubisky", "Drew Brees","Teddy Bridgewater","Tom Brady","Matt Ryan"},
-                 {"Patriots", "Bills", "Dolphins", "Jets", "Chiefs", "Raiders", "Chargers", "Broncos", "Ravens", "Steelers", "Browns", "Bengals", "Texans", "Colts", "Jaguars", "Titans", "Cowboys", "Eagles", "Giants", "Football Team", "49ers", "Seahawks", "Rams", "Cardinals", "Packers", "Vikings", "Lions", "Bears", "Saints", "Panthers", "Buccaneers", "Falcons"}};
-		 for(int i = 0; i < TeamInfo.length; i ++)
-		 {
-			 for(int j = 0; j<TeamInfo[0].length; j++)
-			 {
-				 TeamInfo[i][j] = teams[i][j];
-			 }
-			 
-		 }
-	}
+	String[][] TeamInfo = {{"NE", "BUF", "MIA", "NYJ", "KC", "OAK", "LAC", "DEN","BAL","PIT","CLE","CIN","HOU","IND","JAX","TEN","DAL","PHI","NYG","WSH","SF","SEA","LAR","ARI","GB","MIN","DET","CHI","NO","CAR","TB","ATL"},
+            {"https://www.pro-football-reference.com/teams/nwe/"+year+".htm","https://www.pro-football-reference.com/teams/buf/"+year+".htm","https://www.pro-football-reference.com/teams/mia/"+year+".htm","https://www.pro-football-reference.com/teams/nyj/"+year+".htm","https://www.pro-football-reference.com/teams/kan/"+year+".htm","https://www.pro-football-reference.com/teams/rai/"+year+".htm","https://www.pro-football-reference.com/teams/sdg/"+year+".htm","https://www.pro-football-reference.com/teams/den/"+year+".htm",
+        "https://www.pro-football-reference.com/teams/rav/"+year+".htm","https://www.pro-football-reference.com/teams/pit/"+year+".htm","https://www.pro-football-reference.com/teams/cle/"+year+".htm","https://www.pro-football-reference.com/teams/cin/"+year+".htm","https://www.pro-football-reference.com/teams/htx/"+year+".htm","https://www.pro-football-reference.com/teams/clt/"+year+".htm","https://www.pro-football-reference.com/teams/jax/"+year+".htm","https://www.pro-football-reference.com/teams/oti/"+year+".htm",
+        "https://www.pro-football-reference.com/teams/dal/"+year+".htm","https://www.pro-football-reference.com/teams/phi/"+year+".htm","https://www.pro-football-reference.com/teams/nyg/"+year+".htm","https://www.pro-football-reference.com/teams/was/"+year+".htm","https://www.pro-football-reference.com/teams/sfo/"+year+".htm","https://www.pro-football-reference.com/teams/sea/"+year+".htm","https://www.pro-football-reference.com/teams/ram/"+year+".htm","https://www.pro-football-reference.com/teams/crd/"+year+".htm",
+        "https://www.pro-football-reference.com/teams/gnb/"+year+".htm","https://www.pro-football-reference.com/teams/min/"+year+".htm","https://www.pro-football-reference.com/teams/det/"+year+".htm","https://www.pro-football-reference.com/teams/chi/"+year+".htm","https://www.pro-football-reference.com/teams/nor/"+year+".htm","https://www.pro-football-reference.com/teams/car/"+year+".htm","https://www.pro-football-reference.com/teams/tam/"+year+".htm","https://www.pro-football-reference.com/teams/atl/"+year+".htm"},
+       {"New England", "Buffalo", "Miami", "NY Jets", "Kansas City", "Las Vegas", "LA Chargers", "Denver", "Baltimore", "Pittsburgh", "Cleveland", "Cincinnati", "Houston", "Indianapolis", "Jacksonville", "Tennessee", "Dallas", "Philadelphia", "NY Giants", "Washington", "San Francisco", "Seattle", "LA Rams", "Arizona", "Green Bay", "Minnesota","Detroit", "Chicago", "New Orleans", "Carolina", "Tampa Bay", "Atlanta"},
+       {"Cam Newton", "Josh Allen", "Ryan Fitzpatrick", "Sam Darnold", "Patrick Mahomes", "Derek Carr", "Tyrod Taylor", "Drew Lock", "Lamar Jackson", "Ben Roethlisberger", "Baker Mayfield", "Joe Burrow", "Deshaun Watson", "Philip Rivers", "Garder Minshew", "Ryan Tannehill", "Dak Prescott", "Carson Wentz", "Daniel Jones", "Dwayne Haskins", "Jimmy Garoppolo", "Russel Wilson", "Jared Goff", "Kyler Murray", "Aaron Rodgers", "Kirk Cousins", "Matthew Stafford","Mitchell Trubisky", "Drew Brees","Teddy Bridgewater","Tom Brady","Matt Ryan"},
+       {"Patriots", "Bills", "Dolphins", "Jets", "Chiefs", "Raiders", "Chargers", "Broncos", "Ravens", "Steelers", "Browns", "Bengals", "Texans", "Colts", "Jaguars", "Titans", "Cowboys", "Eagles", "Giants", "Football Team", "49ers", "Seahawks", "Rams", "Cardinals", "Packers", "Vikings", "Lions", "Bears", "Saints", "Panthers", "Buccaneers", "Falcons"}};;
 	
 	public void simGame() throws Exception
     {
@@ -200,7 +175,15 @@ public class GameSim {
             }
         }
         double YardsPerGame = Double.parseDouble(TotalYardsStr.toString())/GamesPlayed;
-        double TurnoversPerGame = Double.parseDouble(OffenseTurnoversStr.toString())/GamesPlayed;
+        double TurnoversPerGame;
+        try
+        {
+        	TurnoversPerGame = Double.parseDouble(OffenseTurnoversStr.toString())/GamesPlayed;
+        }
+        catch(NumberFormatException e)
+        {
+        	TurnoversPerGame = 0.0;
+        }
         double RedZoneEfficiency = Double.parseDouble(OffenseRedZoneEfficiencyStr.toString())/100;
         if(PasserRatingStr.length()>0)
         {
@@ -292,11 +275,35 @@ public class GameSim {
             }
         }
         double YardsGivenUpPerGame = Double.parseDouble(YardsGivenUp.toString())/GamesPlayed;
-        double CrucialPenaltiesPerGame = Double.parseDouble(CrucialPenalties.toString())/GamesPlayed;
-        double TurnoversForcedPerGame = Double.parseDouble(TurnoversForced.toString())/GamesPlayed;
+        double CrucialPenaltiesPerGame;
+        try 
+        {
+        	CrucialPenaltiesPerGame = Double.parseDouble(CrucialPenalties.toString())/GamesPlayed;
+        }
+        catch(NumberFormatException e)
+        {
+        	CrucialPenaltiesPerGame = 0;
+        }
+        double TurnoversForcedPerGame;
+        try
+        {
+        	TurnoversForcedPerGame = Double.parseDouble(TurnoversForced.toString())/GamesPlayed;
+        }
+        catch(NumberFormatException e)
+        {
+        	TurnoversForcedPerGame = 0;
+        }
         double YardsPerPlayGivenUp = Double.parseDouble(YardsPerPlayGivenUpStr.toString());
         double DefensiveRedZoneEfficiency = Double.parseDouble(DefensiveRedZoneEfficiencyStr.toString())/100;
-        double SacksPerGame = Double.parseDouble(TotalSacks.toString())/GamesPlayed;
+        double SacksPerGame;
+        try
+        {
+        	SacksPerGame = Double.parseDouble(TotalSacks.toString())/GamesPlayed;
+        }
+        catch(NumberFormatException e)
+        {
+        	SacksPerGame = 0;
+        }
         TeamCoach.setStats(YardsGivenUpPerGame, SacksPerGame, TurnoversForcedPerGame, DefensiveRedZoneEfficiency, YardsPerPlayGivenUp, CrucialPenaltiesPerGame);
 		return TeamCoach;
 	}
@@ -308,8 +315,7 @@ public class GameSim {
         StringBuilder TotalPointsGivenUp = new StringBuilder();
         String TimePerDriveStr = "";
         StringBuilder PointsPerDriveStr = new StringBuilder();
-        String TimeOfPossessionStr = "";
-        String TimeSeconds = "";
+        StringBuilder TimeOfPossessionStr = new StringBuilder();
         
         BufferedReader br = new BufferedReader(new FileReader(TeamName+".txt"));
         String str = "";
@@ -356,44 +362,33 @@ public class GameSim {
         }
         BufferedReader br2 = new BufferedReader(new FileReader(TOP));
         int d = 0;
-        int e = 0;
         while((str = br2.readLine()) != null)
         {
         	 if(str.indexOf(TeamNameLonger + "</a></td>") != -1)
              {
                  d = 1;
-                 e = 1;
              }    
-             if(str.indexOf("<td class=\"text-right\" data-sort=") != -1 && d == 1 && e == 1)    
+             if(str.indexOf("<td class=\"text-right\" data-sort=") != -1 && d == 1)    
              {
                  while(d < 2)
                  {
-                     for(int i = str.indexOf("<td class=\"text-right\" data-sort=")+42; i<str.indexOf("<td class=\"text-right\" data-sort=")+45; i++)
+                     for(int i = str.indexOf("<td class=\"text-right\" data-sort=")+40; i<str.indexOf("<td class=\"text-right\" data-sort=")+49; i++)
                      {   
-                         if(Character.isDigit(str.charAt(i)))
+                         if(Character.isDigit(str.charAt(i))||str.charAt(i) == ':'|| str.charAt(i) == '>')
                          {    
-                             TimeOfPossessionStr = TimeOfPossessionStr + str.substring(i,i+1);
+                             TimeOfPossessionStr = TimeOfPossessionStr.append(str.substring(i,i+1));
                          }
                      } 
                      d++;
                  }
-                 
-                 while(e < 2)
+                 if(TimeOfPossessionStr.indexOf(">") != -1)
                  {
-                     for(int i = str.indexOf("<td class=\"text-right\" data-sort=")+46; i<str.indexOf("<td class=\"text-right\" data-sort=")+48; i++)
-                     {   
-                         if(Character.isDigit(str.charAt(i)))
-                         {
-                             TimeSeconds = TimeSeconds + str.substring(i,i+1);
-                         } 
-                        
-                     } 
-                     e++;
+                	 TimeOfPossessionStr = TimeOfPossessionStr.delete(0,TimeOfPossessionStr.indexOf(">")+1);
                  }
-                 double secs = Double.parseDouble(TimeSeconds.toString())/60.0;
-                 String homeSec = Double.toString(secs);
-                 homeSec = homeSec.replaceFirst("0", "");
-                 TimeOfPossessionStr = TimeOfPossessionStr + homeSec;
+                 String TOPstr = TimeOfPossessionStr.toString();
+                 TOPstr = TOPstr.replace(':', '.');
+                 double secs = Double.parseDouble(TOPstr.substring(TOPstr.indexOf('.')+1))/60.0;
+                 TimeOfPossessionStr = TimeOfPossessionStr.replace(TimeOfPossessionStr.indexOf(":"), TimeOfPossessionStr.length(), TOPstr);
              }
         }
         double WinPercentage = GamesWon/GamesPlayed;
