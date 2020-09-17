@@ -30,18 +30,32 @@ private double WinPct, HistoryToWin, PointDiff, PPDrive, StrengthOSched, TimeOPo
        QB = a.calcQBIndex();
     }
     
+    public double getQB()
+    {
+    	return QB;
+    }
+    
     public void CoachFactor(Coach a)
     {
         Coach = a.calcCoachIndex();
+    }
+    
+    public double getCoach()
+    {
+    	return Coach;
     }
     
     public double calcEffWinPct()
     {
         double p = 1;
         if(StrengthOSched < 0.49)
+        {
             p = p-(0.5-StrengthOSched);
+        }
         if(StrengthOSched > 0.5)
+        {
             p = p+(StrengthOSched-0.5);
+        }
             
         return p*WinPct;
     }

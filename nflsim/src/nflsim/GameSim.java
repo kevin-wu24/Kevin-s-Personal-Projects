@@ -75,9 +75,13 @@ public class GameSim {
         Team homeTeam = createTeam(HomeName, HomeNameLonger, HomeGamesPlayed, HomeGamesWon, HomeSOS, HomeHistoryToWin, "TOP.txt");
         homeTeam.QBFactor(homeQB);
         homeTeam.CoachFactor(homeCoach);
+        System.out.println("HomeQB rating: " + homeTeam.getQB());
+        System.out.println("HomeCoach rating: " + homeTeam.getCoach());
         Team awayTeam = createTeam(AwayName, AwayNameLonger, AwayGamesPlayed, AwayGamesWon, AwaySOS, AwayHistoryToWin, "TOP.txt");
         awayTeam.QBFactor(awayQB);
         awayTeam.CoachFactor(awayCoach);
+        System.out.println("AwayQB rating: " + awayTeam.getQB());
+        System.out.println("AwayCoach rating: " + awayTeam.getCoach());
         
         Game game1 = new Game();
         game1.setNames(HomeName, AwayName);
@@ -387,8 +391,7 @@ public class GameSim {
                  }
                  String TOPstr = TimeOfPossessionStr.toString();
                  TOPstr = TOPstr.replace(':', '.');
-                 double secs = Double.parseDouble(TOPstr.substring(TOPstr.indexOf('.')+1))/60.0;
-                 TimeOfPossessionStr = TimeOfPossessionStr.replace(TimeOfPossessionStr.indexOf(":"), TimeOfPossessionStr.length(), TOPstr);
+                 TimeOfPossessionStr = TimeOfPossessionStr.replace(0, TimeOfPossessionStr.length(), TOPstr);
              }
         }
         double WinPercentage = GamesWon/GamesPlayed;
@@ -407,7 +410,8 @@ public class GameSim {
         {
         	TimePerDrive = 1 + (TimePerDrive-1)*100/60;
         }
-        double TimeOfPossession = Double.parseDouble(TimeOfPossessionStr.toString());    
+        double TimeOfPossession = Double.parseDouble(TimeOfPossessionStr.toString()); 
+        System.out.println("Time of Possession: " + TimeOfPossession);
         thisTeam.setStats(WinPercentage, HistoryToWin, PointDifferential, PointsPerDrive, StrengthOfSchedule, TimeOfPossession, TimePerDrive);
 		return thisTeam;
 	}
