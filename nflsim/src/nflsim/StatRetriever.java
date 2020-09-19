@@ -32,24 +32,39 @@ public class StatRetriever
             in.close();
         }
         
-        URL url1 = new URL("https://www.teamrankings.com/nfl/stat/average-time-of-possession-net-of-ot");
-        HttpsURLConnection con = (HttpsURLConnection)url1.openConnection();
+        URL TOPURL = new URL("https://www.teamrankings.com/nfl/stat/average-time-of-possession-net-of-ot");
+        HttpsURLConnection con = (HttpsURLConnection)TOPURL.openConnection();
         InputStream uin = con.getInputStream();
         InputStreamReader isr = new InputStreamReader(uin);
         BufferedReader in = new BufferedReader(isr);
         String inputLine;
         
-        File file = new File("TOP.txt");
-        FileOutputStream fos = new FileOutputStream(file);
+        File TOP = new File("TOP.txt");
+        FileOutputStream fos = new FileOutputStream(TOP);
         PrintStream ps = new PrintStream(fos);
         System.setOut(ps);
             
         while((inputLine = in.readLine()) != null)
         {    
-            System.out.println(inputLine);
-          
+            System.out.println(inputLine);         
         }    
         
-        in.close();        
+        in.close(); 
+        
+        URL perDriveBackup = new URL("https://www.footballoutsiders.com/stats/nfl/overall-drive-statsoff/2020");
+        HttpsURLConnection con1 = (HttpsURLConnection)perDriveBackup.openConnection();
+        InputStream input = con1.getInputStream();
+        InputStreamReader inputReader = new InputStreamReader(input);
+        BufferedReader reader = new BufferedReader(inputReader);
+        
+        File PerDriveStats = new File("DriveStats.txt");
+        FileOutputStream outputStream = new FileOutputStream(PerDriveStats);
+        PrintStream ps1 = new PrintStream(outputStream);
+        System.setOut(ps1);
+        while((inputLine = reader.readLine()) != null)
+        {
+        	System.out.println(inputLine);
+        }
+        reader.close();
 	}
 }

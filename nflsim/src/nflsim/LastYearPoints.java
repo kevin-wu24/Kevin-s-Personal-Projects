@@ -14,7 +14,7 @@ public class LastYearPoints
 	
 	public void setPoints(String TeamName) throws Exception
 	{
-		Hashtable dictionary = new Hashtable();
+		Hashtable<String, String> dictionary = new Hashtable<String, String>();
 		
 		dictionary.put("TB", "NE2019.txt");
 		dictionary.put("IND", "LAC2019.txt");
@@ -39,6 +39,8 @@ public class LastYearPoints
             sos.calcSOS();
             sos.setSOSYear(subYear);
             double SOS = sos.getSOS(TeamName);
+            double gamesWon = sos.getGamesWon(TeamName);
+            double gamesPlayed = sos.getTotalGamesPlayed(TeamName);
             
             String ptsfor = "";
             String ptsagainst = "";

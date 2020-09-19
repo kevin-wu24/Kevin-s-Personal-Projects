@@ -4,11 +4,12 @@ import java.util.Scanner;
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-public class GameSim {
+public class GameSim 
+{
 	String year = "2020";
 	String previousYear = "2019";
 	int week = 1;
-	String[][] TeamInfo = {{"NE", "BUF", "MIA", "NYJ", "KC", "OAK", "LAC", "DEN","BAL","PIT","CLE","CIN","HOU","IND","JAX","TEN","DAL","PHI","NYG","WSH","SF","SEA","LAR","ARI","GB","MIN","DET","CHI","NO","CAR","TB","ATL"},
+	String[][] TeamInfo = {{"NE", "BUF", "MIA", "NYJ", "KC", "LV", "LAC", "DEN","BAL","PIT","CLE","CIN","HOU","IND","JAX","TEN","DAL","PHI","NYG","WAS","SF","SEA","LAR","ARI","GB","MIN","DET","CHI","NO","CAR","TB","ATL"},
             {"https://www.pro-football-reference.com/teams/nwe/"+year+".htm","https://www.pro-football-reference.com/teams/buf/"+year+".htm","https://www.pro-football-reference.com/teams/mia/"+year+".htm","https://www.pro-football-reference.com/teams/nyj/"+year+".htm","https://www.pro-football-reference.com/teams/kan/"+year+".htm","https://www.pro-football-reference.com/teams/rai/"+year+".htm","https://www.pro-football-reference.com/teams/sdg/"+year+".htm","https://www.pro-football-reference.com/teams/den/"+year+".htm",
         "https://www.pro-football-reference.com/teams/rav/"+year+".htm","https://www.pro-football-reference.com/teams/pit/"+year+".htm","https://www.pro-football-reference.com/teams/cle/"+year+".htm","https://www.pro-football-reference.com/teams/cin/"+year+".htm","https://www.pro-football-reference.com/teams/htx/"+year+".htm","https://www.pro-football-reference.com/teams/clt/"+year+".htm","https://www.pro-football-reference.com/teams/jax/"+year+".htm","https://www.pro-football-reference.com/teams/oti/"+year+".htm",
         "https://www.pro-football-reference.com/teams/dal/"+year+".htm","https://www.pro-football-reference.com/teams/phi/"+year+".htm","https://www.pro-football-reference.com/teams/nyg/"+year+".htm","https://www.pro-football-reference.com/teams/was/"+year+".htm","https://www.pro-football-reference.com/teams/sfo/"+year+".htm","https://www.pro-football-reference.com/teams/sea/"+year+".htm","https://www.pro-football-reference.com/teams/ram/"+year+".htm","https://www.pro-football-reference.com/teams/crd/"+year+".htm",
@@ -315,7 +316,7 @@ public class GameSim {
 	public Team createTeam(String TeamName, String TeamNameLonger, double GamesPlayed, double GamesWon, double StrengthOfSchedule, double HistoryToWin, String TOP) throws Exception
 	{
 		Team thisTeam = new Team();
-        StringBuilder TotalPoints = new StringBuilder();
+        StringBuilder TotalPointsStr = new StringBuilder();
         StringBuilder TotalPointsGivenUp = new StringBuilder();
         String TimePerDriveStr = "";
         StringBuilder PointsPerDriveStr = new StringBuilder();
@@ -331,7 +332,7 @@ public class GameSim {
                 {   
                         if(Character.isDigit(str.charAt(i)) )
                         {
-                            TotalPoints = TotalPoints.append(str.substring(i,i+1));
+                            TotalPointsStr = TotalPointsStr.append(str.substring(i,i+1));
                         }
                 }                
                 for(int i = str.indexOf("data-stat=\"time_avg\" >"); i<str.indexOf("data-stat=\"time_avg\" >") + 26; i++)
@@ -395,23 +396,48 @@ public class GameSim {
              }
         }
         double WinPercentage = GamesWon/GamesPlayed;
-        double PointDifferential = Double.parseDouble(TotalPoints.toString())/GamesPlayed - Double.parseDouble(TotalPointsGivenUp.toString())/GamesPlayed;
-        double PointsPerDrive = Double.parseDouble(PointsPerDriveStr.toString());
-        double TimePerDrive = Double.parseDouble(TimePerDriveStr.toString());
-        if(TimePerDrive > 3)
-        {
-        	TimePerDrive = 3 + (TimePerDrive-3)*100/60;
-        }
-        else if(TimePerDrive > 2)
-        {
-        	TimePerDrive = 2 + (TimePerDrive-2)*100/60;
-        }
-        else
-        {
-        	TimePerDrive = 1 + (TimePerDrive-1)*100/60;
-        }
+        double TotalPoints = Double.parseDouble(TotalPointsStr.toString());
+        double PointDifferential = TotalPoints/GamesPlayed - Double.parseDouble(TotalPointsGivenUp.toString())/GamesPlayed;
         double TimeOfPossession = Double.parseDouble(TimeOfPossessionStr.toString()); 
+        int minutes = ((int)TimeOfPossession)%100;
+        TimeOfPossession = minutes + (TimeOfPossession - minutes) * 100 / 60;
         System.out.println("Time of Possession: " + TimeOfPossession);
+        double PointsPerDrive = 0;
+        double TimePerDrive = 0;
+        try
+        {
+        	PointsPerDrive = Double.parseDouble(PointsPerDriveStr.toString());
+        	TimePerDrive = Double.parseDouble(TimePerDriveStr.toString());
+        	int firstDigit = ((int)TimePerDrive)%10;
+        	TimePerDrive = firstDigit + (TimePerDrive - firstDigit) * 100 / 60;
+        }
+        catch(NumberFormatException e)
+        {
+            int numDrives = 0;
+            boolean nameFound = false;
+            String numDrivesStr = "";
+        	BufferedReader reader = new BufferedReader(new FileReader("DriveStats.txt"));
+            while((str = reader.readLine()) != null && !nameFound)
+            {
+            	if(str.contains(TeamName))
+            	{
+            		str = reader.readLine();
+            		for(int i = 16; i < str.length(); i++)
+            		{
+            			if(Character.isDigit(str.charAt(i)))
+            			{
+            				numDrivesStr = numDrivesStr + str.charAt(i);
+            			}
+            		}
+            		nameFound = true;
+            	}
+            }
+            numDrives = Integer.parseInt(numDrivesStr);
+            TimePerDrive = TimeOfPossession/numDrives;
+            System.out.println("Time Per Drive: " + TimePerDrive);
+            PointsPerDrive = TotalPoints/numDrives;
+            System.out.println("Points Per Drive: " + PointsPerDrive);
+        }
         thisTeam.setStats(WinPercentage, HistoryToWin, PointDifferential, PointsPerDrive, StrengthOfSchedule, TimeOfPossession, TimePerDrive);
 		return thisTeam;
 	}
