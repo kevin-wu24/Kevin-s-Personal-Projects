@@ -23,11 +23,14 @@ public class Game {
     
     public String simGame(Team Home, Team Away, int WeekNum) throws Exception
     {   
-    	LastYearPoints lastYearPoints = new LastYearPoints();
-		lastYearPoints.setPoints(homeName);
-		homeLast = lastYearPoints.getPoints(homeName);
-		lastYearPoints.setPoints(awayName);
-		awayLast = lastYearPoints.getPoints(awayName);
+    	if(WeekNum < 4)
+    	{	
+    		LastYearPoints lastYearPoints = new LastYearPoints();
+    		lastYearPoints.setPoints(homeName);
+    		homeLast = lastYearPoints.getPoints(homeName);
+    		lastYearPoints.setPoints(awayName);
+    		awayLast = lastYearPoints.getPoints(awayName);
+    	}  						
     	return homeName + " " + calcScore(Home, WeekNum, "home") + "     " + awayName + " " + calcScore(Away, WeekNum, "away");
     }
     
