@@ -3,12 +3,12 @@
 <head>
 <meta charset="utf-8" />
 <link rel="canonical" href="https://www.footballoutsiders.com/stats/nfl/overall-drive-statsoff/2020" />
-<meta name="description" content="Updated through Week 2
-Revised as of 9/23/2020
+<meta name="description" content="Updated through Week 4
+Revised as of 10/6/2020
 Drive stats compiled by Jim Armstrong
 These stats are computed from NFL Drive Charts and are not adjusted for strength of schedule or situation." />
-<meta name="abstract" content="Updated through Week 2
-Revised as of 9/23/2020
+<meta name="abstract" content="Updated through Week 4
+Revised as of 10/6/2020
 Drive stats compiled by Jim Armstrong
 These stats are computed from NFL Drive Charts and are not adjusted for strength of schedule or situation." />
 <meta name="twitter:image" content="https://cdn.footballoutsiders.net/files/default_images/default-blog-image.png" />
@@ -152,7 +152,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <input data-drupal-selector="edit-pass" placeholder="Password" type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required" required="required" aria-required="true" />
 
         </div>
-<input autocomplete="off" data-drupal-selector="form-2rgjx7m3ckcq6atwhx45kdqts7ptvp7h0k5babvgepw" type="hidden" name="form_build_id" value="form-2RgJx7M3CkCq6AtwHx45kdqTS7pTvp7h0k5baBVGEpw" />
+<input autocomplete="off" data-drupal-selector="form-n2w6bfci0nyzzo98xqllo5pdsoo9s28xclxymw97xio" type="hidden" name="form_build_id" value="form-N2w6bfci0NYzzo98XQLlO5PDSoO9S28xcLxymW97XIo" />
 <input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" />
 <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Login" class="button js-form-submit form-submit" />
 <div class="form-additional-links header"><a href="/user/login" class="login-link" data-drupal-selector="edit-login" id="edit-login">Login</a><a href="/user/password" data-drupal-selector="edit-reset" id="edit-reset">Forgot Password?</a><a href="/foplus/trial/start" data-drupal-selector="edit-trial" id="edit-trial">Start Your FO+ Free Trial</a></div><div class="form-additional-links content"><div><a href="/user/password" data-drupal-selector="edit-reset" id="edit-reset--2">Forgot Password?</a></div><div>Don't have an account? <a href="/user/register">Register now!</a></div></div></div>
@@ -183,7 +183,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <input placeholder="Enter seach keywords" data-drupal-selector="edit-query" type="text" id="edit-query" name="query" value="" size="64" maxlength="64" class="form-text" />
 
         </div>
-<input autocomplete="off" data-drupal-selector="form-ovp1xfq20ey9mazjdvrndr2disczcupd1z59239hjuw" type="hidden" name="form_build_id" value="form-oVp1XFQ20EY9MaZjDVRndr2diSczCUPD1z59239Hjuw" />
+<input autocomplete="off" data-drupal-selector="form-iihwpoppm0riuiff7wh6n-7jqtbicmhlrvn1t7xdnzg" type="hidden" name="form_build_id" value="form-IihWPOPPM0riuIfF7WH6N-7jqtBICMhLRvn1t7XdNZg" />
 <input data-drupal-selector="edit-fo-search-block-form" type="hidden" name="form_id" value="fo_search_block_form" />
 <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Search" class="button js-form-submit form-submit" />
 </div>
@@ -568,7 +568,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <select class="submit-on-change form-select" data-drupal-selector="edit-year" id="edit-year" name="year"><option value="" selected="selected" >Pick Year</option><option value="76129" >2020</option><option value="62610" >2019</option><option value="14020" >2018</option><option value="13664" >2017</option><option value="13957" >2016</option><option value="13818" >2015</option><option value="13852" >2014</option><option value="13868" >2013</option><option value="13928" >2012</option><option value="13924" >2011</option><option value="13918" >2010</option><option value="13917" >2009</option><option value="13916" >2008</option><option value="13911" >2007</option><option value="13908" >2006</option><option value="13906" >2005</option><option value="13905" >2004</option><option value="13904" >2003</option><option value="13897" >2002</option><option value="13896" >2001</option><option value="13894" >2000</option><option value="13925" >1999</option><option value="13877" >1998</option><option value="13875" >1997</option><option value="13999" >1996</option><option value="13736" >1995</option><option value="13740" >1994</option><option value="13737" >1993</option></select>
         </div>
 </div>
-<input autocomplete="off" data-drupal-selector="form-q3eioyi-n9qkjesfnax-bojakb0uphohssktf10npuw" type="hidden" name="form_build_id" value="form-Q3EioYi_n9qKJeSFNaX_boJAKB0UpHoHSSkTf10NPuw" />
+<input autocomplete="off" data-drupal-selector="form-5veam4a11igoz3etczzhzziblo1mbesm5qesmza9pge" type="hidden" name="form_build_id" value="form-5VEAm4a11igoz3eTCZzhZZiblo1mBesM5QESmza9PGE" />
 <input data-drupal-selector="edit-fo-stats-navigation-form" type="hidden" name="form_id" value="fo_stats_navigation_form" />
 <div class="hide-js form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions--2"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" name="op" value="Submit" class="button button--primary js-form-submit form-submit" />
 </div>
@@ -587,15 +587,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
   <div class="content node__content">
     
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><!-- 2020 OFFENSIVE DRIVE STATS --><h2>Updated through Week 2</h2>
-<h3>Revised as of 9/23/2020<br />
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><!-- 2020 OFFENSIVE DRIVE STATS --><h2>Updated through Week 4</h2>
+<h3>Revised as of 10/6/2020<br />
 Drive stats compiled by Jim Armstrong</h3>
 <p>These stats are computed from NFL Drive Charts and are not adjusted for strength of schedule or situation.</p>
 <p><b>TO/Dr</b> represents turnovers per drive. <b>FUM/Dr</b> represents fumbles lost per drive. <b>LOS/Dr</b> represents average starting field position (line of scrimmage) per drive. <b>TOP/Dr</b> represents time of possession per drive. <b>DSR</b> represents Drive Success Rate, as introduced in <i>Pro Football Prospectus 2005</i>, which measures the percentage of down series that result in a first down or touchdown. Take-a-knee drives at the end of a half are discarded.</p>
 <p>The top number in each category is in <b>bold type</b>. </p>
 <ul>
-<li><a href="/stats/drivestats/2020">Net Drive Stats 2020</a></li>
-<li><a href="/stats/drivestatsdef/2020">Defensive Drive Stats 2020</a></li>
+<li><a href="/stats/nfl/overall-drive-stats/2020">Net Drive Stats 2020</a></li>
+<li><a href="/stats/nfl/overall-drive-statsdef/2020">Defensive Drive Stats 2020</a></li>
 </ul>
 <p> </p>
 <p></p><center>
@@ -627,730 +627,730 @@ Drive stats compiled by Jim Armstrong</h3>
 <tbody>
 <tr>
 <td>GB</td>
-<td align="center">19</td>
-<td align="right" nowrap="nowrap"><b>53.11</b></td>
+<td align="center">36</td>
+<td align="right" nowrap="nowrap"><b>50.83</b></td>
 <td align="right" nowrap="nowrap">1</td>
-<td align="right" nowrap="nowrap"><b>4.00</b></td>
+<td align="right" nowrap="nowrap"><b>3.97</b></td>
+<td align="right" nowrap="nowrap">1</td>
+<td align="right" nowrap="nowrap"><b>.000</b></td>
 <td align="right" nowrap="nowrap">1</td>
 <td align="right" nowrap="nowrap"><b>.000</b></td>
 <td align="right" nowrap="nowrap">1</td>
 <td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">4</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">4</td>
-<td align="right" nowrap="nowrap">29.84</td>
-<td align="right" nowrap="nowrap">12</td>
-<td align="right" nowrap="nowrap">7.58</td>
 <td align="right" nowrap="nowrap">3</td>
-<td align="right" nowrap="nowrap"><b>3:56</b></td>
-<td align="right" nowrap="nowrap">1</td>
-<td align="right" nowrap="nowrap"><b>.851</b></td>
-<td align="right" nowrap="nowrap">1</td>
-</tr>
-<tr>
-<td>BUF</td>
-<td align="center">20</td>
-<td align="right" nowrap="nowrap">48.40</td>
-<td align="right" nowrap="nowrap">2</td>
-<td align="right" nowrap="nowrap">2.90</td>
-<td align="right" nowrap="nowrap">8</td>
-<td align="right" nowrap="nowrap">.150</td>
-<td align="right" nowrap="nowrap">23</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">2</td>
-<td align="right" nowrap="nowrap">.150</td>
-<td align="right" nowrap="nowrap">32</td>
-<td align="right" nowrap="nowrap">27.80</td>
-<td align="right" nowrap="nowrap">18</td>
-<td align="right" nowrap="nowrap">7.05</td>
-<td align="right" nowrap="nowrap">9</td>
-<td align="right" nowrap="nowrap">3:25</td>
-<td align="right" nowrap="nowrap">5</td>
-<td align="right" nowrap="nowrap">.806</td>
-<td align="right" nowrap="nowrap">7</td>
-</tr>
-<tr>
-<td>LV</td>
-<td align="center">18</td>
-<td align="right" nowrap="nowrap">46.22</td>
-<td align="right" nowrap="nowrap">3</td>
-<td align="right" nowrap="nowrap">3.78</td>
-<td align="right" nowrap="nowrap">2</td>
-<td align="right" nowrap="nowrap">.056</td>
+<td align="right" nowrap="nowrap">30.72</td>
 <td align="right" nowrap="nowrap">11</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">6</td>
-<td align="right" nowrap="nowrap">.056</td>
-<td align="right" nowrap="nowrap">25</td>
-<td align="right" nowrap="nowrap">29.89</td>
-<td align="right" nowrap="nowrap">11</td>
-<td align="right" nowrap="nowrap"><b>7.83</b></td>
+<td align="right" nowrap="nowrap"><b>7.36</b></td>
 <td align="right" nowrap="nowrap">1</td>
-<td align="right" nowrap="nowrap">3:45</td>
-<td align="right" nowrap="nowrap">3</td>
-<td align="right" nowrap="nowrap">.836</td>
-<td align="right" nowrap="nowrap">2</td>
-</tr>
-<tr>
-<td>LAR</td>
-<td align="center">19</td>
-<td align="right" nowrap="nowrap">45.42</td>
-<td align="right" nowrap="nowrap">4</td>
-<td align="right" nowrap="nowrap">3.00</td>
-<td align="right" nowrap="nowrap">7</td>
-<td align="right" nowrap="nowrap">.053</td>
-<td align="right" nowrap="nowrap">10</td>
-<td align="right" nowrap="nowrap">.053</td>
-<td align="right" nowrap="nowrap">18</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">9</td>
-<td align="right" nowrap="nowrap">28.11</td>
-<td align="right" nowrap="nowrap">17</td>
-<td align="right" nowrap="nowrap">7.42</td>
-<td align="right" nowrap="nowrap">6</td>
-<td align="right" nowrap="nowrap">3:29</td>
-<td align="right" nowrap="nowrap">4</td>
-<td align="right" nowrap="nowrap">.815</td>
-<td align="right" nowrap="nowrap">4</td>
-</tr>
-<tr>
-<td>NE</td>
-<td align="center">19</td>
-<td align="right" nowrap="nowrap">45.26</td>
-<td align="right" nowrap="nowrap">5</td>
-<td align="right" nowrap="nowrap">2.32</td>
-<td align="right" nowrap="nowrap">15</td>
-<td align="right" nowrap="nowrap">.105</td>
-<td align="right" nowrap="nowrap">18</td>
-<td align="right" nowrap="nowrap">.053</td>
-<td align="right" nowrap="nowrap">19</td>
-<td align="right" nowrap="nowrap">.053</td>
-<td align="right" nowrap="nowrap">24</td>
-<td align="right" nowrap="nowrap">23.21</td>
-<td align="right" nowrap="nowrap">30</td>
-<td align="right" nowrap="nowrap">7.16</td>
-<td align="right" nowrap="nowrap">8</td>
-<td align="right" nowrap="nowrap">3:21</td>
-<td align="right" nowrap="nowrap">6</td>
-<td align="right" nowrap="nowrap">.817</td>
-<td align="right" nowrap="nowrap">3</td>
-</tr>
-<tr>
-<td>TEN</td>
-<td align="center">19</td>
-<td align="right" nowrap="nowrap">42.32</td>
-<td align="right" nowrap="nowrap">6</td>
-<td align="right" nowrap="nowrap">2.58</td>
-<td align="right" nowrap="nowrap">10</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">3</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">7</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">15</td>
-<td align="right" nowrap="nowrap">26.63</td>
-<td align="right" nowrap="nowrap">20</td>
-<td align="right" nowrap="nowrap">7.42</td>
-<td align="right" nowrap="nowrap">7</td>
-<td align="right" nowrap="nowrap">3:05</td>
-<td align="right" nowrap="nowrap">12</td>
-<td align="right" nowrap="nowrap">.790</td>
-<td align="right" nowrap="nowrap">9</td>
-</tr>
-<tr>
-<td>JAX</td>
-<td align="center">18</td>
-<td align="right" nowrap="nowrap">42.22</td>
-<td align="right" nowrap="nowrap">7</td>
-<td align="right" nowrap="nowrap">3.17</td>
-<td align="right" nowrap="nowrap">5</td>
-<td align="right" nowrap="nowrap">.111</td>
-<td align="right" nowrap="nowrap">19</td>
-<td align="right" nowrap="nowrap">.111</td>
-<td align="right" nowrap="nowrap">26</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">6</td>
-<td align="right" nowrap="nowrap">24.78</td>
-<td align="right" nowrap="nowrap">24</td>
-<td align="right" nowrap="nowrap">6.89</td>
-<td align="right" nowrap="nowrap">13</td>
-<td align="right" nowrap="nowrap">3:20</td>
-<td align="right" nowrap="nowrap">8</td>
-<td align="right" nowrap="nowrap">.810</td>
-<td align="right" nowrap="nowrap">6</td>
-</tr>
-<tr>
-<td>IND</td>
-<td align="center">19</td>
-<td align="right" nowrap="nowrap">41.58</td>
-<td align="right" nowrap="nowrap">8</td>
-<td align="right" nowrap="nowrap">2.42</td>
-<td align="right" nowrap="nowrap">14</td>
-<td align="right" nowrap="nowrap">.158</td>
-<td align="right" nowrap="nowrap">25</td>
-<td align="right" nowrap="nowrap">.158</td>
-<td align="right" nowrap="nowrap">29</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">5</td>
-<td align="right" nowrap="nowrap">36.26</td>
-<td align="right" nowrap="nowrap">2</td>
-<td align="right" nowrap="nowrap">7.53</td>
-<td align="right" nowrap="nowrap">4</td>
-<td align="right" nowrap="nowrap">3:47</td>
-<td align="right" nowrap="nowrap">2</td>
-<td align="right" nowrap="nowrap">.773</td>
-<td align="right" nowrap="nowrap">13</td>
+<td align="right" nowrap="nowrap"><b>3:45</b></td>
+<td align="right" nowrap="nowrap">1</td>
+<td align="right" nowrap="nowrap"><b>.844</b></td>
+<td align="right" nowrap="nowrap">1</td>
 </tr>
 <tr>
 <td>KC</td>
-<td align="center">19</td>
-<td align="right" nowrap="nowrap">40.53</td>
-<td align="right" nowrap="nowrap">9</td>
-<td align="right" nowrap="nowrap">3.00</td>
-<td align="right" nowrap="nowrap">6</td>
+<td align="center">38</td>
+<td align="right" nowrap="nowrap">43.63</td>
+<td align="right" nowrap="nowrap">2</td>
+<td align="right" nowrap="nowrap">2.89</td>
+<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">.053</td>
+<td align="right" nowrap="nowrap">3</td>
 <td align="right" nowrap="nowrap">.000</td>
 <td align="right" nowrap="nowrap">2</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">5</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">7</td>
-<td align="right" nowrap="nowrap">29.37</td>
-<td align="right" nowrap="nowrap">13</td>
-<td align="right" nowrap="nowrap">7.47</td>
-<td align="right" nowrap="nowrap">5</td>
-<td align="right" nowrap="nowrap">3:20</td>
-<td align="right" nowrap="nowrap">7</td>
-<td align="right" nowrap="nowrap">.797</td>
-<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap">.053</td>
+<td align="right" nowrap="nowrap">25</td>
+<td align="right" nowrap="nowrap">27.97</td>
+<td align="right" nowrap="nowrap">20</td>
+<td align="right" nowrap="nowrap">7.11</td>
+<td align="right" nowrap="nowrap">4</td>
+<td align="right" nowrap="nowrap">3:16</td>
+<td align="right" nowrap="nowrap">6</td>
+<td align="right" nowrap="nowrap">.798</td>
+<td align="right" nowrap="nowrap">3</td>
 </tr>
 <tr>
-<td>DAL</td>
-<td align="center">23</td>
-<td align="right" nowrap="nowrap">39.61</td>
+<td>BUF</td>
+<td align="center">38</td>
+<td align="right" nowrap="nowrap">43.45</td>
+<td align="right" nowrap="nowrap">3</td>
+<td align="right" nowrap="nowrap">3.24</td>
+<td align="right" nowrap="nowrap">3</td>
+<td align="right" nowrap="nowrap">.132</td>
+<td align="right" nowrap="nowrap">20</td>
+<td align="right" nowrap="nowrap">.026</td>
+<td align="right" nowrap="nowrap">4</td>
+<td align="right" nowrap="nowrap">.105</td>
+<td align="right" nowrap="nowrap">30</td>
+<td align="right" nowrap="nowrap">31.84</td>
+<td align="right" nowrap="nowrap">5</td>
+<td align="right" nowrap="nowrap">6.79</td>
 <td align="right" nowrap="nowrap">10</td>
-<td align="right" nowrap="nowrap">2.48</td>
-<td align="right" nowrap="nowrap">11</td>
-<td align="right" nowrap="nowrap">.130</td>
-<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">3:16</td>
+<td align="right" nowrap="nowrap">5</td>
+<td align="right" nowrap="nowrap">.817</td>
+<td align="right" nowrap="nowrap">2</td>
+</tr>
+<tr>
+<td>LV</td>
+<td align="center">38</td>
+<td align="right" nowrap="nowrap">43.13</td>
+<td align="right" nowrap="nowrap">4</td>
+<td align="right" nowrap="nowrap">2.92</td>
+<td align="right" nowrap="nowrap">5</td>
+<td align="right" nowrap="nowrap">.158</td>
+<td align="right" nowrap="nowrap">25</td>
 <td align="right" nowrap="nowrap">.000</td>
 <td align="right" nowrap="nowrap">3</td>
-<td align="right" nowrap="nowrap">.130</td>
-<td align="right" nowrap="nowrap">31</td>
-<td align="right" nowrap="nowrap">25.57</td>
-<td align="right" nowrap="nowrap">23</td>
-<td align="right" nowrap="nowrap">6.70</td>
-<td align="right" nowrap="nowrap">14</td>
-<td align="right" nowrap="nowrap">2:12</td>
-<td align="right" nowrap="nowrap">31</td>
-<td align="right" nowrap="nowrap">.781</td>
-<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">.158</td>
+<td align="right" nowrap="nowrap">32</td>
+<td align="right" nowrap="nowrap">27.82</td>
+<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">7.16</td>
+<td align="right" nowrap="nowrap">2</td>
+<td align="right" nowrap="nowrap">3:17</td>
+<td align="right" nowrap="nowrap">3</td>
+<td align="right" nowrap="nowrap">.789</td>
+<td align="right" nowrap="nowrap">6</td>
 </tr>
 <tr>
-<td>CLE</td>
-<td align="center">18</td>
-<td align="right" nowrap="nowrap">39.22</td>
-<td align="right" nowrap="nowrap">11</td>
-<td align="right" nowrap="nowrap">2.28</td>
-<td align="right" nowrap="nowrap">16</td>
-<td align="right" nowrap="nowrap">.222</td>
-<td align="right" nowrap="nowrap">31</td>
-<td align="right" nowrap="nowrap">.111</td>
-<td align="right" nowrap="nowrap">25</td>
-<td align="right" nowrap="nowrap">.111</td>
+<td>NE</td>
+<td align="center">39</td>
+<td align="right" nowrap="nowrap">42.46</td>
+<td align="right" nowrap="nowrap">5</td>
+<td align="right" nowrap="nowrap">2.13</td>
+<td align="right" nowrap="nowrap">23</td>
+<td align="right" nowrap="nowrap">.179</td>
+<td align="right" nowrap="nowrap">29</td>
+<td align="right" nowrap="nowrap">.128</td>
+<td align="right" nowrap="nowrap">28</td>
+<td align="right" nowrap="nowrap">.051</td>
+<td align="right" nowrap="nowrap">24</td>
+<td align="right" nowrap="nowrap">23.87</td>
 <td align="right" nowrap="nowrap">30</td>
-<td align="right" nowrap="nowrap">28.50</td>
-<td align="right" nowrap="nowrap">16</td>
-<td align="right" nowrap="nowrap">6.89</td>
-<td align="right" nowrap="nowrap">12</td>
-<td align="right" nowrap="nowrap">3:05</td>
-<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">7.13</td>
+<td align="right" nowrap="nowrap">3</td>
+<td align="right" nowrap="nowrap">3:16</td>
+<td align="right" nowrap="nowrap">4</td>
 <td align="right" nowrap="nowrap">.782</td>
 <td align="right" nowrap="nowrap">10</td>
 </tr>
 <tr>
-<td>BAL</td>
-<td align="center">20</td>
-<td align="right" nowrap="nowrap">39.20</td>
-<td align="right" nowrap="nowrap">12</td>
-<td align="right" nowrap="nowrap">3.20</td>
-<td align="right" nowrap="nowrap">4</td>
-<td align="right" nowrap="nowrap">.050</td>
-<td align="right" nowrap="nowrap">8</td>
-<td align="right" nowrap="nowrap"><b>.000</b></td>
-<td align="right" nowrap="nowrap">1</td>
-<td align="right" nowrap="nowrap">.050</td>
-<td align="right" nowrap="nowrap">21</td>
-<td align="right" nowrap="nowrap"><b>36.60</b></td>
-<td align="right" nowrap="nowrap">1</td>
-<td align="right" nowrap="nowrap">6.40</td>
-<td align="right" nowrap="nowrap">18</td>
-<td align="right" nowrap="nowrap">3:14</td>
-<td align="right" nowrap="nowrap">9</td>
-<td align="right" nowrap="nowrap">.780</td>
-<td align="right" nowrap="nowrap">12</td>
-</tr>
-<tr>
-<td>SEA</td>
-<td align="center">20</td>
-<td align="right" nowrap="nowrap">38.75</td>
-<td align="right" nowrap="nowrap">13</td>
-<td align="right" nowrap="nowrap">3.65</td>
-<td align="right" nowrap="nowrap">3</td>
-<td align="right" nowrap="nowrap">.050</td>
-<td align="right" nowrap="nowrap">9</td>
-<td align="right" nowrap="nowrap">.050</td>
-<td align="right" nowrap="nowrap">17</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">13</td>
-<td align="right" nowrap="nowrap">31.90</td>
-<td align="right" nowrap="nowrap">8</td>
-<td align="right" nowrap="nowrap">5.90</td>
-<td align="right" nowrap="nowrap">23</td>
-<td align="right" nowrap="nowrap">3:05</td>
-<td align="right" nowrap="nowrap">13</td>
-<td align="right" nowrap="nowrap">.815</td>
-<td align="right" nowrap="nowrap">5</td>
-</tr>
-<tr>
-<td>LAC</td>
-<td align="center">22</td>
-<td align="right" nowrap="nowrap">38.68</td>
-<td align="right" nowrap="nowrap">14</td>
-<td align="right" nowrap="nowrap">1.64</td>
-<td align="right" nowrap="nowrap">28</td>
-<td align="right" nowrap="nowrap">.045</td>
-<td align="right" nowrap="nowrap">5</td>
-<td align="right" nowrap="nowrap">.045</td>
-<td align="right" nowrap="nowrap">12</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">8</td>
-<td align="right" nowrap="nowrap">24.23</td>
-<td align="right" nowrap="nowrap">27</td>
-<td align="right" nowrap="nowrap">7.05</td>
+<td>DAL</td>
+<td align="center">48</td>
+<td align="right" nowrap="nowrap">41.46</td>
+<td align="right" nowrap="nowrap">6</td>
+<td align="right" nowrap="nowrap">2.62</td>
 <td align="right" nowrap="nowrap">10</td>
-<td align="right" nowrap="nowrap">3:10</td>
-<td align="right" nowrap="nowrap">10</td>
-<td align="right" nowrap="nowrap">.712</td>
-<td align="right" nowrap="nowrap">23</td>
-</tr>
-<tr>
-<td>MIA</td>
-<td align="center">19</td>
-<td align="right" nowrap="nowrap">38.00</td>
-<td align="right" nowrap="nowrap">15</td>
-<td align="right" nowrap="nowrap">2.05</td>
-<td align="right" nowrap="nowrap">23</td>
-<td align="right" nowrap="nowrap">.158</td>
-<td align="right" nowrap="nowrap">26</td>
-<td align="right" nowrap="nowrap">.158</td>
+<td align="right" nowrap="nowrap">.188</td>
 <td align="right" nowrap="nowrap">30</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">10</td>
-<td align="right" nowrap="nowrap">23.58</td>
-<td align="right" nowrap="nowrap">29</td>
-<td align="right" nowrap="nowrap">6.95</td>
-<td align="right" nowrap="nowrap">11</td>
-<td align="right" nowrap="nowrap">2:58</td>
-<td align="right" nowrap="nowrap">16</td>
-<td align="right" nowrap="nowrap">.762</td>
+<td align="right" nowrap="nowrap">.062</td>
 <td align="right" nowrap="nowrap">14</td>
-</tr>
-<tr>
-<td>ATL</td>
-<td align="center">24</td>
-<td align="right" nowrap="nowrap">37.25</td>
-<td align="right" nowrap="nowrap">16</td>
-<td align="right" nowrap="nowrap">2.67</td>
-<td align="right" nowrap="nowrap">9</td>
-<td align="right" nowrap="nowrap">.083</td>
-<td align="right" nowrap="nowrap">13</td>
-<td align="right" nowrap="nowrap">.042</td>
-<td align="right" nowrap="nowrap">9</td>
-<td align="right" nowrap="nowrap">.042</td>
-<td align="right" nowrap="nowrap">17</td>
-<td align="right" nowrap="nowrap">32.75</td>
-<td align="right" nowrap="nowrap">7</td>
-<td align="right" nowrap="nowrap">6.46</td>
-<td align="right" nowrap="nowrap">16</td>
-<td align="right" nowrap="nowrap">2:38</td>
-<td align="right" nowrap="nowrap">23</td>
-<td align="right" nowrap="nowrap">.746</td>
+<td align="right" nowrap="nowrap">.125</td>
+<td align="right" nowrap="nowrap">31</td>
+<td align="right" nowrap="nowrap">22.94</td>
+<td align="right" nowrap="nowrap">32</td>
+<td align="right" nowrap="nowrap">6.54</td>
 <td align="right" nowrap="nowrap">15</td>
+<td align="right" nowrap="nowrap">2:11</td>
+<td align="right" nowrap="nowrap">32</td>
+<td align="right" nowrap="nowrap">.788</td>
+<td align="right" nowrap="nowrap">7</td>
 </tr>
 <tr>
-<td>CAR</td>
-<td align="center">22</td>
-<td align="right" nowrap="nowrap">37.14</td>
-<td align="right" nowrap="nowrap">17</td>
-<td align="right" nowrap="nowrap">2.14</td>
+<td>LAR</td>
+<td align="center">38</td>
+<td align="right" nowrap="nowrap">40.82</td>
+<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">2.79</td>
+<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap">.105</td>
+<td align="right" nowrap="nowrap">16</td>
+<td align="right" nowrap="nowrap">.053</td>
+<td align="right" nowrap="nowrap">13</td>
+<td align="right" nowrap="nowrap">.053</td>
+<td align="right" nowrap="nowrap">26</td>
+<td align="right" nowrap="nowrap">27.18</td>
+<td align="right" nowrap="nowrap">22</td>
+<td align="right" nowrap="nowrap">6.95</td>
+<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">3:16</td>
+<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">.793</td>
+<td align="right" nowrap="nowrap">5</td>
+</tr>
+<tr>
+<td>JAX</td>
+<td align="center">38</td>
+<td align="right" nowrap="nowrap">40.71</td>
+<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap">2.50</td>
+<td align="right" nowrap="nowrap">13</td>
+<td align="right" nowrap="nowrap">.132</td>
 <td align="right" nowrap="nowrap">21</td>
-<td align="right" nowrap="nowrap">.182</td>
+<td align="right" nowrap="nowrap">.105</td>
+<td align="right" nowrap="nowrap">24</td>
+<td align="right" nowrap="nowrap">.026</td>
+<td align="right" nowrap="nowrap">16</td>
+<td align="right" nowrap="nowrap">24.24</td>
 <td align="right" nowrap="nowrap">28</td>
-<td align="right" nowrap="nowrap">.091</td>
-<td align="right" nowrap="nowrap">22</td>
-<td align="right" nowrap="nowrap">.091</td>
-<td align="right" nowrap="nowrap">28</td>
-<td align="right" nowrap="nowrap">26.36</td>
-<td align="right" nowrap="nowrap">22</td>
-<td align="right" nowrap="nowrap">6.36</td>
-<td align="right" nowrap="nowrap">19</td>
-<td align="right" nowrap="nowrap">2:53</td>
-<td align="right" nowrap="nowrap">17</td>
-<td align="right" nowrap="nowrap">.730</td>
-<td align="right" nowrap="nowrap">20</td>
+<td align="right" nowrap="nowrap">6.71</td>
+<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">2:57</td>
+<td align="right" nowrap="nowrap">14</td>
+<td align="right" nowrap="nowrap">.777</td>
+<td align="right" nowrap="nowrap">11</td>
+</tr>
+<tr>
+<td>TEN</td>
+<td align="center">31</td>
+<td align="right" nowrap="nowrap">39.35</td>
+<td align="right" nowrap="nowrap">9</td>
+<td align="right" nowrap="nowrap">2.58</td>
+<td align="right" nowrap="nowrap">12</td>
+<td align="right" nowrap="nowrap">.032</td>
+<td align="right" nowrap="nowrap">2</td>
+<td align="right" nowrap="nowrap">.032</td>
+<td align="right" nowrap="nowrap">6</td>
+<td align="right" nowrap="nowrap">.000</td>
+<td align="right" nowrap="nowrap">6</td>
+<td align="right" nowrap="nowrap">29.71</td>
+<td align="right" nowrap="nowrap">15</td>
+<td align="right" nowrap="nowrap">7.03</td>
+<td align="right" nowrap="nowrap">5</td>
+<td align="right" nowrap="nowrap">2:52</td>
+<td align="right" nowrap="nowrap">18</td>
+<td align="right" nowrap="nowrap">.758</td>
+<td align="right" nowrap="nowrap">15</td>
 </tr>
 <tr>
 <td>SF</td>
-<td align="center">21</td>
-<td align="right" nowrap="nowrap">36.62</td>
-<td align="right" nowrap="nowrap">18</td>
-<td align="right" nowrap="nowrap">2.43</td>
-<td align="right" nowrap="nowrap">13</td>
-<td align="right" nowrap="nowrap">.048</td>
-<td align="right" nowrap="nowrap">7</td>
-<td align="right" nowrap="nowrap">.048</td>
-<td align="right" nowrap="nowrap">16</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">14</td>
-<td align="right" nowrap="nowrap">30.19</td>
-<td align="right" nowrap="nowrap">9</td>
-<td align="right" nowrap="nowrap">5.76</td>
-<td align="right" nowrap="nowrap">25</td>
-<td align="right" nowrap="nowrap">2:50</td>
-<td align="right" nowrap="nowrap">18</td>
-<td align="right" nowrap="nowrap">.700</td>
-<td align="right" nowrap="nowrap">27</td>
-</tr>
-<tr>
-<td>HOU</td>
-<td align="center">19</td>
-<td align="right" nowrap="nowrap">34.95</td>
+<td align="center">41</td>
+<td align="right" nowrap="nowrap">38.88</td>
+<td align="right" nowrap="nowrap">10</td>
+<td align="right" nowrap="nowrap">2.61</td>
+<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">.098</td>
+<td align="right" nowrap="nowrap">12</td>
+<td align="right" nowrap="nowrap">.073</td>
 <td align="right" nowrap="nowrap">19</td>
-<td align="right" nowrap="nowrap">1.89</td>
-<td align="right" nowrap="nowrap">26</td>
-<td align="right" nowrap="nowrap">.158</td>
-<td align="right" nowrap="nowrap">24</td>
-<td align="right" nowrap="nowrap">.105</td>
-<td align="right" nowrap="nowrap">24</td>
-<td align="right" nowrap="nowrap">.053</td>
-<td align="right" nowrap="nowrap">23</td>
-<td align="right" nowrap="nowrap">23.11</td>
-<td align="right" nowrap="nowrap">31</td>
-<td align="right" nowrap="nowrap">6.26</td>
-<td align="right" nowrap="nowrap">21</td>
-<td align="right" nowrap="nowrap">2:39</td>
-<td align="right" nowrap="nowrap">22</td>
-<td align="right" nowrap="nowrap">.722</td>
-<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">.024</td>
+<td align="right" nowrap="nowrap">13</td>
+<td align="right" nowrap="nowrap">29.68</td>
+<td align="right" nowrap="nowrap">16</td>
+<td align="right" nowrap="nowrap">6.46</td>
+<td align="right" nowrap="nowrap">16</td>
+<td align="right" nowrap="nowrap">3:07</td>
+<td align="right" nowrap="nowrap">10</td>
+<td align="right" nowrap="nowrap">.761</td>
+<td align="right" nowrap="nowrap">14</td>
 </tr>
 <tr>
 <td>NO</td>
-<td align="center">21</td>
-<td align="right" nowrap="nowrap">34.48</td>
-<td align="right" nowrap="nowrap">20</td>
-<td align="right" nowrap="nowrap">2.43</td>
-<td align="right" nowrap="nowrap">12</td>
-<td align="right" nowrap="nowrap">.048</td>
+<td align="center">40</td>
+<td align="right" nowrap="nowrap">38.35</td>
+<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">2.90</td>
 <td align="right" nowrap="nowrap">6</td>
-<td align="right" nowrap="nowrap">.048</td>
-<td align="right" nowrap="nowrap">14</td>
-<td align="right" nowrap="nowrap">.000</td>
+<td align="right" nowrap="nowrap">.075</td>
+<td align="right" nowrap="nowrap">9</td>
+<td align="right" nowrap="nowrap">.050</td>
 <td align="right" nowrap="nowrap">12</td>
-<td align="right" nowrap="nowrap">35.52</td>
-<td align="right" nowrap="nowrap">3</td>
-<td align="right" nowrap="nowrap">5.95</td>
+<td align="right" nowrap="nowrap">.025</td>
+<td align="right" nowrap="nowrap">14</td>
+<td align="right" nowrap="nowrap">31.65</td>
+<td align="right" nowrap="nowrap">6</td>
+<td align="right" nowrap="nowrap">6.38</td>
+<td align="right" nowrap="nowrap">18</td>
+<td align="right" nowrap="nowrap">3:00</td>
+<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">.783</td>
+<td align="right" nowrap="nowrap">9</td>
+</tr>
+<tr>
+<td>SEA</td>
+<td align="center">43</td>
+<td align="right" nowrap="nowrap">38.30</td>
+<td align="right" nowrap="nowrap">12</td>
+<td align="right" nowrap="nowrap">3.26</td>
+<td align="right" nowrap="nowrap">2</td>
+<td align="right" nowrap="nowrap">.070</td>
+<td align="right" nowrap="nowrap">6</td>
+<td align="right" nowrap="nowrap">.047</td>
+<td align="right" nowrap="nowrap">9</td>
+<td align="right" nowrap="nowrap">.023</td>
+<td align="right" nowrap="nowrap">12</td>
+<td align="right" nowrap="nowrap">32.42</td>
+<td align="right" nowrap="nowrap">4</td>
+<td align="right" nowrap="nowrap">5.81</td>
+<td align="right" nowrap="nowrap">28</td>
+<td align="right" nowrap="nowrap">2:49</td>
+<td align="right" nowrap="nowrap">20</td>
+<td align="right" nowrap="nowrap">.795</td>
+<td align="right" nowrap="nowrap">4</td>
+</tr>
+<tr>
+<td>CAR</td>
+<td align="center">41</td>
+<td align="right" nowrap="nowrap">37.85</td>
+<td align="right" nowrap="nowrap">13</td>
+<td align="right" nowrap="nowrap">2.41</td>
+<td align="right" nowrap="nowrap">16</td>
+<td align="right" nowrap="nowrap">.122</td>
+<td align="right" nowrap="nowrap">19</td>
+<td align="right" nowrap="nowrap">.073</td>
+<td align="right" nowrap="nowrap">18</td>
+<td align="right" nowrap="nowrap">.049</td>
 <td align="right" nowrap="nowrap">22</td>
-<td align="right" nowrap="nowrap">2:37</td>
-<td align="right" nowrap="nowrap">24</td>
-<td align="right" nowrap="nowrap">.746</td>
+<td align="right" nowrap="nowrap">29.76</td>
+<td align="right" nowrap="nowrap">14</td>
+<td align="right" nowrap="nowrap">6.56</td>
+<td align="right" nowrap="nowrap">14</td>
+<td align="right" nowrap="nowrap">3:08</td>
+<td align="right" nowrap="nowrap">9</td>
+<td align="right" nowrap="nowrap">.744</td>
 <td align="right" nowrap="nowrap">16</td>
 </tr>
 <tr>
-<td>CHI</td>
-<td align="center">21</td>
-<td align="right" nowrap="nowrap">33.29</td>
-<td align="right" nowrap="nowrap">21</td>
-<td align="right" nowrap="nowrap">2.10</td>
+<td>MIA</td>
+<td align="center">38</td>
+<td align="right" nowrap="nowrap">37.61</td>
+<td align="right" nowrap="nowrap">14</td>
+<td align="right" nowrap="nowrap">2.45</td>
+<td align="right" nowrap="nowrap">15</td>
+<td align="right" nowrap="nowrap">.132</td>
 <td align="right" nowrap="nowrap">22</td>
-<td align="right" nowrap="nowrap">.095</td>
-<td align="right" nowrap="nowrap">16</td>
-<td align="right" nowrap="nowrap">.095</td>
-<td align="right" nowrap="nowrap">23</td>
+<td align="right" nowrap="nowrap">.132</td>
+<td align="right" nowrap="nowrap">29</td>
 <td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">2</td>
-<td align="right" nowrap="nowrap">29.05</td>
-<td align="right" nowrap="nowrap">14</td>
-<td align="right" nowrap="nowrap">6.33</td>
+<td align="right" nowrap="nowrap">5</td>
+<td align="right" nowrap="nowrap">26.71</td>
+<td align="right" nowrap="nowrap">23</td>
+<td align="right" nowrap="nowrap">6.92</td>
+<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap">3:15</td>
+<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap">.768</td>
+<td align="right" nowrap="nowrap">12</td>
+</tr>
+<tr>
+<td>LAC</td>
+<td align="center">42</td>
+<td align="right" nowrap="nowrap">37.40</td>
+<td align="right" nowrap="nowrap">15</td>
+<td align="right" nowrap="nowrap">1.81</td>
+<td align="right" nowrap="nowrap">27</td>
+<td align="right" nowrap="nowrap">.167</td>
+<td align="right" nowrap="nowrap">27</td>
+<td align="right" nowrap="nowrap">.071</td>
+<td align="right" nowrap="nowrap">17</td>
+<td align="right" nowrap="nowrap">.095</td>
+<td align="right" nowrap="nowrap">29</td>
+<td align="right" nowrap="nowrap">23.74</td>
+<td align="right" nowrap="nowrap">31</td>
+<td align="right" nowrap="nowrap">6.69</td>
+<td align="right" nowrap="nowrap">12</td>
+<td align="right" nowrap="nowrap">2:59</td>
+<td align="right" nowrap="nowrap">13</td>
+<td align="right" nowrap="nowrap">.721</td>
+<td align="right" nowrap="nowrap">25</td>
+</tr>
+<tr>
+<td>IND</td>
+<td align="center">40</td>
+<td align="right" nowrap="nowrap">36.42</td>
+<td align="right" nowrap="nowrap">16</td>
+<td align="right" nowrap="nowrap">2.12</td>
+<td align="right" nowrap="nowrap">24</td>
+<td align="right" nowrap="nowrap">.075</td>
+<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap">.075</td>
 <td align="right" nowrap="nowrap">20</td>
-<td align="right" nowrap="nowrap">3:02</td>
-<td align="right" nowrap="nowrap">14</td>
+<td align="right" nowrap="nowrap">.000</td>
+<td align="right" nowrap="nowrap">4</td>
+<td align="right" nowrap="nowrap"><b>34.35</b></td>
+<td align="right" nowrap="nowrap">1</td>
+<td align="right" nowrap="nowrap">6.85</td>
+<td align="right" nowrap="nowrap">9</td>
+<td align="right" nowrap="nowrap">3:22</td>
+<td align="right" nowrap="nowrap">2</td>
+<td align="right" nowrap="nowrap">.732</td>
+<td align="right" nowrap="nowrap">20</td>
+</tr>
+<tr>
+<td>CLE</td>
+<td align="center">42</td>
+<td align="right" nowrap="nowrap">35.62</td>
+<td align="right" nowrap="nowrap">17</td>
+<td align="right" nowrap="nowrap">2.95</td>
+<td align="right" nowrap="nowrap">4</td>
+<td align="right" nowrap="nowrap">.095</td>
+<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">.048</td>
+<td align="right" nowrap="nowrap">10</td>
+<td align="right" nowrap="nowrap">.048</td>
+<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">32.52</td>
+<td align="right" nowrap="nowrap">3</td>
+<td align="right" nowrap="nowrap">6.26</td>
+<td align="right" nowrap="nowrap">20</td>
+<td align="right" nowrap="nowrap">2:55</td>
+<td align="right" nowrap="nowrap">16</td>
+<td align="right" nowrap="nowrap">.785</td>
+<td align="right" nowrap="nowrap">8</td>
+</tr>
+<tr>
+<td>ATL</td>
+<td align="center">47</td>
+<td align="right" nowrap="nowrap">34.74</td>
+<td align="right" nowrap="nowrap">18</td>
+<td align="right" nowrap="nowrap">2.26</td>
+<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">.064</td>
+<td align="right" nowrap="nowrap">5</td>
+<td align="right" nowrap="nowrap">.043</td>
+<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">.021</td>
+<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap">30.13</td>
+<td align="right" nowrap="nowrap">13</td>
+<td align="right" nowrap="nowrap">6.21</td>
+<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">2:32</td>
+<td align="right" nowrap="nowrap">26</td>
 <td align="right" nowrap="nowrap">.733</td>
 <td align="right" nowrap="nowrap">19</td>
 </tr>
 <tr>
-<td>DET</td>
-<td align="center">23</td>
-<td align="right" nowrap="nowrap">32.00</td>
-<td align="right" nowrap="nowrap">22</td>
-<td align="right" nowrap="nowrap">1.91</td>
-<td align="right" nowrap="nowrap">25</td>
-<td align="right" nowrap="nowrap">.087</td>
-<td align="right" nowrap="nowrap">14</td>
-<td align="right" nowrap="nowrap">.087</td>
-<td align="right" nowrap="nowrap">21</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">3</td>
-<td align="right" nowrap="nowrap">23.65</td>
-<td align="right" nowrap="nowrap">28</td>
-<td align="right" nowrap="nowrap">5.87</td>
+<td>PIT</td>
+<td align="center">33</td>
+<td align="right" nowrap="nowrap">34.55</td>
+<td align="right" nowrap="nowrap">19</td>
+<td align="right" nowrap="nowrap">2.36</td>
+<td align="right" nowrap="nowrap">18</td>
+<td align="right" nowrap="nowrap">.061</td>
+<td align="right" nowrap="nowrap">4</td>
+<td align="right" nowrap="nowrap">.030</td>
+<td align="right" nowrap="nowrap">5</td>
+<td align="right" nowrap="nowrap">.030</td>
+<td align="right" nowrap="nowrap">17</td>
+<td align="right" nowrap="nowrap">31.30</td>
+<td align="right" nowrap="nowrap">9</td>
+<td align="right" nowrap="nowrap">6.27</td>
+<td align="right" nowrap="nowrap">19</td>
+<td align="right" nowrap="nowrap">2:57</td>
+<td align="right" nowrap="nowrap">15</td>
+<td align="right" nowrap="nowrap">.724</td>
 <td align="right" nowrap="nowrap">24</td>
-<td align="right" nowrap="nowrap">2:26</td>
+</tr>
+<tr>
+<td>BAL</td>
+<td align="center">40</td>
+<td align="right" nowrap="nowrap">34.08</td>
+<td align="right" nowrap="nowrap">20</td>
+<td align="right" nowrap="nowrap">2.70</td>
+<td align="right" nowrap="nowrap">9</td>
+<td align="right" nowrap="nowrap">.100</td>
+<td align="right" nowrap="nowrap">13</td>
+<td align="right" nowrap="nowrap">.050</td>
+<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">.050</td>
+<td align="right" nowrap="nowrap">23</td>
+<td align="right" nowrap="nowrap">33.30</td>
+<td align="right" nowrap="nowrap">2</td>
+<td align="right" nowrap="nowrap">5.97</td>
 <td align="right" nowrap="nowrap">25</td>
-<td align="right" nowrap="nowrap">.710</td>
-<td align="right" nowrap="nowrap">26</td>
+<td align="right" nowrap="nowrap">3:00</td>
+<td align="right" nowrap="nowrap">12</td>
+<td align="right" nowrap="nowrap">.741</td>
+<td align="right" nowrap="nowrap">18</td>
+</tr>
+<tr>
+<td>HOU</td>
+<td align="center">39</td>
+<td align="right" nowrap="nowrap">33.51</td>
+<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">2.05</td>
+<td align="right" nowrap="nowrap">25</td>
+<td align="right" nowrap="nowrap">.103</td>
+<td align="right" nowrap="nowrap">14</td>
+<td align="right" nowrap="nowrap">.077</td>
+<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">.026</td>
+<td align="right" nowrap="nowrap">15</td>
+<td align="right" nowrap="nowrap">24.90</td>
+<td align="right" nowrap="nowrap">25</td>
+<td align="right" nowrap="nowrap">5.92</td>
+<td align="right" nowrap="nowrap">27</td>
+<td align="right" nowrap="nowrap">2:29</td>
+<td align="right" nowrap="nowrap">27</td>
+<td align="right" nowrap="nowrap">.706</td>
+<td align="right" nowrap="nowrap">27</td>
 </tr>
 <tr>
 <td>ARI</td>
-<td align="center">24</td>
-<td align="right" nowrap="nowrap">31.96</td>
-<td align="right" nowrap="nowrap">23</td>
-<td align="right" nowrap="nowrap">2.25</td>
-<td align="right" nowrap="nowrap">17</td>
-<td align="right" nowrap="nowrap">.083</td>
-<td align="right" nowrap="nowrap">12</td>
-<td align="right" nowrap="nowrap">.083</td>
-<td align="right" nowrap="nowrap">20</td>
-<td align="right" nowrap="nowrap"><b>.000</b></td>
-<td align="right" nowrap="nowrap">1</td>
-<td align="right" nowrap="nowrap">24.71</td>
-<td align="right" nowrap="nowrap">26</td>
-<td align="right" nowrap="nowrap">6.54</td>
-<td align="right" nowrap="nowrap">15</td>
-<td align="right" nowrap="nowrap">2:43</td>
-<td align="right" nowrap="nowrap">19</td>
-<td align="right" nowrap="nowrap">.739</td>
-<td align="right" nowrap="nowrap">18</td>
-</tr>
-<tr>
-<td>TB</td>
-<td align="center">24</td>
-<td align="right" nowrap="nowrap">31.67</td>
-<td align="right" nowrap="nowrap">24</td>
-<td align="right" nowrap="nowrap">2.25</td>
-<td align="right" nowrap="nowrap">19</td>
-<td align="right" nowrap="nowrap">.167</td>
-<td align="right" nowrap="nowrap">27</td>
-<td align="right" nowrap="nowrap">.125</td>
-<td align="right" nowrap="nowrap">27</td>
-<td align="right" nowrap="nowrap">.042</td>
-<td align="right" nowrap="nowrap">18</td>
-<td align="right" nowrap="nowrap">26.92</td>
-<td align="right" nowrap="nowrap">19</td>
-<td align="right" nowrap="nowrap">5.21</td>
-<td align="right" nowrap="nowrap">31</td>
-<td align="right" nowrap="nowrap">2:15</td>
-<td align="right" nowrap="nowrap">28</td>
-<td align="right" nowrap="nowrap">.717</td>
+<td align="center">43</td>
+<td align="right" nowrap="nowrap">33.33</td>
 <td align="right" nowrap="nowrap">22</td>
-</tr>
-<tr>
-<td>PIT</td>
-<td align="center">23</td>
-<td align="right" nowrap="nowrap">31.61</td>
-<td align="right" nowrap="nowrap">25</td>
-<td align="right" nowrap="nowrap">2.17</td>
+<td align="right" nowrap="nowrap">2.28</td>
 <td align="right" nowrap="nowrap">20</td>
-<td align="right" nowrap="nowrap">.087</td>
-<td align="right" nowrap="nowrap">15</td>
-<td align="right" nowrap="nowrap">.043</td>
-<td align="right" nowrap="nowrap">11</td>
-<td align="right" nowrap="nowrap">.043</td>
-<td align="right" nowrap="nowrap">19</td>
-<td align="right" nowrap="nowrap">33.00</td>
-<td align="right" nowrap="nowrap">6</td>
-<td align="right" nowrap="nowrap">5.65</td>
+<td align="right" nowrap="nowrap">.140</td>
+<td align="right" nowrap="nowrap">23</td>
+<td align="right" nowrap="nowrap">.116</td>
 <td align="right" nowrap="nowrap">26</td>
-<td align="right" nowrap="nowrap">2:39</td>
-<td align="right" nowrap="nowrap">21</td>
-<td align="right" nowrap="nowrap">.691</td>
-<td align="right" nowrap="nowrap">28</td>
+<td align="right" nowrap="nowrap">.023</td>
+<td align="right" nowrap="nowrap">10</td>
+<td align="right" nowrap="nowrap">24.30</td>
+<td align="right" nowrap="nowrap">27</td>
+<td align="right" nowrap="nowrap">6.42</td>
+<td align="right" nowrap="nowrap">17</td>
+<td align="right" nowrap="nowrap">2:41</td>
+<td align="right" nowrap="nowrap">22</td>
+<td align="right" nowrap="nowrap">.763</td>
+<td align="right" nowrap="nowrap">13</td>
 </tr>
 <tr>
 <td>MIN</td>
-<td align="center">20</td>
-<td align="right" nowrap="nowrap">30.25</td>
+<td align="center">44</td>
+<td align="right" nowrap="nowrap">33.11</td>
+<td align="right" nowrap="nowrap">23</td>
+<td align="right" nowrap="nowrap">2.41</td>
+<td align="right" nowrap="nowrap">17</td>
+<td align="right" nowrap="nowrap">.159</td>
 <td align="right" nowrap="nowrap">26</td>
-<td align="right" nowrap="nowrap">2.25</td>
-<td align="right" nowrap="nowrap">18</td>
-<td align="right" nowrap="nowrap">.200</td>
+<td align="right" nowrap="nowrap">.136</td>
+<td align="right" nowrap="nowrap">31</td>
+<td align="right" nowrap="nowrap">.023</td>
+<td align="right" nowrap="nowrap">9</td>
+<td align="right" nowrap="nowrap">24.07</td>
 <td align="right" nowrap="nowrap">29</td>
-<td align="right" nowrap="nowrap">.200</td>
+<td align="right" nowrap="nowrap">5.16</td>
 <td align="right" nowrap="nowrap">32</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">11</td>
-<td align="right" nowrap="nowrap">21.65</td>
-<td align="right" nowrap="nowrap">32</td>
-<td align="right" nowrap="nowrap">4.90</td>
-<td align="right" nowrap="nowrap">32</td>
-<td align="right" nowrap="nowrap">2:01</td>
-<td align="right" nowrap="nowrap">32</td>
-<td align="right" nowrap="nowrap">.712</td>
-<td align="right" nowrap="nowrap">25</td>
+<td align="right" nowrap="nowrap">2:22</td>
+<td align="right" nowrap="nowrap">30</td>
+<td align="right" nowrap="nowrap">.728</td>
+<td align="right" nowrap="nowrap">22</td>
 </tr>
 <tr>
-<td>NYG</td>
-<td align="center">20</td>
-<td align="right" nowrap="nowrap">30.10</td>
-<td align="right" nowrap="nowrap">27</td>
-<td align="right" nowrap="nowrap">1.45</td>
-<td align="right" nowrap="nowrap">30</td>
-<td align="right" nowrap="nowrap">.200</td>
-<td align="right" nowrap="nowrap">30</td>
-<td align="right" nowrap="nowrap">.150</td>
-<td align="right" nowrap="nowrap">28</td>
-<td align="right" nowrap="nowrap">.050</td>
-<td align="right" nowrap="nowrap">22</td>
-<td align="right" nowrap="nowrap">33.30</td>
-<td align="right" nowrap="nowrap">5</td>
-<td align="right" nowrap="nowrap">6.45</td>
-<td align="right" nowrap="nowrap">17</td>
-<td align="right" nowrap="nowrap">2:41</td>
-<td align="right" nowrap="nowrap">20</td>
-<td align="right" nowrap="nowrap">.712</td>
+<td>DET</td>
+<td align="center">42</td>
+<td align="right" nowrap="nowrap">32.86</td>
 <td align="right" nowrap="nowrap">24</td>
+<td align="right" nowrap="nowrap">2.36</td>
+<td align="right" nowrap="nowrap">19</td>
+<td align="right" nowrap="nowrap">.071</td>
+<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">.071</td>
+<td align="right" nowrap="nowrap">16</td>
+<td align="right" nowrap="nowrap">.000</td>
+<td align="right" nowrap="nowrap">2</td>
+<td align="right" nowrap="nowrap">28.43</td>
+<td align="right" nowrap="nowrap">17</td>
+<td align="right" nowrap="nowrap">6.12</td>
+<td align="right" nowrap="nowrap">22</td>
+<td align="right" nowrap="nowrap">2:40</td>
+<td align="right" nowrap="nowrap">23</td>
+<td align="right" nowrap="nowrap">.730</td>
+<td align="right" nowrap="nowrap">21</td>
 </tr>
 <tr>
 <td>CIN</td>
-<td align="center">21</td>
-<td align="right" nowrap="nowrap">29.48</td>
-<td align="right" nowrap="nowrap">28</td>
-<td align="right" nowrap="nowrap">2.05</td>
-<td align="right" nowrap="nowrap">24</td>
-<td align="right" nowrap="nowrap">.143</td>
+<td align="center">44</td>
+<td align="right" nowrap="nowrap">32.70</td>
+<td align="right" nowrap="nowrap">25</td>
+<td align="right" nowrap="nowrap">2.25</td>
 <td align="right" nowrap="nowrap">22</td>
-<td align="right" nowrap="nowrap">.048</td>
-<td align="right" nowrap="nowrap">13</td>
-<td align="right" nowrap="nowrap">.095</td>
-<td align="right" nowrap="nowrap">29</td>
-<td align="right" nowrap="nowrap">30.05</td>
+<td align="right" nowrap="nowrap">.091</td>
 <td align="right" nowrap="nowrap">10</td>
-<td align="right" nowrap="nowrap">7.67</td>
-<td align="right" nowrap="nowrap">2</td>
-<td align="right" nowrap="nowrap">3:01</td>
-<td align="right" nowrap="nowrap">15</td>
-<td align="right" nowrap="nowrap">.742</td>
+<td align="right" nowrap="nowrap">.045</td>
+<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap">.045</td>
+<td align="right" nowrap="nowrap">20</td>
+<td align="right" nowrap="nowrap">30.50</td>
+<td align="right" nowrap="nowrap">12</td>
+<td align="right" nowrap="nowrap">6.95</td>
+<td align="right" nowrap="nowrap">6</td>
+<td align="right" nowrap="nowrap">2:55</td>
 <td align="right" nowrap="nowrap">17</td>
+<td align="right" nowrap="nowrap">.743</td>
+<td align="right" nowrap="nowrap">17</td>
+</tr>
+<tr>
+<td>CHI</td>
+<td align="center">45</td>
+<td align="right" nowrap="nowrap">32.29</td>
+<td align="right" nowrap="nowrap">26</td>
+<td align="right" nowrap="nowrap">1.89</td>
+<td align="right" nowrap="nowrap">26</td>
+<td align="right" nowrap="nowrap">.111</td>
+<td align="right" nowrap="nowrap">17</td>
+<td align="right" nowrap="nowrap">.111</td>
+<td align="right" nowrap="nowrap">25</td>
+<td align="right" nowrap="nowrap"><b>.000</b></td>
+<td align="right" nowrap="nowrap">1</td>
+<td align="right" nowrap="nowrap">28.02</td>
+<td align="right" nowrap="nowrap">19</td>
+<td align="right" nowrap="nowrap">6.04</td>
+<td align="right" nowrap="nowrap">23</td>
+<td align="right" nowrap="nowrap">2:48</td>
+<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">.706</td>
+<td align="right" nowrap="nowrap">26</td>
+</tr>
+<tr>
+<td>TB</td>
+<td align="center">48</td>
+<td align="right" nowrap="nowrap">31.90</td>
+<td align="right" nowrap="nowrap">27</td>
+<td align="right" nowrap="nowrap">2.46</td>
+<td align="right" nowrap="nowrap">14</td>
+<td align="right" nowrap="nowrap">.104</td>
+<td align="right" nowrap="nowrap">15</td>
+<td align="right" nowrap="nowrap">.083</td>
+<td align="right" nowrap="nowrap">22</td>
+<td align="right" nowrap="nowrap">.021</td>
+<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">31.50</td>
+<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">5.56</td>
+<td align="right" nowrap="nowrap">29</td>
+<td align="right" nowrap="nowrap">2:33</td>
+<td align="right" nowrap="nowrap">25</td>
+<td align="right" nowrap="nowrap">.727</td>
+<td align="right" nowrap="nowrap">23</td>
+</tr>
+<tr>
+<td>NYG</td>
+<td align="center">38</td>
+<td align="right" nowrap="nowrap">29.29</td>
+<td align="right" nowrap="nowrap">28</td>
+<td align="right" nowrap="nowrap">1.24</td>
+<td align="right" nowrap="nowrap">32</td>
+<td align="right" nowrap="nowrap">.211</td>
+<td align="right" nowrap="nowrap">32</td>
+<td align="right" nowrap="nowrap">.132</td>
+<td align="right" nowrap="nowrap">30</td>
+<td align="right" nowrap="nowrap">.079</td>
+<td align="right" nowrap="nowrap">27</td>
+<td align="right" nowrap="nowrap">30.89</td>
+<td align="right" nowrap="nowrap">10</td>
+<td align="right" nowrap="nowrap">6.58</td>
+<td align="right" nowrap="nowrap">13</td>
+<td align="right" nowrap="nowrap">2:49</td>
+<td align="right" nowrap="nowrap">19</td>
+<td align="right" nowrap="nowrap">.679</td>
+<td align="right" nowrap="nowrap">29</td>
 </tr>
 <tr>
 <td>DEN</td>
-<td align="center">24</td>
-<td align="right" nowrap="nowrap">28.38</td>
+<td align="center">47</td>
+<td align="right" nowrap="nowrap">28.00</td>
 <td align="right" nowrap="nowrap">29</td>
-<td align="right" nowrap="nowrap">1.46</td>
-<td align="right" nowrap="nowrap">29</td>
-<td align="right" nowrap="nowrap">.125</td>
-<td align="right" nowrap="nowrap">20</td>
-<td align="right" nowrap="nowrap">.042</td>
-<td align="right" nowrap="nowrap">10</td>
-<td align="right" nowrap="nowrap">.083</td>
-<td align="right" nowrap="nowrap">27</td>
-<td align="right" nowrap="nowrap">28.54</td>
-<td align="right" nowrap="nowrap">15</td>
-<td align="right" nowrap="nowrap">5.58</td>
+<td align="right" nowrap="nowrap">1.74</td>
 <td align="right" nowrap="nowrap">28</td>
-<td align="right" nowrap="nowrap">2:25</td>
-<td align="right" nowrap="nowrap">26</td>
-<td align="right" nowrap="nowrap">.677</td>
-<td align="right" nowrap="nowrap">29</td>
-</tr>
-<tr>
-<td>NYJ</td>
-<td align="center">21</td>
-<td align="right" nowrap="nowrap">27.43</td>
-<td align="right" nowrap="nowrap">30</td>
-<td align="right" nowrap="nowrap">1.43</td>
-<td align="right" nowrap="nowrap">32</td>
-<td align="right" nowrap="nowrap">.095</td>
-<td align="right" nowrap="nowrap">17</td>
-<td align="right" nowrap="nowrap">.048</td>
-<td align="right" nowrap="nowrap">15</td>
-<td align="right" nowrap="nowrap">.048</td>
-<td align="right" nowrap="nowrap">20</td>
-<td align="right" nowrap="nowrap">24.71</td>
-<td align="right" nowrap="nowrap">25</td>
-<td align="right" nowrap="nowrap">5.57</td>
-<td align="right" nowrap="nowrap">29</td>
-<td align="right" nowrap="nowrap">2:12</td>
-<td align="right" nowrap="nowrap">30</td>
-<td align="right" nowrap="nowrap">.640</td>
-<td align="right" nowrap="nowrap">32</td>
+<td align="right" nowrap="nowrap">.170</td>
+<td align="right" nowrap="nowrap">28</td>
+<td align="right" nowrap="nowrap">.128</td>
+<td align="right" nowrap="nowrap">27</td>
+<td align="right" nowrap="nowrap">.043</td>
+<td align="right" nowrap="nowrap">19</td>
+<td align="right" nowrap="nowrap">28.21</td>
+<td align="right" nowrap="nowrap">18</td>
+<td align="right" nowrap="nowrap">5.51</td>
+<td align="right" nowrap="nowrap">31</td>
+<td align="right" nowrap="nowrap">2:28</td>
+<td align="right" nowrap="nowrap">28</td>
+<td align="right" nowrap="nowrap">.667</td>
+<td align="right" nowrap="nowrap">31</td>
 </tr>
 <tr>
 <td>PHI</td>
-<td align="center">25</td>
-<td align="right" nowrap="nowrap">27.08</td>
-<td align="right" nowrap="nowrap">31</td>
-<td align="right" nowrap="nowrap">1.44</td>
-<td align="right" nowrap="nowrap">31</td>
-<td align="right" nowrap="nowrap">.240</td>
-<td align="right" nowrap="nowrap">32</td>
-<td align="right" nowrap="nowrap">.160</td>
-<td align="right" nowrap="nowrap">31</td>
-<td align="right" nowrap="nowrap">.080</td>
-<td align="right" nowrap="nowrap">26</td>
-<td align="right" nowrap="nowrap">26.48</td>
-<td align="right" nowrap="nowrap">21</td>
-<td align="right" nowrap="nowrap">5.60</td>
-<td align="right" nowrap="nowrap">27</td>
-<td align="right" nowrap="nowrap">2:23</td>
-<td align="right" nowrap="nowrap">27</td>
-<td align="right" nowrap="nowrap">.677</td>
+<td align="center">48</td>
+<td align="right" nowrap="nowrap">27.75</td>
 <td align="right" nowrap="nowrap">30</td>
+<td align="right" nowrap="nowrap">1.60</td>
+<td align="right" nowrap="nowrap">30</td>
+<td align="right" nowrap="nowrap">.188</td>
+<td align="right" nowrap="nowrap">31</td>
+<td align="right" nowrap="nowrap">.146</td>
+<td align="right" nowrap="nowrap">32</td>
+<td align="right" nowrap="nowrap">.042</td>
+<td align="right" nowrap="nowrap">18</td>
+<td align="right" nowrap="nowrap">26.29</td>
+<td align="right" nowrap="nowrap">24</td>
+<td align="right" nowrap="nowrap">6.02</td>
+<td align="right" nowrap="nowrap">24</td>
+<td align="right" nowrap="nowrap">2:38</td>
+<td align="right" nowrap="nowrap">24</td>
+<td align="right" nowrap="nowrap">.690</td>
+<td align="right" nowrap="nowrap">28</td>
+</tr>
+<tr>
+<td>NYJ</td>
+<td align="center">43</td>
+<td align="right" nowrap="nowrap">27.30</td>
+<td align="right" nowrap="nowrap">31</td>
+<td align="right" nowrap="nowrap">1.37</td>
+<td align="right" nowrap="nowrap">31</td>
+<td align="right" nowrap="nowrap">.116</td>
+<td align="right" nowrap="nowrap">18</td>
+<td align="right" nowrap="nowrap">.093</td>
+<td align="right" nowrap="nowrap">23</td>
+<td align="right" nowrap="nowrap">.023</td>
+<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">24.51</td>
+<td align="right" nowrap="nowrap">26</td>
+<td align="right" nowrap="nowrap">5.95</td>
+<td align="right" nowrap="nowrap">26</td>
+<td align="right" nowrap="nowrap">2:26</td>
+<td align="right" nowrap="nowrap">29</td>
+<td align="right" nowrap="nowrap">.631</td>
+<td align="right" nowrap="nowrap">32</td>
 </tr>
 <tr>
 <td>WAS</td>
-<td align="center">25</td>
-<td align="right" nowrap="nowrap">22.52</td>
+<td align="center">48</td>
+<td align="right" nowrap="nowrap">25.08</td>
 <td align="right" nowrap="nowrap">32</td>
-<td align="right" nowrap="nowrap">1.68</td>
-<td align="right" nowrap="nowrap">27</td>
-<td align="right" nowrap="nowrap">.040</td>
-<td align="right" nowrap="nowrap">4</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">8</td>
-<td align="right" nowrap="nowrap">.040</td>
-<td align="right" nowrap="nowrap">16</td>
-<td align="right" nowrap="nowrap">35.44</td>
-<td align="right" nowrap="nowrap">4</td>
-<td align="right" nowrap="nowrap">5.32</td>
-<td align="right" nowrap="nowrap">30</td>
-<td align="right" nowrap="nowrap">2:13</td>
+<td align="right" nowrap="nowrap">1.65</td>
 <td align="right" nowrap="nowrap">29</td>
-<td align="right" nowrap="nowrap">.649</td>
+<td align="right" nowrap="nowrap">.146</td>
+<td align="right" nowrap="nowrap">24</td>
+<td align="right" nowrap="nowrap">.062</td>
+<td align="right" nowrap="nowrap">15</td>
+<td align="right" nowrap="nowrap">.083</td>
+<td align="right" nowrap="nowrap">28</td>
+<td align="right" nowrap="nowrap">31.40</td>
+<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap">5.56</td>
+<td align="right" nowrap="nowrap">30</td>
+<td align="right" nowrap="nowrap">2:21</td>
 <td align="right" nowrap="nowrap">31</td>
+<td align="right" nowrap="nowrap">.678</td>
+<td align="right" nowrap="nowrap">30</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td><b>Avg</b></td>
-<td align="center"><b>21</b></td>
-<td align="right" nowrap="nowrap"><b>36.25</b></td>
+<td align="center"><b>41</b></td>
+<td align="right" nowrap="nowrap"><b>35.83</b></td>
 <td> </td>
-<td align="right" nowrap="nowrap"><b>2.35</b></td>
+<td align="right" nowrap="nowrap"><b>2.38</b></td>
 <td> </td>
-<td align="right" nowrap="nowrap"><b>.106</b></td>
+<td align="right" nowrap="nowrap"><b>.116</b></td>
 <td> </td>
-<td align="right" nowrap="nowrap"><b>.067</b></td>
+<td align="right" nowrap="nowrap"><b>.073</b></td>
 <td> </td>
-<td align="right" nowrap="nowrap"><b>.039</b></td>
+<td align="right" nowrap="nowrap"><b>.042</b></td>
 <td> </td>
-<td align="right" nowrap="nowrap"><b>28.52</b></td>
+<td align="right" nowrap="nowrap"><b>28.55</b></td>
 <td> </td>
-<td align="right" nowrap="nowrap"><b>6.44</b></td>
+<td align="right" nowrap="nowrap"><b>6.37</b></td>
 <td> </td>
 <td align="right" nowrap="nowrap"><b>2:52</b></td>
 <td> </td>
-<td align="right" nowrap="nowrap"><b>.751</b></td>
+<td align="right" nowrap="nowrap"><b>.748</b></td>
 <td> </td>
 </tr>
 </tfoot>
@@ -1391,731 +1391,731 @@ Drive stats compiled by Jim Armstrong</h3>
 </thead>
 <tbody>
 <tr>
-<td>SEA</td>
-<td align="center">20</td>
-<td align="right" nowrap="nowrap"><b>.500</b></td>
-<td align="right" nowrap="nowrap">1</td>
-<td align="right" nowrap="nowrap">.050</td>
-<td align="right" nowrap="nowrap">31</td>
-<td align="right" nowrap="nowrap">.400</td>
-<td align="right" nowrap="nowrap">27</td>
-<td align="right" nowrap="nowrap">.250</td>
-<td align="right" nowrap="nowrap">26</td>
-<td align="right" nowrap="nowrap">26.70</td>
-<td align="right" nowrap="nowrap">10</td>
-<td align="right" nowrap="nowrap">10.00</td>
-<td align="right" nowrap="nowrap">2</td>
-<td align="right" nowrap="nowrap"><b>7.00</b></td>
-<td align="right" nowrap="nowrap">1</td>
-<td align="right" nowrap="nowrap"><b>1.000</b></td>
-<td align="right" nowrap="nowrap">1</td>
-<td align="right" nowrap="nowrap">3.20</td>
-<td align="right" nowrap="nowrap">9</td>
-</tr>
-<tr>
 <td>GB</td>
-<td align="center">19</td>
-<td align="right" nowrap="nowrap">.474</td>
-<td align="right" nowrap="nowrap">2</td>
-<td align="right" nowrap="nowrap">.211</td>
-<td align="right" nowrap="nowrap">8</td>
-<td align="right" nowrap="nowrap">.211</td>
-<td align="right" nowrap="nowrap">3</td>
-<td align="right" nowrap="nowrap">.053</td>
-<td align="right" nowrap="nowrap">2</td>
-<td align="right" nowrap="nowrap">27.22</td>
-<td align="right" nowrap="nowrap">7</td>
-<td align="right" nowrap="nowrap">2.25</td>
-<td align="right" nowrap="nowrap">10</td>
-<td align="right" nowrap="nowrap">4.73</td>
-<td align="right" nowrap="nowrap">21</td>
-<td align="right" nowrap="nowrap">.545</td>
-<td align="right" nowrap="nowrap">24</td>
-<td align="right" nowrap="nowrap">5.63</td>
-<td align="right" nowrap="nowrap">4</td>
-</tr>
-<tr>
-<td>LV</td>
-<td align="center">18</td>
-<td align="right" nowrap="nowrap">.444</td>
-<td align="right" nowrap="nowrap">3</td>
-<td align="right" nowrap="nowrap">.222</td>
-<td align="right" nowrap="nowrap">7</td>
-<td align="right" nowrap="nowrap">.278</td>
-<td align="right" nowrap="nowrap">12</td>
-<td align="right" nowrap="nowrap">.111</td>
-<td align="right" nowrap="nowrap">11</td>
-<td align="right" nowrap="nowrap">24.64</td>
-<td align="right" nowrap="nowrap">24</td>
-<td align="right" nowrap="nowrap">2.00</td>
-<td align="right" nowrap="nowrap">12</td>
-<td align="right" nowrap="nowrap">6.00</td>
-<td align="right" nowrap="nowrap">7</td>
-<td align="right" nowrap="nowrap">.750</td>
-<td align="right" nowrap="nowrap">7</td>
-<td align="right" nowrap="nowrap">-0.50</td>
-<td align="right" nowrap="nowrap">17</td>
-</tr>
-<tr>
-<td>JAX</td>
-<td align="center">18</td>
-<td align="right" nowrap="nowrap">.389</td>
-<td align="right" nowrap="nowrap">4</td>
-<td align="right" nowrap="nowrap">.167</td>
-<td align="right" nowrap="nowrap">11</td>
-<td align="right" nowrap="nowrap">.278</td>
-<td align="right" nowrap="nowrap">11</td>
-<td align="right" nowrap="nowrap">.056</td>
-<td align="right" nowrap="nowrap">5</td>
-<td align="right" nowrap="nowrap">22.40</td>
-<td align="right" nowrap="nowrap">31</td>
-<td align="right" nowrap="nowrap">2.33</td>
-<td align="right" nowrap="nowrap">8</td>
-<td align="right" nowrap="nowrap">6.29</td>
-<td align="right" nowrap="nowrap">2</td>
-<td align="right" nowrap="nowrap">.857</td>
-<td align="right" nowrap="nowrap">2</td>
-<td align="right" nowrap="nowrap">-5.83</td>
-<td align="right" nowrap="nowrap">23</td>
-</tr>
-<tr>
-<td>LAR</td>
-<td align="center">19</td>
-<td align="right" nowrap="nowrap">.368</td>
-<td align="right" nowrap="nowrap">5</td>
-<td align="right" nowrap="nowrap">.158</td>
-<td align="right" nowrap="nowrap">13</td>
-<td align="right" nowrap="nowrap">.263</td>
-<td align="right" nowrap="nowrap">9</td>
-<td align="right" nowrap="nowrap">.105</td>
-<td align="right" nowrap="nowrap">10</td>
-<td align="right" nowrap="nowrap">25.12</td>
-<td align="right" nowrap="nowrap">19</td>
-<td align="right" nowrap="nowrap">2.33</td>
-<td align="right" nowrap="nowrap">9</td>
-<td align="right" nowrap="nowrap">5.00</td>
-<td align="right" nowrap="nowrap">17</td>
-<td align="right" nowrap="nowrap">.600</td>
-<td align="right" nowrap="nowrap">14</td>
-<td align="right" nowrap="nowrap">5.00</td>
-<td align="right" nowrap="nowrap">6</td>
-</tr>
-<tr>
-<td>BAL</td>
-<td align="center">20</td>
-<td align="right" nowrap="nowrap">.350</td>
-<td align="right" nowrap="nowrap">6</td>
-<td align="right" nowrap="nowrap">.250</td>
-<td align="right" nowrap="nowrap">4</td>
-<td align="right" nowrap="nowrap">.250</td>
-<td align="right" nowrap="nowrap">7</td>
-<td align="right" nowrap="nowrap">.150</td>
-<td align="right" nowrap="nowrap">15</td>
-<td align="right" nowrap="nowrap">27.17</td>
-<td align="right" nowrap="nowrap">8</td>
-<td align="right" nowrap="nowrap">1.40</td>
-<td align="right" nowrap="nowrap">21</td>
-<td align="right" nowrap="nowrap">5.33</td>
-<td align="right" nowrap="nowrap">11</td>
-<td align="right" nowrap="nowrap">.667</td>
-<td align="right" nowrap="nowrap">9</td>
-<td align="right" nowrap="nowrap"><b>12.30</b></td>
+<td align="center">36</td>
+<td align="right" nowrap="nowrap"><b>.472</b></td>
 <td align="right" nowrap="nowrap">1</td>
+<td align="right" nowrap="nowrap">.222</td>
+<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap"><b>.194</b></td>
+<td align="right" nowrap="nowrap">1</td>
+<td align="right" nowrap="nowrap"><b>.028</b></td>
+<td align="right" nowrap="nowrap">1</td>
+<td align="right" nowrap="nowrap">27.06</td>
+<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">2.12</td>
+<td align="right" nowrap="nowrap">12</td>
+<td align="right" nowrap="nowrap">5.15</td>
+<td align="right" nowrap="nowrap">17</td>
+<td align="right" nowrap="nowrap">.650</td>
+<td align="right" nowrap="nowrap">13</td>
+<td align="right" nowrap="nowrap">4.94</td>
+<td align="right" nowrap="nowrap">4</td>
+</tr>
+<tr>
+<td>SEA</td>
+<td align="center">43</td>
+<td align="right" nowrap="nowrap">.442</td>
+<td align="right" nowrap="nowrap">2</td>
+<td align="right" nowrap="nowrap">.047</td>
+<td align="right" nowrap="nowrap">32</td>
+<td align="right" nowrap="nowrap">.395</td>
+<td align="right" nowrap="nowrap">26</td>
+<td align="right" nowrap="nowrap">.186</td>
+<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">26.16</td>
+<td align="right" nowrap="nowrap">12</td>
+<td align="right" nowrap="nowrap"><b>9.50</b></td>
+<td align="right" nowrap="nowrap">1</td>
+<td align="right" nowrap="nowrap">6.07</td>
+<td align="right" nowrap="nowrap">3</td>
+<td align="right" nowrap="nowrap"><b>.867</b></td>
+<td align="right" nowrap="nowrap">1</td>
+<td align="right" nowrap="nowrap">3.47</td>
+<td align="right" nowrap="nowrap">7</td>
 </tr>
 <tr>
 <td>BUF</td>
-<td align="center">20</td>
-<td align="right" nowrap="nowrap">.350</td>
-<td align="right" nowrap="nowrap">7</td>
-<td align="right" nowrap="nowrap">.150</td>
-<td align="right" nowrap="nowrap">16</td>
-<td align="right" nowrap="nowrap">.250</td>
-<td align="right" nowrap="nowrap">8</td>
-<td align="right" nowrap="nowrap">.100</td>
-<td align="right" nowrap="nowrap">9</td>
-<td align="right" nowrap="nowrap">26.17</td>
-<td align="right" nowrap="nowrap">13</td>
-<td align="right" nowrap="nowrap">2.33</td>
-<td align="right" nowrap="nowrap">6</td>
-<td align="right" nowrap="nowrap">4.10</td>
-<td align="right" nowrap="nowrap">27</td>
-<td align="right" nowrap="nowrap">.500</td>
-<td align="right" nowrap="nowrap">25</td>
-<td align="right" nowrap="nowrap">7.00</td>
+<td align="center">38</td>
+<td align="right" nowrap="nowrap">.421</td>
 <td align="right" nowrap="nowrap">3</td>
+<td align="right" nowrap="nowrap">.105</td>
+<td align="right" nowrap="nowrap">26</td>
+<td align="right" nowrap="nowrap">.263</td>
+<td align="right" nowrap="nowrap">6</td>
+<td align="right" nowrap="nowrap">.132</td>
+<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap">28.53</td>
+<td align="right" nowrap="nowrap">3</td>
+<td align="right" nowrap="nowrap">4.00</td>
+<td align="right" nowrap="nowrap">2</td>
+<td align="right" nowrap="nowrap">5.21</td>
+<td align="right" nowrap="nowrap">14</td>
+<td align="right" nowrap="nowrap">.684</td>
+<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">6.84</td>
+<td align="right" nowrap="nowrap">2</td>
 </tr>
 <tr>
 <td>CLE</td>
-<td align="center">18</td>
-<td align="right" nowrap="nowrap">.333</td>
-<td align="right" nowrap="nowrap">8</td>
-<td align="right" nowrap="nowrap">.000</td>
-<td align="right" nowrap="nowrap">32</td>
-<td align="right" nowrap="nowrap">.222</td>
-<td align="right" nowrap="nowrap">5</td>
-<td align="right" nowrap="nowrap">.056</td>
+<td align="center">42</td>
+<td align="right" nowrap="nowrap">.381</td>
 <td align="right" nowrap="nowrap">4</td>
-<td align="right" nowrap="nowrap">25.00</td>
-<td align="right" nowrap="nowrap">20</td>
-<td align="right" nowrap="nowrap">N/A</td>
-<td align="right" nowrap="nowrap">1</td>
-<td align="right" nowrap="nowrap">5.67</td>
-<td align="right" nowrap="nowrap">8</td>
-<td align="right" nowrap="nowrap">.833</td>
-<td align="right" nowrap="nowrap">4</td>
-<td align="right" nowrap="nowrap">-6.78</td>
-<td align="right" nowrap="nowrap">26</td>
-</tr>
-<tr>
-<td>KC</td>
-<td align="center">19</td>
-<td align="right" nowrap="nowrap">.316</td>
-<td align="right" nowrap="nowrap">9</td>
-<td align="right" nowrap="nowrap">.263</td>
-<td align="right" nowrap="nowrap">2</td>
-<td align="right" nowrap="nowrap">.421</td>
-<td align="right" nowrap="nowrap">28</td>
-<td align="right" nowrap="nowrap">.053</td>
-<td align="right" nowrap="nowrap">3</td>
-<td align="right" nowrap="nowrap">31.33</td>
-<td align="right" nowrap="nowrap">3</td>
-<td align="right" nowrap="nowrap">1.20</td>
-<td align="right" nowrap="nowrap">26</td>
-<td align="right" nowrap="nowrap">5.14</td>
-<td align="right" nowrap="nowrap">13</td>
-<td align="right" nowrap="nowrap">.571</td>
-<td align="right" nowrap="nowrap">19</td>
-<td align="right" nowrap="nowrap">0.37</td>
-<td align="right" nowrap="nowrap">15</td>
-</tr>
-<tr>
-<td>NE</td>
-<td align="center">19</td>
-<td align="right" nowrap="nowrap">.316</td>
-<td align="right" nowrap="nowrap">10</td>
-<td align="right" nowrap="nowrap">.053</td>
-<td align="right" nowrap="nowrap">30</td>
-<td align="right" nowrap="nowrap">.263</td>
-<td align="right" nowrap="nowrap">10</td>
-<td align="right" nowrap="nowrap">.158</td>
-<td align="right" nowrap="nowrap">17</td>
-<td align="right" nowrap="nowrap">23.78</td>
-<td align="right" nowrap="nowrap">28</td>
-<td align="right" nowrap="nowrap">6.00</td>
-<td align="right" nowrap="nowrap">3</td>
-<td align="right" nowrap="nowrap">4.89</td>
-<td align="right" nowrap="nowrap">18</td>
-<td align="right" nowrap="nowrap">.667</td>
-<td align="right" nowrap="nowrap">11</td>
-<td align="right" nowrap="nowrap">0.68</td>
-<td align="right" nowrap="nowrap">12</td>
-</tr>
-<tr>
-<td>TEN</td>
-<td align="center">19</td>
-<td align="right" nowrap="nowrap">.316</td>
-<td align="right" nowrap="nowrap">11</td>
-<td align="right" nowrap="nowrap">.158</td>
-<td align="right" nowrap="nowrap">15</td>
-<td align="right" nowrap="nowrap">.368</td>
-<td align="right" nowrap="nowrap">18</td>
-<td align="right" nowrap="nowrap">.211</td>
-<td align="right" nowrap="nowrap">24</td>
-<td align="right" nowrap="nowrap">26.33</td>
-<td align="right" nowrap="nowrap">11</td>
-<td align="right" nowrap="nowrap">2.00</td>
-<td align="right" nowrap="nowrap">16</td>
-<td align="right" nowrap="nowrap">6.14</td>
-<td align="right" nowrap="nowrap">5</td>
-<td align="right" nowrap="nowrap">.857</td>
-<td align="right" nowrap="nowrap">3</td>
-<td align="right" nowrap="nowrap">1.53</td>
-<td align="right" nowrap="nowrap">11</td>
-</tr>
-<tr>
-<td>DAL</td>
-<td align="center">23</td>
-<td align="right" nowrap="nowrap">.304</td>
-<td align="right" nowrap="nowrap">12</td>
-<td align="right" nowrap="nowrap">.130</td>
-<td align="right" nowrap="nowrap">22</td>
-<td align="right" nowrap="nowrap">.217</td>
-<td align="right" nowrap="nowrap">4</td>
-<td align="right" nowrap="nowrap">.087</td>
-<td align="right" nowrap="nowrap">6</td>
-<td align="right" nowrap="nowrap">24.38</td>
-<td align="right" nowrap="nowrap">26</td>
-<td align="right" nowrap="nowrap">2.33</td>
-<td align="right" nowrap="nowrap">7</td>
-<td align="right" nowrap="nowrap">5.40</td>
-<td align="right" nowrap="nowrap">10</td>
-<td align="right" nowrap="nowrap">.700</td>
-<td align="right" nowrap="nowrap">8</td>
-<td align="right" nowrap="nowrap">-8.22</td>
-<td align="right" nowrap="nowrap">27</td>
-</tr>
-<tr>
-<td>ATL</td>
-<td align="center">24</td>
-<td align="right" nowrap="nowrap">.292</td>
-<td align="right" nowrap="nowrap">13</td>
-<td align="right" nowrap="nowrap">.250</td>
-<td align="right" nowrap="nowrap">3</td>
-<td align="right" nowrap="nowrap">.250</td>
-<td align="right" nowrap="nowrap">6</td>
-<td align="right" nowrap="nowrap">.125</td>
-<td align="right" nowrap="nowrap">13</td>
-<td align="right" nowrap="nowrap">24.85</td>
-<td align="right" nowrap="nowrap">23</td>
-<td align="right" nowrap="nowrap">1.17</td>
-<td align="right" nowrap="nowrap">27</td>
-<td align="right" nowrap="nowrap">4.75</td>
-<td align="right" nowrap="nowrap">20</td>
-<td align="right" nowrap="nowrap">.625</td>
-<td align="right" nowrap="nowrap">13</td>
-<td align="right" nowrap="nowrap">-0.62</td>
-<td align="right" nowrap="nowrap">18</td>
-</tr>
-<tr>
-<td>TB</td>
-<td align="center">24</td>
-<td align="right" nowrap="nowrap">.292</td>
-<td align="right" nowrap="nowrap">14</td>
-<td align="right" nowrap="nowrap">.083</td>
+<td align="right" nowrap="nowrap">.095</td>
 <td align="right" nowrap="nowrap">29</td>
-<td align="right" nowrap="nowrap">.375</td>
-<td align="right" nowrap="nowrap">20</td>
-<td align="right" nowrap="nowrap">.167</td>
-<td align="right" nowrap="nowrap">18</td>
-<td align="right" nowrap="nowrap">27.90</td>
+<td align="right" nowrap="nowrap">.310</td>
+<td align="right" nowrap="nowrap">13</td>
+<td align="right" nowrap="nowrap">.143</td>
+<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">26.76</td>
+<td align="right" nowrap="nowrap">10</td>
+<td align="right" nowrap="nowrap">4.00</td>
+<td align="right" nowrap="nowrap">3</td>
+<td align="right" nowrap="nowrap">5.93</td>
 <td align="right" nowrap="nowrap">5</td>
-<td align="right" nowrap="nowrap">3.50</td>
-<td align="right" nowrap="nowrap">4</td>
-<td align="right" nowrap="nowrap">6.17</td>
-<td align="right" nowrap="nowrap">4</td>
-<td align="right" nowrap="nowrap">.833</td>
-<td align="right" nowrap="nowrap">5</td>
-<td align="right" nowrap="nowrap">0.12</td>
-<td align="right" nowrap="nowrap">16</td>
+<td align="right" nowrap="nowrap">.800</td>
+<td align="right" nowrap="nowrap">2</td>
+<td align="right" nowrap="nowrap">0.52</td>
+<td align="right" nowrap="nowrap">11</td>
 </tr>
 <tr>
 <td>NO</td>
-<td align="center">21</td>
-<td align="right" nowrap="nowrap">.286</td>
-<td align="right" nowrap="nowrap">15</td>
-<td align="right" nowrap="nowrap">.143</td>
-<td align="right" nowrap="nowrap">19</td>
-<td align="right" nowrap="nowrap">.429</td>
-<td align="right" nowrap="nowrap">30</td>
-<td align="right" nowrap="nowrap">.190</td>
-<td align="right" nowrap="nowrap">20</td>
-<td align="right" nowrap="nowrap">27.82</td>
-<td align="right" nowrap="nowrap">6</td>
-<td align="right" nowrap="nowrap">2.00</td>
-<td align="right" nowrap="nowrap">13</td>
-<td align="right" nowrap="nowrap">5.10</td>
+<td align="center">40</td>
+<td align="right" nowrap="nowrap">.350</td>
+<td align="right" nowrap="nowrap">5</td>
+<td align="right" nowrap="nowrap">.150</td>
+<td align="right" nowrap="nowrap">18</td>
+<td align="right" nowrap="nowrap">.350</td>
+<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">.200</td>
+<td align="right" nowrap="nowrap">24</td>
+<td align="right" nowrap="nowrap">25.83</td>
 <td align="right" nowrap="nowrap">14</td>
-<td align="right" nowrap="nowrap">.600</td>
-<td align="right" nowrap="nowrap">15</td>
-<td align="right" nowrap="nowrap">2.38</td>
+<td align="right" nowrap="nowrap">2.33</td>
 <td align="right" nowrap="nowrap">10</td>
+<td align="right" nowrap="nowrap">5.50</td>
+<td align="right" nowrap="nowrap">9</td>
+<td align="right" nowrap="nowrap">.667</td>
+<td align="right" nowrap="nowrap">12</td>
+<td align="right" nowrap="nowrap">1.07</td>
+<td align="right" nowrap="nowrap">10</td>
+</tr>
+<tr>
+<td>KC</td>
+<td align="center">38</td>
+<td align="right" nowrap="nowrap">.342</td>
+<td align="right" nowrap="nowrap">6</td>
+<td align="right" nowrap="nowrap">.184</td>
+<td align="right" nowrap="nowrap">13</td>
+<td align="right" nowrap="nowrap">.342</td>
+<td align="right" nowrap="nowrap">18</td>
+<td align="right" nowrap="nowrap">.105</td>
+<td align="right" nowrap="nowrap">5</td>
+<td align="right" nowrap="nowrap">28.06</td>
+<td align="right" nowrap="nowrap">5</td>
+<td align="right" nowrap="nowrap">1.86</td>
+<td align="right" nowrap="nowrap">15</td>
+<td align="right" nowrap="nowrap">5.54</td>
+<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap">.692</td>
+<td align="right" nowrap="nowrap">9</td>
+<td align="right" nowrap="nowrap">3.47</td>
+<td align="right" nowrap="nowrap">6</td>
+</tr>
+<tr>
+<td>LAR</td>
+<td align="center">38</td>
+<td align="right" nowrap="nowrap">.342</td>
+<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">.132</td>
+<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">.263</td>
+<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap">.132</td>
+<td align="right" nowrap="nowrap">9</td>
+<td align="right" nowrap="nowrap">25.47</td>
+<td align="right" nowrap="nowrap">16</td>
+<td align="right" nowrap="nowrap">2.60</td>
+<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">5.31</td>
+<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">.625</td>
+<td align="right" nowrap="nowrap">14</td>
+<td align="right" nowrap="nowrap">0.29</td>
+<td align="right" nowrap="nowrap">12</td>
+</tr>
+<tr>
+<td>DAL</td>
+<td align="center">48</td>
+<td align="right" nowrap="nowrap">.333</td>
+<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap">.104</td>
+<td align="right" nowrap="nowrap">27</td>
+<td align="right" nowrap="nowrap">.229</td>
+<td align="right" nowrap="nowrap">3</td>
+<td align="right" nowrap="nowrap">.125</td>
+<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">23.19</td>
+<td align="right" nowrap="nowrap">31</td>
+<td align="right" nowrap="nowrap">3.20</td>
+<td align="right" nowrap="nowrap">5</td>
+<td align="right" nowrap="nowrap">5.43</td>
+<td align="right" nowrap="nowrap">10</td>
+<td align="right" nowrap="nowrap">.714</td>
+<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">-8.46</td>
+<td align="right" nowrap="nowrap">30</td>
 </tr>
 <tr>
 <td>SF</td>
-<td align="center">21</td>
-<td align="right" nowrap="nowrap">.286</td>
-<td align="right" nowrap="nowrap">16</td>
-<td align="right" nowrap="nowrap">.143</td>
-<td align="right" nowrap="nowrap">21</td>
-<td align="right" nowrap="nowrap">.381</td>
-<td align="right" nowrap="nowrap">23</td>
-<td align="right" nowrap="nowrap">.286</td>
-<td align="right" nowrap="nowrap">31</td>
-<td align="right" nowrap="nowrap">25.57</td>
-<td align="right" nowrap="nowrap">15</td>
-<td align="right" nowrap="nowrap">2.00</td>
-<td align="right" nowrap="nowrap">15</td>
-<td align="right" nowrap="nowrap">4.43</td>
-<td align="right" nowrap="nowrap">25</td>
-<td align="right" nowrap="nowrap">.571</td>
-<td align="right" nowrap="nowrap">22</td>
-<td align="right" nowrap="nowrap">8.10</td>
-<td align="right" nowrap="nowrap">2</td>
-</tr>
-<tr>
-<td>PIT</td>
-<td align="center">23</td>
-<td align="right" nowrap="nowrap">.261</td>
-<td align="right" nowrap="nowrap">17</td>
-<td align="right" nowrap="nowrap">.130</td>
-<td align="right" nowrap="nowrap">24</td>
-<td align="right" nowrap="nowrap">.391</td>
-<td align="right" nowrap="nowrap">25</td>
-<td align="right" nowrap="nowrap">.261</td>
-<td align="right" nowrap="nowrap">27</td>
-<td align="right" nowrap="nowrap"><b>33.40</b></td>
-<td align="right" nowrap="nowrap">1</td>
-<td align="right" nowrap="nowrap">2.00</td>
-<td align="right" nowrap="nowrap">14</td>
-<td align="right" nowrap="nowrap">4.71</td>
-<td align="right" nowrap="nowrap">24</td>
-<td align="right" nowrap="nowrap">.571</td>
-<td align="right" nowrap="nowrap">21</td>
-<td align="right" nowrap="nowrap">4.17</td>
-<td align="right" nowrap="nowrap">8</td>
-</tr>
-<tr>
-<td>ARI</td>
-<td align="center">24</td>
-<td align="right" nowrap="nowrap">.250</td>
-<td align="right" nowrap="nowrap">18</td>
-<td align="right" nowrap="nowrap">.167</td>
-<td align="right" nowrap="nowrap">10</td>
-<td align="right" nowrap="nowrap">.333</td>
-<td align="right" nowrap="nowrap">16</td>
-<td align="right" nowrap="nowrap">.125</td>
-<td align="right" nowrap="nowrap">12</td>
-<td align="right" nowrap="nowrap">25.33</td>
-<td align="right" nowrap="nowrap">17</td>
-<td align="right" nowrap="nowrap">1.50</td>
-<td align="right" nowrap="nowrap">20</td>
-<td align="right" nowrap="nowrap">5.50</td>
+<td align="center">41</td>
+<td align="right" nowrap="nowrap">.317</td>
 <td align="right" nowrap="nowrap">9</td>
+<td align="right" nowrap="nowrap">.146</td>
+<td align="right" nowrap="nowrap">19</td>
+<td align="right" nowrap="nowrap">.293</td>
+<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">.195</td>
+<td align="right" nowrap="nowrap">22</td>
+<td align="right" nowrap="nowrap">25.25</td>
+<td align="right" nowrap="nowrap">17</td>
+<td align="right" nowrap="nowrap">2.17</td>
+<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">4.81</td>
+<td align="right" nowrap="nowrap">23</td>
 <td align="right" nowrap="nowrap">.625</td>
+<td align="right" nowrap="nowrap">15</td>
+<td align="right" nowrap="nowrap">4.83</td>
+<td align="right" nowrap="nowrap">5</td>
+</tr>
+<tr>
+<td>LV</td>
+<td align="center">38</td>
+<td align="right" nowrap="nowrap">.316</td>
+<td align="right" nowrap="nowrap">10</td>
+<td align="right" nowrap="nowrap">.237</td>
+<td align="right" nowrap="nowrap">5</td>
+<td align="right" nowrap="nowrap">.237</td>
+<td align="right" nowrap="nowrap">4</td>
+<td align="right" nowrap="nowrap">.079</td>
+<td align="right" nowrap="nowrap">3</td>
+<td align="right" nowrap="nowrap">24.16</td>
+<td align="right" nowrap="nowrap">26</td>
+<td align="right" nowrap="nowrap">1.33</td>
+<td align="right" nowrap="nowrap">23</td>
+<td align="right" nowrap="nowrap">5.18</td>
+<td align="right" nowrap="nowrap">16</td>
+<td align="right" nowrap="nowrap">.588</td>
+<td align="right" nowrap="nowrap">20</td>
+<td align="right" nowrap="nowrap">-4.47</td>
+<td align="right" nowrap="nowrap">25</td>
+</tr>
+<tr>
+<td>TB</td>
+<td align="center">48</td>
+<td align="right" nowrap="nowrap">.312</td>
+<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">.104</td>
+<td align="right" nowrap="nowrap">28</td>
+<td align="right" nowrap="nowrap">.354</td>
+<td align="right" nowrap="nowrap">22</td>
+<td align="right" nowrap="nowrap">.167</td>
+<td align="right" nowrap="nowrap">16</td>
+<td align="right" nowrap="nowrap">27.05</td>
+<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap">3.00</td>
+<td align="right" nowrap="nowrap">6</td>
+<td align="right" nowrap="nowrap">6.07</td>
+<td align="right" nowrap="nowrap">4</td>
+<td align="right" nowrap="nowrap">.800</td>
+<td align="right" nowrap="nowrap">3</td>
+<td align="right" nowrap="nowrap">1.62</td>
+<td align="right" nowrap="nowrap">9</td>
+</tr>
+<tr>
+<td>BAL</td>
+<td align="center">40</td>
+<td align="right" nowrap="nowrap">.300</td>
 <td align="right" nowrap="nowrap">12</td>
-<td align="right" nowrap="nowrap">4.71</td>
-<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">.200</td>
+<td align="right" nowrap="nowrap">9</td>
+<td align="right" nowrap="nowrap">.275</td>
+<td align="right" nowrap="nowrap">9</td>
+<td align="right" nowrap="nowrap">.175</td>
+<td align="right" nowrap="nowrap">18</td>
+<td align="right" nowrap="nowrap">28.43</td>
+<td align="right" nowrap="nowrap">4</td>
+<td align="right" nowrap="nowrap">1.50</td>
+<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">4.86</td>
+<td align="right" nowrap="nowrap">22</td>
+<td align="right" nowrap="nowrap">.571</td>
+<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">6.70</td>
+<td align="right" nowrap="nowrap">3</td>
 </tr>
 <tr>
 <td>MIN</td>
-<td align="center">20</td>
-<td align="right" nowrap="nowrap">.250</td>
-<td align="right" nowrap="nowrap">19</td>
-<td align="right" nowrap="nowrap">.100</td>
-<td align="right" nowrap="nowrap">27</td>
-<td align="right" nowrap="nowrap">.300</td>
-<td align="right" nowrap="nowrap">14</td>
-<td align="right" nowrap="nowrap">.200</td>
-<td align="right" nowrap="nowrap">21</td>
-<td align="right" nowrap="nowrap">25.47</td>
-<td align="right" nowrap="nowrap">16</td>
-<td align="right" nowrap="nowrap">2.50</td>
-<td align="right" nowrap="nowrap">5</td>
-<td align="right" nowrap="nowrap">6.17</td>
-<td align="right" nowrap="nowrap">3</td>
-<td align="right" nowrap="nowrap">.667</td>
-<td align="right" nowrap="nowrap">10</td>
-<td align="right" nowrap="nowrap">-10.05</td>
-<td align="right" nowrap="nowrap">31</td>
-</tr>
-<tr>
-<td>CHI</td>
-<td align="center">21</td>
-<td align="right" nowrap="nowrap">.238</td>
-<td align="right" nowrap="nowrap">20</td>
-<td align="right" nowrap="nowrap">.143</td>
-<td align="right" nowrap="nowrap">18</td>
-<td align="right" nowrap="nowrap">.381</td>
-<td align="right" nowrap="nowrap">21</td>
-<td align="right" nowrap="nowrap">.095</td>
-<td align="right" nowrap="nowrap">8</td>
-<td align="right" nowrap="nowrap">26.20</td>
-<td align="right" nowrap="nowrap">12</td>
-<td align="right" nowrap="nowrap">1.67</td>
-<td align="right" nowrap="nowrap">17</td>
-<td align="right" nowrap="nowrap">5.00</td>
-<td align="right" nowrap="nowrap">15</td>
-<td align="right" nowrap="nowrap">.500</td>
-<td align="right" nowrap="nowrap">26</td>
-<td align="right" nowrap="nowrap">0.57</td>
-<td align="right" nowrap="nowrap">14</td>
-</tr>
-<tr>
-<td>CAR</td>
-<td align="center">22</td>
-<td align="right" nowrap="nowrap">.227</td>
-<td align="right" nowrap="nowrap">21</td>
-<td align="right" nowrap="nowrap">.182</td>
-<td align="right" nowrap="nowrap">9</td>
-<td align="right" nowrap="nowrap">.182</td>
-<td align="right" nowrap="nowrap">2</td>
+<td align="center">44</td>
+<td align="right" nowrap="nowrap">.295</td>
+<td align="right" nowrap="nowrap">13</td>
 <td align="right" nowrap="nowrap">.091</td>
-<td align="right" nowrap="nowrap">7</td>
-<td align="right" nowrap="nowrap">25.15</td>
+<td align="right" nowrap="nowrap">30</td>
+<td align="right" nowrap="nowrap">.295</td>
+<td align="right" nowrap="nowrap">12</td>
+<td align="right" nowrap="nowrap">.182</td>
+<td align="right" nowrap="nowrap">20</td>
+<td align="right" nowrap="nowrap">25.13</td>
 <td align="right" nowrap="nowrap">18</td>
-<td align="right" nowrap="nowrap">1.25</td>
-<td align="right" nowrap="nowrap">25</td>
-<td align="right" nowrap="nowrap">4.71</td>
+<td align="right" nowrap="nowrap">3.25</td>
+<td align="right" nowrap="nowrap">4</td>
+<td align="right" nowrap="nowrap"><b>6.23</b></td>
+<td align="right" nowrap="nowrap">1</td>
+<td align="right" nowrap="nowrap">.769</td>
+<td align="right" nowrap="nowrap">5</td>
+<td align="right" nowrap="nowrap">-2.48</td>
 <td align="right" nowrap="nowrap">22</td>
-<td align="right" nowrap="nowrap">.571</td>
+</tr>
+<tr>
+<td>JAX</td>
+<td align="center">38</td>
+<td align="right" nowrap="nowrap">.289</td>
+<td align="right" nowrap="nowrap">14</td>
+<td align="right" nowrap="nowrap">.184</td>
+<td align="right" nowrap="nowrap">12</td>
+<td align="right" nowrap="nowrap">.263</td>
+<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">.053</td>
+<td align="right" nowrap="nowrap">2</td>
+<td align="right" nowrap="nowrap">23.92</td>
+<td align="right" nowrap="nowrap">27</td>
+<td align="right" nowrap="nowrap">1.57</td>
+<td align="right" nowrap="nowrap">18</td>
+<td align="right" nowrap="nowrap">5.64</td>
+<td align="right" nowrap="nowrap">6</td>
+<td align="right" nowrap="nowrap">.714</td>
+<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap">-8.16</td>
+<td align="right" nowrap="nowrap">29</td>
+</tr>
+<tr>
+<td>ARI</td>
+<td align="center">43</td>
+<td align="right" nowrap="nowrap">.279</td>
+<td align="right" nowrap="nowrap">15</td>
+<td align="right" nowrap="nowrap">.116</td>
+<td align="right" nowrap="nowrap">24</td>
+<td align="right" nowrap="nowrap">.349</td>
+<td align="right" nowrap="nowrap">20</td>
+<td align="right" nowrap="nowrap">.140</td>
+<td align="right" nowrap="nowrap">10</td>
+<td align="right" nowrap="nowrap">25.05</td>
+<td align="right" nowrap="nowrap">19</td>
+<td align="right" nowrap="nowrap">2.40</td>
+<td align="right" nowrap="nowrap">9</td>
+<td align="right" nowrap="nowrap">6.07</td>
+<td align="right" nowrap="nowrap">2</td>
+<td align="right" nowrap="nowrap">.786</td>
+<td align="right" nowrap="nowrap">4</td>
+<td align="right" nowrap="nowrap">-0.47</td>
+<td align="right" nowrap="nowrap">15</td>
+</tr>
+<tr>
+<td>PIT</td>
+<td align="center">33</td>
+<td align="right" nowrap="nowrap">.273</td>
+<td align="right" nowrap="nowrap">16</td>
+<td align="right" nowrap="nowrap">.152</td>
 <td align="right" nowrap="nowrap">17</td>
-<td align="right" nowrap="nowrap">-9.36</td>
-<td align="right" nowrap="nowrap">28</td>
+<td align="right" nowrap="nowrap">.394</td>
+<td align="right" nowrap="nowrap">25</td>
+<td align="right" nowrap="nowrap">.303</td>
+<td align="right" nowrap="nowrap">31</td>
+<td align="right" nowrap="nowrap"><b>31.69</b></td>
+<td align="right" nowrap="nowrap">1</td>
+<td align="right" nowrap="nowrap">1.80</td>
+<td align="right" nowrap="nowrap">16</td>
+<td align="right" nowrap="nowrap">4.50</td>
+<td align="right" nowrap="nowrap">26</td>
+<td align="right" nowrap="nowrap">.500</td>
+<td align="right" nowrap="nowrap">27</td>
+<td align="right" nowrap="nowrap">2.21</td>
+<td align="right" nowrap="nowrap">8</td>
 </tr>
 <tr>
 <td>DET</td>
-<td align="center">23</td>
-<td align="right" nowrap="nowrap">.217</td>
-<td align="right" nowrap="nowrap">22</td>
-<td align="right" nowrap="nowrap">.130</td>
-<td align="right" nowrap="nowrap">23</td>
-<td align="right" nowrap="nowrap">.391</td>
-<td align="right" nowrap="nowrap">24</td>
-<td align="right" nowrap="nowrap">.304</td>
-<td align="right" nowrap="nowrap">32</td>
-<td align="right" nowrap="nowrap">25.57</td>
+<td align="center">42</td>
+<td align="right" nowrap="nowrap">.262</td>
+<td align="right" nowrap="nowrap">17</td>
+<td align="right" nowrap="nowrap">.167</td>
 <td align="right" nowrap="nowrap">14</td>
-<td align="right" nowrap="nowrap">1.67</td>
-<td align="right" nowrap="nowrap">18</td>
-<td align="right" nowrap="nowrap">4.86</td>
+<td align="right" nowrap="nowrap">.405</td>
+<td align="right" nowrap="nowrap">28</td>
+<td align="right" nowrap="nowrap">.238</td>
+<td align="right" nowrap="nowrap">28</td>
+<td align="right" nowrap="nowrap">24.44</td>
+<td align="right" nowrap="nowrap">23</td>
+<td align="right" nowrap="nowrap">1.57</td>
+<td align="right" nowrap="nowrap">17</td>
+<td align="right" nowrap="nowrap">4.94</td>
 <td align="right" nowrap="nowrap">19</td>
-<td align="right" nowrap="nowrap">.571</td>
+<td align="right" nowrap="nowrap">.556</td>
+<td align="right" nowrap="nowrap">22</td>
+<td align="right" nowrap="nowrap">-2.81</td>
+<td align="right" nowrap="nowrap">23</td>
+</tr>
+<tr>
+<td>TEN</td>
+<td align="center">31</td>
+<td align="right" nowrap="nowrap">.258</td>
 <td align="right" nowrap="nowrap">18</td>
-<td align="right" nowrap="nowrap">-2.17</td>
+<td align="right" nowrap="nowrap">.290</td>
+<td align="right" nowrap="nowrap">2</td>
+<td align="right" nowrap="nowrap">.323</td>
+<td align="right" nowrap="nowrap">16</td>
+<td align="right" nowrap="nowrap">.161</td>
+<td align="right" nowrap="nowrap">14</td>
+<td align="right" nowrap="nowrap">26.07</td>
+<td align="right" nowrap="nowrap">13</td>
+<td align="right" nowrap="nowrap">0.89</td>
+<td align="right" nowrap="nowrap">28</td>
+<td align="right" nowrap="nowrap">5.64</td>
+<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">.727</td>
+<td align="right" nowrap="nowrap">6</td>
+<td align="right" nowrap="nowrap">-0.71</td>
+<td align="right" nowrap="nowrap">16</td>
+</tr>
+<tr>
+<td>NE</td>
+<td align="center">39</td>
+<td align="right" nowrap="nowrap">.256</td>
+<td align="right" nowrap="nowrap">19</td>
+<td align="right" nowrap="nowrap">.128</td>
+<td align="right" nowrap="nowrap">22</td>
+<td align="right" nowrap="nowrap">.256</td>
+<td align="right" nowrap="nowrap">5</td>
+<td align="right" nowrap="nowrap">.154</td>
+<td align="right" nowrap="nowrap">12</td>
+<td align="right" nowrap="nowrap">23.78</td>
+<td align="right" nowrap="nowrap">28</td>
+<td align="right" nowrap="nowrap">2.00</td>
+<td align="right" nowrap="nowrap">14</td>
+<td align="right" nowrap="nowrap">4.44</td>
+<td align="right" nowrap="nowrap">27</td>
+<td align="right" nowrap="nowrap">.556</td>
+<td align="right" nowrap="nowrap">23</td>
+<td align="right" nowrap="nowrap">-1.08</td>
+<td align="right" nowrap="nowrap">18</td>
+</tr>
+<tr>
+<td>ATL</td>
+<td align="center">47</td>
+<td align="right" nowrap="nowrap">.255</td>
+<td align="right" nowrap="nowrap">20</td>
+<td align="right" nowrap="nowrap">.191</td>
+<td align="right" nowrap="nowrap">10</td>
+<td align="right" nowrap="nowrap">.319</td>
+<td align="right" nowrap="nowrap">14</td>
+<td align="right" nowrap="nowrap">.213</td>
+<td align="right" nowrap="nowrap">27</td>
+<td align="right" nowrap="nowrap">24.36</td>
+<td align="right" nowrap="nowrap">24</td>
+<td align="right" nowrap="nowrap">1.33</td>
+<td align="right" nowrap="nowrap">22</td>
+<td align="right" nowrap="nowrap">4.87</td>
+<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">.600</td>
+<td align="right" nowrap="nowrap">16</td>
+<td align="right" nowrap="nowrap">-0.40</td>
+<td align="right" nowrap="nowrap">13</td>
+</tr>
+<tr>
+<td>CAR</td>
+<td align="center">41</td>
+<td align="right" nowrap="nowrap">.244</td>
+<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">.244</td>
+<td align="right" nowrap="nowrap">4</td>
+<td align="right" nowrap="nowrap">.220</td>
+<td align="right" nowrap="nowrap">2</td>
+<td align="right" nowrap="nowrap">.122</td>
+<td align="right" nowrap="nowrap">6</td>
+<td align="right" nowrap="nowrap">26.81</td>
+<td align="right" nowrap="nowrap">9</td>
+<td align="right" nowrap="nowrap">1.00</td>
+<td align="right" nowrap="nowrap">26</td>
+<td align="right" nowrap="nowrap">4.72</td>
+<td align="right" nowrap="nowrap">25</td>
+<td align="right" nowrap="nowrap">.500</td>
+<td align="right" nowrap="nowrap">25</td>
+<td align="right" nowrap="nowrap">-1.51</td>
+<td align="right" nowrap="nowrap">21</td>
+</tr>
+<tr>
+<td>MIA</td>
+<td align="center">38</td>
+<td align="right" nowrap="nowrap">.237</td>
+<td align="right" nowrap="nowrap">22</td>
+<td align="right" nowrap="nowrap">.237</td>
+<td align="right" nowrap="nowrap">6</td>
+<td align="right" nowrap="nowrap">.342</td>
+<td align="right" nowrap="nowrap">19</td>
+<td align="right" nowrap="nowrap">.211</td>
+<td align="right" nowrap="nowrap">26</td>
+<td align="right" nowrap="nowrap">24.56</td>
+<td align="right" nowrap="nowrap">22</td>
+<td align="right" nowrap="nowrap">1.00</td>
+<td align="right" nowrap="nowrap">27</td>
+<td align="right" nowrap="nowrap">5.20</td>
+<td align="right" nowrap="nowrap">15</td>
+<td align="right" nowrap="nowrap">.600</td>
+<td align="right" nowrap="nowrap">19</td>
+<td align="right" nowrap="nowrap">-1.37</td>
 <td align="right" nowrap="nowrap">20</td>
 </tr>
 <tr>
 <td>HOU</td>
-<td align="center">19</td>
-<td align="right" nowrap="nowrap">.211</td>
+<td align="center">39</td>
+<td align="right" nowrap="nowrap">.231</td>
 <td align="right" nowrap="nowrap">23</td>
-<td align="right" nowrap="nowrap">.158</td>
-<td align="right" nowrap="nowrap">12</td>
-<td align="right" nowrap="nowrap">.316</td>
-<td align="right" nowrap="nowrap">15</td>
-<td align="right" nowrap="nowrap">.158</td>
+<td align="right" nowrap="nowrap">.154</td>
 <td align="right" nowrap="nowrap">16</td>
-<td align="right" nowrap="nowrap">23.79</td>
-<td align="right" nowrap="nowrap">27</td>
-<td align="right" nowrap="nowrap">1.33</td>
-<td align="right" nowrap="nowrap">23</td>
-<td align="right" nowrap="nowrap">6.00</td>
-<td align="right" nowrap="nowrap">6</td>
-<td align="right" nowrap="nowrap">.800</td>
-<td align="right" nowrap="nowrap">6</td>
-<td align="right" nowrap="nowrap">-9.95</td>
+<td align="right" nowrap="nowrap">.410</td>
 <td align="right" nowrap="nowrap">29</td>
-</tr>
-<tr>
-<td>IND</td>
-<td align="center">19</td>
-<td align="right" nowrap="nowrap">.211</td>
-<td align="right" nowrap="nowrap">24</td>
-<td align="right" nowrap="nowrap"><b>.316</b></td>
-<td align="right" nowrap="nowrap">1</td>
-<td align="right" nowrap="nowrap"><b>.105</b></td>
-<td align="right" nowrap="nowrap">1</td>
-<td align="right" nowrap="nowrap"><b>.000</b></td>
-<td align="right" nowrap="nowrap">1</td>
-<td align="right" nowrap="nowrap">30.10</td>
-<td align="right" nowrap="nowrap">4</td>
-<td align="right" nowrap="nowrap">0.67</td>
-<td align="right" nowrap="nowrap">31</td>
-<td align="right" nowrap="nowrap">3.78</td>
-<td align="right" nowrap="nowrap">31</td>
-<td align="right" nowrap="nowrap">.444</td>
-<td align="right" nowrap="nowrap">28</td>
-<td align="right" nowrap="nowrap">5.11</td>
-<td align="right" nowrap="nowrap">5</td>
-</tr>
-<tr>
-<td>MIA</td>
-<td align="center">19</td>
-<td align="right" nowrap="nowrap">.211</td>
+<td align="right" nowrap="nowrap">.308</td>
+<td align="right" nowrap="nowrap">32</td>
+<td align="right" nowrap="nowrap">24.27</td>
 <td align="right" nowrap="nowrap">25</td>
-<td align="right" nowrap="nowrap">.158</td>
-<td align="right" nowrap="nowrap">14</td>
-<td align="right" nowrap="nowrap">.421</td>
-<td align="right" nowrap="nowrap">29</td>
-<td align="right" nowrap="nowrap">.263</td>
-<td align="right" nowrap="nowrap">28</td>
-<td align="right" nowrap="nowrap">25.00</td>
-<td align="right" nowrap="nowrap">21</td>
-<td align="right" nowrap="nowrap">1.33</td>
-<td align="right" nowrap="nowrap">24</td>
-<td align="right" nowrap="nowrap">4.71</td>
-<td align="right" nowrap="nowrap">23</td>
-<td align="right" nowrap="nowrap">.571</td>
+<td align="right" nowrap="nowrap">1.50</td>
 <td align="right" nowrap="nowrap">20</td>
-<td align="right" nowrap="nowrap">-6.00</td>
+<td align="right" nowrap="nowrap">5.00</td>
+<td align="right" nowrap="nowrap">18</td>
+<td align="right" nowrap="nowrap">.600</td>
+<td align="right" nowrap="nowrap">17</td>
+<td align="right" nowrap="nowrap">-6.77</td>
+<td align="right" nowrap="nowrap">27</td>
+</tr>
+<tr>
+<td>CHI</td>
+<td align="center">45</td>
+<td align="right" nowrap="nowrap">.222</td>
+<td align="right" nowrap="nowrap">24</td>
+<td align="right" nowrap="nowrap">.111</td>
+<td align="right" nowrap="nowrap">25</td>
+<td align="right" nowrap="nowrap">.422</td>
+<td align="right" nowrap="nowrap">30</td>
+<td align="right" nowrap="nowrap">.200</td>
+<td align="right" nowrap="nowrap">23</td>
+<td align="right" nowrap="nowrap">25.48</td>
+<td align="right" nowrap="nowrap">15</td>
+<td align="right" nowrap="nowrap">2.00</td>
+<td align="right" nowrap="nowrap">13</td>
+<td align="right" nowrap="nowrap">4.75</td>
+<td align="right" nowrap="nowrap">24</td>
+<td align="right" nowrap="nowrap">.500</td>
+<td align="right" nowrap="nowrap">26</td>
+<td align="right" nowrap="nowrap">-4.40</td>
 <td align="right" nowrap="nowrap">24</td>
 </tr>
 <tr>
 <td>WAS</td>
-<td align="center">25</td>
-<td align="right" nowrap="nowrap">.200</td>
-<td align="right" nowrap="nowrap">26</td>
-<td align="right" nowrap="nowrap">.120</td>
-<td align="right" nowrap="nowrap">26</td>
-<td align="right" nowrap="nowrap">.520</td>
+<td align="center">48</td>
+<td align="right" nowrap="nowrap">.208</td>
+<td align="right" nowrap="nowrap">25</td>
+<td align="right" nowrap="nowrap">.083</td>
 <td align="right" nowrap="nowrap">31</td>
-<td align="right" nowrap="nowrap">.280</td>
-<td align="right" nowrap="nowrap">30</td>
-<td align="right" nowrap="nowrap">21.91</td>
+<td align="right" nowrap="nowrap">.438</td>
+<td align="right" nowrap="nowrap">31</td>
+<td align="right" nowrap="nowrap">.208</td>
+<td align="right" nowrap="nowrap">25</td>
+<td align="right" nowrap="nowrap">23.08</td>
 <td align="right" nowrap="nowrap">32</td>
-<td align="right" nowrap="nowrap">1.67</td>
-<td align="right" nowrap="nowrap">19</td>
-<td align="right" nowrap="nowrap">4.29</td>
-<td align="right" nowrap="nowrap">26</td>
-<td align="right" nowrap="nowrap">.571</td>
-<td align="right" nowrap="nowrap">23</td>
-<td align="right" nowrap="nowrap">-9.96</td>
-<td align="right" nowrap="nowrap">30</td>
+<td align="right" nowrap="nowrap">2.50</td>
+<td align="right" nowrap="nowrap">8</td>
+<td align="right" nowrap="nowrap">4.92</td>
+<td align="right" nowrap="nowrap">20</td>
+<td align="right" nowrap="nowrap">.692</td>
+<td align="right" nowrap="nowrap">10</td>
+<td align="right" nowrap="nowrap">-9.33</td>
+<td align="right" nowrap="nowrap">31</td>
 </tr>
 <tr>
 <td>CIN</td>
-<td align="center">21</td>
-<td align="right" nowrap="nowrap">.190</td>
-<td align="right" nowrap="nowrap">27</td>
-<td align="right" nowrap="nowrap">.238</td>
-<td align="right" nowrap="nowrap">5</td>
-<td align="right" nowrap="nowrap">.381</td>
-<td align="right" nowrap="nowrap">22</td>
-<td align="right" nowrap="nowrap">.190</td>
+<td align="center">44</td>
+<td align="right" nowrap="nowrap">.205</td>
+<td align="right" nowrap="nowrap">26</td>
+<td align="right" nowrap="nowrap">.273</td>
+<td align="right" nowrap="nowrap">3</td>
+<td align="right" nowrap="nowrap">.364</td>
+<td align="right" nowrap="nowrap">23</td>
+<td align="right" nowrap="nowrap">.182</td>
 <td align="right" nowrap="nowrap">19</td>
-<td align="right" nowrap="nowrap">31.40</td>
-<td align="right" nowrap="nowrap">2</td>
-<td align="right" nowrap="nowrap">0.80</td>
+<td align="right" nowrap="nowrap">27.90</td>
+<td align="right" nowrap="nowrap">6</td>
+<td align="right" nowrap="nowrap">0.75</td>
+<td align="right" nowrap="nowrap">29</td>
+<td align="right" nowrap="nowrap">4.08</td>
+<td align="right" nowrap="nowrap">29</td>
+<td align="right" nowrap="nowrap">.385</td>
 <td align="right" nowrap="nowrap">30</td>
-<td align="right" nowrap="nowrap">4.00</td>
-<td align="right" nowrap="nowrap">28</td>
-<td align="right" nowrap="nowrap">.400</td>
-<td align="right" nowrap="nowrap">30</td>
-<td align="right" nowrap="nowrap">-3.00</td>
-<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">-1.34</td>
+<td align="right" nowrap="nowrap">19</td>
 </tr>
 <tr>
 <td>DEN</td>
-<td align="center">24</td>
-<td align="right" nowrap="nowrap">.167</td>
-<td align="right" nowrap="nowrap">28</td>
-<td align="right" nowrap="nowrap">.083</td>
-<td align="right" nowrap="nowrap">28</td>
-<td align="right" nowrap="nowrap">.375</td>
-<td align="right" nowrap="nowrap">19</td>
-<td align="right" nowrap="nowrap">.125</td>
-<td align="right" nowrap="nowrap">14</td>
-<td align="right" nowrap="nowrap">22.56</td>
-<td align="right" nowrap="nowrap">30</td>
-<td align="right" nowrap="nowrap">2.00</td>
-<td align="right" nowrap="nowrap">11</td>
-<td align="right" nowrap="nowrap">3.86</td>
-<td align="right" nowrap="nowrap">30</td>
-<td align="right" nowrap="nowrap">.429</td>
-<td align="right" nowrap="nowrap">29</td>
-<td align="right" nowrap="nowrap">-4.38</td>
-<td align="right" nowrap="nowrap">22</td>
-</tr>
-<tr>
-<td>PHI</td>
-<td align="center">25</td>
-<td align="right" nowrap="nowrap">.160</td>
-<td align="right" nowrap="nowrap">29</td>
-<td align="right" nowrap="nowrap">.120</td>
-<td align="right" nowrap="nowrap">25</td>
-<td align="right" nowrap="nowrap">.280</td>
-<td align="right" nowrap="nowrap">13</td>
-<td align="right" nowrap="nowrap">.200</td>
+<td align="center">47</td>
+<td align="right" nowrap="nowrap">.191</td>
+<td align="right" nowrap="nowrap">27</td>
+<td align="right" nowrap="nowrap">.128</td>
 <td align="right" nowrap="nowrap">23</td>
-<td align="right" nowrap="nowrap">24.46</td>
-<td align="right" nowrap="nowrap">25</td>
-<td align="right" nowrap="nowrap">1.33</td>
-<td align="right" nowrap="nowrap">22</td>
-<td align="right" nowrap="nowrap">5.20</td>
-<td align="right" nowrap="nowrap">12</td>
-<td align="right" nowrap="nowrap">.600</td>
-<td align="right" nowrap="nowrap">16</td>
-<td align="right" nowrap="nowrap">-1.32</td>
-<td align="right" nowrap="nowrap">19</td>
-</tr>
-<tr>
-<td>NYG</td>
-<td align="center">20</td>
-<td align="right" nowrap="nowrap">.150</td>
-<td align="right" nowrap="nowrap">30</td>
-<td align="right" nowrap="nowrap">.150</td>
+<td align="right" nowrap="nowrap">.319</td>
+<td align="right" nowrap="nowrap">15</td>
+<td align="right" nowrap="nowrap">.170</td>
 <td align="right" nowrap="nowrap">17</td>
-<td align="right" nowrap="nowrap">.400</td>
+<td align="right" nowrap="nowrap">23.23</td>
+<td align="right" nowrap="nowrap">30</td>
+<td align="right" nowrap="nowrap">1.50</td>
+<td align="right" nowrap="nowrap">19</td>
+<td align="right" nowrap="nowrap">3.92</td>
+<td align="right" nowrap="nowrap">30</td>
+<td align="right" nowrap="nowrap">.462</td>
+<td align="right" nowrap="nowrap">29</td>
+<td align="right" nowrap="nowrap">-4.62</td>
 <td align="right" nowrap="nowrap">26</td>
-<td align="right" nowrap="nowrap">.200</td>
-<td align="right" nowrap="nowrap">22</td>
-<td align="right" nowrap="nowrap">26.78</td>
-<td align="right" nowrap="nowrap">9</td>
-<td align="right" nowrap="nowrap">1.00</td>
-<td align="right" nowrap="nowrap">28</td>
-<td align="right" nowrap="nowrap">3.17</td>
-<td align="right" nowrap="nowrap">32</td>
-<td align="right" nowrap="nowrap">.333</td>
-<td align="right" nowrap="nowrap">31</td>
-<td align="right" nowrap="nowrap">-6.60</td>
-<td align="right" nowrap="nowrap">25</td>
-</tr>
-<tr>
-<td>NYJ</td>
-<td align="center">21</td>
-<td align="right" nowrap="nowrap">.143</td>
-<td align="right" nowrap="nowrap">31</td>
-<td align="right" nowrap="nowrap">.143</td>
-<td align="right" nowrap="nowrap">20</td>
-<td align="right" nowrap="nowrap">.524</td>
-<td align="right" nowrap="nowrap">32</td>
-<td align="right" nowrap="nowrap">.238</td>
-<td align="right" nowrap="nowrap">25</td>
-<td align="right" nowrap="nowrap">22.91</td>
-<td align="right" nowrap="nowrap">29</td>
-<td align="right" nowrap="nowrap">1.00</td>
-<td align="right" nowrap="nowrap">29</td>
-<td align="right" nowrap="nowrap">4.00</td>
-<td align="right" nowrap="nowrap">29</td>
-<td align="right" nowrap="nowrap">.250</td>
-<td align="right" nowrap="nowrap">32</td>
-<td align="right" nowrap="nowrap">-15.19</td>
-<td align="right" nowrap="nowrap">32</td>
 </tr>
 <tr>
 <td>LAC</td>
-<td align="center">22</td>
-<td align="right" nowrap="nowrap">.136</td>
-<td align="right" nowrap="nowrap">32</td>
-<td align="right" nowrap="nowrap">.227</td>
-<td align="right" nowrap="nowrap">6</td>
-<td align="right" nowrap="nowrap">.364</td>
+<td align="center">42</td>
+<td align="right" nowrap="nowrap">.190</td>
+<td align="right" nowrap="nowrap">28</td>
+<td align="right" nowrap="nowrap">.167</td>
+<td align="right" nowrap="nowrap">15</td>
+<td align="right" nowrap="nowrap">.333</td>
 <td align="right" nowrap="nowrap">17</td>
-<td align="right" nowrap="nowrap">.273</td>
+<td align="right" nowrap="nowrap">.238</td>
 <td align="right" nowrap="nowrap">29</td>
-<td align="right" nowrap="nowrap">24.89</td>
-<td align="right" nowrap="nowrap">22</td>
-<td align="right" nowrap="nowrap">0.60</td>
-<td align="right" nowrap="nowrap">32</td>
-<td align="right" nowrap="nowrap">5.00</td>
-<td align="right" nowrap="nowrap">16</td>
-<td align="right" nowrap="nowrap">.500</td>
+<td align="right" nowrap="nowrap">25.00</td>
+<td align="right" nowrap="nowrap">20</td>
+<td align="right" nowrap="nowrap">1.14</td>
+<td align="right" nowrap="nowrap">24</td>
+<td align="right" nowrap="nowrap">5.30</td>
+<td align="right" nowrap="nowrap">12</td>
+<td align="right" nowrap="nowrap">.600</td>
+<td align="right" nowrap="nowrap">18</td>
+<td align="right" nowrap="nowrap">-0.40</td>
+<td align="right" nowrap="nowrap">14</td>
+</tr>
+<tr>
+<td>IND</td>
+<td align="center">40</td>
+<td align="right" nowrap="nowrap">.175</td>
+<td align="right" nowrap="nowrap">29</td>
+<td align="right" nowrap="nowrap"><b>.300</b></td>
+<td align="right" nowrap="nowrap">1</td>
+<td align="right" nowrap="nowrap">.275</td>
+<td align="right" nowrap="nowrap">10</td>
+<td align="right" nowrap="nowrap">.100</td>
+<td align="right" nowrap="nowrap">4</td>
+<td align="right" nowrap="nowrap">31.38</td>
+<td align="right" nowrap="nowrap">2</td>
+<td align="right" nowrap="nowrap">0.58</td>
+<td align="right" nowrap="nowrap">31</td>
+<td align="right" nowrap="nowrap">4.27</td>
+<td align="right" nowrap="nowrap">28</td>
+<td align="right" nowrap="nowrap">.467</td>
+<td align="right" nowrap="nowrap">28</td>
+<td align="right" nowrap="nowrap"><b>8.22</b></td>
+<td align="right" nowrap="nowrap">1</td>
+</tr>
+<tr>
+<td>PHI</td>
+<td align="center">48</td>
+<td align="right" nowrap="nowrap">.167</td>
+<td align="right" nowrap="nowrap">30</td>
+<td align="right" nowrap="nowrap">.146</td>
+<td align="right" nowrap="nowrap">20</td>
+<td align="right" nowrap="nowrap">.396</td>
 <td align="right" nowrap="nowrap">27</td>
-<td align="right" nowrap="nowrap">0.68</td>
+<td align="right" nowrap="nowrap">.250</td>
+<td align="right" nowrap="nowrap">30</td>
+<td align="right" nowrap="nowrap">26.30</td>
+<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">1.14</td>
+<td align="right" nowrap="nowrap">25</td>
+<td align="right" nowrap="nowrap">5.22</td>
 <td align="right" nowrap="nowrap">13</td>
+<td align="right" nowrap="nowrap">.556</td>
+<td align="right" nowrap="nowrap">24</td>
+<td align="right" nowrap="nowrap">-0.92</td>
+<td align="right" nowrap="nowrap">17</td>
+</tr>
+<tr>
+<td>NYJ</td>
+<td align="center">43</td>
+<td align="right" nowrap="nowrap">.116</td>
+<td align="right" nowrap="nowrap">31</td>
+<td align="right" nowrap="nowrap">.186</td>
+<td align="right" nowrap="nowrap">11</td>
+<td align="right" nowrap="nowrap">.442</td>
+<td align="right" nowrap="nowrap">32</td>
+<td align="right" nowrap="nowrap">.163</td>
+<td align="right" nowrap="nowrap">15</td>
+<td align="right" nowrap="nowrap">23.46</td>
+<td align="right" nowrap="nowrap">29</td>
+<td align="right" nowrap="nowrap">0.62</td>
+<td align="right" nowrap="nowrap">30</td>
+<td align="right" nowrap="nowrap">3.56</td>
+<td align="right" nowrap="nowrap">31</td>
+<td align="right" nowrap="nowrap">.222</td>
+<td align="right" nowrap="nowrap">31</td>
+<td align="right" nowrap="nowrap">-12.07</td>
+<td align="right" nowrap="nowrap">32</td>
+</tr>
+<tr>
+<td>NYG</td>
+<td align="center">38</td>
+<td align="right" nowrap="nowrap">.079</td>
+<td align="right" nowrap="nowrap">32</td>
+<td align="right" nowrap="nowrap">.237</td>
+<td align="right" nowrap="nowrap">7</td>
+<td align="right" nowrap="nowrap">.368</td>
+<td align="right" nowrap="nowrap">24</td>
+<td align="right" nowrap="nowrap">.158</td>
+<td align="right" nowrap="nowrap">13</td>
+<td align="right" nowrap="nowrap">25.00</td>
+<td align="right" nowrap="nowrap">21</td>
+<td align="right" nowrap="nowrap">0.33</td>
+<td align="right" nowrap="nowrap">32</td>
+<td align="right" nowrap="nowrap">2.80</td>
+<td align="right" nowrap="nowrap">32</td>
+<td align="right" nowrap="nowrap">.200</td>
+<td align="right" nowrap="nowrap">32</td>
+<td align="right" nowrap="nowrap">-7.16</td>
+<td align="right" nowrap="nowrap">28</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td><b>Avg</b></td>
-<td align="center"><b>21</b></td>
+<td align="center"><b>41</b></td>
 <td align="right" nowrap="nowrap"><b>.272</b></td>
 <td> </td>
-<td align="right" nowrap="nowrap"><b>.155</b></td>
+<td align="right" nowrap="nowrap"><b>.163</b></td>
 <td> </td>
-<td align="right" nowrap="nowrap"><b>.331</b></td>
+<td align="right" nowrap="nowrap"><b>.328</b></td>
 <td> </td>
-<td align="right" nowrap="nowrap"><b>.164</b></td>
+<td align="right" nowrap="nowrap"><b>.170</b></td>
 <td> </td>
-<td align="right" nowrap="nowrap"><b>25.86</b></td>
+<td align="right" nowrap="nowrap"><b>25.58</b></td>
 <td> </td>
-<td align="right" nowrap="nowrap"><b>1.75</b></td>
+<td align="right" nowrap="nowrap"><b>1.67</b></td>
 <td> </td>
-<td align="right" nowrap="nowrap"><b>5.02</b></td>
+<td align="right" nowrap="nowrap"><b>5.07</b></td>
 <td> </td>
-<td align="right" nowrap="nowrap"><b>.614</b></td>
+<td align="right" nowrap="nowrap"><b>.612</b></td>
 <td> </td>
-<td align="right" nowrap="nowrap"><b>-1.26</b></td>
+<td align="right" nowrap="nowrap"><b>-1.23</b></td>
 <td> </td>
 </tr>
 </tfoot>
