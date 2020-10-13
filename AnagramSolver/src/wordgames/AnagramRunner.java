@@ -1,11 +1,11 @@
-package anagramsolver;
+package wordgames;
 import java.util.Arrays;
 import java.util.Scanner;
 public class AnagramRunner {
 	public static void main(String args[]) throws Exception
 	{
 		Scanner input = new Scanner(System.in);
-		System.out.println("Enter your 6/7 lowercase string");
+		System.out.println("Enter your string");
 		String inputString = input.nextLine();
 		char[] chars = inputString.toCharArray();
 		Arrays.parallelSort(chars);

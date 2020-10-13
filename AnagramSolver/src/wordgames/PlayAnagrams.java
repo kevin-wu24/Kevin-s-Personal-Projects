@@ -1,10 +1,10 @@
-package anagramsolver;
+package wordgames;
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.concurrent.TimeUnit;
 
-public class RunAnagrams 
+public class PlayAnagrams 
 {
 	private static int score = 0;
 	private static int numLetters = 0;
@@ -14,6 +14,7 @@ public class RunAnagrams
 	
 	public static void main(String[] args) throws Exception
 	{
+		//Ask client for a valid String size to play anagrams with
 		Scanner input = new Scanner(System.in);
 		System.out.println("Welcome To Anagrams! How many letters would you like to play Anagrams with?");
 		while(numLetters == 0)
@@ -21,15 +22,23 @@ public class RunAnagrams
 			try 
 			{
 				numLetters = input.nextInt();
+				if(numLetters <= 0)
+				{
+					System.out.println("Input must be greater than 0. "
+							+ "Try entering another input.");
+					numLetters = 0;
+				}
 				input.nextLine();
 			}
-			catch (java.util.InputMismatchException e)
+			catch(java.util.InputMismatchException e)
 			{
-				System.out.println("Input not an integer. Try entering another input.");
+				System.out.println("Input not an integer. "
+						+ "Try entering another input.");
 				input.nextLine();
 			}
 		}
 		
+		//Generate a random String
 		String vowels = "aeiou";
 		StringBuilder temp = new StringBuilder();
 		temp.append(vowels.charAt((int)(Math.random()*5)));
@@ -41,6 +50,7 @@ public class RunAnagrams
 		anagramsString = temp.toString();
 		System.out.println("Get ready to create as many words as possible in 80 seconds using these characters: " + anagramsString);
 		
+		//Create the anagrams key to compare client answers against
 		char[] anagramsCharArray = anagramsString.toCharArray();
 		Arrays.parallelSort(anagramsCharArray);
 		String anagramsStringSorted = new String(anagramsCharArray);
