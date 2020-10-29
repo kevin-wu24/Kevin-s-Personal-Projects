@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0" />
-    <link rel="dns-prefetch" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132" />
+    <link rel="dns-prefetch" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221" />
 
     <title>2020 Baltimore Ravens Statistics &amp; Players | Pro-Football-Reference.com</title>
 
@@ -50,7 +50,7 @@ loadJS( _sr_modern_url, function() { vjs_ready(sr_fire_js); });
 
 
 
-    <meta name="revised" content="15:46:24 22-Oct-2020" />
+    <meta name="revised" content="06:12:18 28-Oct-2020" />
     <meta name="HandheldFriendly" content="True" />
     <meta name="HandheldFriendly" content="True" />
     <meta name="generated-by"     content="build_team_pages.pl" />
@@ -72,36 +72,36 @@ loadJS( _sr_modern_url, function() { vjs_ready(sr_fire_js); });
     <meta property="og:site_name"    content="Pro-Football-Reference.com">
     <meta property="og:type"         content="    article" />
     <meta property="og:description"  content="2020 Baltimore Ravens Statistics &amp; Players: 5-1 (2nd in AFC North), Coach: John Harbaugh">
-    <meta property="og:image"        content="http://ssref.net/scripts/image_resize.cgi?min=200&url=https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/tlogo/pfr/rav-2020.png">
+    <meta property="og:image"        content="http://ssref.net/scripts/image_resize.cgi?min=200&url=https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/tlogo/pfr/rav-2020.png">
     <meta name="twitter:card"         content="summary">
     <meta name="twitter:site"         content="@pfref">
     <meta name="twitter:creator"      content="@pfref">
-    <meta property="twitter:image"    content="http://ssref.net/scripts/image_resize.cgi?min=200&url=https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/tlogo/pfr/rav-2020.png">
+    <meta property="twitter:image"    content="http://ssref.net/scripts/image_resize.cgi?min=200&url=https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/tlogo/pfr/rav-2020.png">
     <meta name="twitter:domain"       content="Pro-Football-Reference.com">
     <meta name="referrer" content="unsafe-url">
     <!-- HeaderSeoSocial:END -->
 
     <!-- tiles, touch, favicons -->
-    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/apple-touch-icon-180x180-precomposed.png">
-    <link rel="icon"                         sizes="48x48"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/favicon-48.png">
-    <link rel="shortcut icon"                sizes="228x228" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/apple-touch-icon-228x228-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="228x228" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/apple-touch-icon-228x228-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="195x195" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/apple-touch-icon-195x195-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="180x180" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/apple-touch-icon-180x180-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="152x152" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/apple-touch-icon-152x152-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="144x144" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/apple-touch-icon-144x144-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="128x128" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/apple-touch-icon-128x128-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="120x120" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/apple-touch-icon-120x120-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="114x114" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/apple-touch-icon-114x114-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="76x76"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/apple-touch-icon-76x76-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="72x72"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/apple-touch-icon-72x72-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="57x57"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/apple-touch-icon-57x57-precomposed.png">
-    <link rel="icon"                         sizes="32x32"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/favicon-32.png">
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/apple-touch-icon-180x180-precomposed.png">
+    <link rel="icon"                         sizes="48x48"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/favicon-48.png">
+    <link rel="shortcut icon"                sizes="228x228" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/apple-touch-icon-228x228-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="228x228" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/apple-touch-icon-228x228-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="195x195" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/apple-touch-icon-195x195-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="180x180" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/apple-touch-icon-180x180-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="152x152" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/apple-touch-icon-152x152-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="144x144" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/apple-touch-icon-144x144-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="128x128" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/apple-touch-icon-128x128-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="120x120" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/apple-touch-icon-120x120-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="114x114" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="76x76"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/apple-touch-icon-76x76-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="72x72"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="57x57"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/apple-touch-icon-57x57-precomposed.png">
+    <link rel="icon"                         sizes="32x32"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/favicon-32.png">
     <!--[if IE]>
-    <link rel="shortcut icon"                                href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/favicon.ico"><![endif]-->
+    <link rel="shortcut icon"                                href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/favicon.ico"><![endif]-->
     <meta name="msapplication-TileColor" content="#005629" />
-    <meta name="msapplication-TileImage" content="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/favicons/pfr/ms-tile-144.png" />
-    <link rel=search        type="application/opensearchdescription+xml" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/opensearch/opensearch-pfr.xml" title=" Player and Team Search">
+    <meta name="msapplication-TileImage" content="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/favicons/pfr/ms-tile-144.png" />
+    <link rel=search        type="application/opensearchdescription+xml" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/opensearch/opensearch-pfr.xml" title=" Player and Team Search">
     <!-- tiles, touch, favicons:end -->
 
 <!-- ad code: begin -->
@@ -163,7 +163,7 @@ loadJS( _sr_modern_url, function() { vjs_ready(sr_fire_js); });
 	
 	
 	
-	<li><a href="https://fbref.com/de/">Fußball</a></li>
+	<li><a href="https://fbref.com/de/">Fu�ball</a></li>
 
 	<li><a href="https://www.sports-reference.com/blog/">Blog</a></li>
 
@@ -178,7 +178,7 @@ loadJS( _sr_modern_url, function() { vjs_ready(sr_fire_js); });
 
 </ul>
 
-  <a href="/"><img src="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/logos/pfr-logo.svg" onerror="this.src='https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/logos/pfr-logo.png'; this.onerror = null;" alt="Pro-Football-Reference.com Logo &amp; Link to home page" /></a>
+  <a href="/"><img src="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/logos/pfr-logo.svg" onerror="this.src='https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/logos/pfr-logo.png'; this.onerror = null;" alt="Pro-Football-Reference.com Logo &amp; Link to home page" /></a>
 <div id="nav_trigger" role="button"><a href="#site_menu_link">MENU</a></div>
 <div id="nav" role="navigation" aria-label="Pro-Football-Reference.com sections">
 	<ul id="main_nav" class="hoversmooth nohover">	        <li id="header_players" ><a href="/players">Players</a></li>
@@ -260,7 +260,7 @@ sr_menus_setupMainNav_button_inline();
 
 
 	<div class="media-item logo loader">
-		<img class="teamlogo" itemscope="image" 			src="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/tlogo/pfr/rav-2020.png"
+		<img class="teamlogo" itemscope="image" 			src="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/tlogo/pfr/rav-2020.png"
 			alt="2020 Baltimore Ravens Logo">
 		
 			<p><a href="http://www.sportslogos.net/">via Sports Logos.net</a></p>
@@ -301,11 +301,11 @@ sr_menus_setupMainNav_button_inline();
  <a href="/coaches/HarbJo0.htm">John Harbaugh</a> (5-1-0)</p>
 
 
-<p><strong>Points For:</strong> 179 (29.8/g) 7th of 32</p>
+<p><strong>Points For:</strong> 179 (29.8/g) 8th of 32</p>
 <p><strong>Points Against:</strong> 104 (17.3/g) 1st of 32</p>
 <p><strong><a href="/about/glossary.htm#expwl" class="tooltip" tip="The expected wins given their points scored and allowed">Expected W-L</a>:</strong> 4.7-1.3</p>
-<p><a href="/about/glossary.htm#srs"><strong>SRS</strong></a>: 9.32 (3rd of 32),&nbsp;
-  <a href="/about/glossary.htm#sos"><strong>SOS</strong></a>: -3.18
+<p><a href="/about/glossary.htm#srs"><strong>SRS</strong></a>: 10.56 (3rd of 32),&nbsp;
+  <a href="/about/glossary.htm#sos"><strong>SOS</strong></a>: -1.94
 </p>
 
 
@@ -596,8 +596,8 @@ sr_menus_setupMainNav_button_inline();
    <tbody>
 <tr ><th scope="row" class="left " data-stat="player" >Team Stats</th><td class="right " data-stat="points" >179</td><td class="right " data-stat="total_yards" >2053</td><td class="right " data-stat="plays_offense" >361</td><td class="right " data-stat="yds_per_play_offense" >5.7</td><td class="right " data-stat="turnovers" >5</td><td class="right " data-stat="fumbles_lost" >2</td><td class="right " data-stat="first_down" >114</td><td class="right " data-stat="pass_cmp" >104</td><td class="right " data-stat="pass_att" >165</td><td class="right " data-stat="pass_yds" >1067</td><td class="right " data-stat="pass_td" >10</td><td class="right " data-stat="pass_int" >3</td><td class="right " data-stat="pass_net_yds_per_att" >5.9</td><td class="right " data-stat="pass_fd" >62</td><td class="right " data-stat="rush_att" >181</td><td class="right " data-stat="rush_yds" >986</td><td class="right " data-stat="rush_td" >7</td><td class="right " data-stat="rush_yds_per_att" >5.4</td><td class="right " data-stat="rush_fd" >46</td><td class="right " data-stat="penalties" >37</td><td class="right " data-stat="penalties_yds" >319</td><td class="right " data-stat="pen_fd" >6</td><td class="right " data-stat="drives" >67</td><td class="right " data-stat="score_pct" >44.8</td><td class="right " data-stat="turnover_pct" >7.5</td><td class="right " data-stat="start_avg" >Own 34.1</td><td class="right " data-stat="time_avg" >2:43</td><td class="right " data-stat="plays_per_drive" >5.60</td><td class="right " data-stat="yds_per_drive" >30.7</td><td class="right " data-stat="points_avg" >2.36</td></tr>
 <tr ><th scope="row" class="left " data-stat="player" >Opp. Stats</th><td class="right " data-stat="points" >104</td><td class="right " data-stat="total_yards" >2039</td><td class="right " data-stat="plays_offense" >397</td><td class="right " data-stat="yds_per_play_offense" >5.1</td><td class="right " data-stat="turnovers" >11</td><td class="right " data-stat="fumbles_lost" >8</td><td class="right " data-stat="first_down" >122</td><td class="right " data-stat="pass_cmp" >149</td><td class="right " data-stat="pass_att" >232</td><td class="right " data-stat="pass_yds" >1385</td><td class="right " data-stat="pass_td" >8</td><td class="right " data-stat="pass_int" >3</td><td class="right " data-stat="pass_net_yds_per_att" >5.5</td><td class="right " data-stat="pass_fd" >83</td><td class="right " data-stat="rush_att" >143</td><td class="right " data-stat="rush_yds" >654</td><td class="right " data-stat="rush_td" >4</td><td class="right " data-stat="rush_yds_per_att" >4.6</td><td class="right " data-stat="rush_fd" >28</td><td class="right " data-stat="penalties" >28</td><td class="right " data-stat="penalties_yds" >220</td><td class="right " data-stat="pen_fd" >11</td><td class="right " data-stat="drives" >68</td><td class="right " data-stat="score_pct" >26.5</td><td class="right " data-stat="turnover_pct" >16.2</td><td class="right " data-stat="start_avg" >Own 24.9</td><td class="right " data-stat="time_avg" >2:37</td><td class="right " data-stat="plays_per_drive" >6.0</td><td class="right " data-stat="yds_per_drive" >30.0</td><td class="right " data-stat="points_avg" >1.56</td></tr>
-<tr ><th scope="row" class="left " data-stat="player" >Lg Rank Offense</th><td class="right " data-stat="points" >7</td><td class="right " data-stat="total_yards" >26</td><td class="right iz" data-stat="plays_offense" ></td><td class="right iz" data-stat="yds_per_play_offense" ></td><td class="right " data-stat="turnovers" >8</td><td class="right " data-stat="fumbles_lost" >11</td><td class="right " data-stat="first_down" >28</td><td class="right iz" data-stat="pass_cmp" ></td><td class="right " data-stat="pass_att" >32</td><td class="right " data-stat="pass_yds" >31</td><td class="right " data-stat="pass_td" >19</td><td class="right " data-stat="pass_int" >6</td><td class="right " data-stat="pass_net_yds_per_att" >24</td><td class="right iz" data-stat="pass_fd" ></td><td class="right " data-stat="rush_att" >8</td><td class="right " data-stat="rush_yds" >3</td><td class="right " data-stat="rush_td" >13</td><td class="right " data-stat="rush_yds_per_att" >1</td><td class="right iz" data-stat="rush_fd" ></td><td class="right iz" data-stat="penalties" ></td><td class="right iz" data-stat="penalties_yds" ></td><td class="right iz" data-stat="pen_fd" ></td><td class="right iz" data-stat="drives" ></td><td class="right " data-stat="score_pct" >12</td><td class="right " data-stat="turnover_pct" >25</td><td class="right " data-stat="start_avg" >1</td><td class="right " data-stat="time_avg" >20</td><td class="right " data-stat="plays_per_drive" >29</td><td class="right " data-stat="yds_per_drive" >24</td><td class="right " data-stat="points_avg" >17</td></tr>
-<tr ><th scope="row" class="left " data-stat="player" >Lg Rank Defense</th><td class="right " data-stat="points" >1</td><td class="right " data-stat="total_yards" >10</td><td class="right iz" data-stat="plays_offense" ></td><td class="right iz" data-stat="yds_per_play_offense" ></td><td class="right " data-stat="turnovers" >4</td><td class="right " data-stat="fumbles_lost" >1</td><td class="right " data-stat="first_down" >8</td><td class="right iz" data-stat="pass_cmp" ></td><td class="right " data-stat="pass_att" >28</td><td class="right " data-stat="pass_yds" >13</td><td class="right " data-stat="pass_td" >6</td><td class="right " data-stat="pass_int" >25</td><td class="right " data-stat="pass_net_yds_per_att" >2</td><td class="right iz" data-stat="pass_fd" ></td><td class="right " data-stat="rush_att" >4</td><td class="right " data-stat="rush_yds" >11</td><td class="right " data-stat="rush_td" >6</td><td class="right " data-stat="rush_yds_per_att" >20</td><td class="right iz" data-stat="rush_fd" ></td><td class="right iz" data-stat="penalties" ></td><td class="right iz" data-stat="penalties_yds" ></td><td class="right iz" data-stat="pen_fd" ></td><td class="right iz" data-stat="drives" ></td><td class="right " data-stat="score_pct" >32</td><td class="right " data-stat="turnover_pct" >5</td><td class="right " data-stat="start_avg" >5</td><td class="right " data-stat="time_avg" >9</td><td class="right " data-stat="plays_per_drive" >11</td><td class="right " data-stat="yds_per_drive" >8</td><td class="right " data-stat="points_avg" >2</td></tr>
+<tr ><th scope="row" class="left " data-stat="player" >Lg Rank Offense</th><td class="right " data-stat="points" >8</td><td class="right " data-stat="total_yards" >27</td><td class="right iz" data-stat="plays_offense" ></td><td class="right iz" data-stat="yds_per_play_offense" ></td><td class="right " data-stat="turnovers" >5</td><td class="right " data-stat="fumbles_lost" >12</td><td class="right " data-stat="first_down" >30</td><td class="right iz" data-stat="pass_cmp" ></td><td class="right " data-stat="pass_att" >32</td><td class="right " data-stat="pass_yds" >31</td><td class="right " data-stat="pass_td" >19</td><td class="right " data-stat="pass_int" >6</td><td class="right " data-stat="pass_net_yds_per_att" >25</td><td class="right iz" data-stat="pass_fd" ></td><td class="right " data-stat="rush_att" >8</td><td class="right " data-stat="rush_yds" >1</td><td class="right " data-stat="rush_td" >10</td><td class="right " data-stat="rush_yds_per_att" >1</td><td class="right iz" data-stat="rush_fd" ></td><td class="right iz" data-stat="penalties" ></td><td class="right iz" data-stat="penalties_yds" ></td><td class="right iz" data-stat="pen_fd" ></td><td class="right iz" data-stat="drives" ></td><td class="right " data-stat="score_pct" >15</td><td class="right " data-stat="turnover_pct" >28</td><td class="right " data-stat="start_avg" >1</td><td class="right " data-stat="time_avg" >20</td><td class="right " data-stat="plays_per_drive" >31</td><td class="right " data-stat="yds_per_drive" >26</td><td class="right " data-stat="points_avg" >18</td></tr>
+<tr ><th scope="row" class="left " data-stat="player" >Lg Rank Defense</th><td class="right " data-stat="points" >1</td><td class="right " data-stat="total_yards" >9</td><td class="right iz" data-stat="plays_offense" ></td><td class="right iz" data-stat="yds_per_play_offense" ></td><td class="right " data-stat="turnovers" >6</td><td class="right " data-stat="fumbles_lost" >1</td><td class="right " data-stat="first_down" >8</td><td class="right iz" data-stat="pass_cmp" ></td><td class="right " data-stat="pass_att" >26</td><td class="right " data-stat="pass_yds" >14</td><td class="right " data-stat="pass_td" >9</td><td class="right " data-stat="pass_int" >23</td><td class="right " data-stat="pass_net_yds_per_att" >2</td><td class="right iz" data-stat="pass_fd" ></td><td class="right " data-stat="rush_att" >4</td><td class="right " data-stat="rush_yds" >10</td><td class="right " data-stat="rush_td" >3</td><td class="right " data-stat="rush_yds_per_att" >23</td><td class="right iz" data-stat="rush_fd" ></td><td class="right iz" data-stat="penalties" ></td><td class="right iz" data-stat="penalties_yds" ></td><td class="right iz" data-stat="pen_fd" ></td><td class="right iz" data-stat="drives" ></td><td class="right " data-stat="score_pct" >32</td><td class="right " data-stat="turnover_pct" >7</td><td class="right " data-stat="start_avg" >4</td><td class="right " data-stat="time_avg" >8</td><td class="right " data-stat="plays_per_drive" >10</td><td class="right " data-stat="yds_per_drive" >10</td><td class="right " data-stat="points_avg" >1</td></tr>
 
 </tbody></table>
 
@@ -759,8 +759,8 @@ sr_menus_setupMainNav_button_inline();
    <tbody>
 <tr ><th scope="row" class="left " data-stat="player" >Team Stats</th><td class="right " data-stat="third_down_att" >76</td><td class="right " data-stat="third_down_success" >32</td><td class="right " data-stat="third_down_pct" >42.1</td><td class="right " data-stat="fourth_down_att" >6</td><td class="right " data-stat="fourth_down_success" >4</td><td class="right " data-stat="fourth_down_pct" >66.7</td><td class="right " data-stat="red_zone_att" >19</td><td class="right " data-stat="red_zone_scores" >12</td><td class="right " data-stat="red_zone_pct" >63.2</td></tr>
 <tr ><th scope="row" class="left " data-stat="player" >Opp. Stats</th><td class="right " data-stat="third_down_att" >75</td><td class="right " data-stat="third_down_success" >26</td><td class="right " data-stat="third_down_pct" >34.7</td><td class="right " data-stat="fourth_down_att" >15</td><td class="right " data-stat="fourth_down_success" >5</td><td class="right " data-stat="fourth_down_pct" >33.3</td><td class="right " data-stat="red_zone_att" >13</td><td class="right " data-stat="red_zone_scores" >10</td><td class="right " data-stat="red_zone_pct" >76.9</td></tr>
-<tr ><th scope="row" class="left " data-stat="player" >Lg Rank Offense</th><td class="right iz" data-stat="third_down_att" ></td><td class="right iz" data-stat="third_down_success" ></td><td class="right " data-stat="third_down_pct" >17</td><td class="right iz" data-stat="fourth_down_att" ></td><td class="right iz" data-stat="fourth_down_success" ></td><td class="right " data-stat="fourth_down_pct" >15</td><td class="right iz" data-stat="red_zone_att" ></td><td class="right iz" data-stat="red_zone_scores" ></td><td class="right " data-stat="red_zone_pct" >18</td></tr>
-<tr ><th scope="row" class="left " data-stat="player" >Lg Rank Defense</th><td class="right iz" data-stat="third_down_att" ></td><td class="right iz" data-stat="third_down_success" ></td><td class="right " data-stat="third_down_pct" >5</td><td class="right iz" data-stat="fourth_down_att" ></td><td class="right iz" data-stat="fourth_down_success" ></td><td class="right " data-stat="fourth_down_pct" >3</td><td class="right iz" data-stat="red_zone_att" ></td><td class="right iz" data-stat="red_zone_scores" ></td><td class="right " data-stat="red_zone_pct" >30</td></tr>
+<tr ><th scope="row" class="left " data-stat="player" >Lg Rank Offense</th><td class="right iz" data-stat="third_down_att" ></td><td class="right iz" data-stat="third_down_success" ></td><td class="right " data-stat="third_down_pct" >19</td><td class="right iz" data-stat="fourth_down_att" ></td><td class="right iz" data-stat="fourth_down_success" ></td><td class="right " data-stat="fourth_down_pct" >13</td><td class="right iz" data-stat="red_zone_att" ></td><td class="right iz" data-stat="red_zone_scores" ></td><td class="right " data-stat="red_zone_pct" >13</td></tr>
+<tr ><th scope="row" class="left " data-stat="player" >Lg Rank Defense</th><td class="right iz" data-stat="third_down_att" ></td><td class="right iz" data-stat="third_down_success" ></td><td class="right " data-stat="third_down_pct" >6</td><td class="right iz" data-stat="fourth_down_att" ></td><td class="right iz" data-stat="fourth_down_success" ></td><td class="right " data-stat="fourth_down_pct" >3</td><td class="right iz" data-stat="red_zone_att" ></td><td class="right iz" data-stat="red_zone_scores" ></td><td class="right " data-stat="red_zone_pct" >30</td></tr>
 
 </tbody></table>
 
@@ -1561,7 +1561,7 @@ sr_menus_setupMainNav_button_inline();
 			
 				    <ul>
 	<li><a href="/players">Players</a>
-	    <div>In the News: <a title="Le'Veon Bell" href="/players/B/BellLe00.htm">Le'Veon Bell</a>, <a title="Dak Prescott" href="/players/P/PresDa01.htm">Dak Prescott</a>, <a title="Jimmy Garoppolo" href="/players/G/GaroJi00.htm">Jimmy Garoppolo</a>, <a title="Andy Dalton" href="/players/D/DaltAn00.htm">Andy Dalton</a>, <a title="Tom Brady" href="/players/B/BradTo00.htm">Tom Brady</a>, <a title="Patrick Mahomes" href="/players/M/MahoPa00.htm">Patrick Mahomes</a> <a href="/players/">...</a></div>
+	    <div>In the News: <a title="Jimmy Garoppolo" href="/players/G/GaroJi00.htm">Jimmy Garoppolo</a>, <a title="Tom Brady" href="/players/B/BradTo00.htm">Tom Brady</a>, <a title="Patrick Mahomes" href="/players/M/MahoPa00.htm">Patrick Mahomes</a>, <a title="Aaron Rodgers" href="/players/R/RodgAa00.htm">Aaron Rodgers</a>, <a title="Baker Mayfield" href="/players/M/MayfBa00.htm">Baker Mayfield</a>, <a title="Nick Foles" href="/players/F/FoleNi00.htm">Nick Foles</a> <a href="/players/">...</a></div>
 	<div>Popular: <a title="Tom Brady" href="/players/B/BradTo00.htm">Tom Brady</a>, <a title="Cam Newton" href="/players/N/NewtCa00.htm">Cam Newton</a>, <a title="Aaron Donald" href="/players/D/DonaAa00.htm">Aaron Donald</a>, <a title="Russell Wilson" href="/players/W/WilsRu00.htm">Russell Wilson</a>, <a title="Aaron Rodgers" href="/players/R/RodgAa00.htm">Aaron Rodgers</a>, <a title="Odell Beckham" href="/players/B/BeckOd00.htm">Odell Beckham Jr.</a>, <a title="J.J. Watt" href="/players/W/WattJ.00.htm">J.J. Watt</a>, <a title="Peyton Manning" href="/players/M/MannPe00.htm">Peyton Manning</a>, <a title="Patrick Mahomes" href="/players/M/MahoPa00.htm">Patrick Mahomes</a>, <a title="Julio Jones" href="/players/J/JoneJu02.htm">Julio Jones</a>, <a title="Antonio Brown" href="/players/B/BrowAn04.htm">Antonio Brown</a>, <a title="Ben Roethlisberger" href="/players/R/RoetBe00.htm">Ben Roethlisberger</a>, <a title="Drew Brees" href="/players/B/BreeDr00.htm">Drew Brees</a>, <a title="Todd Gurley" href="/players/G/GurlTo01.htm">Todd Gurley</a> <a href="/players/">...</a></div>
 
 	<div><a href="/hof/">Hall of Famers</a>, <a href="/probowl/">Pro Bowlers</a>, <a href="/awards/ap-nfl-mvp-award.htm">MVPs</a>, <a href="/friv/linkify.cgi">Player Linker Tool</a> ...</div>
@@ -1572,8 +1572,8 @@ sr_menus_setupMainNav_button_inline();
 <div>AFC North: <a href="/teams/pit/2020.htm">Steelers</a>, <a href="/teams/rav/2020.htm">Ravens</a>, <a href="/teams/cle/2020.htm">Browns</a>, <a href="/teams/cin/2020.htm">Bengals</a></div>
 <div>AFC South: <a href="/teams/oti/2020.htm">Titans</a>, <a href="/teams/clt/2020.htm">Colts</a>, <a href="/teams/htx/2020.htm">Texans</a>, <a href="/teams/jax/2020.htm">Jaguars</a></div>
 <div>AFC West: <a href="/teams/kan/2020.htm">Chiefs</a>, <a href="/teams/rai/2020.htm">Raiders</a>, <a href="/teams/den/2020.htm">Broncos</a>, <a href="/teams/sdg/2020.htm">Chargers</a></div>
-<div>NFC East: <a href="/teams/dal/2020.htm">Cowboys</a>, <a href="/teams/phi/2020.htm">Eagles</a>, <a href="/teams/was/2020.htm">Football Team</a>, <a href="/teams/nyg/2020.htm">Giants</a></div>
-<div>NFC North: <a href="/teams/chi/2020.htm">Bears</a>, <a href="/teams/gnb/2020.htm">Packers</a>, <a href="/teams/det/2020.htm">Lions</a>, <a href="/teams/min/2020.htm">Vikings</a></div>
+<div>NFC East: <a href="/teams/phi/2020.htm">Eagles</a>, <a href="/teams/was/2020.htm">Football Team</a>, <a href="/teams/dal/2020.htm">Cowboys</a>, <a href="/teams/nyg/2020.htm">Giants</a></div>
+<div>NFC North: <a href="/teams/gnb/2020.htm">Packers</a>, <a href="/teams/chi/2020.htm">Bears</a>, <a href="/teams/det/2020.htm">Lions</a>, <a href="/teams/min/2020.htm">Vikings</a></div>
 <div>NFC South: <a href="/teams/tam/2020.htm">Buccaneers</a>, <a href="/teams/nor/2020.htm">Saints</a>, <a href="/teams/car/2020.htm">Panthers</a>, <a href="/teams/atl/2020.htm">Falcons</a></div>
 <div>NFC West: <a href="/teams/sea/2020.htm">Seahawks</a>, <a href="/teams/crd/2020.htm">Cardinals</a>, <a href="/teams/ram/2020.htm">Rams</a>, <a href="/teams/sfo/2020.htm">49ers</a></div>
 
@@ -1608,7 +1608,7 @@ sr_menus_setupMainNav_button_inline();
 	</li>
 
 	<li><a href="/coaches/">NFL Coaches</a>
-	<div>Active Coaches: <a href="/coaches/BeliBi0.htm">Bill Belichick</a>, <a href="/coaches/ReidAn0.htm">Andy Reid</a>, <a href="/coaches/CarrPe0.htm">Pete Carroll</a>, <a href="/coaches/TomlMi0.htm">Mike Tomlin</a> ...</div><div>Historical Coaches: <a href="/coaches/ShulDo0.htm">Don Shula</a>, <a href="/coaches/HalaGe0.htm">George Halas</a>, <a href="/coaches/LandTo0.htm">Tom Landry</a>, <a href="/coaches/LambCu0.htm">Curly Lambeau</a> ...</div>
+	<div>Active Coaches: <a href="/coaches/BeliBi0.htm">Bill Belichick</a>, <a href="/coaches/ReidAn0.htm">Andy Reid</a>, <a href="/coaches/TomlMi0.htm">Mike Tomlin</a>, <a href="/coaches/CarrPe0.htm">Pete Carroll</a> ...</div><div>Historical Coaches: <a href="/coaches/ShulDo0.htm">Don Shula</a>, <a href="/coaches/HalaGe0.htm">George Halas</a>, <a href="/coaches/LandTo0.htm">Tom Landry</a>, <a href="/coaches/LambCu0.htm">Curly Lambeau</a> ...</div>
 	</li>
 
 	<li><a href="/executives/">Executives</a>
@@ -1662,7 +1662,7 @@ sr_menus_setupMainNav_button_inline();
 	<a href="https://www.paypal.me/sportsref" data-tip="Send us money via PayPal" data-label="PayPal" class="poptip"><svg class="icon paypal"><use xlink:href="#ic-paypal"></use></svg></a>
 
 <p>Every <a href="https://www.sports-reference.com/blog/sports-reference-social-media/">Sports Reference Social Media Account</a></p>
-<p><strong>Site Last Updated:</strong> Thursday, October 22,  3:44PM
+<p><strong>Site Last Updated:</strong> Wednesday, October 28,  6:42AM
 </p>
 <p><a href="https://www.sports-reference.com/feedback/" class="button alt">Question, Comment, Feedback, or Correction?</a></p>
 
@@ -1702,7 +1702,7 @@ sr_menus_setupMainNav_button_inline();
 				
 <div class="notice">
 <p>Data Provided By
-	<a href="https://www.sportradar.com/" rel="nofollow"><img alt="SportRadar" border=0 width=275 src="https://d2p3bygnnzw9w3.cloudfront.net/req/202010132/images/klecko/sportradar.png"  style="background-color:#666; padding:.5em; border-radius:.25em"></a>
+	<a href="https://www.sportradar.com/" rel="nofollow"><img alt="SportRadar" border=0 width=275 src="https://d2p3bygnnzw9w3.cloudfront.net/req/202010221/images/klecko/sportradar.png"  style="background-color:#666; padding:.5em; border-radius:.25em"></a>
 	the official stats partner of the NFL.</p>
 	
 	<p>Pro-Football-Reference utilizes <strong>Official NFL data</strong> for current NFL seasons.</p>
@@ -1728,7 +1728,7 @@ sr_menus_setupMainNav_button_inline();
 	
 	
 	
-	<li><a href="https://fbref.com/en/">Soccer</a></li>
+	<li><a href="https://fbref.com/fr/">Football</a></li>
 
 	<li><a href="https://www.sports-reference.com/blog/">Blog</a></li>
 
