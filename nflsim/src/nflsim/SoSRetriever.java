@@ -45,7 +45,7 @@ public class SoSRetriever
 		GameSim g = new GameSim();
 		for(int i = 0; i < 32;i++)
 		{
-			teams[1][i].replaceAll(g.year, y);
+			teams[0][i] = teams[0][i] + y;
 		}
 	}
 	

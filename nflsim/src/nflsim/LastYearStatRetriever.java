@@ -34,7 +34,7 @@ public class LastYearStatRetriever
             in.close();
         }
         
-        URL url1 = new URL("https://www.teamrankings.com/nfl/stat/average-time-of-possession-net-of-ot?date=2020-02-03");
+        URL url1 = new URL("https://www.teamrankings.com/nfl/stat/average-time-of-possession-net-of-ot");
         HttpsURLConnection con = (HttpsURLConnection)url1.openConnection();
         InputStream uin = con.getInputStream();
         InputStreamReader isr = new InputStreamReader(uin);

@@ -5,7 +5,7 @@ import java.util.Dictionary;
 
 public class LastYearPoints
 {
-	String subYear = "2019";
+	String subYear = "2020";
 	String team = "";
 	String qb = "";
 	String teamName2 = "";
@@ -16,15 +16,27 @@ public class LastYearPoints
 	{
 		Hashtable<String, String> dictionary = new Hashtable<String, String>();
 		
-		dictionary.put("TB", "NE2019.txt");
-		dictionary.put("IND", "LAC2019.txt");
-		dictionary.put("CAR", "NO2019.txt");
-		dictionary.put("MIA", "MIA2019.txt");
-		dictionary.put("CIN", "CIN2019.txt");
-		dictionary.put("LAC", "LAC2019.txt");
+		/*
+			dictionary.put("TB", "NE2019.txt");
+			dictionary.put("IND", "LAC2019.txt");
+			dictionary.put("CAR", "NO2019.txt");
+			dictionary.put("MIA", "MIA2019.txt");
+			dictionary.put("CIN", "CIN2019.txt");
+			dictionary.put("LAC", "LAC2019.txt");
+		*/
+		
+		// Hashtable stores the teams with QBs that changed teams over the offseason
+		dictionary.put("DET", "LAR202O.txt");
+		dictionary.put("LAR", "DET2020.txt");
+		dictionary.put("IND", "PHI2020.txt");
+		dictionary.put("NYJ", "NYJ2020.txt");
+		dictionary.put("JAX", "JAX2020.txt");
+		dictionary.put("WAS", "MIA2020.txt");
+		dictionary.put("CHI", "DAL2020.txt");
+		dictionary.put("CAR", "NYJ2020.txt");
 		
 		GameSim game = new GameSim();
-		for(int j = 0;j<32;j++)
+		for(int j = 0; j<32; j++)
 		{
 			if(game.TeamInfo[0][j].equals(TeamName))
 			{
@@ -36,8 +48,8 @@ public class LastYearPoints
 		
         	SoSRetriever sos = new SoSRetriever();
             sos.setSOSInfo();
-            sos.calcSOS();
             sos.setSOSYear(subYear);
+            sos.calcSOS();
             double SOS = sos.getSOS(TeamName);
             double gamesWon = sos.getGamesWon(TeamName);
             double gamesPlayed = sos.getTotalGamesPlayed(TeamName);

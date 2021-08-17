@@ -6,8 +6,8 @@ import java.io.FileReader;
 
 public class GameSim 
 {
-	String year = "2020";
-	String previousYear = "2019";
+	String year = "2021";
+	String previousYear = "2020";
 	int week = 1;
 	String[][] TeamInfo = {{"NE", "BUF", "MIA", "NYJ", "KC", "LV", "LAC", "DEN","BAL","PIT","CLE","CIN","HOU","IND","JAX","TEN","DAL","PHI","NYG","WAS","SF","SEA","LAR","ARI","GB","MIN","DET","CHI","NO","CAR","TB","ATL"},
             {"https://www.pro-football-reference.com/teams/nwe/"+year+".htm","https://www.pro-football-reference.com/teams/buf/"+year+".htm","https://www.pro-football-reference.com/teams/mia/"+year+".htm","https://www.pro-football-reference.com/teams/nyj/"+year+".htm","https://www.pro-football-reference.com/teams/kan/"+year+".htm","https://www.pro-football-reference.com/teams/rai/"+year+".htm","https://www.pro-football-reference.com/teams/sdg/"+year+".htm","https://www.pro-football-reference.com/teams/den/"+year+".htm",
@@ -15,7 +15,7 @@ public class GameSim
         "https://www.pro-football-reference.com/teams/dal/"+year+".htm","https://www.pro-football-reference.com/teams/phi/"+year+".htm","https://www.pro-football-reference.com/teams/nyg/"+year+".htm","https://www.pro-football-reference.com/teams/was/"+year+".htm","https://www.pro-football-reference.com/teams/sfo/"+year+".htm","https://www.pro-football-reference.com/teams/sea/"+year+".htm","https://www.pro-football-reference.com/teams/ram/"+year+".htm","https://www.pro-football-reference.com/teams/crd/"+year+".htm",
         "https://www.pro-football-reference.com/teams/gnb/"+year+".htm","https://www.pro-football-reference.com/teams/min/"+year+".htm","https://www.pro-football-reference.com/teams/det/"+year+".htm","https://www.pro-football-reference.com/teams/chi/"+year+".htm","https://www.pro-football-reference.com/teams/nor/"+year+".htm","https://www.pro-football-reference.com/teams/car/"+year+".htm","https://www.pro-football-reference.com/teams/tam/"+year+".htm","https://www.pro-football-reference.com/teams/atl/"+year+".htm"},
        {"New England", "Buffalo", "Miami", "NY Jets", "Kansas City", "Las Vegas", "LA Chargers", "Denver", "Baltimore", "Pittsburgh", "Cleveland", "Cincinnati", "Houston", "Indianapolis", "Jacksonville", "Tennessee", "Dallas", "Philadelphia", "NY Giants", "Washington", "San Francisco", "Seattle", "LA Rams", "Arizona", "Green Bay", "Minnesota","Detroit", "Chicago", "New Orleans", "Carolina", "Tampa Bay", "Atlanta"},
-       {"Cam Newton", "Josh Allen", "Ryan Fitzpatrick", "Sam Darnold", "Patrick Mahomes", "Derek Carr", "Tyrod Taylor", "Drew Lock", "Lamar Jackson", "Ben Roethlisberger", "Baker Mayfield", "Joe Burrow", "Deshaun Watson", "Philip Rivers", "Garder Minshew", "Ryan Tannehill", "Dak Prescott", "Carson Wentz", "Daniel Jones", "Dwayne Haskins", "Jimmy Garoppolo", "Russel Wilson", "Jared Goff", "Kyler Murray", "Aaron Rodgers", "Kirk Cousins", "Matthew Stafford","Mitchell Trubisky", "Drew Brees","Teddy Bridgewater","Tom Brady","Matt Ryan"},
+       {"Cam Newton", "Josh Allen", "Tua Tagovailoa", "Zach Wilson", "Patrick Mahomes", "Derek Carr", "Justin Herbert", "Drew Lock", "Lamar Jackson", "Ben Roethlisberger", "Baker Mayfield", "Joe Burrow", "Deshaun Watson", "Carson Wentz", "Trevor Lawrence", "Ryan Tannehill", "Dak Prescott", "Jalen Hurts", "Daniel Jones", "Ryan Fitzpatrick", "Jimmy Garoppolo", "Russel Wilson", "Matthew Stafford", "Kyler Murray", "Aaron Rodgers", "Kirk Cousins", "Jared Goff", "Andy Dalton", "Jameis Winston","Sam Darnold","Tom Brady","Matt Ryan"},
        {"Patriots", "Bills", "Dolphins", "Jets", "Chiefs", "Raiders", "Chargers", "Broncos", "Ravens", "Steelers", "Browns", "Bengals", "Texans", "Colts", "Jaguars", "Titans", "Cowboys", "Eagles", "Giants", "Football Team", "49ers", "Seahawks", "Rams", "Cardinals", "Packers", "Vikings", "Lions", "Bears", "Saints", "Panthers", "Buccaneers", "Falcons"}};;
 	
 	public void simGame() throws Exception
