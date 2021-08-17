@@ -57,45 +57,57 @@ public class GameSim
         		AwayNameLonger = TeamInfo[2][i];
         	}
         }
-        SoSRetriever sos = new SoSRetriever();
-        sos.setSOSInfo();
-        sos.calcSOS();
-        double HomeSOS = sos.getSOS(HomeName);
-        double AwaySOS = sos.getSOS(AwayName);
-        double HomeGamesWon = sos.getGamesWon(HomeName);
-        double HomeGamesPlayed = sos.getTotalGamesPlayed(HomeName);
-        double AwayGamesWon = sos.getGamesWon(AwayName);
-        double AwayGamesPlayed = sos.getTotalGamesPlayed(AwayName);
-           
-        QB homeQB = createQB(HomeName, HomeQBName, HomeGamesPlayed);
-        QB awayQB = createQB(AwayName, AwayQBName, AwayGamesPlayed);
         
-        Coach homeCoach = createCoach(HomeName, HomeGamesPlayed);
-        Coach awayCoach = createCoach(AwayName, AwayGamesPlayed);
-        
-        Team homeTeam = createTeam(HomeName, HomeNameLonger, HomeGamesPlayed, HomeGamesWon, HomeSOS, HomeHistoryToWin, "TOP.txt");
-        homeTeam.QBFactor(homeQB);
-        homeTeam.CoachFactor(homeCoach);
-        System.out.println("HomeQB rating: " + homeTeam.getQB());
-        System.out.println("HomeCoach rating: " + homeTeam.getCoach());
-        Team awayTeam = createTeam(AwayName, AwayNameLonger, AwayGamesPlayed, AwayGamesWon, AwaySOS, AwayHistoryToWin, "TOP.txt");
-        awayTeam.QBFactor(awayQB);
-        awayTeam.CoachFactor(awayCoach);
-        System.out.println("AwayQB rating: " + awayTeam.getQB());
-        System.out.println("AwayCoach rating: " + awayTeam.getCoach());
-        
-        Game game1 = new Game();
-        game1.setNames(HomeName, AwayName);
-        System.out.println(HomeName + " QB: " + HomeQBName);
-        System.out.println(AwayName + " QB: " + AwayQBName);
-        System.out.println("Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread");
-        System.out.println(game1.EstProbChanceWinning(OpeningML, OpeningSpread));
-        System.out.println(game1.simGame(homeTeam, awayTeam, week));
-        System.out.println(game1.simGame(homeTeam, awayTeam, week));
-        System.out.println(game1.simGame(homeTeam, awayTeam, week));
-        System.out.println("Shows possible game results.");
-        System.out.println(game1.avgGameWithEstSpread(homeTeam, awayTeam, week));
-        System.out.println("Shows long run score over 1000 simulations and ideal spread for favorite.");        
+        if(week == 1) {
+        	Game game1 = new Game();
+	        game1.setNames(HomeName, AwayName);
+	        System.out.println(HomeName + " QB: " + HomeQBName);
+	        System.out.println(AwayName + " QB: " + AwayQBName);
+	        System.out.println("Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread");
+	        System.out.println(game1.EstProbChanceWinning(OpeningML, OpeningSpread));
+	        System.out.println(game1.simGame(new Team(), new Team(), week));
+        }
+        else {
+	        SoSRetriever sos = new SoSRetriever();
+	        sos.setSOSInfo();
+	        sos.calcSOS();
+	        double HomeSOS = sos.getSOS(HomeName);
+	        double AwaySOS = sos.getSOS(AwayName);
+	        double HomeGamesWon = sos.getGamesWon(HomeName);
+	        double HomeGamesPlayed = sos.getTotalGamesPlayed(HomeName);
+	        double AwayGamesWon = sos.getGamesWon(AwayName);
+	        double AwayGamesPlayed = sos.getTotalGamesPlayed(AwayName);
+	           
+	        QB homeQB = createQB(HomeName, HomeQBName, HomeGamesPlayed);
+	        QB awayQB = createQB(AwayName, AwayQBName, AwayGamesPlayed);
+	        
+	        Coach homeCoach = createCoach(HomeName, HomeGamesPlayed);
+	        Coach awayCoach = createCoach(AwayName, AwayGamesPlayed);
+	        
+	        Team homeTeam = createTeam(HomeName, HomeNameLonger, HomeGamesPlayed, HomeGamesWon, HomeSOS, HomeHistoryToWin, "TOP.txt");
+	        homeTeam.QBFactor(homeQB);
+	        homeTeam.CoachFactor(homeCoach);
+	        System.out.println("HomeQB rating: " + homeTeam.getQB());
+	        System.out.println("HomeCoach rating: " + homeTeam.getCoach());
+	        Team awayTeam = createTeam(AwayName, AwayNameLonger, AwayGamesPlayed, AwayGamesWon, AwaySOS, AwayHistoryToWin, "TOP.txt");
+	        awayTeam.QBFactor(awayQB);
+	        awayTeam.CoachFactor(awayCoach);
+	        System.out.println("AwayQB rating: " + awayTeam.getQB());
+	        System.out.println("AwayCoach rating: " + awayTeam.getCoach());
+	        
+	        Game game1 = new Game();
+	        game1.setNames(HomeName, AwayName);
+	        System.out.println(HomeName + " QB: " + HomeQBName);
+	        System.out.println(AwayName + " QB: " + AwayQBName);
+	        System.out.println("Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread");
+	        System.out.println(game1.EstProbChanceWinning(OpeningML, OpeningSpread));
+	        System.out.println(game1.simGame(homeTeam, awayTeam, week));
+	        System.out.println(game1.simGame(homeTeam, awayTeam, week));
+	        System.out.println(game1.simGame(homeTeam, awayTeam, week));
+	        System.out.println("Shows possible game results.");
+	        System.out.println(game1.avgGameWithEstSpread(homeTeam, awayTeam, week));
+	        System.out.println("Shows long run score over 1000 simulations and ideal spread for favorite.");      
+        }
     }
 	
 	public QB createQB(String TeamName, String QBName, double GamesPlayed) throws Exception

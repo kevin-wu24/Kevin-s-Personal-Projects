@@ -2507,7 +2507,7 @@
 				        			<tr>
 			        <td class="rank text-center" data-sort="21">21</td>
 				<td class="text-left nowrap" data-sort="Tampa Bay"><a href="https://www.teamrankings.com/nfl/team/tampa-bay-buccaneers">Tampa Bay</a></td>
-				<td class="text-right" data-sort="1746">29:06</td>
+				<td class="text-right" data-sort="1746.00">29:06</td>
 				<td class="text-right" data-sort="1765.67">29:25</td>
 				<td class="text-right" data-sort="1883">31:23</td>
 				<td class="text-right" data-sort="1585.56">26:25</td>
@@ -2557,7 +2557,7 @@
 				        			<tr>
 			        <td class="rank text-center" data-sort="26">26</td>
 				<td class="text-left nowrap" data-sort="NY Giants"><a href="https://www.teamrankings.com/nfl/team/new-york-giants">NY Giants</a></td>
-				<td class="text-right" data-sort="1722">28:42</td>
+				<td class="text-right" data-sort="1722.00">28:42</td>
 				<td class="text-right" data-sort="1565">26:05</td>
 				<td class="text-right" data-sort="1647">27:27</td>
 				<td class="text-right" data-sort="1590.75">26:30</td>
@@ -2617,7 +2617,7 @@
 				        			<tr>
 			        <td class="rank text-center" data-sort="32">32</td>
 				<td class="text-left nowrap" data-sort="Houston"><a href="https://www.teamrankings.com/nfl/team/houston-texans">Houston</a></td>
-				<td class="text-right" data-sort="1638">27:18</td>
+				<td class="text-right" data-sort="1638.00">27:18</td>
 				<td class="text-right" data-sort="1672">27:52</td>
 				<td class="text-right" data-sort="1736">28:56</td>
 				<td class="text-right" data-sort="1610.12">26:50</td>
