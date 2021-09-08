@@ -6,7 +6,8 @@ import java.io.FileReader;
 
 public class GameSim 
 {
-	String year = "2021";
+	// After week 1, change year to new year
+	String year = "2020";
 	String previousYear = "2020";
 	int week = 1;
 	String[][] TeamInfo = {{"NE", "BUF", "MIA", "NYJ", "KC", "LV", "LAC", "DEN","BAL","PIT","CLE","CIN","HOU","IND","JAX","TEN","DAL","PHI","NYG","WAS","SF","SEA","LAR","ARI","GB","MIN","DET","CHI","NO","CAR","TB","ATL"},
@@ -15,7 +16,7 @@ public class GameSim
         "https://www.pro-football-reference.com/teams/dal/"+year+".htm","https://www.pro-football-reference.com/teams/phi/"+year+".htm","https://www.pro-football-reference.com/teams/nyg/"+year+".htm","https://www.pro-football-reference.com/teams/was/"+year+".htm","https://www.pro-football-reference.com/teams/sfo/"+year+".htm","https://www.pro-football-reference.com/teams/sea/"+year+".htm","https://www.pro-football-reference.com/teams/ram/"+year+".htm","https://www.pro-football-reference.com/teams/crd/"+year+".htm",
         "https://www.pro-football-reference.com/teams/gnb/"+year+".htm","https://www.pro-football-reference.com/teams/min/"+year+".htm","https://www.pro-football-reference.com/teams/det/"+year+".htm","https://www.pro-football-reference.com/teams/chi/"+year+".htm","https://www.pro-football-reference.com/teams/nor/"+year+".htm","https://www.pro-football-reference.com/teams/car/"+year+".htm","https://www.pro-football-reference.com/teams/tam/"+year+".htm","https://www.pro-football-reference.com/teams/atl/"+year+".htm"},
        {"New England", "Buffalo", "Miami", "NY Jets", "Kansas City", "Las Vegas", "LA Chargers", "Denver", "Baltimore", "Pittsburgh", "Cleveland", "Cincinnati", "Houston", "Indianapolis", "Jacksonville", "Tennessee", "Dallas", "Philadelphia", "NY Giants", "Washington", "San Francisco", "Seattle", "LA Rams", "Arizona", "Green Bay", "Minnesota","Detroit", "Chicago", "New Orleans", "Carolina", "Tampa Bay", "Atlanta"},
-       {"Cam Newton", "Josh Allen", "Tua Tagovailoa", "Zach Wilson", "Patrick Mahomes", "Derek Carr", "Justin Herbert", "Drew Lock", "Lamar Jackson", "Ben Roethlisberger", "Baker Mayfield", "Joe Burrow", "Deshaun Watson", "Carson Wentz", "Trevor Lawrence", "Ryan Tannehill", "Dak Prescott", "Jalen Hurts", "Daniel Jones", "Ryan Fitzpatrick", "Jimmy Garoppolo", "Russel Wilson", "Matthew Stafford", "Kyler Murray", "Aaron Rodgers", "Kirk Cousins", "Jared Goff", "Andy Dalton", "Jameis Winston","Sam Darnold","Tom Brady","Matt Ryan"},
+       {"Cam Newton", "Josh Allen", "Tua Tagovailoa", "Zach Wilson", "Patrick Mahomes", "Derek Carr", "Justin Herbert", "Teddy Bridgewater", "Lamar Jackson", "Ben Roethlisberger", "Baker Mayfield", "Joe Burrow", "Deshaun Watson", "Carson Wentz", "Trevor Lawrence", "Ryan Tannehill", "Dak Prescott", "Jalen Hurts", "Daniel Jones", "Ryan Fitzpatrick", "Jimmy Garoppolo", "Russel Wilson", "Matthew Stafford", "Kyler Murray", "Aaron Rodgers", "Kirk Cousins", "Jared Goff", "Andy Dalton", "Jameis Winston","Sam Darnold","Tom Brady","Matt Ryan"},
        {"Patriots", "Bills", "Dolphins", "Jets", "Chiefs", "Raiders", "Chargers", "Broncos", "Ravens", "Steelers", "Browns", "Bengals", "Texans", "Colts", "Jaguars", "Titans", "Cowboys", "Eagles", "Giants", "Football Team", "49ers", "Seahawks", "Rams", "Cardinals", "Packers", "Vikings", "Lions", "Bears", "Saints", "Panthers", "Buccaneers", "Falcons"}};;
 	
 	public void simGame() throws Exception
@@ -58,16 +59,8 @@ public class GameSim
         	}
         }
         
-        if(week == 1) {
-        	Game game1 = new Game();
-	        game1.setNames(HomeName, AwayName);
-	        System.out.println(HomeName + " QB: " + HomeQBName);
-	        System.out.println(AwayName + " QB: " + AwayQBName);
-	        System.out.println("Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread");
-	        System.out.println(game1.EstProbChanceWinning(OpeningML, OpeningSpread));
-	        System.out.println(game1.simGame(new Team(), new Team(), week));
-        }
-        else {
+
+        
 	        SoSRetriever sos = new SoSRetriever();
 	        sos.setSOSInfo();
 	        sos.calcSOS();
@@ -107,7 +100,7 @@ public class GameSim
 	        System.out.println("Shows possible game results.");
 	        System.out.println(game1.avgGameWithEstSpread(homeTeam, awayTeam, week));
 	        System.out.println("Shows long run score over 1000 simulations and ideal spread for favorite.");      
-        }
+        
     }
 	
 	public QB createQB(String TeamName, String QBName, double GamesPlayed) throws Exception
