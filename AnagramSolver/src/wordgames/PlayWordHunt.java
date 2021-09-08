@@ -7,7 +7,7 @@ public class PlayWordHunt
 {
 	private static int score = 0;
 	private static int numRowsAndCols = 0;
-	private static char[][] wordHuntBoard;
+	private WordHuntBoard whb;
 	private static ArrayList<String> boardKey;
 	private static ArrayList<String> previousAnswers;
 	
@@ -18,7 +18,7 @@ public class PlayWordHunt
 		System.out.println("Welcome To WordHunt! "
 				+ "What dimensions of board would you like?"
 				+ "Enter a singular integer greater than 0, "
-				+ "and the board will ahve that number of rows and columns");
+				+ "and the board will have that number of rows and columns");
 		while(numRowsAndCols == 0)
 		{
 			try 

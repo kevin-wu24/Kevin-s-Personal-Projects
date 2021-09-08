@@ -15,7 +15,7 @@ public class AnagramGenerator
 	
 	/**
 	 * Anagrams hash table will have an alphabetized String as key.
-	 * Each key's value is an list of all possible anagrams created from the key string.
+	 * Each key's value is a list of all possible anagrams created from the key string.
 	 * @throws Exception
 	 */
 	public AnagramGenerator() throws Exception

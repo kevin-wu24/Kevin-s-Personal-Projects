@@ -1,3 +1,8 @@
+/*
+ * Runner for anagrams algorithm
+ * Given any input string, find all anagrams for the string
+ * which are considered words, using words_alpha.txt as a reference
+ * */
 package wordgames;
 import java.util.Arrays;
 import java.util.Scanner;
