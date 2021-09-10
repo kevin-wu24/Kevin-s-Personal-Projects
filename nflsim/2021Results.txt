@@ -9,7 +9,6 @@ All ATS odds between +100 and -120
 Lines are all from Thursday before Thursday Night Football game, will be updated after if necessary 
 	to try and eliminate pre-game pushes or if statistics are not updated.
 ML pushes occur when a game ends in a tie or when the simulation outputs a tie
-	*See Week 2 Game 15
 ATS pushes occur when a game ends with the difference of scores equaling the chosen spread, 
 	or when the simulation outputs a result where the difference of the points equals both teams' alloted points
 	against the spread right before kickoff.	
@@ -27,4 +26,5 @@ Week 1 Record: (ATS: ; ML: )
 		TB 34.0     DAL 22.0
 		 -12.0
 		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: TB ML and ATS***
 		
