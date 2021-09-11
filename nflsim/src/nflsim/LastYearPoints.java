@@ -26,7 +26,8 @@ public class LastYearPoints
 		*/
 		
 		// Hashtable stores the teams with QBs that changed teams over the offseason
-		dictionary.put("DET", "LAR202O.txt");
+		dictionary.put("NE", "NE2020.txt");
+		dictionary.put("DET", "LAR2020.txt");
 		dictionary.put("LAR", "DET2020.txt");
 		dictionary.put("IND", "PHI2020.txt");
 		dictionary.put("NYJ", "NYJ2020.txt");
@@ -34,6 +35,7 @@ public class LastYearPoints
 		dictionary.put("WAS", "MIA2020.txt");
 		dictionary.put("CHI", "DAL2020.txt");
 		dictionary.put("CAR", "NYJ2020.txt");
+		dictionary.put("DEN", "CAR2020.txt");
 		
 		GameSim game = new GameSim();
 		for(int j = 0; j<32; j++)
