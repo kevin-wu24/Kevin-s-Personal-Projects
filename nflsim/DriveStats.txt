@@ -41,7 +41,7 @@
 <meta name="msapplication-wide310x150logo" content="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/favicons/mstile-310x150.png" />
 <meta name="msapplication-square310x310logo" content="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/favicons/mstile-310x310.png" />
 <link rel="stylesheet" media="all" href="https://cdn.footballoutsiders.net/files/css/css_UfRP-aiq15ovreSNZQA2AozhcGVEtojGK4U077F5ies.css" />
-<link rel="stylesheet" media="all" href="https://cdn.footballoutsiders.net/files/css/css_1A4uhR1P07RyAfp5K-tQfmfQ0kwuYrcdLLt3BKswjBc.css" />
+<link rel="stylesheet" media="all" href="https://cdn.footballoutsiders.net/files/css/css_fkYRnXbN6hujCG3kf2D5ZrWYwJUXKkm1R0tgHzAxLEI.css" />
 
 
 <script type="application/ld+json">
@@ -180,10 +180,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="section-nav-column">
             <h3>Overall DVOA</h3>
             <ul>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/team-efficiency/2020">Team</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/team-offense/2020">Offense</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/team-defense/2020">Defense</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/special-teams/2020">Special Teams</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/team-efficiency/2021">Team</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/team-offense/2021">Offense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/team-defense/2021">Defense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/special-teams/2021">Special Teams</a></li>
             </ul>
             <h3>Historical Lookups</h3>
             <ul>
@@ -199,10 +199,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="section-nav-column space-top sidebar-only">
             <h3>Positions</h3>
             <ul>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/qb/2020">Quarterbacks</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/rb/2020">Running Backs</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/wr/2020">Wide Receivers</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/te/2020">Tight Ends</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/qb/2021">Quarterbacks</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/rb/2021">Running Backs</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/wr/2021">Wide Receivers</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/te/2021">Tight Ends</a></li>
             </ul>
             <h3>Defense</h3>
             <ul>
@@ -223,8 +223,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
             <h3>Line Stats</h3>
             <ul>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/basic-offensive-line">Basic - Off</a> / <a href="https://www.footballoutsiders.com/stats/nfl/basic-defensive-line">Def</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/directional-offensive-line">Directional - Off</a> / <a href="https://www.footballoutsiders.com/stats/nfl/directional-defensive-line">Def</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/basic-offensive-line">Basic - Offense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/basic-defensive-line">Basic - Defense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/directional-offensive-line">Directional - Offense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/directional-defensive-line">Directional - Defense</a></li>
               <li><a href="https://www.footballoutsiders.com/stats/nfl/line-stats-by-team">By Team <span class="section-nav-tag orange">FO+</span></a></li>
             </ul>
           </div>
@@ -236,11 +238,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <li><a href="https://www.footballoutsiders.com/stats/nfl/pace-stats"><b>Pace/Time Stats</b></a></li>
               <li><a href="https://www.footballoutsiders.com/stats/nfl/overall-drive-stats"><b>Drive Stats</b></a></li>
             </ul>
-            <h3>More from <span class="section-nav-edjsports"><img src="https://cdn.footballoutsiders.net/files/EdjSports-Logo-Without-Star.png" alt="EdjSports logo" /></span></h3>
+            <h3 class="green">Coming Soon!</h3>
             <ul>
-              <li><span class="green"><b>Coming Soon!</b></span></li>
-              <li>Edj Power Index <span class="section-nav-tag orange">FO+</span></li>
-              <li>Massey Ratings <span class="section-nav-tag orange">FO+</span></li>
+              <li class="section-nav-inactive">Edj Power Index <span class="section-nav-tag edjsports"></span> <span class="section-nav-tag orange">FO+</span></li>
+              <li class="section-nav-inactive">Massey Ratings <span class="section-nav-tag edjsports"></span> <span class="section-nav-tag orange">FO+</span></li>
             </ul>
           </div>
         </div>
@@ -280,16 +281,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="section-nav-column">
         <h2 class="section-nav-h2-bg nfl">Intelligent Analysis</h2>
         <ul>
-          <li><a href="/dvoa-ratings">DVOA Analysis</a></li>
           <li><a href="/any-given-sunday">Any Given Sunday</a></li>
           <li><a href="/audibles">Audibles at the Line</a></li>
+          <li><a href="/coach-rankings">Coach Rankings <span class="section-nav-tag edjsports"></span></a></li>
+          <li><a href="/dvoa-ratings">DVOA Analysis</a></li>
           <li><a href="/film-room">Film Room</a></li>
+          <li><a href="/podcasts">Football Outsiders Live <i class="icon-mic"></i> <span class="section-nav-tag green">New!</span></a></li>
+          <li><a href="https://www.footballoutsiders.com/analysis/post-game-reports/current">Post-Game Reports <span class="section-nav-tag edjsports"></span> <span class="section-nav-tag orange">FO+</span></a></li>
           <li><a href="/quick-reads">Quick Reads</a></li>
+          <li><a href="/risky-business">Risky Business <span class="section-nav-tag edjsports"></span></a></li>
           <li><a href="/scramble">Scramble for the Ball</a></li>
           <li><a href="/walkthrough">Walkthrough</a></li>
           <li><a href="/week-quotes">Week in Quotes</a></li>
           <li><a href="/word-muth">Word of Muth</a></li>
-          <li><a href="/podcasts">FO Radio Hour <i class="icon-mic"></i> <span class="section-nav-tag green">New!</span></a></li>
         </ul>
       </div>
       <div class="section-nav-column-spacer"></div>
@@ -319,6 +323,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li><a href="/futures">Futures</a></li>
           <li><a href="/nfl-draft">NFL Draft</a></li>
           <li><a href="/stat-analysis">Stat Analysis</a></li>
+          <li class="spacer-li">&nbsp;</li>
         </ul>
         <h2>Football Outsiders Almanac</h2>
         <ul>
@@ -335,13 +340,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li><a href="/7th-day-adventure">Seventh Day Adventure</a></li>
           <li class="spacer-li">&nbsp;</li>
           <li class="spacer-li">&nbsp;</li>
-        </ul>
-        <h2>More from <span class="section-nav-edjsports"><img src="https://cdn.footballoutsiders.net/files/EdjSports-Logo-Without-Star.png" alt="EdjSports logo" /></span></h2>
-        <ul>
-          <li><a href="/coach-rankings">Coach Rankings</a></li>
-          <li><a href="/risky-business">Risky Business</a></li>
-          <li class="space-top"><span class="green"><b>Coming Soon!</b></span></li>
-          <li>Post Game Reports <span class="section-nav-tag orange">FO+</span></li>
         </ul>
         <form action="https://www.footballoutsiders.com/search" method="get">
           <label for="query" class="visually-hidden">Search</label>
@@ -451,18 +449,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="section-nav-column">
         <h2>Player Research</h2>
         <ul>
-          <li><h3>Shares</h3></li>
-          <li><span class="green"><b>Coming Soon!</b></span></li>
-                      <li>Target <span class="section-nav-tag orange">FO+</span></li>
-                                <li>Carry <span class="section-nav-tag orange">FO+</span></li>
-                    <li class="space-top"><h3>Efficiencies <span class="section-nav-tag green">New!</span></h3></li>
+          <li class="space-top"><h3>Efficiencies <span class="section-nav-tag green">New!</span></h3></li>
           <li><a href="https://www.footballoutsiders.com/fantasy/passing-efficiency">Passing <span class="section-nav-tag orange">FO+</span></a></li>
           <li><a href="https://www.footballoutsiders.com/fantasy/rushing-efficiency">Rushing</a> <span class="section-nav-tag orange">FO+</span></li>
           <li><a href="https://www.footballoutsiders.com/fantasy/receiving-efficiency">Receiving <span class="section-nav-tag orange">FO+</span></a></li>
           <li><a href="https://www.footballoutsiders.com/fantasy/touchdown-efficiency">Touchdown <span class="section-nav-tag orange">FO+</span></a></li>
           <li class="space-top"><a href="https://www.footballoutsiders.com/stats/nfl/snap-counts">Snap Counts</a></li>
           <li><a href="https://www.footballoutsiders.com/player/home">Player Page Search</a></li>
-        </ul>
+          <li class="space-top"><h3>Shares <span class="green"><b>Coming Soon!</b></span></h3></li>
+                      <li class="section-nav-inactive">Targets <span class="section-nav-tag orange">FO+</span></li>
+                                <li class="section-nav-inactive">Carries <span class="section-nav-tag orange">FO+</span></li>
+                  </ul>
       </div>
       <div class="section-nav-column-spacer"></div>
       <div class="section-nav-column">
@@ -474,8 +471,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li class="space-top"><h3>Weekly</h3></li>
           <li><a href="https://www.footballoutsiders.com/fantasy/weekly-projections">Fantasy Projections <span class="section-nav-tag orange">FO+</span></a></li>
           <li class="space-top"><span class="green"><b>Coming Soon!</b></span></li>
-          <li>Rest of Season Projections <span class="section-nav-tag orange">FO+</span></li>
-          <li>Fantasy Value Plays <span class="section-nav-tag orange">FO+</span></li>
+          <li class="section-nav-inactive">Rest of Season Projections <span class="section-nav-tag orange">FO+</span></li>
+          <li class="section-nav-inactive">Fantasy Value Plays <span class="section-nav-tag orange">FO+</span></li>
         </ul>
       </div>
       <div class="section-nav-column-spacer"></div>
@@ -491,8 +488,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h2>Loser League <span class="section-nav-tag green">New!</span></h2>
         <ul>
           <li><a href="https://www.footballoutsiders.com/fantasy/loser-league">Overview</a></li>
-                                                <li>Loserboard <span class="section-nav-tag green">Coming Soon!</span></li>
-                        <li><a href="https://www.footballoutsiders.com/fantasy/loser-league/rules">Rules</a></li>
+                                  <li><a href="https://www.footballoutsiders.com/fantasy/loser-league/loserboard">Loserboard</a></li>
+            <li><a href="https://www.footballoutsiders.com/fantasy/loser-league/rules">Rules</a></li>
                   </ul>
       </div>
     </div>
@@ -518,17 +515,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <ul>
           <li><a href="https://www.footballoutsiders.com/betting/nfl-picks">NFL Picks <span class="section-nav-tag orange">FO+</span></a></li>
           <li><a href="/stats/nfl/playoff-odds">Playoff Odds</a></li>
+          <li><a href="https://edjsports.com/league/nfl/matchups" target="_blank">Matchups & Pick Tracker <span class="section-nav-tag edjsports"></span></a></li>
+          <li class="section-nav-inactive">Massey Matchups <span class="section-nav-tag edjsports"></span> <span class="section-nav-tag orange">FO+</span></li>
                   </ul>
-      </div>
-      <div class="section-nav-column-spacer gray"></div>
-      <div class="section-nav-column">
-        <h2>More from <span class="section-nav-edjsports"><img src="https://cdn.footballoutsiders.net/files/EdjSports-Logo-Without-Star.png" alt="EdjSports logo" /></span></h2>
-        <ul>
-          <li><span class="green"><b>Coming Soon!</b></span></li>
-          <li>Matchups & Pick Tracker</li>
-          <li>Game-Winning Chance (GWC) <span class="section-nav-tag orange">FO+</span></li>
-          <li>Massey Matchups <span class="section-nav-tag orange">FO+</span></li>
-        </ul>
       </div>
     </div>
   </div>
@@ -583,14 +572,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <form class="fo-stats-navigation-form inline-form-elements clearfix" data-drupal-selector="fo-stats-navigation-form" novalidate="novalidate" action="/stats/nfl/overall-drive-statsoff/2020" method="post" id="fo-stats-navigation-form" accept-charset="UTF-8">
   <div class="form-header no-updated-line"><h1>2020 NFL Offensive Drive Stats</h1></div><div id="fo-stats-navigation-year" data-drupal-selector="edit-year-container" class="js-form-wrapper form-wrapper"><div class="js-form-item form-item js-form-type-select form-type-select js-form-item-year form-item-year form-no-label">
       <label for="edit-year" class="visually-hidden">Year</label>
-        <select data-drupal-selector="edit-year" id="edit-year" name="year" class="form-select"><option value="2020" selected="selected" >2020</option><option value="2019" >2019</option><option value="2018" >2018</option><option value="2017" >2017</option><option value="2016" >2016</option><option value="2015" >2015</option><option value="2014" >2014</option><option value="2013" >2013</option><option value="2012" >2012</option><option value="2011" >2011</option><option value="2010" >2010</option><option value="2009" >2009</option><option value="2008" >2008</option><option value="2007" >2007</option><option value="2006" >2006</option><option value="2005" >2005</option><option value="2004" >2004</option><option value="2003" >2003</option><option value="2002" >2002</option><option value="2001" >2001</option><option value="2000" >2000</option><option value="1999" >1999</option><option value="1998" >1998</option><option value="1997" >1997</option><option value="1996" >1996</option><option value="1995" >1995</option><option value="1994" >1994</option><option value="1993" >1993</option></select>
+        <select data-drupal-selector="edit-year" id="edit-year" name="year" class="form-select"><option value="2021" >2021</option><option value="2020" selected="selected" >2020</option><option value="2019" >2019</option><option value="2018" >2018</option><option value="2017" >2017</option><option value="2016" >2016</option><option value="2015" >2015</option><option value="2014" >2014</option><option value="2013" >2013</option><option value="2012" >2012</option><option value="2011" >2011</option><option value="2010" >2010</option><option value="2009" >2009</option><option value="2008" >2008</option><option value="2007" >2007</option><option value="2006" >2006</option><option value="2005" >2005</option><option value="2004" >2004</option><option value="2003" >2003</option><option value="2002" >2002</option><option value="2001" >2001</option><option value="2000" >2000</option><option value="1999" >1999</option><option value="1998" >1998</option><option value="1997" >1997</option><option value="1996" >1996</option><option value="1995" >1995</option><option value="1994" >1994</option><option value="1993" >1993</option></select>
         </div>
 </div>
 <div class="js-form-item form-item js-form-type-select form-type-select js-form-item-offense-defense form-item-offense-defense form-no-label">
       <label for="edit-offense-defense" class="visually-hidden">Offense / Defense</label>
         <select data-drupal-selector="edit-offense-defense" id="edit-offense-defense" name="offense_defense" class="form-select"><option value="overall" >Overall</option><option value="offense" selected="selected" >Offense</option><option value="defense" >Defense</option></select>
         </div>
-<span class="form-please-wait">Loading, please wait...</span><input autocomplete="off" data-drupal-selector="form-a6n0bo-qc5bpmnaqzjnkh6fli-ohkfvfjlm-szsbzca" type="hidden" name="form_build_id" value="form-a6n0bO_Qc5BpMnaQzJnKH6fli-ohkfVFJLm_SzSbZCA" />
+<span class="form-please-wait">Loading, please wait...</span><input autocomplete="off" data-drupal-selector="form-yxvfuvvgzebjaj3j-t8n2gvwej-dibfysvrqdhgljko" type="hidden" name="form_build_id" value="form-yxvFuvVgzebjaj3j-t8n2GvWEJ_DIbfYSvRQdHGLJKo" />
 <input data-drupal-selector="edit-fo-stats-navigation-form" type="hidden" name="form_id" value="fo_stats_navigation_form" />
 <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" name="op" value="View Stats" class="button button--primary js-form-submit form-submit" />
 </div>
@@ -626,113 +615,113 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <tbody>
               <tr class="odd">
               <td>KC</td>
-              <td>155</td>
-              <td class="new-table-left-joined">1</td>
-              <td class="new-table-right-joined">43.60</td>
-              <td class="new-table-left-joined">4</td>
-              <td class="new-table-right-joined">2.86</td>
-              <td class="new-table-left-joined">8</td>
-              <td class="new-table-right-joined">.097</td>
-              <td class="new-table-left-joined">4</td>
-              <td class="new-table-right-joined">.045</td>
-              <td class="new-table-left-joined">24</td>
-              <td class="new-table-right-joined">.052</td>
-              <td class="new-table-left-joined">24</td>
-              <td class="new-table-right-joined">27.21</td>
-              <td class="new-table-left-joined">1</td>
-              <td class="new-table-right-joined">6.90</td>
-              <td class="new-table-left-joined">4</td>
-              <td class="new-table-right-joined">3.06</td>
-              <td class="new-table-left-joined">2</td>
-              <td class="new-table-right-joined">.796</td>
+              <td><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
             </tr>
               <tr class="even">
               <td>GB</td>
-              <td>153</td>
-              <td class="new-table-left-joined">2</td>
-              <td class="new-table-right-joined">40.93</td>
-              <td class="new-table-left-joined">1</td>
-              <td class="new-table-right-joined">3.22</td>
-              <td class="new-table-left-joined">1</td>
-              <td class="new-table-right-joined">.059</td>
-              <td class="new-table-left-joined">1</td>
-              <td class="new-table-right-joined">.033</td>
-              <td class="new-table-left-joined">3</td>
-              <td class="new-table-right-joined">.026</td>
-              <td class="new-table-left-joined">18</td>
-              <td class="new-table-right-joined">28.04</td>
-              <td class="new-table-left-joined">11</td>
-              <td class="new-table-right-joined">6.49</td>
-              <td class="new-table-left-joined">1</td>
-              <td class="new-table-right-joined">3.21</td>
-              <td class="new-table-left-joined">1</td>
-              <td class="new-table-right-joined">.801</td>
+              <td><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
             </tr>
               <tr class="odd">
               <td>TEN</td>
-              <td>160</td>
-              <td class="new-table-left-joined">3</td>
-              <td class="new-table-right-joined">40.61</td>
-              <td class="new-table-left-joined">2</td>
-              <td class="new-table-right-joined">2.98</td>
-              <td class="new-table-left-joined">2</td>
-              <td class="new-table-right-joined">.075</td>
-              <td class="new-table-left-joined">2</td>
-              <td class="new-table-right-joined">.044</td>
-              <td class="new-table-left-joined">9</td>
-              <td class="new-table-right-joined">.031</td>
-              <td class="new-table-left-joined">20</td>
-              <td class="new-table-right-joined">27.97</td>
-              <td class="new-table-left-joined">8</td>
-              <td class="new-table-right-joined">6.53</td>
-              <td class="new-table-left-joined">16</td>
-              <td class="new-table-right-joined">2.49</td>
-              <td class="new-table-left-joined">4</td>
-              <td class="new-table-right-joined">.792</td>
+              <td><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
             </tr>
               <tr class="even">
               <td>BUF</td>
-              <td>159</td>
-              <td class="new-table-left-joined">4</td>
-              <td class="new-table-right-joined">40.33</td>
-              <td class="new-table-left-joined">3</td>
-              <td class="new-table-right-joined">2.98</td>
-              <td class="new-table-left-joined">19</td>
-              <td class="new-table-right-joined">.126</td>
-              <td class="new-table-left-joined">15</td>
-              <td class="new-table-right-joined">.069</td>
-              <td class="new-table-left-joined">27</td>
-              <td class="new-table-right-joined">.057</td>
-              <td class="new-table-left-joined">8</td>
-              <td class="new-table-right-joined">30.38</td>
-              <td class="new-table-left-joined">4</td>
-              <td class="new-table-right-joined">6.62</td>
-              <td class="new-table-left-joined">3</td>
-              <td class="new-table-right-joined">3.09</td>
-              <td class="new-table-left-joined">3</td>
-              <td class="new-table-right-joined">.794</td>
+              <td><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
             </tr>
               <tr class="odd">
               <td>LV</td>
-              <td>165</td>
-              <td class="new-table-left-joined">5</td>
-              <td class="new-table-right-joined">38.41</td>
-              <td class="new-table-left-joined">8</td>
-              <td class="new-table-right-joined">2.63</td>
-              <td class="new-table-left-joined">29</td>
-              <td class="new-table-right-joined">.152</td>
-              <td class="new-table-left-joined">8</td>
-              <td class="new-table-right-joined">.061</td>
-              <td class="new-table-left-joined">32</td>
-              <td class="new-table-right-joined">.091</td>
-              <td class="new-table-left-joined">9</td>
-              <td class="new-table-right-joined">29.69</td>
-              <td class="new-table-left-joined">12</td>
-              <td class="new-table-right-joined">6.47</td>
-              <td class="new-table-left-joined">9</td>
-              <td class="new-table-right-joined">3.00</td>
-              <td class="new-table-left-joined">10</td>
-              <td class="new-table-right-joined">.754</td>
+              <td><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
             </tr>
               <tr class="even">
               <td>HOU</td>
@@ -1374,113 +1363,113 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <tbody>
               <tr class="odd">
               <td>KC</td>
-              <td>155</td>
-              <td class="new-table-left-joined">4</td>
-              <td class="new-table-right-joined">.342</td>
-              <td class="new-table-left-joined">12</td>
-              <td class="new-table-right-joined">.161</td>
-              <td class="new-table-left-joined">15</td>
-              <td class="new-table-right-joined">.335</td>
-              <td class="new-table-left-joined">4</td>
-              <td class="new-table-right-joined">.142</td>
-              <td class="new-table-left-joined">3</td>
-              <td class="new-table-right-joined">26.91</td>
-              <td class="new-table-left-joined">9</td>
-              <td class="new-table-right-joined">2.12</td>
-              <td class="new-table-left-joined">11</td>
-              <td class="new-table-right-joined">5.14</td>
-              <td class="new-table-left-joined">15</td>
-              <td class="new-table-right-joined">.610</td>
-              <td class="new-table-left-joined">4</td>
-              <td class="new-table-right-joined">2.97</td>
+              <td><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
             </tr>
               <tr class="even">
               <td>GB</td>
-              <td>153</td>
-              <td class="new-table-left-joined">1</td>
-              <td class="new-table-right-joined">.418</td>
-              <td class="new-table-left-joined">30</td>
-              <td class="new-table-right-joined">.105</td>
-              <td class="new-table-left-joined">6</td>
-              <td class="new-table-right-joined">.301</td>
-              <td class="new-table-left-joined">10</td>
-              <td class="new-table-right-joined">.170</td>
-              <td class="new-table-left-joined">8</td>
-              <td class="new-table-right-joined">26.40</td>
-              <td class="new-table-left-joined">1</td>
-              <td class="new-table-right-joined">4.00</td>
-              <td class="new-table-left-joined">1</td>
-              <td class="new-table-right-joined">5.92</td>
-              <td class="new-table-left-joined">1</td>
-              <td class="new-table-right-joined">.800</td>
-              <td class="new-table-left-joined">3</td>
-              <td class="new-table-right-joined">4.83</td>
+              <td><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
             </tr>
               <tr class="odd">
               <td>TEN</td>
-              <td>160</td>
-              <td class="new-table-left-joined">2</td>
-              <td class="new-table-right-joined">.375</td>
-              <td class="new-table-left-joined">25</td>
-              <td class="new-table-right-joined">.125</td>
-              <td class="new-table-left-joined">7</td>
-              <td class="new-table-right-joined">.306</td>
-              <td class="new-table-left-joined">8</td>
-              <td class="new-table-right-joined">.163</td>
-              <td class="new-table-left-joined">22</td>
-              <td class="new-table-right-joined">25.00</td>
-              <td class="new-table-left-joined">3</td>
-              <td class="new-table-right-joined">3.00</td>
-              <td class="new-table-left-joined">3</td>
-              <td class="new-table-right-joined">5.63</td>
-              <td class="new-table-left-joined">2</td>
-              <td class="new-table-right-joined">.762</td>
-              <td class="new-table-left-joined">15</td>
-              <td class="new-table-right-joined">-1.18</td>
+              <td><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
             </tr>
               <tr class="even">
               <td>BUF</td>
-              <td>159</td>
-              <td class="new-table-left-joined">3</td>
-              <td class="new-table-right-joined">.352</td>
-              <td class="new-table-left-joined">8</td>
-              <td class="new-table-right-joined">.176</td>
-              <td class="new-table-left-joined">1</td>
-              <td class="new-table-right-joined">.258</td>
-              <td class="new-table-left-joined">3</td>
-              <td class="new-table-right-joined">.138</td>
-              <td class="new-table-left-joined">1</td>
-              <td class="new-table-right-joined">29.03</td>
-              <td class="new-table-left-joined">13</td>
-              <td class="new-table-right-joined">2.00</td>
-              <td class="new-table-left-joined">12</td>
-              <td class="new-table-right-joined">5.12</td>
-              <td class="new-table-left-joined">13</td>
-              <td class="new-table-right-joined">.627</td>
-              <td class="new-table-left-joined">2</td>
-              <td class="new-table-right-joined">5.48</td>
+              <td><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
             </tr>
               <tr class="odd">
               <td>LV</td>
-              <td>165</td>
-              <td class="new-table-left-joined">11</td>
-              <td class="new-table-right-joined">.291</td>
-              <td class="new-table-left-joined">3</td>
-              <td class="new-table-right-joined">.200</td>
-              <td class="new-table-left-joined">2</td>
-              <td class="new-table-right-joined">.267</td>
-              <td class="new-table-left-joined">5</td>
-              <td class="new-table-right-joined">.145</td>
-              <td class="new-table-left-joined">20</td>
-              <td class="new-table-right-joined">25.27</td>
-              <td class="new-table-left-joined">20</td>
-              <td class="new-table-right-joined">1.45</td>
-              <td class="new-table-left-joined">15</td>
-              <td class="new-table-right-joined">5.02</td>
-              <td class="new-table-left-joined">25</td>
-              <td class="new-table-right-joined">.542</td>
-              <td class="new-table-left-joined">22</td>
-              <td class="new-table-right-joined">-3.06</td>
+              <td><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-left-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
+              <td class="new-table-right-joined"><div class="new-table-lock-container" href="/subscribe"><div class="new-table-first-locked-cell"></div><div class="new-table-second-locked-cell"></div><div class="new-table-third-locked-cell"></div></div></td>
             </tr>
               <tr class="even">
               <td>HOU</td>
@@ -2120,7 +2109,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <input data-drupal-selector="edit-pass" placeholder="Password" type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required" required="required" aria-required="true" />
 
         </div>
-<input autocomplete="off" data-drupal-selector="form-kpy3uybm-gk4unvopzbni-zrpk0oh0neij-xp86fxwo" type="hidden" name="form_build_id" value="form-KpY3uyBm-gk4UNvOPzBni_ZRpk0oh0NEIJ_XP86fxWo" />
+<input autocomplete="off" data-drupal-selector="form-casldy3rt9wdb5eotxipotrzbsnv1kxekwclpwkz00o" type="hidden" name="form_build_id" value="form-caslDY3Rt9wdB5eotXIpoTrzbsnv1KXEkWClpwKZ00o" />
 <input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" />
 <p><i><a href="/user/password">Forgot password?</a></i></p><div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" class="orange button js-form-submit form-submit" type="submit" id="edit-submit" name="op" value="Login" />
 <div class="form-additional-links header"><a href="/user/login" class="login-link" data-drupal-selector="edit-login" id="edit-login">Login</a><a href="/user/password" data-drupal-selector="edit-reset" id="edit-reset">Forgot Password?</a><a href="/foplus/trial/start" data-drupal-selector="edit-trial" id="edit-trial">Start Your FO+ Free Trial</a></div><div class="form-additional-links content"><div><a href="/user/password" data-drupal-selector="edit-reset" id="edit-reset--2">Forgot Password?</a></div><div>Don't have an account? <a href="/register">Register now!</a></div></div></div>
@@ -2162,10 +2151,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="section-nav-column">
             <h3>Overall DVOA</h3>
             <ul>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/team-efficiency">Team</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/team-offense">Offense</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/team-defense">Defense</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/special-teams">Special Teams</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/team-efficiency/2021">Team</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/team-offense/2021">Offense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/team-defense/2021">Defense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/special-teams/2021">Special Teams</a></li>
             </ul>
             <h3>Historical Lookups</h3>
             <ul>
@@ -2181,10 +2170,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="section-nav-column space-top sidebar-only">
             <h3>Positions</h3>
             <ul>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/qb">Quarterbacks</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/rb">Running Backs</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/wr">Wide Receivers</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/te">Tight Ends</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/qb/2021">Quarterbacks</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/rb/2021">Running Backs</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/wr/2021">Wide Receivers</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/te/2021">Tight Ends</a></li>
             </ul>
             <h3>Defense</h3>
             <ul>
@@ -2205,8 +2194,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
             <h3>Line Stats</h3>
             <ul>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/basic-offensive-line">Basic - Off</a> / <a href="https://www.footballoutsiders.com/stats/nfl/basic-defensive-line">Def</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/directional-offensive-line">Directional - Off</a> / <a href="https://www.footballoutsiders.com/stats/nfl/directional-defensive-line">Def</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/basic-offensive-line">Basic - Offense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/basic-defensive-line">Basic - Defense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/directional-offensive-line">Directional - Offense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/directional-defensive-line">Directional - Defense</a></li>
               <li><a href="https://www.footballoutsiders.com/stats/nfl/line-stats-by-team">By Team <span class="section-nav-tag orange">FO+</span></a></li>
             </ul>
           </div>
@@ -2218,11 +2209,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <li><a href="https://www.footballoutsiders.com/stats/nfl/pace-stats"><b>Pace/Time Stats</b></a></li>
               <li><a href="https://www.footballoutsiders.com/stats/nfl/overall-drive-stats"><b>Drive Stats</b></a></li>
             </ul>
-            <h3>More from <span class="section-nav-edjsports"><img src="https://cdn.footballoutsiders.net/files/EdjSports-Logo-Without-Star.png" alt="EdjSports logo" /></span></h3>
+            <h3 class="green">Coming Soon!</h3>
             <ul>
-              <li><span class="green"><b>Coming Soon!</b></span></li>
-              <li>Edj Power Index <span class="section-nav-tag orange">FO+</span></li>
-              <li>Massey Ratings <span class="section-nav-tag orange">FO+</span></li>
+              <li class="section-nav-inactive">Edj Power Index <span class="section-nav-tag edjsports"></span> <span class="section-nav-tag orange">FO+</span></li>
+              <li class="section-nav-inactive">Massey Ratings <span class="section-nav-tag edjsports"></span> <span class="section-nav-tag orange">FO+</span></li>
             </ul>
           </div>
         </div>
@@ -2319,10 +2309,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <input tabindex="-1" autocomplete="off" data-drupal-selector="edit-favorite-team" type="text" id="edit-favorite-team" name="favorite_team" value="" size="60" maxlength="128" class="form-text" />
 
         </div>
-<input autocomplete="off" data-drupal-selector="form-9abgn23vcwattx1trk2sdjzjmgc5wbz9l0he4vp58ka" type="hidden" name="form_build_id" value="form-9aBGn23VCWAtTx1TrK2sDJZjMGC5WBz9l0He4vp58KA" />
+<input autocomplete="off" data-drupal-selector="form-opttssewrvu4pv4ryqjionujemnrbb3z99pkyqyxuek" type="hidden" name="form_build_id" value="form-opTtsSEWrvu4Pv4ryQjiOnUjemnrbB3z99pKyqYxuEk" />
 <input data-drupal-selector="edit-fo-main-email-registration-copy" type="hidden" name="form_id" value="fo_main_email_registration_copy" />
-    <div  data-drupal-selector="edit-captcha" class="captcha"><input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="1305868" />
-<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="zFxp_SLRNkhvpf-3qUH1J7Jeh5lhWDs0Esv_zTLO7ig" />
+    <div  data-drupal-selector="edit-captcha" class="captcha"><input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="1805813" />
+<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="VOnkwAEePM8ULLhHbz_8_lqz9Y2-y5fIgsSkIrzWPrc" />
 <input id="recaptcha-v3-token" class="recaptcha-v3-token" data-recaptcha-v3-action="default" data-recaptcha-v3-site-key="6LdfB-0bAAAAAMGMxue1f7n78cHzN85JdmBUi2-h" data-drupal-selector="edit-captcha-response" type="hidden" name="captcha_response" value="" />
 <input data-drupal-selector="edit-is-recaptcha-v3" type="hidden" name="is_recaptcha_v3" value="1" />
 </div>
@@ -2774,7 +2764,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"stats\/nfl\/overall-drive-statsoff\/2020","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","routeName":"fo_stats.offensive_drive"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"captcha\/base,chosen\/drupal.chosen,chosen_lib\/chosen.css,classy\/base,classy\/messages,core\/drupal.tableresponsive,core\/jquery.form,core\/normalize,fo_ccm\/utm,fo_front\/global-styling,fo_main\/admin_menu,fo_main\/main,fo_main\/signup_block,fo_stats\/nav_widget,fo_store\/yahoo,fo_stripe\/stripe,ga\/analytics,recaptcha_v3\/recaptcha_v3,system\/base","theme":"fo_front","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/stats\/nfl\/overall-drive-statsoff\/2020?ajax_form=1":true},"FOCCM":{"utmFields":{"endpoint":"\/ajax\/ccm\/utm","list":["sce","utm_source","utm_campaign","utm_term","utm_medium","utm_content","campaignid","adgroupid","adsetid","adid","keyword","adposition","placement","network","loc_interest_ms","loc_physical_ms","target","targetid","matchtype","device","devicemodel","sitelink","campaign_name","campaign_category","campaign_date"]}},"FOMain":{"NFLTeams":{"2TM":{"id":"AAAAAA","city":"Two","nickname":"Teams","abbrev":"2TM","year_min":1985,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Two_Teams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Two_Teams.png"},"ARI":{"id":"31R64Y","city":"Arizona","nickname":"Cardinals","abbrev":"ARI","year_min":1994,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Arizona_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Arizona_Cardinals.png"},"ATL":{"id":"1NJYCE","city":"Atlanta","nickname":"Falcons","abbrev":"ATL","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Atlanta_Falcons.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Atlanta_Falcons.png"},"BAL":{"id":"CU2QVY","city":"Baltimore","nickname":"Ravens","abbrev":"BAL","year_min":1996,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Baltimore_Ravens.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Baltimore_Ravens.png"},"BALC":{"id":"N2LWDD","city":"Baltimore","nickname":"Colts","abbrev":"BALC","year_min":1983,"year_max":1983,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Baltimore_Colts.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Baltimore_Colts.png"},"BUF":{"id":"3XRMV5","city":"Buffalo","nickname":"Bills","abbrev":"BUF","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Buffalo_Bills.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Buffalo_Bills.png"},"CAR":{"id":"NW374Y","city":"Carolina","nickname":"Panthers","abbrev":"CAR","year_min":1995,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Carolina_Panthers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Carolina_Panthers.png"},"CHI":{"id":"0Q8UBU","city":"Chicago","nickname":"Bears","abbrev":"CHI","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Chicago_Bears.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Chicago_Bears.png"},"CIN":{"id":"CHI76M","city":"Cincinnati","nickname":"Bengals","abbrev":"CIN","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cincinnati_Bengals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cincinnati_Bengals.png"},"CLE":{"id":"UKPC2W","city":"Cleveland","nickname":"Browns","abbrev":"CLE","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cleveland_Browns.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cleveland_Browns.png"},"CLE1":{"id":"CU2QVY","city":"Cleveland","nickname":"Browns","abbrev":"CLE1","year_min":1985,"year_max":1995,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cleveland_Browns.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cleveland_Browns.png"},"DAL":{"id":"V9PDBK","city":"Dallas","nickname":"Cowboys","abbrev":"DAL","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Dallas_Cowboys.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Dallas_Cowboys.png"},"DEN":{"id":"UN4420","city":"Denver","nickname":"Broncos","abbrev":"DEN","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Denver_Broncos.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Denver_Broncos.png"},"DET":{"id":"QJ0Z20","city":"Detroit","nickname":"Lions","abbrev":"DET","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Detroit_Lions.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Detroit_Lions.png"},"GB":{"id":"EQC28Y","city":"Green Bay","nickname":"Packers","abbrev":"GB","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Green_Bay_Packers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Green_Bay_Packers.png"},"HOIL":{"id":"ZHFQ4R","city":"Houston","nickname":"Oilers","abbrev":"HOIL","year_min":1983,"year_max":1996,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Houston_Oilers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Houston_Oilers.png"},"HOU":{"id":"9LMVNZ","city":"Houston","nickname":"Texans","abbrev":"HOU","year_min":2002,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Houston_Texans.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Houston_Texans.png"},"IND":{"id":"N2LWDD","city":"Indianapolis","nickname":"Colts","abbrev":"IND","year_min":1984,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Indianapolis_Colts.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Indianapolis_Colts.png"},"JAX":{"id":"CL7RBW","city":"Jacksonville","nickname":"Jaguars","abbrev":"JAX","year_min":1995,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Jacksonville_Jaguars.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Jacksonville_Jaguars.png"},"KC":{"id":"MVCF5W","city":"Kansas City","nickname":"Chiefs","abbrev":"KC","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Kansas_City_Chiefs.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Kansas_City_Chiefs.png"},"LAC":{"id":"XE0W6H","city":"Los Angeles","nickname":"Chargers","abbrev":"LAC","year_min":2017,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Chargers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Chargers.png"},"LAR":{"id":"PVS60L","city":"Los Angeles","nickname":"Rams","abbrev":"LAR","year_min":2016,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Rams.png"},"LARD":{"id":"A7F9J0","city":"Los Angeles","nickname":"Raiders","abbrev":"LARD","year_min":1983,"year_max":1994,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Raiders.png"},"LARM":{"id":"PVS60L","city":"Los Angeles","nickname":"Rams","abbrev":"LARM","year_min":1983,"year_max":1994,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Rams.png"},"LV":{"id":"A7F9J0","city":"Las Vegas","nickname":"Raiders","abbrev":"LV","year_min":2020,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Las_Vegas_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Las_Vegas_Raiders.png"},"MIA":{"id":"1CGKY9","city":"Miami","nickname":"Dolphins","abbrev":"MIA","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Miami_Dolphins.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Miami_Dolphins.png"},"MIN":{"id":"VR6E7K","city":"Minnesota","nickname":"Vikings","abbrev":"MIN","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Minnesota_Vikings.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Minnesota_Vikings.png"},"NE":{"id":"RLTZ4P","city":"New England","nickname":"Patriots","abbrev":"NE","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_England_Patriots.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_England_Patriots.png"},"NO":{"id":"SC1N3V","city":"New Orleans","nickname":"Saints","abbrev":"NO","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_Orleans_Saints.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_Orleans_Saints.png"},"NYG":{"id":"J941T8","city":"New York","nickname":"Giants","abbrev":"NYG","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_York_Giants.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_York_Giants.png"},"NYJ":{"id":"HCKX05","city":"New York","nickname":"Jets","abbrev":"NYJ","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_York_Jets.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_York_Jets.png"},"OAK":{"id":"A7F9J0","city":"Oakland","nickname":"Raiders","abbrev":"OAK","year_min":1995,"year_max":2019,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Oakland_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Oakland_Raiders.png"},"PHI":{"id":"6IX2FV","city":"Philadelphia","nickname":"Eagles","abbrev":"PHI","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Philadelphia_Eagles.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Philadelphia_Eagles.png"},"PHX":{"id":"31R64Y","city":"Phoenix","nickname":"Cardinals","abbrev":"PHX","year_min":1988,"year_max":1993,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Phoenix_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Phoenix_Cardinals.png"},"PIT":{"id":"7SIKNN","city":"Pittsburgh","nickname":"Steelers","abbrev":"PIT","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Pittsburgh_Steelers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Pittsburgh_Steelers.png"},"SD":{"id":"XE0W6H","city":"San Diego","nickname":"Chargers","abbrev":"SD","year_min":1983,"year_max":2016,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/San_Diego_Chargers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/San_Diego_Chargers.png"},"SEA":{"id":"6QHD3D","city":"Seattle","nickname":"Seahawks","abbrev":"SEA","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Seattle_Seahawks.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Seattle_Seahawks.png"},"SF":{"id":"06JQ6F","city":"San Francisco","nickname":"49ers","abbrev":"SF","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/San_Francisco_49ers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/San_Francisco_49ers.png"},"STL":{"id":"PVS60L","city":"St. Louis","nickname":"Rams","abbrev":"STL","year_min":1995,"year_max":2015,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/St._Louis_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/St._Louis_Rams.png"},"STLC":{"id":"31R64Y","city":"St. Louis","nickname":"Cardinals","abbrev":"STLC","year_min":1983,"year_max":1987,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/St._Louis_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/St._Louis_Cardinals.png"},"TB":{"id":"RAP22Q","city":"Tampa Bay","nickname":"Buccaneers","abbrev":"TB","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Tampa_Bay_Buccaneers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Tampa_Bay_Buccaneers.png"},"TEN":{"id":"ZHFQ4R","city":"Tennessee","nickname":"Titans","abbrev":"TEN","year_min":1997,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Tennessee_Titans.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Tennessee_Titans.png"},"WAS":{"id":"X50HNK","city":"Washington","nickname":"Football Team","abbrev":"WAS","year_min":1983,"year_max":2020,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Washington_Football_Team.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Washington_Football_Team.png"}},"trial":{"isActive":false,"daysRemaining":null},"yearsAndWeeks":{"1985":16,"1986":16,"1987":16,"1988":16,"1989":16,"1990":17,"1991":17,"1992":17,"1993":18,"1994":17,"1995":17,"1996":17,"1997":17,"1998":17,"1999":17,"2000":17,"2001":17,"2002":17,"2003":17,"2004":17,"2005":17,"2006":17,"2007":17,"2008":17,"2009":17,"2010":17,"2011":17,"2012":17,"2013":17,"2014":17,"2015":17,"2016":17,"2017":17,"2018":17,"2019":17,"2020":17}},"ga":{"commands":[["create","UA-5013951-1","auto"],["send","pageview"]]},"ajax":{"edit-submit--3":{"callback":"::submitFormAjax","wrapper":"fo-main-email-reg-form-footer","progress":{"type":"throbber","message":"Setting you up..."},"event":"mousedown","keypress":true,"prevent":"click","url":"\/stats\/nfl\/overall-drive-statsoff\/2020?ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Subscribe"}},"edit-captcha-response":{"callback":"recaptcha_v3_ajax_callback","event":"change","url":"\/stats\/nfl\/overall-drive-statsoff\/2020?ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"captcha_response"}}},"FOStats":{"selectedPage":"offensive_drive"},"chosen":{"selector":"select[multiple]:visible","minimum_single":20,"minimum_multiple":0,"minimum_width":0,"use_relative_width":false,"options":{"disable_search":false,"disable_search_threshold":0,"allow_single_deselect":false,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","max_shown_results":null,"inherit_select_classes":true}},"user":{"uid":0,"permissionsHash":"8727ec5cca87c3dfc0d9b567a1b23156907ea407f17302970ab194425e5df258"}}</script>
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"stats\/nfl\/overall-drive-statsoff\/2020","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","routeName":"fo_stats.offensive_drive"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"captcha\/base,chosen\/drupal.chosen,chosen_lib\/chosen.css,classy\/base,classy\/messages,core\/drupal.tableresponsive,core\/jquery.form,core\/normalize,fo_ccm\/utm,fo_front\/global-styling,fo_main\/admin_menu,fo_main\/main,fo_main\/signup_block,fo_stats\/nav_widget,fo_store\/yahoo,fo_stripe\/stripe,ga\/analytics,recaptcha_v3\/recaptcha_v3,system\/base","theme":"fo_front","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/stats\/nfl\/overall-drive-statsoff\/2020?ajax_form=1":true},"FOCCM":{"utmFields":{"endpoint":"\/ajax\/ccm\/utm","list":["sce","utm_source","utm_campaign","utm_term","utm_medium","utm_content","campaignid","adgroupid","adsetid","adid","keyword","adposition","placement","network","loc_interest_ms","loc_physical_ms","target","targetid","matchtype","device","devicemodel","sitelink","campaign_name","campaign_category","campaign_date"]}},"FOMain":{"NFLTeams":{"2TM":{"id":"AAAAAA","city":"Two","nickname":"Teams","abbrev":"2TM","year_min":1985,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Two_Teams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Two_Teams.png"},"ARI":{"id":"31R64Y","city":"Arizona","nickname":"Cardinals","abbrev":"ARI","year_min":1994,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Arizona_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Arizona_Cardinals.png"},"ATL":{"id":"1NJYCE","city":"Atlanta","nickname":"Falcons","abbrev":"ATL","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Atlanta_Falcons.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Atlanta_Falcons.png"},"BAL":{"id":"CU2QVY","city":"Baltimore","nickname":"Ravens","abbrev":"BAL","year_min":1996,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Baltimore_Ravens.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Baltimore_Ravens.png"},"BALC":{"id":"N2LWDD","city":"Baltimore","nickname":"Colts","abbrev":"BALC","year_min":1983,"year_max":1983,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Baltimore_Colts.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Baltimore_Colts.png"},"BUF":{"id":"3XRMV5","city":"Buffalo","nickname":"Bills","abbrev":"BUF","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Buffalo_Bills.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Buffalo_Bills.png"},"CAR":{"id":"NW374Y","city":"Carolina","nickname":"Panthers","abbrev":"CAR","year_min":1995,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Carolina_Panthers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Carolina_Panthers.png"},"CHI":{"id":"0Q8UBU","city":"Chicago","nickname":"Bears","abbrev":"CHI","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Chicago_Bears.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Chicago_Bears.png"},"CIN":{"id":"CHI76M","city":"Cincinnati","nickname":"Bengals","abbrev":"CIN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cincinnati_Bengals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cincinnati_Bengals.png"},"CLE":{"id":"UKPC2W","city":"Cleveland","nickname":"Browns","abbrev":"CLE","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cleveland_Browns.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cleveland_Browns.png"},"CLE1":{"id":"CU2QVY","city":"Cleveland","nickname":"Browns","abbrev":"CLE1","year_min":1985,"year_max":1995,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cleveland_Browns.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cleveland_Browns.png"},"DAL":{"id":"V9PDBK","city":"Dallas","nickname":"Cowboys","abbrev":"DAL","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Dallas_Cowboys.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Dallas_Cowboys.png"},"DEN":{"id":"UN4420","city":"Denver","nickname":"Broncos","abbrev":"DEN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Denver_Broncos.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Denver_Broncos.png"},"DET":{"id":"QJ0Z20","city":"Detroit","nickname":"Lions","abbrev":"DET","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Detroit_Lions.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Detroit_Lions.png"},"GB":{"id":"EQC28Y","city":"Green Bay","nickname":"Packers","abbrev":"GB","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Green_Bay_Packers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Green_Bay_Packers.png"},"HOIL":{"id":"ZHFQ4R","city":"Houston","nickname":"Oilers","abbrev":"HOIL","year_min":1983,"year_max":1996,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Houston_Oilers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Houston_Oilers.png"},"HOU":{"id":"9LMVNZ","city":"Houston","nickname":"Texans","abbrev":"HOU","year_min":2002,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Houston_Texans.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Houston_Texans.png"},"IND":{"id":"N2LWDD","city":"Indianapolis","nickname":"Colts","abbrev":"IND","year_min":1984,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Indianapolis_Colts.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Indianapolis_Colts.png"},"JAX":{"id":"CL7RBW","city":"Jacksonville","nickname":"Jaguars","abbrev":"JAX","year_min":1995,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Jacksonville_Jaguars.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Jacksonville_Jaguars.png"},"KC":{"id":"MVCF5W","city":"Kansas City","nickname":"Chiefs","abbrev":"KC","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Kansas_City_Chiefs.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Kansas_City_Chiefs.png"},"LAC":{"id":"XE0W6H","city":"Los Angeles","nickname":"Chargers","abbrev":"LAC","year_min":2017,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Chargers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Chargers.png"},"LAR":{"id":"PVS60L","city":"Los Angeles","nickname":"Rams","abbrev":"LAR","year_min":2016,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Rams.png"},"LARD":{"id":"A7F9J0","city":"Los Angeles","nickname":"Raiders","abbrev":"LARD","year_min":1983,"year_max":1994,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Raiders.png"},"LARM":{"id":"PVS60L","city":"Los Angeles","nickname":"Rams","abbrev":"LARM","year_min":1983,"year_max":1994,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Rams.png"},"LV":{"id":"A7F9J0","city":"Las Vegas","nickname":"Raiders","abbrev":"LV","year_min":2020,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Las_Vegas_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Las_Vegas_Raiders.png"},"MIA":{"id":"1CGKY9","city":"Miami","nickname":"Dolphins","abbrev":"MIA","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Miami_Dolphins.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Miami_Dolphins.png"},"MIN":{"id":"VR6E7K","city":"Minnesota","nickname":"Vikings","abbrev":"MIN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Minnesota_Vikings.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Minnesota_Vikings.png"},"NE":{"id":"RLTZ4P","city":"New England","nickname":"Patriots","abbrev":"NE","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_England_Patriots.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_England_Patriots.png"},"NO":{"id":"SC1N3V","city":"New Orleans","nickname":"Saints","abbrev":"NO","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_Orleans_Saints.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_Orleans_Saints.png"},"NYG":{"id":"J941T8","city":"New York","nickname":"Giants","abbrev":"NYG","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_York_Giants.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_York_Giants.png"},"NYJ":{"id":"HCKX05","city":"New York","nickname":"Jets","abbrev":"NYJ","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_York_Jets.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_York_Jets.png"},"OAK":{"id":"A7F9J0","city":"Oakland","nickname":"Raiders","abbrev":"OAK","year_min":1995,"year_max":2019,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Oakland_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Oakland_Raiders.png"},"PHI":{"id":"6IX2FV","city":"Philadelphia","nickname":"Eagles","abbrev":"PHI","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Philadelphia_Eagles.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Philadelphia_Eagles.png"},"PHX":{"id":"31R64Y","city":"Phoenix","nickname":"Cardinals","abbrev":"PHX","year_min":1988,"year_max":1993,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Phoenix_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Phoenix_Cardinals.png"},"PIT":{"id":"7SIKNN","city":"Pittsburgh","nickname":"Steelers","abbrev":"PIT","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Pittsburgh_Steelers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Pittsburgh_Steelers.png"},"SD":{"id":"XE0W6H","city":"San Diego","nickname":"Chargers","abbrev":"SD","year_min":1983,"year_max":2016,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/San_Diego_Chargers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/San_Diego_Chargers.png"},"SEA":{"id":"6QHD3D","city":"Seattle","nickname":"Seahawks","abbrev":"SEA","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Seattle_Seahawks.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Seattle_Seahawks.png"},"SF":{"id":"06JQ6F","city":"San Francisco","nickname":"49ers","abbrev":"SF","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/San_Francisco_49ers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/San_Francisco_49ers.png"},"STL":{"id":"PVS60L","city":"St. Louis","nickname":"Rams","abbrev":"STL","year_min":1995,"year_max":2015,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/St._Louis_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/St._Louis_Rams.png"},"STLC":{"id":"31R64Y","city":"St. Louis","nickname":"Cardinals","abbrev":"STLC","year_min":1983,"year_max":1987,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/St._Louis_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/St._Louis_Cardinals.png"},"TB":{"id":"RAP22Q","city":"Tampa Bay","nickname":"Buccaneers","abbrev":"TB","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Tampa_Bay_Buccaneers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Tampa_Bay_Buccaneers.png"},"TEN":{"id":"ZHFQ4R","city":"Tennessee","nickname":"Titans","abbrev":"TEN","year_min":1997,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Tennessee_Titans.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Tennessee_Titans.png"},"WAS":{"id":"X50HNK","city":"Washington","nickname":"Football Team","abbrev":"WAS","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Washington_Football_Team.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Washington_Football_Team.png"}},"trial":{"isActive":false,"daysRemaining":null},"yearsAndWeeks":{"1985":16,"1986":16,"1987":16,"1988":16,"1989":16,"1990":17,"1991":17,"1992":17,"1993":18,"1994":17,"1995":17,"1996":17,"1997":17,"1998":17,"1999":17,"2000":17,"2001":17,"2002":17,"2003":17,"2004":17,"2005":17,"2006":17,"2007":17,"2008":17,"2009":17,"2010":17,"2011":17,"2012":17,"2013":17,"2014":17,"2015":17,"2016":17,"2017":17,"2018":17,"2019":17,"2020":17}},"ga":{"commands":[["create","UA-5013951-1","auto"],["send","pageview"]]},"ajax":{"edit-submit--3":{"callback":"::submitFormAjax","wrapper":"fo-main-email-reg-form-footer","progress":{"type":"throbber","message":"Setting you up..."},"event":"mousedown","keypress":true,"prevent":"click","url":"\/stats\/nfl\/overall-drive-statsoff\/2020?ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Subscribe"}},"edit-captcha-response":{"callback":"recaptcha_v3_ajax_callback","event":"change","url":"\/stats\/nfl\/overall-drive-statsoff\/2020?ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"captcha_response"}}},"FOStats":{"selectedPage":"offensive_drive"},"chosen":{"selector":"select[multiple]:visible","minimum_single":20,"minimum_multiple":0,"minimum_width":0,"use_relative_width":false,"options":{"disable_search":false,"disable_search_threshold":0,"allow_single_deselect":false,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","max_shown_results":null,"inherit_select_classes":true}},"user":{"uid":0,"permissionsHash":"8727ec5cca87c3dfc0d9b567a1b23156907ea407f17302970ab194425e5df258"}}</script>
 <script src="https://www.google.com/recaptcha/api.js?render=6LdfB-0bAAAAAMGMxue1f7n78cHzN85JdmBUi2-h" defer async></script>
 <script src="/files/js/js_khmSVeGY0Wu3KKwntxxWc8UM8g1AP2n_GX9U2MMtGF8.js"></script>
 <script src="https://js.stripe.com/v3/"></script>

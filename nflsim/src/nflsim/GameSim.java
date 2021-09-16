@@ -7,7 +7,7 @@ import java.io.FileReader;
 public class GameSim 
 {
 	// After week 1, change year to new year
-	String year = "2020";
+	String year = "2021";
 	String previousYear = "2020";
 	int week = 1;
 	String[][] TeamInfo = {{"NE", "BUF", "MIA", "NYJ", "KC", "LV", "LAC", "DEN","BAL","PIT","CLE","CIN","HOU","IND","JAX","TEN","DAL","PHI","NYG","WAS","SF","SEA","LAR","ARI","GB","MIN","DET","CHI","NO","CAR","TB","ATL"},

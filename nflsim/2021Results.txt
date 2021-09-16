@@ -247,9 +247,21 @@ Week 1 Record: (ATS: 0-1-0; ML: 1-0-0)
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: BAL ML and No pick ATS***
 		
-		
-		
-		
+Week 2 Record: (ATS: 0-0-0; ML: 0-0-0)
+	1.	NYG(+3.5, +150) at WAS(-3.5, -175)
+		WAS QB: Taylor Heinicke
+		NYG QB: Daniel Jones
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 63.63636363636363% ATS%: 60.605%
+		WAS 28.0     NYG 14.0
+		WAS 28.0     NYG 18.0
+		WAS 28.0     NYG 16.0
+		Shows possible game results.
+		WAS 24.0     NYG 14.0
+		 -10.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: WAS ML and ATS***
+				
 			
 		
 			
