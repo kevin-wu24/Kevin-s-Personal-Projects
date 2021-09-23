@@ -41,7 +41,7 @@
 <meta name="msapplication-wide310x150logo" content="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/favicons/mstile-310x150.png" />
 <meta name="msapplication-square310x310logo" content="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/favicons/mstile-310x310.png" />
 <link rel="stylesheet" media="all" href="https://cdn.footballoutsiders.net/files/css/css_UfRP-aiq15ovreSNZQA2AozhcGVEtojGK4U077F5ies.css" />
-<link rel="stylesheet" media="all" href="https://cdn.footballoutsiders.net/files/css/css_fkYRnXbN6hujCG3kf2D5ZrWYwJUXKkm1R0tgHzAxLEI.css" />
+<link rel="stylesheet" media="all" href="https://cdn.footballoutsiders.net/files/css/css_BdGrgHt-ZtgEctu4OKyvORVmxulhfli1Pnddr2YHF7U.css" />
 
 
 <script type="application/ld+json">
@@ -579,7 +579,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <label for="edit-offense-defense" class="visually-hidden">Offense / Defense</label>
         <select data-drupal-selector="edit-offense-defense" id="edit-offense-defense" name="offense_defense" class="form-select"><option value="overall" >Overall</option><option value="offense" selected="selected" >Offense</option><option value="defense" >Defense</option></select>
         </div>
-<span class="form-please-wait">Loading, please wait...</span><input autocomplete="off" data-drupal-selector="form-yxvfuvvgzebjaj3j-t8n2gvwej-dibfysvrqdhgljko" type="hidden" name="form_build_id" value="form-yxvFuvVgzebjaj3j-t8n2GvWEJ_DIbfYSvRQdHGLJKo" />
+<span class="form-please-wait">Loading, please wait...</span><input autocomplete="off" data-drupal-selector="form-ggxlq6z60kim5hkswmggt6t9wjumopdwdpw5zjbpm-g" type="hidden" name="form_build_id" value="form-GgXlQ6z60kIM5HKswmGgt6T9WjuMoPDWDPW5zjbPm-g" />
 <input data-drupal-selector="edit-fo-stats-navigation-form" type="hidden" name="form_id" value="fo_stats_navigation_form" />
 <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" name="op" value="View Stats" class="button button--primary js-form-submit form-submit" />
 </div>
@@ -2109,7 +2109,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <input data-drupal-selector="edit-pass" placeholder="Password" type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required" required="required" aria-required="true" />
 
         </div>
-<input autocomplete="off" data-drupal-selector="form-casldy3rt9wdb5eotxipotrzbsnv1kxekwclpwkz00o" type="hidden" name="form_build_id" value="form-caslDY3Rt9wdB5eotXIpoTrzbsnv1KXEkWClpwKZ00o" />
+<input autocomplete="off" data-drupal-selector="form-r9pxwlghenggd2ethviwie-krx9imsvp5ztuzzvhsg" type="hidden" name="form_build_id" value="form-_R9PxWLgHENggD2EthvIwIe_krX9iMSvP5ZtUZZvHSg" />
 <input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" />
 <p><i><a href="/user/password">Forgot password?</a></i></p><div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" class="orange button js-form-submit form-submit" type="submit" id="edit-submit" name="op" value="Login" />
 <div class="form-additional-links header"><a href="/user/login" class="login-link" data-drupal-selector="edit-login" id="edit-login">Login</a><a href="/user/password" data-drupal-selector="edit-reset" id="edit-reset">Forgot Password?</a><a href="/foplus/trial/start" data-drupal-selector="edit-trial" id="edit-trial">Start Your FO+ Free Trial</a></div><div class="form-additional-links content"><div><a href="/user/password" data-drupal-selector="edit-reset" id="edit-reset--2">Forgot Password?</a></div><div>Don't have an account? <a href="/register">Register now!</a></div></div></div>
@@ -2257,15 +2257,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <footer id="footer-wrap">
     
 
-    
-<div id="footer-featured" class="container">
-  <div class="inner">
-    <h3>As featured on:</h3>
+    <div id="footer-featured" class="container">
+  <div id="footer-slider" class="inner">
+    <h3>Trusted by:</h3>
     <div class="logo-slide">
-      <div><a href="https://www.theringer.com/" target="_blank"><img src="https://cdn.footballoutsiders.net/files/the-ringer-vector-logo.png" alt="The Ringer logo"></a></div>
-      <div><a href="https://www.espn.com/" target="_blank"><img src="https://cdn.footballoutsiders.net/files/espn-logo.png" alt="ESPN logo"></a></div>
-      <div><a href="https://sports.yahoo.com/" target="_blank"><img src="https://cdn.footballoutsiders.net/files/Yahoo_Sports_New_Logo.png" alt="Yahoo Sports Logo"></a></div>
-      <div><a href="https://www.ea.com/games/madden-nfl/madden-nfl-20" target="_blank"><img src="https://cdn.footballoutsiders.net/files/eas-madden.png" alt="EA Sports Madden logo"></a></div>
+      <div><a href="https://www.theringer.com/" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/The-Ringer.png" alt="The Ringer logo"></a></div>
+      <div><a href="https://www.espn.com/" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/ESPN.png" alt="ESPN logo"></a></div>
+      <div><a href="https://sports.yahoo.com/" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/Yahoo_Sports.png" alt="Yahoo Sports Logo"></a></div>
+      <div><a href="https://www.ea.com/games/madden-nfl/madden-nfl-20" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/eas-madden.png" alt="EA Sports Madden logo"></a></div>
       <div><a href="https://www.fanduel.com/" target="_blank"><img src="/themes/custom/fo_front/img/fanduel-logo-vector-horizontal.svg" alt="Fanduel logo"></a></div>
       <div><a href="#" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/washington-Post.png" alt="Washington Post logo"></a></div>
       <div><a href="#" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/AP.png" alt="EA Sports Madden logo"></a></div>
@@ -2309,10 +2308,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <input tabindex="-1" autocomplete="off" data-drupal-selector="edit-favorite-team" type="text" id="edit-favorite-team" name="favorite_team" value="" size="60" maxlength="128" class="form-text" />
 
         </div>
-<input autocomplete="off" data-drupal-selector="form-opttssewrvu4pv4ryqjionujemnrbb3z99pkyqyxuek" type="hidden" name="form_build_id" value="form-opTtsSEWrvu4Pv4ryQjiOnUjemnrbB3z99pKyqYxuEk" />
+<input autocomplete="off" data-drupal-selector="form-eenksc2ahwyt99wjkcw1giafsf5o-dfohue5b9ih9g0" type="hidden" name="form_build_id" value="form-eENksC2aHwYT99wJKcW1gIaFSF5O-dFOhUe5b9IH9G0" />
 <input data-drupal-selector="edit-fo-main-email-registration-copy" type="hidden" name="form_id" value="fo_main_email_registration_copy" />
-    <div  data-drupal-selector="edit-captcha" class="captcha"><input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="1805813" />
-<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="VOnkwAEePM8ULLhHbz_8_lqz9Y2-y5fIgsSkIrzWPrc" />
+    <div  data-drupal-selector="edit-captcha" class="captcha"><input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="2361337" />
+<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="LU1xMjqOK7OvumV3PaZHYjysYPYAnusDp_ohXC182WI" />
 <input id="recaptcha-v3-token" class="recaptcha-v3-token" data-recaptcha-v3-action="default" data-recaptcha-v3-site-key="6LdfB-0bAAAAAMGMxue1f7n78cHzN85JdmBUi2-h" data-drupal-selector="edit-captcha-response" type="hidden" name="captcha_response" value="" />
 <input data-drupal-selector="edit-is-recaptcha-v3" type="hidden" name="is_recaptcha_v3" value="1" />
 </div>
@@ -2745,7 +2744,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
         
           
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><em>Database updated: 1/04/2021 1:01 PM EST</em></p>
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><em>Database updated: 09/22/2021 8:01 AM EST</em></p>
 <p>These stats are computed from NFL Drive Charts and are not adjusted for strength of schedule or situation.</p>
 <p><b>DSR</b> represents Drive Success Rate, as introduced in <i>Pro Football Prospectus 2005</i>, which measures the percentage of down series that result in a first down or touchdown. <b>TO/Dr</b> represents turnovers per drive. <b>FUM/Dr</b> represents fumbles lost per drive. <b>LOS/Dr</b> represents average starting field position (line of scrimmage) per drive. <b>TOP/Dr</b> represents time of possession per drive.</p>
 <p>Take-a-knee drives at the end of a half are discarded. <b>NET</b> values are simply <b>OFFENSE</b> minus <b>DEFENSE.</b></p>
@@ -2770,7 +2769,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script src="https://js.stripe.com/v3/"></script>
 <script src="/files/js/js_V7kn-apie4VdIGxRnNllLWnAkUnEH0CQGN1svtObXvM.js"></script>
 <script src="https://www.google-analytics.com/analytics.js" async></script>
-<script src="/files/js/js_uzQ2e_nmbmMVNPSEVSxxGUS-1oJ46clKLndSrq78VcI.js"></script>
+<script src="/files/js/js_Cywedo1f6hxRnvx03gyI5wtyQhKZzPzKAQfNZlz2Izc.js"></script>
 
 
 

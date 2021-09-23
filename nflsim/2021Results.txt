@@ -19,8 +19,8 @@ ATS pushes occur when a game ends with the difference of scores equaling the cho
 	against the spread right before kickoff.	
 	
 2021-2022 Season Predictions & Results
-Record ATS: 7-8-1
-Record ML: 7-7-2
+Record ATS: 12-19-1
+Record ML: 14-15-3
 
 Week 1 Record: (ATS: 7-8-1; ML: 7-7-2)
 	1.	DAL(+8.5, +330) at TB(-8.5, -430)
@@ -247,7 +247,7 @@ Week 1 Record: (ATS: 7-8-1; ML: 7-7-2)
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: BAL ML and No pick ATS***
 		
-Week 2 Record: (ATS: 0-0-0; ML: 0-0-0)
+Week 2 Record: (ATS: 5-11-0; ML: 7-8-1)
 	1.	NYG(+3.5, +150) at WAS(-3.5, -175)
 		WAS QB: Taylor Heinicke
 		NYG QB: Daniel Jones
@@ -471,6 +471,23 @@ Week 2 Record: (ATS: 0-0-0; ML: 0-0-0)
 		 -7.0
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: DET ML and ATS***
+	
+Week 3 Record: (ATS: 0-0-0; ML: 0-0-0)
+	1.	CAR(-7.5, -375) at HOU(+8.5, +340)
+		HOU QB: Davis Mills
+		CAR QB: Sam Darnold
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 78.94736842105263% ATS%: 72.725%
+		HOU 20.0     CAR 32.0
+		HOU 37.0     CAR 32.0
+		HOU 35.0     CAR 32.0
+		Shows possible game results.
+		HOU 30.0     CAR 30.0
+		 -0.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: No pick ML and HOU ATS***
+	
+	
 						
 					
 		
