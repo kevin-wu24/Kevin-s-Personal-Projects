@@ -41,7 +41,7 @@
 <meta name="msapplication-wide310x150logo" content="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/favicons/mstile-310x150.png" />
 <meta name="msapplication-square310x310logo" content="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/favicons/mstile-310x310.png" />
 <link rel="stylesheet" media="all" href="https://cdn.footballoutsiders.net/files/css/css_UfRP-aiq15ovreSNZQA2AozhcGVEtojGK4U077F5ies.css" />
-<link rel="stylesheet" media="all" href="https://cdn.footballoutsiders.net/files/css/css_BdGrgHt-ZtgEctu4OKyvORVmxulhfli1Pnddr2YHF7U.css" />
+<link rel="stylesheet" media="all" href="https://cdn.footballoutsiders.net/files/css/css_aDvGph5tPtoUWeP2hV8ElRUqWqwaGIj_5ntOjcfNUMY.css" />
 
 
 <script type="application/ld+json">
@@ -221,14 +221,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <li><a href="https://www.footballoutsiders.com/stats/nfl/home-road">Home and Road <span class="section-nav-tag orange">FO+</span></a></li>
               <li><a href="https://www.footballoutsiders.com/stats/nfl/score-gap">Score Gap <span class="section-nav-tag orange">FO+</span></a></li>
             </ul>
-            <h3>Line Stats</h3>
-            <ul>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/basic-offensive-line">Basic - Offense</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/basic-defensive-line">Basic - Defense</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/directional-offensive-line">Directional - Offense</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/directional-defensive-line">Directional - Defense</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/line-stats-by-team">By Team <span class="section-nav-tag orange">FO+</span></a></li>
-            </ul>
           </div>
           <div class="section-nav-column space-top sidebar-only">
             <ul>
@@ -238,12 +230,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <li><a href="https://www.footballoutsiders.com/stats/nfl/pace-stats"><b>Pace/Time Stats</b></a></li>
               <li><a href="https://www.footballoutsiders.com/stats/nfl/overall-drive-stats"><b>Drive Stats</b></a></li>
             </ul>
-            <h3 class="green">Coming Soon!</h3>
+            <h3>Line Stats</h3>
             <ul>
-              <li class="section-nav-inactive">Edj Power Index <span class="section-nav-tag edjsports"></span> <span class="section-nav-tag orange">FO+</span></li>
-              <li class="section-nav-inactive">Massey Ratings <span class="section-nav-tag edjsports"></span> <span class="section-nav-tag orange">FO+</span></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/basic-offensive-line">Basic - Offense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/basic-defensive-line">Basic - Defense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/directional-offensive-line">Directional - Offense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/directional-defensive-line">Directional - Defense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/line-stats-by-team">By Team <span class="section-nav-tag orange">FO+</span></a></li>
             </ul>
-          </div>
+                      </div>
         </div>
       </div>
       <div class="section-nav-column-spacer gray"></div>
@@ -456,9 +451,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li><a href="https://www.footballoutsiders.com/fantasy/touchdown-efficiency">Touchdown <span class="section-nav-tag orange">FO+</span></a></li>
           <li class="space-top"><a href="https://www.footballoutsiders.com/stats/nfl/snap-counts">Snap Counts</a></li>
           <li><a href="https://www.footballoutsiders.com/player/home">Player Page Search</a></li>
-          <li class="space-top"><h3>Shares <span class="green"><b>Coming Soon!</b></span></h3></li>
-                      <li class="section-nav-inactive">Targets <span class="section-nav-tag orange">FO+</span></li>
-                                <li class="section-nav-inactive">Carries <span class="section-nav-tag orange">FO+</span></li>
                   </ul>
       </div>
       <div class="section-nav-column-spacer"></div>
@@ -470,10 +462,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li><a href="https://www.footballoutsiders.com/almanac/historical-archive?fantasy">Football Outsiders Almanac <span class="section-nav-tag orange">FO+</span></a></li>
           <li class="space-top"><h3>Weekly</h3></li>
           <li><a href="https://www.footballoutsiders.com/fantasy/weekly-projections">Fantasy Projections <span class="section-nav-tag orange">FO+</span></a></li>
-          <li class="space-top"><span class="green"><b>Coming Soon!</b></span></li>
-          <li class="section-nav-inactive">Rest of Season Projections <span class="section-nav-tag orange">FO+</span></li>
-          <li class="section-nav-inactive">Fantasy Value Plays <span class="section-nav-tag orange">FO+</span></li>
-        </ul>
+                  </ul>
       </div>
       <div class="section-nav-column-spacer"></div>
       <div class="section-nav-column">
@@ -516,8 +505,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li><a href="https://www.footballoutsiders.com/betting/nfl-picks">NFL Picks <span class="section-nav-tag orange">FO+</span></a></li>
           <li><a href="/stats/nfl/playoff-odds">Playoff Odds</a></li>
           <li><a href="https://edjsports.com/league/nfl/matchups" target="_blank">Matchups & Pick Tracker <span class="section-nav-tag edjsports"></span></a></li>
-          <li class="section-nav-inactive">Massey Matchups <span class="section-nav-tag edjsports"></span> <span class="section-nav-tag orange">FO+</span></li>
-                  </ul>
+                            </ul>
       </div>
     </div>
   </div>
@@ -579,7 +567,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <label for="edit-offense-defense" class="visually-hidden">Offense / Defense</label>
         <select data-drupal-selector="edit-offense-defense" id="edit-offense-defense" name="offense_defense" class="form-select"><option value="overall" >Overall</option><option value="offense" selected="selected" >Offense</option><option value="defense" >Defense</option></select>
         </div>
-<span class="form-please-wait">Loading, please wait...</span><input autocomplete="off" data-drupal-selector="form-ggxlq6z60kim5hkswmggt6t9wjumopdwdpw5zjbpm-g" type="hidden" name="form_build_id" value="form-GgXlQ6z60kIM5HKswmGgt6T9WjuMoPDWDPW5zjbPm-g" />
+<span class="form-please-wait">Loading, please wait...</span><input autocomplete="off" data-drupal-selector="form-k0fyhrxmwb-fluaadzqazy3-yp2br3gr1kohsrj8toc" type="hidden" name="form_build_id" value="form-K0FyHrxMwB_FLuaaDzqaZy3-yP2BR3gR1kOhsRj8TOc" />
 <input data-drupal-selector="edit-fo-stats-navigation-form" type="hidden" name="form_id" value="fo_stats_navigation_form" />
 <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" name="op" value="View Stats" class="button button--primary js-form-submit form-submit" />
 </div>
@@ -2109,7 +2097,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <input data-drupal-selector="edit-pass" placeholder="Password" type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required" required="required" aria-required="true" />
 
         </div>
-<input autocomplete="off" data-drupal-selector="form-r9pxwlghenggd2ethviwie-krx9imsvp5ztuzzvhsg" type="hidden" name="form_build_id" value="form-_R9PxWLgHENggD2EthvIwIe_krX9iMSvP5ZtUZZvHSg" />
+<input autocomplete="off" data-drupal-selector="form-22h3f6cx3w51xbft8tidym-2fti2aoxxwaz1knq1vu" type="hidden" name="form_build_id" value="form-_22h3F6CX3w51XbFT8TIDYm-2fTi2aoXxwaz1kNQ1VU" />
 <input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" />
 <p><i><a href="/user/password">Forgot password?</a></i></p><div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" class="orange button js-form-submit form-submit" type="submit" id="edit-submit" name="op" value="Login" />
 <div class="form-additional-links header"><a href="/user/login" class="login-link" data-drupal-selector="edit-login" id="edit-login">Login</a><a href="/user/password" data-drupal-selector="edit-reset" id="edit-reset">Forgot Password?</a><a href="/foplus/trial/start" data-drupal-selector="edit-trial" id="edit-trial">Start Your FO+ Free Trial</a></div><div class="form-additional-links content"><div><a href="/user/password" data-drupal-selector="edit-reset" id="edit-reset--2">Forgot Password?</a></div><div>Don't have an account? <a href="/register">Register now!</a></div></div></div>
@@ -2192,14 +2180,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <li><a href="https://www.footballoutsiders.com/stats/nfl/home-road">Home and Road <span class="section-nav-tag orange">FO+</span></a></li>
               <li><a href="https://www.footballoutsiders.com/stats/nfl/score-gap">Score Gap <span class="section-nav-tag orange">FO+</span></a></li>
             </ul>
-            <h3>Line Stats</h3>
-            <ul>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/basic-offensive-line">Basic - Offense</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/basic-defensive-line">Basic - Defense</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/directional-offensive-line">Directional - Offense</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/directional-defensive-line">Directional - Defense</a></li>
-              <li><a href="https://www.footballoutsiders.com/stats/nfl/line-stats-by-team">By Team <span class="section-nav-tag orange">FO+</span></a></li>
-            </ul>
           </div>
           <div class="section-nav-column space-top sidebar-only">
             <ul>
@@ -2209,12 +2189,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <li><a href="https://www.footballoutsiders.com/stats/nfl/pace-stats"><b>Pace/Time Stats</b></a></li>
               <li><a href="https://www.footballoutsiders.com/stats/nfl/overall-drive-stats"><b>Drive Stats</b></a></li>
             </ul>
-            <h3 class="green">Coming Soon!</h3>
+            <h3>Line Stats</h3>
             <ul>
-              <li class="section-nav-inactive">Edj Power Index <span class="section-nav-tag edjsports"></span> <span class="section-nav-tag orange">FO+</span></li>
-              <li class="section-nav-inactive">Massey Ratings <span class="section-nav-tag edjsports"></span> <span class="section-nav-tag orange">FO+</span></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/basic-offensive-line">Basic - Offense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/basic-defensive-line">Basic - Defense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/directional-offensive-line">Directional - Offense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/directional-defensive-line">Directional - Defense</a></li>
+              <li><a href="https://www.footballoutsiders.com/stats/nfl/line-stats-by-team">By Team <span class="section-nav-tag orange">FO+</span></a></li>
             </ul>
-          </div>
+                      </div>
         </div>
       </div>
       <div class="section-nav-column-spacer gray"></div>
@@ -2260,24 +2243,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div id="footer-featured" class="container">
   <div id="footer-slider" class="inner">
     <h3>Trusted by:</h3>
-    <div class="logo-slide">
-      <div><a href="https://www.theringer.com/" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/The-Ringer.png" alt="The Ringer logo"></a></div>
-      <div><a href="https://www.espn.com/" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/ESPN.png" alt="ESPN logo"></a></div>
-      <div><a href="https://sports.yahoo.com/" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/Yahoo_Sports.png" alt="Yahoo Sports Logo"></a></div>
-      <div><a href="https://www.ea.com/games/madden-nfl/madden-nfl-20" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/eas-madden.png" alt="EA Sports Madden logo"></a></div>
-      <div><a href="https://www.fanduel.com/" target="_blank"><img src="/themes/custom/fo_front/img/fanduel-logo-vector-horizontal.svg" alt="Fanduel logo"></a></div>
-      <div><a href="#" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/washington-Post.png" alt="Washington Post logo"></a></div>
-      <div><a href="#" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/AP.png" alt="EA Sports Madden logo"></a></div>
-      <div><a href="#" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/CBS_Sports.png" alt="CBS_Sports logo"></a></div>
-      <div><a href="#" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/DraftKings.png" alt="DraftKings logo"></a></div>
-      <div><a href="#" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/Fantasy_Pros.png" alt="Fantasy_Pros logo"></a></div>
-      <div><a href="#" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/NFL_Network.png" alt="NFL_Network logo"></a></div>
-      <div><a href="#" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/Sports_Illustrated.png" alt="Sports_Illustrated logo"></a></div>
-      <div><a href="#" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/The_Athletic.png" alt="The_Athletic logo"></a></div>
-      <div><a href="#" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/VSiN.png" alt="VSiN logo"></a></div>
+    <div id="footer-slider-logos">
+      <a href="https://www.theringer.com/" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/The-Ringer.png" alt="The Ringer logo"></a>
+      <a href="https://www.espn.com/" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/ESPN.png" alt="ESPN logo"></a>
+      <a href="https://sports.yahoo.com/" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/Yahoo_Sports.png" alt="Yahoo Sports Logo"></a>
+      <a href="https://www.ea.com/games/madden-nfl/madden-nfl-20" target="_blank"><img src="/themes/custom/fo_front/img/partner-logos/eas-madden.png" alt="EA Sports Madden logo"></a>
+      <a href="https://www.fanduel.com/" target="_blank"><img src="/themes/custom/fo_front/img/fanduel-logo-vector-horizontal.svg" alt="Fanduel logo"></a>
+      <a><img src="/themes/custom/fo_front/img/partner-logos/washington-Post.png" alt="Washington Post logo"></a>
+      <a><img src="/themes/custom/fo_front/img/partner-logos/AP.png" alt="EA Sports Madden logo"></a>
+      <a><img src="/themes/custom/fo_front/img/partner-logos/CBS_Sports.png" alt="CBS Sports logo"></a>
+      <a><img src="/themes/custom/fo_front/img/partner-logos/DraftKings.png" alt="Draft Kings logo"></a>
+      <a><img src="/themes/custom/fo_front/img/partner-logos/Fantasy_Pros.png" alt="Fantasy Pros logo"></a>
+      <a><img src="/themes/custom/fo_front/img/partner-logos/NFL_Network.png" alt="NFL Network logo"></a>
+      <a><img src="/themes/custom/fo_front/img/partner-logos/Sports_Illustrated.png" alt="Sports Illustrated logo"></a>
+      <a><img src="/themes/custom/fo_front/img/partner-logos/The_Athletic.png" alt="The Athletic logo"></a>
+      <a><img src="/themes/custom/fo_front/img/partner-logos/VSiN.png" alt="VSiN logo"></a>
     </div>
   </div>
 </div>
+
 
     <div id="footer-main" class="container" role="contentinfo">
       <div class="inner">
@@ -2285,16 +2269,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div id="footer-top">
                           <!-- #footer-left -->
               <div id="footer-left">  <div class="region region-footer-first">
-    <div id="block-logowhite" class="block block-region-footer_first block-type-image_with_link">
-  
-    
-      
-            <div class="field field--name-field-image field--type-image field--label-hidden field__item">  <a href="https://www.footballoutsiders.com/"><img src="https://cdn.footballoutsiders.net/files/block-images/logo-white_0.png" width="1994" height="176" alt="Football Outsiders logo" loading="lazy" /></a>
-
-</div>
-      
-  </div>
-<div id="block-signupfooterblock" class="block block-region-footer_first">
+    <div id="block-signupfooterblock" class="block block-region-footer_first">
   
     
       <div id="fo-main-email-reg-form-footer"><form class="fo-main-email-registration-copy fo-main-signup-block-form clearfix" data-drupal-selector="fo-main-email-registration-copy" novalidate="novalidate" action="/stats/nfl/overall-drive-statsoff/2020" method="post" id="fo-main-email-registration-copy" accept-charset="UTF-8">
@@ -2308,10 +2283,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <input tabindex="-1" autocomplete="off" data-drupal-selector="edit-favorite-team" type="text" id="edit-favorite-team" name="favorite_team" value="" size="60" maxlength="128" class="form-text" />
 
         </div>
-<input autocomplete="off" data-drupal-selector="form-eenksc2ahwyt99wjkcw1giafsf5o-dfohue5b9ih9g0" type="hidden" name="form_build_id" value="form-eENksC2aHwYT99wJKcW1gIaFSF5O-dFOhUe5b9IH9G0" />
+<input autocomplete="off" data-drupal-selector="form-xc3sm1yq7qxdyecfgie8psc-tp8zneyxnph1yvytwjg" type="hidden" name="form_build_id" value="form-xc3Sm1Yq7qxDyecFgie8psc_tp8ZneyxnPH1YvYTWJg" />
 <input data-drupal-selector="edit-fo-main-email-registration-copy" type="hidden" name="form_id" value="fo_main_email_registration_copy" />
-    <div  data-drupal-selector="edit-captcha" class="captcha"><input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="2361337" />
-<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="LU1xMjqOK7OvumV3PaZHYjysYPYAnusDp_ohXC182WI" />
+    <div  data-drupal-selector="edit-captcha" class="captcha"><input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="2895101" />
+<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="OBCpZRev3GC9dbaHu123skKYuhGul4ummTDtAtEEWO0" />
 <input id="recaptcha-v3-token" class="recaptcha-v3-token" data-recaptcha-v3-action="default" data-recaptcha-v3-site-key="6LdfB-0bAAAAAMGMxue1f7n78cHzN85JdmBUi2-h" data-drupal-selector="edit-captcha-response" type="hidden" name="captcha_response" value="" />
 <input data-drupal-selector="edit-is-recaptcha-v3" type="hidden" name="is_recaptcha_v3" value="1" />
 </div>
@@ -2436,24 +2411,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       </div>
           <!-- /#footer-top -->
         
+        <div id="footer-bottom">
+          <ul>
+            <li><img id="logo-fo-footer" src="/themes/custom/fo_front/img/logo-fo-only-green.png" alt="Football Outsiders logo" /></li>
+            <li>a Champion Gaming Company</li>
+            <li>&copy; 2021 Football Outsiders</li>
+            <li>
+              <ul>
+                <li><img id="logo-cg-footer" src="/themes/custom/fo_front/img/logo-champion-gaming.png" alt="Champion Gaming logo" /></li>
+                <li>Portfolio:</li>
+                <li><a href="https://edjsports.com/" target="_blank">EdjSports <i class="fa fa-external-link orange" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.footballoutsiders.com/">Football Outsiders</a></li>
+                <li><a href="https://edjvarsity.com/" target="_blank">EdjVarsity <i class="fa fa-external-link orange" aria-hidden="true"></i></a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+
       </div>
     </div>
         <div id="footer-legal" class="container">
       <div class="inner">  <div class="region region-footer-legal">
-    <div id="block-footeredjsports" class="block block-region-footer_legal block-type-text">
-  
-    
-      
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="/files/block-images/EdjSports-Logo.png" /> Football Outsiders is an EdjSports brand.</p>
-</div>
-      
-  </div>
-<div id="block-copyrights" class="block block-region-footer_legal block-type-text">
+    <div id="block-copyrights" class="block block-region-footer_legal block-type-text">
   
     
       
             <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p class="text-align-center"><a href="/info/terms-of-use">Terms of Use</a>   |   <a href="/info/privacy-policy">Privacy Policy</a>   |   <a href="/info/privacy-policy#cookie-policy-bookmark">Cookie Policy</a>   |   <a href="/info/responsible-gaming">Resposible Gaming</a></p>
-<p class="text-align-center">© 2021 EdjSports, LLC // Partner of USA TODAY Sports Digital Properties</p>
 </div>
       
   </div>
@@ -2744,7 +2727,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
         
           
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><em>Database updated: 09/22/2021 8:01 AM EST</em></p>
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><em>Database updated: 09/28/2021 3:52 PM EST</em></p>
 <p>These stats are computed from NFL Drive Charts and are not adjusted for strength of schedule or situation.</p>
 <p><b>DSR</b> represents Drive Success Rate, as introduced in <i>Pro Football Prospectus 2005</i>, which measures the percentage of down series that result in a first down or touchdown. <b>TO/Dr</b> represents turnovers per drive. <b>FUM/Dr</b> represents fumbles lost per drive. <b>LOS/Dr</b> represents average starting field position (line of scrimmage) per drive. <b>TOP/Dr</b> represents time of possession per drive.</p>
 <p>Take-a-knee drives at the end of a half are discarded. <b>NET</b> values are simply <b>OFFENSE</b> minus <b>DEFENSE.</b></p>
@@ -2769,7 +2752,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script src="https://js.stripe.com/v3/"></script>
 <script src="/files/js/js_V7kn-apie4VdIGxRnNllLWnAkUnEH0CQGN1svtObXvM.js"></script>
 <script src="https://www.google-analytics.com/analytics.js" async></script>
-<script src="/files/js/js_Cywedo1f6hxRnvx03gyI5wtyQhKZzPzKAQfNZlz2Izc.js"></script>
+<script src="/files/js/js_1wQdJZVFonwBgPiHiyRlkuTGhyHuVIMCI-659ZU-dvw.js"></script>
 
 
 

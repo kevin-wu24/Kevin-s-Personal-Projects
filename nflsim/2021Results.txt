@@ -19,8 +19,8 @@ ATS pushes occur when a game ends with the difference of scores equaling the cho
 	against the spread right before kickoff.	
 	
 2021-2022 Season Predictions & Results
-Record ATS: 12-19-1
-Record ML: 14-15-3
+Record ATS: 21-26-1
+Record ML: 23-21-4
 
 Week 1 Record: (ATS: 7-8-1; ML: 7-7-2)
 	1.	DAL(+8.5, +330) at TB(-8.5, -430)
@@ -472,7 +472,7 @@ Week 2 Record: (ATS: 5-11-0; ML: 7-8-1)
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: DET ML and ATS***
 	
-Week 3 Record: (ATS: 0-0-0; ML: 0-0-0)
+Week 3 Record: (ATS: 9-7-0; ML: 9-6-1)
 	1.	CAR(-7.5, -375) at HOU(+8.5, +340)
 		HOU QB: Davis Mills
 		CAR QB: Sam Darnold
@@ -696,6 +696,21 @@ Week 3 Record: (ATS: 0-0-0; ML: 0-0-0)
 		 -2.0
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: PHI ML and ATS***
+
+Week 4 Record: (ATS: 0-0-0; ML: 0-0-0)
+	1.	JAX(+7.5, +280) at CIN(-7.5, -335)
+		CIN QB: Joe Burrow
+		JAX QB: Trevor Lawrence
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 77.01149425287356% ATS%: 72.725%
+		CIN 37.0     JAX 11.0
+		CIN 37.0     JAX 5.0
+		CIN 37.0     JAX 5.0
+		Shows possible game results.
+		CIN 35.0     JAX 10.0
+		 -25.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: CIN ML and ATS***
 										
 									
 						
