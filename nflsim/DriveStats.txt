@@ -31,6 +31,10 @@
 <link rel="icon" type="image/png" href="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/favicons/favicon-32x32.png" sizes="32x32" />
 <link rel="icon" type="image/png" href="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/favicons/favicon-16x16.png" sizes="16x16" />
 <link rel="icon" type="image/png" href="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/favicons/favicon-128.png" sizes="128x128" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@400;700&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,700|Roboto:400,500,700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
 <meta name="application-name" content="&amp;nbsp;" />
@@ -41,7 +45,7 @@
 <meta name="msapplication-wide310x150logo" content="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/favicons/mstile-310x150.png" />
 <meta name="msapplication-square310x310logo" content="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/favicons/mstile-310x310.png" />
 <link rel="stylesheet" media="all" href="https://cdn.footballoutsiders.net/files/css/css_UfRP-aiq15ovreSNZQA2AozhcGVEtojGK4U077F5ies.css" />
-<link rel="stylesheet" media="all" href="https://cdn.footballoutsiders.net/files/css/css_aDvGph5tPtoUWeP2hV8ElRUqWqwaGIj_5ntOjcfNUMY.css" />
+<link rel="stylesheet" media="all" href="https://cdn.footballoutsiders.net/files/css/css_DLVXLsgAnRhOLKdS8agHLZiPTERBuVpBR0Re7ywQfJE.css" />
 
 
 <script type="application/ld+json">
@@ -104,28 +108,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div id="white-stripe" class="container">
       <div class="inner">
           <div class="region region-header-one">
-    <div id="block-edjsports" class="block block-region-header_one block-type-image_with_link">
+    <div id="block-top-icons" class="block block-region-header_one block-type-text">
   
     
       
-            <div class="field field--name-field-image field--type-image field--label-hidden field__item">  <a href="https://edjsports.com/"><img src="https://cdn.footballoutsiders.net/files/block-images/EdjSports-Logo%20%282%29.png" width="800" height="148" alt="EdjSports logo" loading="lazy" /></a>
-
-</div>
-      
-  </div>
-<div id="block-logo" class="block block-region-header_one block-type-image_with_link">
-  
-    
-      
-            <div class="field field--name-field-image field--type-image field--label-hidden field__item">  <a href="https://www.footballoutsiders.com/"><img src="https://cdn.footballoutsiders.net/files/block-images/EDJ-FO-Horizontal%20%281%29.png" width="1994" height="176" alt="Football Outsiders logo" loading="lazy" /></a>
-
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul>
+<li><a href="https://twitter.com/fboutsiders" target="_blank"><img alt="Twitter icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-tw.png" style="margin-top: 1px;" title="Follow us on Twitter" /></a></li>
+<li><a href="https://www.twitch.tv/fboutsiders" target="_blank"><img alt="Twitch icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-twitch.png" style="margin-top: 1px;" title="Join us on Twitch" /></a></li>
+<li><a href="https://www.youtube.com/channel/UCn7JuveOQAvn9DpsOJicXEg" target="_blank"><img alt="YouTube icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-yt.png" style="margin-top: 1px;" title="Follow us on YouTube" /></a></li>
+<li><a href="https://www.facebook.com/footballoutsiders/" target="_blank"><img alt="Facebook icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-fa.png" title="Follow us on Facebook" /></a></li>
+<li><a href="https://www.instagram.com/fboutsiders/" target="_blank"><img alt="Instagram icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-ig.png" style="margin-top: 1px;" title="Follow us on Instagram" /></a></li>
+</ul>
 </div>
       
   </div>
 <div id="block-usernavigation" class="block block-region-header_one">
   
     
-      <a href="/subscribe" class="btn orange">Subscribe</a><a href="/user/login" class="btn orange inverse auto-login-destination">Log in</a>
+      <a href="/subscribe" class="btn orange">Subscribe</a><a href="/user/login" class="btn orange inverse auto-login-destination">Log In</a>
   </div>
 
   </div>
@@ -137,23 +137,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- #green-stripe -->
     <div id="green-stripe" class="container">
       <div class="inner">
+        <a href="https://www.footballoutsiders.com/" id="logo">
+          <img src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/logo-fo-only.png" alt="Football Outsiders logo">
+          <div id="logo-fo-plus">
+            <i></i>
+            <i></i>
+            <i></i>
+            <i></i>
+          </div>
+        </a>
+
           <div class="region region-header-two">
-    <div id="block-top-icons" class="block block-region-header_two block-type-text">
-  
-    
-      
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul>
-<li><a href="/search" id="search-toggle"><img alt="Search icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-search.png" title="Search the website" /></a></li>
-<li><a href="https://twitter.com/fboutsiders" target="_blank"><img alt="Twitter icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-tw.png" style="margin-top: 1px;" title="Follow us on Twitter" /></a></li>
-<li><a href="https://www.twitch.tv/fboutsiders" target="_blank"><img alt="Twitch icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-twitch.png" style="margin-top: 1px;" title="Join us on Twitch" /></a></li>
-<li><a href="https://www.youtube.com/channel/UCn7JuveOQAvn9DpsOJicXEg" target="_blank"><img alt="YouTube icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-yt.png" style="margin-top: 1px;" title="Follow us on YouTube" /></a></li>
-<li><a href="https://www.facebook.com/footballoutsiders/" target="_blank"><img alt="Facebook icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-fa.png" title="Follow us on Facebook" /></a></li>
-<li><a href="https://www.instagram.com/fboutsiders/" target="_blank"><img alt="Instagram icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-ig.png" style="margin-top: 1px;" title="Follow us on Instagram" /></a></li>
-</ul>
-</div>
-      
-  </div>
-<div id="block-sitenavigation" class="block block-region-header_two">
+    <div id="block-sitenavigation" class="block block-region-header_two">
   
     
       
@@ -244,22 +239,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="section-nav-column-spacer gray"></div>
       <div class="section-nav-column">
         <h2 class="section-nav-h2-bg ncaa">NCAA Football Stats</h2>
-
-        <h3>FEI Ratings</h3>
-        <ul>
-          <li><a href="/stats/ncaa/fei/overall/2021">Overall</a></li>
-          <li><a href="/stats/ncaa/fei/overalloff/2021">Offense</a></li>
-          <li><a href="/stats/ncaa/fei/overalldef/2021">Defense</a></li>
-          <li><a href="/stats/ncaa/fei/overallst/2021">Special Teams</a></li>
-        </ul>
-        <h3>Line Stats</h3>
-        <ul>
-          <li><a href="/stats/ncaa/sp/overallol/2021">Offense</a></li>
-          <li><a href="/stats/ncaa/sp/overalldl/2021">Defense</a></li>
-        </ul>
-        <h3>
-          <a href="/stats/ncaa/fplus/2021"><b>F/+ Combined Ratings</b></a>
-        </h3>
+        <div class="section-nav-columns">
+          <div class="section-nav-column">
+            <h3>FEI Ratings</h3>
+            <ul>
+              <li><a href="/stats/ncaa/fei/overall/2021">Overall</a></li>
+              <li><a href="/stats/ncaa/fei/overalloff/2021">Offense</a></li>
+              <li><a href="/stats/ncaa/fei/overalldef/2021">Defense</a></li>
+              <li><a href="/stats/ncaa/fei/overallst/2021">Special Teams</a></li>
+            </ul>
+            <h3>Line Stats</h3>
+            <ul>
+              <li><a href="/stats/ncaa/sp/overallol/2021">Offense</a></li>
+              <li><a href="/stats/ncaa/sp/overalldl/2021">Defense</a></li>
+            </ul>
+            <h3>
+              <a href="/stats/ncaa/fplus/2021"><b>F/+ Combined Ratings</b></a>
+            </h3>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -275,21 +273,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="section-nav-columns">
       <div class="section-nav-column">
         <h2 class="section-nav-h2-bg nfl">Intelligent Analysis</h2>
-        <ul>
-          <li><a href="/any-given-sunday">Any Given Sunday</a></li>
-          <li><a href="/audibles">Audibles at the Line</a></li>
-          <li><a href="/coach-rankings">Coach Rankings <span class="section-nav-tag edjsports"></span></a></li>
-          <li><a href="/dvoa-ratings">DVOA Analysis</a></li>
-          <li><a href="/film-room">Film Room</a></li>
-          <li><a href="/podcasts">Football Outsiders Live <i class="icon-mic"></i> <span class="section-nav-tag green">New!</span></a></li>
-          <li><a href="https://www.footballoutsiders.com/analysis/post-game-reports/current">Post-Game Reports <span class="section-nav-tag edjsports"></span> <span class="section-nav-tag orange">FO+</span></a></li>
-          <li><a href="/quick-reads">Quick Reads</a></li>
-          <li><a href="/risky-business">Risky Business <span class="section-nav-tag edjsports"></span></a></li>
-          <li><a href="/scramble">Scramble for the Ball</a></li>
-          <li><a href="/walkthrough">Walkthrough</a></li>
-          <li><a href="/week-quotes">Week in Quotes</a></li>
-          <li><a href="/word-muth">Word of Muth</a></li>
-        </ul>
+        <div class="section-nav-columns">
+          <ul>
+            <li><a href="/any-given-sunday">Any Given Sunday</a></li>
+            <li><a href="/audibles">Audibles at the Line</a></li>
+            <li><a href="/coach-rankings">Coach Rankings</a></li>
+            <li><a href="/dvoa-ratings">DVOA Analysis</a></li>
+            <li><a href="/film-room">Film Room</a></li>
+            <li><a href="/podcasts">Football Outsiders Live <i class="icon-mic"></i> <span class="section-nav-tag green">New!</span></a></li>
+            <li><a href="https://www.footballoutsiders.com/analysis/post-game-reports/current">Post-Game Reports <span class="section-nav-tag orange">FO+</span></a></li>
+            <li><a href="/quick-reads">Quick Reads</a></li>
+            <li><a href="/risky-business">Risky Business</a></li>
+            <li><a href="/scramble">Scramble for the Ball</a></li>
+            <li><a href="/walkthrough">Walkthrough</a></li>
+            <li><a href="/week-quotes">Week in Quotes</a></li>
+            <li><a href="/word-muth">Word of Muth</a></li>
+          </ul>
+        </div>
       </div>
       <div class="section-nav-column-spacer"></div>
       <div class="section-nav-column">
@@ -300,7 +300,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li><a href="/win-wire">Win the Wire</a></li>
           <li><a href="/podcasts">Fantasy Podcast <i class="icon-mic"></i></a></li>
           <li><a href="/analysis/loser-league">Loser League <span class="section-nav-tag green">New!</span></a></li>
-          <li class="spacer-li">&nbsp;</li>
         </ul>
         <h2>News &amp; Discussion</h2>
         <ul>
@@ -318,7 +317,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li><a href="/futures">Futures</a></li>
           <li><a href="/nfl-draft">NFL Draft</a></li>
           <li><a href="/stat-analysis">Stat Analysis</a></li>
-          <li class="spacer-li">&nbsp;</li>
         </ul>
         <h2>Football Outsiders Almanac</h2>
         <ul>
@@ -329,18 +327,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="section-nav-column-spacer"></div>
       <div class="section-nav-column">
         <h2 class="section-nav-h2-bg ncaa">NCAA</h2>
-        <ul>
-          <li><a href="/fei-ratings">Fremeau Efficiency Ratings</a></li>
-          <li><a href="/one-foot-inbounds">One Foot Inbounds</a></li>
-          <li><a href="/7th-day-adventure">Seventh Day Adventure</a></li>
-          <li class="spacer-li">&nbsp;</li>
-          <li class="spacer-li">&nbsp;</li>
-        </ul>
-        <form action="https://www.footballoutsiders.com/search" method="get">
-          <label for="query" class="visually-hidden">Search</label>
-          <input type="text" name="query" id="query" placeholder="Search" />
-          <input type="submit" value="Search" class="button orange" />
-        </form>
+        <div class="section-nav-columns">
+          <div class="section-nav-column">
+            <ul>
+              <li><a href="/fei-ratings">Fremeau Efficiency Ratings</a></li>
+              <li><a href="/one-foot-inbounds">One Foot Inbounds</a></li>
+              <li><a href="/7th-day-adventure">Seventh Day Adventure</a></li>
+              <li class="spacer-li">&nbsp;</li>
+              <li class="spacer-li">&nbsp;</li>
+            </ul>
+            <form action="https://www.footballoutsiders.com/search" method="get">
+              <label for="query" class="visually-hidden">Search</label>
+              <input type="text" name="query" id="query" placeholder="Search" />
+              <input type="submit" value="Search" class="button orange" />
+            </form>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -431,14 +433,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="section-nav-columns">
       <div class="section-nav-column">
         <h2 class="section-nav-h2-bg nfl">Team Research</h2>
-        <ul>
-          <li><a href="https://www.footballoutsiders.com/stats/nfl/team-offense?fantasy">Team Offense</a></li>
-          <li><a href="https://www.footballoutsiders.com/stats/nfl/team-defense?fantasy">Team Defense</a></li>
-          <li><a href="https://www.footballoutsiders.com/stats/nfl/defense-vs-receivers?fantasy">Defense vs. Receivers <span class="section-nav-tag orange">FO+</span></a></li>
-          <li><a href="https://www.footballoutsiders.com/stats/nfl/basic-offensive-defensive-line-stats?fantasy">Basic Line Stats</a></li>
-          <li><a href="https://www.footballoutsiders.com/stats/nfl/home-road?fantasy">Home and Road Splits <span class="section-nav-tag orange">FO+</span></a></li>
-          <li><a href="https://www.footballoutsiders.com/stats/nfl/pace-stats">Pace/Time Stats</a></li>
-        </ul>
+        <div class="section-nav-columns">
+          <ul>
+            <li><a href="https://www.footballoutsiders.com/stats/nfl/team-offense?fantasy">Team Offense</a></li>
+            <li><a href="https://www.footballoutsiders.com/stats/nfl/team-defense?fantasy">Team Defense</a></li>
+            <li><a href="https://www.footballoutsiders.com/stats/nfl/defense-vs-receivers?fantasy">Defense vs. Receivers <span class="section-nav-tag orange">FO+</span></a></li>
+            <li><a href="https://www.footballoutsiders.com/stats/nfl/basic-offensive-defensive-line-stats?fantasy">Basic Line Stats</a></li>
+            <li><a href="https://www.footballoutsiders.com/stats/nfl/home-road?fantasy">Home and Road Splits <span class="section-nav-tag orange">FO+</span></a></li>
+            <li><a href="https://www.footballoutsiders.com/stats/nfl/pace-stats">Pace/Time Stats</a></li>
+          </ul>
+        </div>
       </div>
       <div class="section-nav-column-spacer"></div>
       <div class="section-nav-column">
@@ -458,7 +462,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h2>Projections &amp; Tools</h2>
         <ul>
           <li><h3>Preseason</h3></li>
-          <li><a href="https://www.footballoutsiders.com/store-redirect/kubiak-projections?fantasy">KUBIAK Projections and Draft Tool <span class="section-nav-tag orange">FO+</span></a></li>
+          <li><a href="https://www.footballoutsiders.com/store-redirect/kubiak-projections?fantasy">KUBIAK Projections &amp; Draft Tool <span class="section-nav-tag orange">FO+</span></a></li>
           <li><a href="https://www.footballoutsiders.com/almanac/historical-archive?fantasy">Football Outsiders Almanac <span class="section-nav-tag orange">FO+</span></a></li>
           <li class="space-top"><h3>Weekly</h3></li>
           <li><a href="https://www.footballoutsiders.com/fantasy/weekly-projections">Fantasy Projections <span class="section-nav-tag orange">FO+</span></a></li>
@@ -494,9 +498,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="section-nav-columns">
       <div class="section-nav-column">
         <h2 class="section-nav-h2-bg nfl">Team Research</h2>
-        <ul>
-          <li><a href="https://www.footballoutsiders.com/stats/nfl/choose-matchup">Head to Head Matchups <span class="section-nav-tag orange">FO+</span></a></li>
-        </ul>
+        <div class="section-nav-columns">
+          <ul>
+            <li><a href="https://www.footballoutsiders.com/stats/nfl/choose-matchup">Head to Head Matchups <span class="section-nav-tag orange">FO+</span></a></li>
+          </ul>
+        </div>
       </div>
       <div class="section-nav-column-spacer"></div>
       <div class="section-nav-column">
@@ -504,12 +510,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <ul>
           <li><a href="https://www.footballoutsiders.com/betting/nfl-picks">NFL Picks <span class="section-nav-tag orange">FO+</span></a></li>
           <li><a href="/stats/nfl/playoff-odds">Playoff Odds</a></li>
-          <li><a href="https://edjsports.com/league/nfl/matchups" target="_blank">Matchups & Pick Tracker <span class="section-nav-tag edjsports"></span></a></li>
+          <li><a href="https://edjsports.com/league/nfl/matchups" target="_blank">Matchups & Pick Tracker</a></li>
                             </ul>
       </div>
     </div>
   </div>
 </div>
+    </li>
+
+        <li class="search-menu-item">
+      <a href="https://www.footballoutsiders.com/search">
+        <i class="fa fa-search" aria-hidden="true"></i>
+      </a>
     </li>
   </ul>
 </nav>
@@ -518,8 +530,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   </div>
 
-
-        <a id="nav-main-toggle"><i></i><i></i><i></i><i></i></a>
       </div>
     </div>
     <!-- /#green-stripe -->
@@ -567,12 +577,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <label for="edit-offense-defense" class="visually-hidden">Offense / Defense</label>
         <select data-drupal-selector="edit-offense-defense" id="edit-offense-defense" name="offense_defense" class="form-select"><option value="overall" >Overall</option><option value="offense" selected="selected" >Offense</option><option value="defense" >Defense</option></select>
         </div>
-<span class="form-please-wait">Loading, please wait...</span><input autocomplete="off" data-drupal-selector="form-k0fyhrxmwb-fluaadzqazy3-yp2br3gr1kohsrj8toc" type="hidden" name="form_build_id" value="form-K0FyHrxMwB_FLuaaDzqaZy3-yP2BR3gR1kOhsRj8TOc" />
+<span class="form-please-wait">Loading, please wait...</span><input autocomplete="off" data-drupal-selector="form-6obqcceje6zmi5zmex2gk54z-d3k-x-xboh-7xmujbg" type="hidden" name="form_build_id" value="form-6oBQcCEJe6zmi5ZmEX2gk54Z_D3K-X_XbOh-7XMujbg" />
 <input data-drupal-selector="edit-fo-stats-navigation-form" type="hidden" name="form_id" value="fo_stats_navigation_form" />
 <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" name="op" value="View Stats" class="button button--primary js-form-submit form-submit" />
 </div>
 <div class="form-additional" data-drupal-selector="edit-additional"><div class="form-additional-icon-buttons" data-drupal-selector="edit-icon-buttons"><img alt="Download CSV" class="new-table-csv-download-image" src="https://cdn.footballoutsiders.net/files/inline-images/icon-download.png"><img alt="Print" class="new-table-csv-download-image" src="https://cdn.footballoutsiders.net/files/inline-images/print.svg"></div>
-<div class="form-this-table-explained"><a class="form-this-table-explained-toggle" data-drupal-selector="edit-this-table-explained">This table explained <i class="fa fa-plus" aria-hidden="true"></i><i class="fa fa-minus" aria-hidden="true"></i></a>
+<div class="form-this-table-explained"><a class="form-this-table-explained-toggle" data-drupal-selector="edit-this-table-explained">This table explained <i class="fa fa-chevron-down" aria-hidden="true"></i><i class="fa fa-chevron-up" aria-hidden="true"></i></a>
 </div></div>
 
 </form>
@@ -2097,7 +2107,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <input data-drupal-selector="edit-pass" placeholder="Password" type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required" required="required" aria-required="true" />
 
         </div>
-<input autocomplete="off" data-drupal-selector="form-22h3f6cx3w51xbft8tidym-2fti2aoxxwaz1knq1vu" type="hidden" name="form_build_id" value="form-_22h3F6CX3w51XbFT8TIDYm-2fTi2aoXxwaz1kNQ1VU" />
+<input autocomplete="off" data-drupal-selector="form-50yv6elj6kbsbpvmuc5q4oysbiipd81wbaxupckini4" type="hidden" name="form_build_id" value="form-50yv6elJ6kBsbpvMuc5q4oySBIipd81WBAxuPCKiNi4" />
 <input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" />
 <p><i><a href="/user/password">Forgot password?</a></i></p><div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" class="orange button js-form-submit form-submit" type="submit" id="edit-submit" name="op" value="Login" />
 <div class="form-additional-links header"><a href="/user/login" class="login-link" data-drupal-selector="edit-login" id="edit-login">Login</a><a href="/user/password" data-drupal-selector="edit-reset" id="edit-reset">Forgot Password?</a><a href="/foplus/trial/start" data-drupal-selector="edit-trial" id="edit-trial">Start Your FO+ Free Trial</a></div><div class="form-additional-links content"><div><a href="/user/password" data-drupal-selector="edit-reset" id="edit-reset--2">Forgot Password?</a></div><div>Don't have an account? <a href="/register">Register now!</a></div></div></div>
@@ -2203,22 +2213,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="section-nav-column-spacer gray"></div>
       <div class="section-nav-column">
         <h2 class="section-nav-h2-bg ncaa">NCAA Football Stats</h2>
-
-        <h3>FEI Ratings</h3>
-        <ul>
-          <li><a href="/stats/ncaa/fei/overall/2021">Overall</a></li>
-          <li><a href="/stats/ncaa/fei/overalloff/2021">Offense</a></li>
-          <li><a href="/stats/ncaa/fei/overalldef/2021">Defense</a></li>
-          <li><a href="/stats/ncaa/fei/overallst/2021">Special Teams</a></li>
-        </ul>
-        <h3>Line Stats</h3>
-        <ul>
-          <li><a href="/stats/ncaa/sp/overallol/2021">Offense</a></li>
-          <li><a href="/stats/ncaa/sp/overalldl/2021">Defense</a></li>
-        </ul>
-        <h3>
-          <a href="/stats/ncaa/fplus/2021"><b>F/+ Combined Ratings</b></a>
-        </h3>
+        <div class="section-nav-columns">
+          <div class="section-nav-column">
+            <h3>FEI Ratings</h3>
+            <ul>
+              <li><a href="/stats/ncaa/fei/overall/2021">Overall</a></li>
+              <li><a href="/stats/ncaa/fei/overalloff/2021">Offense</a></li>
+              <li><a href="/stats/ncaa/fei/overalldef/2021">Defense</a></li>
+              <li><a href="/stats/ncaa/fei/overallst/2021">Special Teams</a></li>
+            </ul>
+            <h3>Line Stats</h3>
+            <ul>
+              <li><a href="/stats/ncaa/sp/overallol/2021">Offense</a></li>
+              <li><a href="/stats/ncaa/sp/overalldl/2021">Defense</a></li>
+            </ul>
+            <h3>
+              <a href="/stats/ncaa/fplus/2021"><b>F/+ Combined Ratings</b></a>
+            </h3>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -2269,47 +2282,45 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div id="footer-top">
                           <!-- #footer-left -->
               <div id="footer-left">  <div class="region region-footer-first">
-    <div id="block-signupfooterblock" class="block block-region-footer_first">
-  
-    
-      <div id="fo-main-email-reg-form-footer"><form class="fo-main-email-registration-copy fo-main-signup-block-form clearfix" data-drupal-selector="fo-main-email-registration-copy" novalidate="novalidate" action="/stats/nfl/overall-drive-statsoff/2020" method="post" id="fo-main-email-registration-copy" accept-charset="UTF-8">
-  <p class="text-align-center">Sign up for The Outside Take newsletter.</p><div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-email form-item-email form-no-label">
-      <label for="edit-email" class="visually-hidden js-form-required form-required">Email</label>
-        <input placeholder="you@example.com" data-drupal-selector="edit-email" type="text" id="edit-email" name="email" value="" size="60" maxlength="128" class="form-text required" required="required" aria-required="true" />
-
-        </div>
-<div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-favorite-team form-item-favorite-team form-no-label">
-      <label for="edit-favorite-team" class="visually-hidden">Favorite team</label>
-        <input tabindex="-1" autocomplete="off" data-drupal-selector="edit-favorite-team" type="text" id="edit-favorite-team" name="favorite_team" value="" size="60" maxlength="128" class="form-text" />
-
-        </div>
-<input autocomplete="off" data-drupal-selector="form-xc3sm1yq7qxdyecfgie8psc-tp8zneyxnph1yvytwjg" type="hidden" name="form_build_id" value="form-xc3Sm1Yq7qxDyecFgie8psc_tp8ZneyxnPH1YvYTWJg" />
-<input data-drupal-selector="edit-fo-main-email-registration-copy" type="hidden" name="form_id" value="fo_main_email_registration_copy" />
-    <div  data-drupal-selector="edit-captcha" class="captcha"><input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="2895101" />
-<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="OBCpZRev3GC9dbaHu123skKYuhGul4ummTDtAtEEWO0" />
-<input id="recaptcha-v3-token" class="recaptcha-v3-token" data-recaptcha-v3-action="default" data-recaptcha-v3-site-key="6LdfB-0bAAAAAMGMxue1f7n78cHzN85JdmBUi2-h" data-drupal-selector="edit-captcha-response" type="hidden" name="captcha_response" value="" />
-<input data-drupal-selector="edit-is-recaptcha-v3" type="hidden" name="is_recaptcha_v3" value="1" />
-</div>
-<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--3"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit--3" name="op" value="Subscribe" class="button button--primary js-form-submit form-submit" />
-</div>
-
-</form>
-</div>
-  </div>
-<div id="block-social-footer" class="block block-region-footer_first block-type-text">
+    <div id="block-social-footer" class="block block-region-footer_first block-type-text">
   
     
       
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul>
-<li><a href="https://twitter.com/fboutsiders" target="_blank"><img alt="Twitter icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-tw.png" style="margin-top: 2px;" /></a></li>
-<li><a href="https://www.twitch.tv/fboutsiders" target="_blank"><img alt="Twitch icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-twitch.png" style="margin-top: 2px;" /></a></li>
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img alt="Football Outsiders logo" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/logo-fo-only.png" style="margin-bottom:21px; width: 250px;" /></p>
+<ul>
+<li><a href="https://twitter.com/fboutsiders" target="_blank"><img alt="Twitter icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-tw.png" style="margin-top: 1px;" title="Follow us on Twitter" /></a></li>
 <li><a href="https://www.youtube.com/channel/UCn7JuveOQAvn9DpsOJicXEg" target="_blank"><img alt="YouTube icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-yt.png" style="margin-top: 1px;" title="Follow us on YouTube" /></a></li>
-<li><a href="https://www.facebook.com/footballoutsiders/" target="_blank"><img alt="Facebook icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-fa.png" /></a></li>
 <li><a href="https://www.instagram.com/fboutsiders/" target="_blank"><img alt="Instagram icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-ig.png" style="margin-top: 1px;" title="Follow us on Instagram" /></a></li>
+<li><a href="https://www.facebook.com/footballoutsiders/" target="_blank"><img alt="Facebook icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-fa.png" title="Follow us on Facebook" /></a></li>
+<li><a href="https://www.twitch.tv/fboutsiders" target="_blank"><img alt="Twitch icon" src="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/icon-twitch.png" style="margin-top: 1px;" title="Join us on Twitch" /></a></li>
 </ul>
 </div>
       
   </div>
+<nav role="navigation" aria-labelledby="block-footer-join-menu" id="block-footer-join" class="block block-region-footer_first block-menu navigation menu--footer-join">
+            
+  <h2 class="visually-hidden" id="block-footer-join-menu">Footer - Join</h2>
+  
+
+        
+              <ul class="clearfix menu">
+                    <li class="menu-item menu-item--expanded">
+        <span>Join</span>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/register" data-drupal-link-system-path="register">Free Membership</a>
+              </li>
+                <li class="menu-item">
+        <a href="/subscribe" data-drupal-link-system-path="subscribe">Subscribe to FO+</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+  </nav>
 
   </div>
 </div>
@@ -2325,28 +2336,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
               <ul class="clearfix menu">
                     <li class="menu-item menu-item--expanded">
-        <a href="/join">Join</a>
-                                <ul class="menu">
-                    <li class="menu-item">
-        <a href="/register" data-drupal-link-system-path="register">FREE Basic Membership</a>
-              </li>
-                <li class="menu-item">
-        <a href="/subscribe" data-drupal-link-system-path="subscribe">Subscribe to FO+</a>
-              </li>
-        </ul>
-  
-              </li>
-                <li class="menu-item menu-item--expanded">
         <a href="https://help.footballoutsiders.com/">Support</a>
                                 <ul class="menu">
                     <li class="menu-item">
-        <a href="https://help.footballoutsiders.com/">FAQ Help Desk</a>
+        <a href="https://help.footballoutsiders.com/">Help</a>
+              </li>
+                <li class="menu-item">
+        <a href="/form/contact" data-drupal-link-system-path="webform/contact">Contact</a>
               </li>
                 <li class="menu-item">
         <a href="/user/password" data-drupal-link-system-path="user/password">Forgot Password</a>
-              </li>
-                <li class="menu-item">
-        <a href="/form/contact" data-drupal-link-system-path="webform/contact">Email Us</a>
               </li>
         </ul>
   
@@ -2355,16 +2354,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <a href="https://help.footballoutsiders.com/hc/en-us/articles/360044781032-What-is-Football-Outsiders-">Resources</a>
                                 <ul class="menu">
                     <li class="menu-item">
-        <a href="https://help.footballoutsiders.com/hc/en-us/articles/360044781032-What-is-Football-Outsiders-">First Time Here</a>
+        <a href="https://www.footballoutsiders.com/info/methods">What is DVOA?</a>
               </li>
                 <li class="menu-item">
-        <a href="https://help.footballoutsiders.com/hc/en-us/articles/360045226591-DVOA-The-Short-Version">Methods to our Madness</a>
-              </li>
-                <li class="menu-item">
-        <a href="/info/FO-basics" data-drupal-link-system-path="node/29182">The Basics</a>
-              </li>
-                <li class="menu-item">
-        <a href="https://help.footballoutsiders.com/hc/en-us/articles/360044922152">FO Glossary</a>
+        <a href="https://help.footballoutsiders.com/hc/en-us/articles/360044922152">Glossary</a>
               </li>
         </ul>
   
@@ -2410,25 +2403,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <!-- /#footer-right -->
                       </div>
           <!-- /#footer-top -->
-        
-        <div id="footer-bottom">
-          <ul>
-            <li><img id="logo-fo-footer" src="/themes/custom/fo_front/img/logo-fo-only-green.png" alt="Football Outsiders logo" /></li>
-            <li>a Champion Gaming Company</li>
-            <li>&copy; 2021 Football Outsiders</li>
-            <li>
-              <ul>
-                <li><img id="logo-cg-footer" src="/themes/custom/fo_front/img/logo-champion-gaming.png" alt="Champion Gaming logo" /></li>
-                <li>Portfolio:</li>
-                <li><a href="https://edjsports.com/" target="_blank">EdjSports <i class="fa fa-external-link orange" aria-hidden="true"></i></a></li>
-                <li><a href="https://www.footballoutsiders.com/">Football Outsiders</a></li>
-                <li><a href="https://edjvarsity.com/" target="_blank">EdjVarsity <i class="fa fa-external-link orange" aria-hidden="true"></i></a></li>
-              </ul>
-            </li>
-          </ul>
-        </div>
-
-      </div>
+              </div>
     </div>
         <div id="footer-legal" class="container">
       <div class="inner">  <div class="region region-footer-legal">
@@ -2727,7 +2702,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
         
           
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><em>Database updated: 09/28/2021 3:52 PM EST</em></p>
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><em>Database updated: 10/05/2021 1:38 PM EST</em></p>
 <p>These stats are computed from NFL Drive Charts and are not adjusted for strength of schedule or situation.</p>
 <p><b>DSR</b> represents Drive Success Rate, as introduced in <i>Pro Football Prospectus 2005</i>, which measures the percentage of down series that result in a first down or touchdown. <b>TO/Dr</b> represents turnovers per drive. <b>FUM/Dr</b> represents fumbles lost per drive. <b>LOS/Dr</b> represents average starting field position (line of scrimmage) per drive. <b>TOP/Dr</b> represents time of possession per drive.</p>
 <p>Take-a-knee drives at the end of a half are discarded. <b>NET</b> values are simply <b>OFFENSE</b> minus <b>DEFENSE.</b></p>
@@ -2746,13 +2721,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"stats\/nfl\/overall-drive-statsoff\/2020","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","routeName":"fo_stats.offensive_drive"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"captcha\/base,chosen\/drupal.chosen,chosen_lib\/chosen.css,classy\/base,classy\/messages,core\/drupal.tableresponsive,core\/jquery.form,core\/normalize,fo_ccm\/utm,fo_front\/global-styling,fo_main\/admin_menu,fo_main\/main,fo_main\/signup_block,fo_stats\/nav_widget,fo_store\/yahoo,fo_stripe\/stripe,ga\/analytics,recaptcha_v3\/recaptcha_v3,system\/base","theme":"fo_front","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/stats\/nfl\/overall-drive-statsoff\/2020?ajax_form=1":true},"FOCCM":{"utmFields":{"endpoint":"\/ajax\/ccm\/utm","list":["sce","utm_source","utm_campaign","utm_term","utm_medium","utm_content","campaignid","adgroupid","adsetid","adid","keyword","adposition","placement","network","loc_interest_ms","loc_physical_ms","target","targetid","matchtype","device","devicemodel","sitelink","campaign_name","campaign_category","campaign_date"]}},"FOMain":{"NFLTeams":{"2TM":{"id":"AAAAAA","city":"Two","nickname":"Teams","abbrev":"2TM","year_min":1985,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Two_Teams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Two_Teams.png"},"ARI":{"id":"31R64Y","city":"Arizona","nickname":"Cardinals","abbrev":"ARI","year_min":1994,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Arizona_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Arizona_Cardinals.png"},"ATL":{"id":"1NJYCE","city":"Atlanta","nickname":"Falcons","abbrev":"ATL","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Atlanta_Falcons.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Atlanta_Falcons.png"},"BAL":{"id":"CU2QVY","city":"Baltimore","nickname":"Ravens","abbrev":"BAL","year_min":1996,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Baltimore_Ravens.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Baltimore_Ravens.png"},"BALC":{"id":"N2LWDD","city":"Baltimore","nickname":"Colts","abbrev":"BALC","year_min":1983,"year_max":1983,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Baltimore_Colts.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Baltimore_Colts.png"},"BUF":{"id":"3XRMV5","city":"Buffalo","nickname":"Bills","abbrev":"BUF","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Buffalo_Bills.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Buffalo_Bills.png"},"CAR":{"id":"NW374Y","city":"Carolina","nickname":"Panthers","abbrev":"CAR","year_min":1995,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Carolina_Panthers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Carolina_Panthers.png"},"CHI":{"id":"0Q8UBU","city":"Chicago","nickname":"Bears","abbrev":"CHI","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Chicago_Bears.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Chicago_Bears.png"},"CIN":{"id":"CHI76M","city":"Cincinnati","nickname":"Bengals","abbrev":"CIN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cincinnati_Bengals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cincinnati_Bengals.png"},"CLE":{"id":"UKPC2W","city":"Cleveland","nickname":"Browns","abbrev":"CLE","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cleveland_Browns.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cleveland_Browns.png"},"CLE1":{"id":"CU2QVY","city":"Cleveland","nickname":"Browns","abbrev":"CLE1","year_min":1985,"year_max":1995,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cleveland_Browns.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cleveland_Browns.png"},"DAL":{"id":"V9PDBK","city":"Dallas","nickname":"Cowboys","abbrev":"DAL","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Dallas_Cowboys.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Dallas_Cowboys.png"},"DEN":{"id":"UN4420","city":"Denver","nickname":"Broncos","abbrev":"DEN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Denver_Broncos.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Denver_Broncos.png"},"DET":{"id":"QJ0Z20","city":"Detroit","nickname":"Lions","abbrev":"DET","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Detroit_Lions.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Detroit_Lions.png"},"GB":{"id":"EQC28Y","city":"Green Bay","nickname":"Packers","abbrev":"GB","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Green_Bay_Packers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Green_Bay_Packers.png"},"HOIL":{"id":"ZHFQ4R","city":"Houston","nickname":"Oilers","abbrev":"HOIL","year_min":1983,"year_max":1996,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Houston_Oilers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Houston_Oilers.png"},"HOU":{"id":"9LMVNZ","city":"Houston","nickname":"Texans","abbrev":"HOU","year_min":2002,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Houston_Texans.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Houston_Texans.png"},"IND":{"id":"N2LWDD","city":"Indianapolis","nickname":"Colts","abbrev":"IND","year_min":1984,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Indianapolis_Colts.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Indianapolis_Colts.png"},"JAX":{"id":"CL7RBW","city":"Jacksonville","nickname":"Jaguars","abbrev":"JAX","year_min":1995,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Jacksonville_Jaguars.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Jacksonville_Jaguars.png"},"KC":{"id":"MVCF5W","city":"Kansas City","nickname":"Chiefs","abbrev":"KC","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Kansas_City_Chiefs.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Kansas_City_Chiefs.png"},"LAC":{"id":"XE0W6H","city":"Los Angeles","nickname":"Chargers","abbrev":"LAC","year_min":2017,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Chargers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Chargers.png"},"LAR":{"id":"PVS60L","city":"Los Angeles","nickname":"Rams","abbrev":"LAR","year_min":2016,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Rams.png"},"LARD":{"id":"A7F9J0","city":"Los Angeles","nickname":"Raiders","abbrev":"LARD","year_min":1983,"year_max":1994,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Raiders.png"},"LARM":{"id":"PVS60L","city":"Los Angeles","nickname":"Rams","abbrev":"LARM","year_min":1983,"year_max":1994,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Rams.png"},"LV":{"id":"A7F9J0","city":"Las Vegas","nickname":"Raiders","abbrev":"LV","year_min":2020,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Las_Vegas_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Las_Vegas_Raiders.png"},"MIA":{"id":"1CGKY9","city":"Miami","nickname":"Dolphins","abbrev":"MIA","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Miami_Dolphins.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Miami_Dolphins.png"},"MIN":{"id":"VR6E7K","city":"Minnesota","nickname":"Vikings","abbrev":"MIN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Minnesota_Vikings.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Minnesota_Vikings.png"},"NE":{"id":"RLTZ4P","city":"New England","nickname":"Patriots","abbrev":"NE","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_England_Patriots.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_England_Patriots.png"},"NO":{"id":"SC1N3V","city":"New Orleans","nickname":"Saints","abbrev":"NO","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_Orleans_Saints.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_Orleans_Saints.png"},"NYG":{"id":"J941T8","city":"New York","nickname":"Giants","abbrev":"NYG","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_York_Giants.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_York_Giants.png"},"NYJ":{"id":"HCKX05","city":"New York","nickname":"Jets","abbrev":"NYJ","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_York_Jets.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_York_Jets.png"},"OAK":{"id":"A7F9J0","city":"Oakland","nickname":"Raiders","abbrev":"OAK","year_min":1995,"year_max":2019,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Oakland_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Oakland_Raiders.png"},"PHI":{"id":"6IX2FV","city":"Philadelphia","nickname":"Eagles","abbrev":"PHI","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Philadelphia_Eagles.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Philadelphia_Eagles.png"},"PHX":{"id":"31R64Y","city":"Phoenix","nickname":"Cardinals","abbrev":"PHX","year_min":1988,"year_max":1993,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Phoenix_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Phoenix_Cardinals.png"},"PIT":{"id":"7SIKNN","city":"Pittsburgh","nickname":"Steelers","abbrev":"PIT","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Pittsburgh_Steelers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Pittsburgh_Steelers.png"},"SD":{"id":"XE0W6H","city":"San Diego","nickname":"Chargers","abbrev":"SD","year_min":1983,"year_max":2016,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/San_Diego_Chargers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/San_Diego_Chargers.png"},"SEA":{"id":"6QHD3D","city":"Seattle","nickname":"Seahawks","abbrev":"SEA","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Seattle_Seahawks.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Seattle_Seahawks.png"},"SF":{"id":"06JQ6F","city":"San Francisco","nickname":"49ers","abbrev":"SF","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/San_Francisco_49ers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/San_Francisco_49ers.png"},"STL":{"id":"PVS60L","city":"St. Louis","nickname":"Rams","abbrev":"STL","year_min":1995,"year_max":2015,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/St._Louis_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/St._Louis_Rams.png"},"STLC":{"id":"31R64Y","city":"St. Louis","nickname":"Cardinals","abbrev":"STLC","year_min":1983,"year_max":1987,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/St._Louis_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/St._Louis_Cardinals.png"},"TB":{"id":"RAP22Q","city":"Tampa Bay","nickname":"Buccaneers","abbrev":"TB","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Tampa_Bay_Buccaneers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Tampa_Bay_Buccaneers.png"},"TEN":{"id":"ZHFQ4R","city":"Tennessee","nickname":"Titans","abbrev":"TEN","year_min":1997,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Tennessee_Titans.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Tennessee_Titans.png"},"WAS":{"id":"X50HNK","city":"Washington","nickname":"Football Team","abbrev":"WAS","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Washington_Football_Team.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Washington_Football_Team.png"}},"trial":{"isActive":false,"daysRemaining":null},"yearsAndWeeks":{"1985":16,"1986":16,"1987":16,"1988":16,"1989":16,"1990":17,"1991":17,"1992":17,"1993":18,"1994":17,"1995":17,"1996":17,"1997":17,"1998":17,"1999":17,"2000":17,"2001":17,"2002":17,"2003":17,"2004":17,"2005":17,"2006":17,"2007":17,"2008":17,"2009":17,"2010":17,"2011":17,"2012":17,"2013":17,"2014":17,"2015":17,"2016":17,"2017":17,"2018":17,"2019":17,"2020":17}},"ga":{"commands":[["create","UA-5013951-1","auto"],["send","pageview"]]},"ajax":{"edit-submit--3":{"callback":"::submitFormAjax","wrapper":"fo-main-email-reg-form-footer","progress":{"type":"throbber","message":"Setting you up..."},"event":"mousedown","keypress":true,"prevent":"click","url":"\/stats\/nfl\/overall-drive-statsoff\/2020?ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Subscribe"}},"edit-captcha-response":{"callback":"recaptcha_v3_ajax_callback","event":"change","url":"\/stats\/nfl\/overall-drive-statsoff\/2020?ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"captcha_response"}}},"FOStats":{"selectedPage":"offensive_drive"},"chosen":{"selector":"select[multiple]:visible","minimum_single":20,"minimum_multiple":0,"minimum_width":0,"use_relative_width":false,"options":{"disable_search":false,"disable_search_threshold":0,"allow_single_deselect":false,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","max_shown_results":null,"inherit_select_classes":true}},"user":{"uid":0,"permissionsHash":"8727ec5cca87c3dfc0d9b567a1b23156907ea407f17302970ab194425e5df258"}}</script>
-<script src="https://www.google.com/recaptcha/api.js?render=6LdfB-0bAAAAAMGMxue1f7n78cHzN85JdmBUi2-h" defer async></script>
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"stats\/nfl\/overall-drive-statsoff\/2020","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","routeName":"fo_stats.offensive_drive"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"chosen\/drupal.chosen,chosen_lib\/chosen.css,classy\/base,classy\/messages,core\/drupal.tableresponsive,core\/normalize,fo_ccm\/utm,fo_front\/global-styling,fo_main\/admin_menu,fo_main\/main,fo_stats\/nav_widget,fo_store\/yahoo,fo_stripe\/stripe,ga\/analytics,system\/base","theme":"fo_front","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"FOCCM":{"utmFields":{"endpoint":"\/ajax\/ccm\/utm","list":["sce","utm_source","utm_campaign","utm_term","utm_medium","utm_content","campaignid","adgroupid","adsetid","adid","keyword","adposition","placement","network","loc_interest_ms","loc_physical_ms","target","targetid","matchtype","device","devicemodel","sitelink","campaign_name","campaign_category","campaign_date"]}},"FOMain":{"NFLTeams":{"2TM":{"id":"AAAAAA","city":"Two","nickname":"Teams","abbrev":"2TM","year_min":1985,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Two_Teams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Two_Teams.png"},"ARI":{"id":"31R64Y","city":"Arizona","nickname":"Cardinals","abbrev":"ARI","year_min":1994,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Arizona_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Arizona_Cardinals.png"},"ATL":{"id":"1NJYCE","city":"Atlanta","nickname":"Falcons","abbrev":"ATL","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Atlanta_Falcons.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Atlanta_Falcons.png"},"BAL":{"id":"CU2QVY","city":"Baltimore","nickname":"Ravens","abbrev":"BAL","year_min":1996,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Baltimore_Ravens.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Baltimore_Ravens.png"},"BALC":{"id":"N2LWDD","city":"Baltimore","nickname":"Colts","abbrev":"BALC","year_min":1983,"year_max":1983,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Baltimore_Colts.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Baltimore_Colts.png"},"BUF":{"id":"3XRMV5","city":"Buffalo","nickname":"Bills","abbrev":"BUF","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Buffalo_Bills.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Buffalo_Bills.png"},"CAR":{"id":"NW374Y","city":"Carolina","nickname":"Panthers","abbrev":"CAR","year_min":1995,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Carolina_Panthers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Carolina_Panthers.png"},"CHI":{"id":"0Q8UBU","city":"Chicago","nickname":"Bears","abbrev":"CHI","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Chicago_Bears.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Chicago_Bears.png"},"CIN":{"id":"CHI76M","city":"Cincinnati","nickname":"Bengals","abbrev":"CIN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cincinnati_Bengals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cincinnati_Bengals.png"},"CLE":{"id":"UKPC2W","city":"Cleveland","nickname":"Browns","abbrev":"CLE","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cleveland_Browns.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cleveland_Browns.png"},"CLE1":{"id":"CU2QVY","city":"Cleveland","nickname":"Browns","abbrev":"CLE1","year_min":1985,"year_max":1995,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cleveland_Browns.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cleveland_Browns.png"},"DAL":{"id":"V9PDBK","city":"Dallas","nickname":"Cowboys","abbrev":"DAL","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Dallas_Cowboys.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Dallas_Cowboys.png"},"DEN":{"id":"UN4420","city":"Denver","nickname":"Broncos","abbrev":"DEN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Denver_Broncos.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Denver_Broncos.png"},"DET":{"id":"QJ0Z20","city":"Detroit","nickname":"Lions","abbrev":"DET","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Detroit_Lions.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Detroit_Lions.png"},"GB":{"id":"EQC28Y","city":"Green Bay","nickname":"Packers","abbrev":"GB","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Green_Bay_Packers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Green_Bay_Packers.png"},"HOIL":{"id":"ZHFQ4R","city":"Houston","nickname":"Oilers","abbrev":"HOIL","year_min":1983,"year_max":1996,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Houston_Oilers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Houston_Oilers.png"},"HOU":{"id":"9LMVNZ","city":"Houston","nickname":"Texans","abbrev":"HOU","year_min":2002,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Houston_Texans.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Houston_Texans.png"},"IND":{"id":"N2LWDD","city":"Indianapolis","nickname":"Colts","abbrev":"IND","year_min":1984,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Indianapolis_Colts.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Indianapolis_Colts.png"},"JAX":{"id":"CL7RBW","city":"Jacksonville","nickname":"Jaguars","abbrev":"JAX","year_min":1995,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Jacksonville_Jaguars.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Jacksonville_Jaguars.png"},"KC":{"id":"MVCF5W","city":"Kansas City","nickname":"Chiefs","abbrev":"KC","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Kansas_City_Chiefs.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Kansas_City_Chiefs.png"},"LAC":{"id":"XE0W6H","city":"Los Angeles","nickname":"Chargers","abbrev":"LAC","year_min":2017,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Chargers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Chargers.png"},"LAR":{"id":"PVS60L","city":"Los Angeles","nickname":"Rams","abbrev":"LAR","year_min":2016,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Rams.png"},"LARD":{"id":"A7F9J0","city":"Los Angeles","nickname":"Raiders","abbrev":"LARD","year_min":1983,"year_max":1994,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Raiders.png"},"LARM":{"id":"PVS60L","city":"Los Angeles","nickname":"Rams","abbrev":"LARM","year_min":1983,"year_max":1994,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Rams.png"},"LV":{"id":"A7F9J0","city":"Las Vegas","nickname":"Raiders","abbrev":"LV","year_min":2020,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Las_Vegas_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Las_Vegas_Raiders.png"},"MIA":{"id":"1CGKY9","city":"Miami","nickname":"Dolphins","abbrev":"MIA","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Miami_Dolphins.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Miami_Dolphins.png"},"MIN":{"id":"VR6E7K","city":"Minnesota","nickname":"Vikings","abbrev":"MIN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Minnesota_Vikings.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Minnesota_Vikings.png"},"NE":{"id":"RLTZ4P","city":"New England","nickname":"Patriots","abbrev":"NE","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_England_Patriots.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_England_Patriots.png"},"NO":{"id":"SC1N3V","city":"New Orleans","nickname":"Saints","abbrev":"NO","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_Orleans_Saints.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_Orleans_Saints.png"},"NYG":{"id":"J941T8","city":"New York","nickname":"Giants","abbrev":"NYG","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_York_Giants.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_York_Giants.png"},"NYJ":{"id":"HCKX05","city":"New York","nickname":"Jets","abbrev":"NYJ","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_York_Jets.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_York_Jets.png"},"OAK":{"id":"A7F9J0","city":"Oakland","nickname":"Raiders","abbrev":"OAK","year_min":1995,"year_max":2019,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Oakland_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Oakland_Raiders.png"},"PHI":{"id":"6IX2FV","city":"Philadelphia","nickname":"Eagles","abbrev":"PHI","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Philadelphia_Eagles.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Philadelphia_Eagles.png"},"PHX":{"id":"31R64Y","city":"Phoenix","nickname":"Cardinals","abbrev":"PHX","year_min":1988,"year_max":1993,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Phoenix_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Phoenix_Cardinals.png"},"PIT":{"id":"7SIKNN","city":"Pittsburgh","nickname":"Steelers","abbrev":"PIT","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Pittsburgh_Steelers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Pittsburgh_Steelers.png"},"SD":{"id":"XE0W6H","city":"San Diego","nickname":"Chargers","abbrev":"SD","year_min":1983,"year_max":2016,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/San_Diego_Chargers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/San_Diego_Chargers.png"},"SEA":{"id":"6QHD3D","city":"Seattle","nickname":"Seahawks","abbrev":"SEA","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Seattle_Seahawks.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Seattle_Seahawks.png"},"SF":{"id":"06JQ6F","city":"San Francisco","nickname":"49ers","abbrev":"SF","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/San_Francisco_49ers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/San_Francisco_49ers.png"},"STL":{"id":"PVS60L","city":"St. Louis","nickname":"Rams","abbrev":"STL","year_min":1995,"year_max":2015,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/St._Louis_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/St._Louis_Rams.png"},"STLC":{"id":"31R64Y","city":"St. Louis","nickname":"Cardinals","abbrev":"STLC","year_min":1983,"year_max":1987,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/St._Louis_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/St._Louis_Cardinals.png"},"TB":{"id":"RAP22Q","city":"Tampa Bay","nickname":"Buccaneers","abbrev":"TB","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Tampa_Bay_Buccaneers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Tampa_Bay_Buccaneers.png"},"TEN":{"id":"ZHFQ4R","city":"Tennessee","nickname":"Titans","abbrev":"TEN","year_min":1997,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Tennessee_Titans.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Tennessee_Titans.png"},"WAS":{"id":"X50HNK","city":"Washington","nickname":"Football Team","abbrev":"WAS","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Washington_Football_Team.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Washington_Football_Team.png"}},"trial":{"isActive":false,"daysRemaining":null},"yearsAndWeeks":{"1985":16,"1986":16,"1987":16,"1988":16,"1989":16,"1990":17,"1991":17,"1992":17,"1993":18,"1994":17,"1995":17,"1996":17,"1997":17,"1998":17,"1999":17,"2000":17,"2001":17,"2002":17,"2003":17,"2004":17,"2005":17,"2006":17,"2007":17,"2008":17,"2009":17,"2010":17,"2011":17,"2012":17,"2013":17,"2014":17,"2015":17,"2016":17,"2017":17,"2018":17,"2019":17,"2020":17}},"ga":{"commands":[["create","UA-5013951-1","auto"],["send","pageview"]]},"FOStats":{"selectedPage":"offensive_drive"},"chosen":{"selector":"select[multiple]:visible","minimum_single":20,"minimum_multiple":0,"minimum_width":0,"use_relative_width":false,"options":{"disable_search":false,"disable_search_threshold":0,"allow_single_deselect":false,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","max_shown_results":null,"inherit_select_classes":true}},"user":{"uid":0,"permissionsHash":"8727ec5cca87c3dfc0d9b567a1b23156907ea407f17302970ab194425e5df258"}}</script>
 <script src="/files/js/js_khmSVeGY0Wu3KKwntxxWc8UM8g1AP2n_GX9U2MMtGF8.js"></script>
 <script src="https://js.stripe.com/v3/"></script>
 <script src="/files/js/js_V7kn-apie4VdIGxRnNllLWnAkUnEH0CQGN1svtObXvM.js"></script>
 <script src="https://www.google-analytics.com/analytics.js" async></script>
-<script src="/files/js/js_1wQdJZVFonwBgPiHiyRlkuTGhyHuVIMCI-659ZU-dvw.js"></script>
+<script src="/files/js/js_8GzIU9M1BcdqfXmKS3yaJGItVs--jaUY2zSTA5zWF4w.js"></script>
 
 
 
