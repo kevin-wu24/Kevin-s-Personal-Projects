@@ -577,7 +577,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <label for="edit-offense-defense" class="visually-hidden">Offense / Defense</label>
         <select data-drupal-selector="edit-offense-defense" id="edit-offense-defense" name="offense_defense" class="form-select"><option value="overall" >Overall</option><option value="offense" selected="selected" >Offense</option><option value="defense" >Defense</option></select>
         </div>
-<span class="form-please-wait">Loading, please wait...</span><input autocomplete="off" data-drupal-selector="form-6obqcceje6zmi5zmex2gk54z-d3k-x-xboh-7xmujbg" type="hidden" name="form_build_id" value="form-6oBQcCEJe6zmi5ZmEX2gk54Z_D3K-X_XbOh-7XMujbg" />
+<span class="form-please-wait">Loading, please wait...</span><input autocomplete="off" data-drupal-selector="form-icpnpizkdpwtonbnn5reola8zplpirami3lgo4gstkc" type="hidden" name="form_build_id" value="form-IcpNpizkDPwTONbNn5ReOLa8ZPLpIRamI3LGO4gStKc" />
 <input data-drupal-selector="edit-fo-stats-navigation-form" type="hidden" name="form_id" value="fo_stats_navigation_form" />
 <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" name="op" value="View Stats" class="button button--primary js-form-submit form-submit" />
 </div>
@@ -2107,7 +2107,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <input data-drupal-selector="edit-pass" placeholder="Password" type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required" required="required" aria-required="true" />
 
         </div>
-<input autocomplete="off" data-drupal-selector="form-50yv6elj6kbsbpvmuc5q4oysbiipd81wbaxupckini4" type="hidden" name="form_build_id" value="form-50yv6elJ6kBsbpvMuc5q4oySBIipd81WBAxuPCKiNi4" />
+<input autocomplete="off" data-drupal-selector="form-w1sanuqwsc-7nho3fbfxg4-qq9tgxikvd2j7vi4ons" type="hidden" name="form_build_id" value="form-W1SaNUqWSc__7NHo3FBFXg4-qq9TgxIkvD2j7Vi4ONs" />
 <input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" />
 <p><i><a href="/user/password">Forgot password?</a></i></p><div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" class="orange button js-form-submit form-submit" type="submit" id="edit-submit" name="op" value="Login" />
 <div class="form-additional-links header"><a href="/user/login" class="login-link" data-drupal-selector="edit-login" id="edit-login">Login</a><a href="/user/password" data-drupal-selector="edit-reset" id="edit-reset">Forgot Password?</a><a href="/foplus/trial/start" data-drupal-selector="edit-trial" id="edit-trial">Start Your FO+ Free Trial</a></div><div class="form-additional-links content"><div><a href="/user/password" data-drupal-selector="edit-reset" id="edit-reset--2">Forgot Password?</a></div><div>Don't have an account? <a href="/register">Register now!</a></div></div></div>
@@ -2702,7 +2702,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
         
           
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><em>Database updated: 10/05/2021 1:38 PM EST</em></p>
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><em>Database updated: 10/13/2021 12:25 PM EST</em></p>
 <p>These stats are computed from NFL Drive Charts and are not adjusted for strength of schedule or situation.</p>
 <p><b>DSR</b> represents Drive Success Rate, as introduced in <i>Pro Football Prospectus 2005</i>, which measures the percentage of down series that result in a first down or touchdown. <b>TO/Dr</b> represents turnovers per drive. <b>FUM/Dr</b> represents fumbles lost per drive. <b>LOS/Dr</b> represents average starting field position (line of scrimmage) per drive. <b>TOP/Dr</b> represents time of possession per drive.</p>
 <p>Take-a-knee drives at the end of a half are discarded. <b>NET</b> values are simply <b>OFFENSE</b> minus <b>DEFENSE.</b></p>
