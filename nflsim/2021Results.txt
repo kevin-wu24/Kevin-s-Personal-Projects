@@ -1162,7 +1162,190 @@ Week 6 Record:(ATS: 0-0-0; ML: 0-0-0)
 		PHI 26.0     TB 33.0
 		 -7.0
 		Shows long run score over 1000 simulations and ideal spread for favorite.
-		***Pick: TB ML and ATS***				
+		***Pick: TB ML and ATS***
+	
+	2.	MIA(-2.5, -148) at JAX(+3, +140)
+		JAX QB: Trevor Lawrence
+		MIA QB: Tua Tagovailoa
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 59.67741935483871% ATS%: 57.574999999999996%
+		JAX 17.0     MIA 9.0
+		JAX 13.0     MIA 13.0
+		JAX 18.0     MIA 8.0
+		Shows possible game results.
+		JAX 16.0     MIA 10.0
+		 -6.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: JAX ML and ATS***
+	
+	3.	GB(-5.5, -230) at CHI(+6, +205)
+		CHI QB: Justin Fields
+		GB QB: Aaron Rodgers
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 69.6969696969697% ATS%: 66.66499999999999%
+		CHI 17.0     GB 21.0
+		CHI 24.0     GB 25.0
+		CHI 27.0     GB 24.0
+		Shows possible game results.
+		CHI 20.0     GB 24.0
+		 -4.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: GB ML and CHI ATS***
+	
+	4.	CIN(-3.5, -175) at DET(+3.5, +160)
+		DET QB: Jared Goff
+		CIN QB: Joe Burrow
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 63.63636363636363% ATS%: 60.605%
+		DET 23.0     CIN 24.0
+		DET 20.0     CIN 34.0
+		DET 23.0     CIN 29.0
+		Shows possible game results.
+		DET 20.0     CIN 31.0
+		 -11.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: CIN ML and ATS***
+	
+	5.	HOU(+10, +375) at IND(-10, -435)
+		IND QB: Carson Wentz
+		HOU QB: Davis Mills
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 81.30841121495327% ATS%: 80.3%
+		IND 23.0     HOU 14.0
+		IND 22.0     HOU 24.0
+		IND 25.0     HOU 13.0
+		Shows possible game results.
+		IND 20.0     HOU 16.0
+		 -4.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: IND ML and HOU ATS***
+	
+	6.	LAR(-8, -375) at NYG(+9, +340)
+		NYG QB: Daniel Jones
+		LAR QB: Matthew Stafford
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 78.94736842105263% ATS%: 74.24%
+		NYG 10.0     LAR 33.0
+		NYG 17.0     LAR 33.0
+		NYG 20.0     LAR 34.0
+		Shows possible game results.
+		NYG 19.0     LAR 32.0
+		 -13.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: LAR ML and ATS***
+	
+	7.	KC(-6.5, -286) at WAS(+7, +255)
+		WAS QB: Taylor Heinicke
+		KC QB: Patrick Mahomes
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 74.09326424870466% ATS%: 69.695%
+		WAS 25.0     KC 34.0
+		WAS 12.0     KC 21.0
+		WAS 26.0     KC 33.0
+		Shows possible game results.
+		WAS 22.0     KC 26.0
+		 -4.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: KC ML and WAS ATS***
+	
+	8.	MIN(-2.5, -128) at CAR(+2.5, +125)
+		CAR QB: Sam Darnold
+		MIN QB: Kirk Cousins
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 56.14035087719298% ATS%: 57.574999999999996%
+		CAR 37.0     MIN 34.0
+		CAR 21.0     MIN 19.0
+		CAR 28.0     MIN 17.0
+		Shows possible game results.
+		CAR 30.0     MIN 27.0
+		 -3.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: CAR ML and ATS***
+	
+	9.	LAC(+2.5, +128) at BAL(-2.5, -140)
+		BAL QB: Lamar Jackson
+		LAC QB: Justin Herbert
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 58.333333333333336% ATS%: 57.574999999999996%
+		BAL 32.0     LAC 34.0
+		BAL 37.0     LAC 34.0
+		BAL 37.0     LAC 34.0
+		Shows possible game results.
+		BAL 35.0     LAC 30.0
+		 -4.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: BAL ML and ATS***
+	
+	10.	ARI(+3.5, +155) at CLE(-3.5, -167)
+		CLE QB: Baker Mayfield
+		ARI QB: Kyler Murray
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 62.546816479400746% ATS%: 60.605%
+		CLE 26.0     ARI 34.0
+		CLE 23.0     ARI 34.0
+		CLE 24.0     ARI 34.0
+		Shows possible game results.
+		CLE 33.0     ARI 34.0
+		 -1.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: ARI ML and ATS***
+	
+	11.	LV(+4.5, +176) at DEN(-4, -190)
+		DEN QB: Teddy Bridgewater
+		LV QB: Derek Carr
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 65.51724137931035% ATS%: 62.12%
+		DEN 37.0     LV 19.0
+		DEN 19.0     LV 25.0
+		DEN 36.0     LV 18.0
+		Shows possible game results.
+		DEN 29.0     LV 21.0
+		 -7.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: DEN ML and ATS***
+	
+	12.	DAL(-3, -170) at NE(+3.5, +155)
+		NE QB: Mac Jones
+		DAL QB: Dak Prescott
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 62.96296296296296% ATS%: 59.089999999999996%
+		NE 30.0     DAL 34.0
+		NE 28.0     DAL 34.0
+		NE 13.0     DAL 34.0
+		Shows possible game results.
+		NE 21.0     DAL 33.0
+		 -11.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: DAL ML and ATS***
+	
+	13.	SEA(+5.5, +191) at PIT(-4.5, -208)
+		PIT QB: Ben Roethlisberger
+		SEA QB: Geno Smith
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 67.53246753246754% ATS%: 63.635%
+		PIT 20.0     SEA 18.0
+		PIT 22.0     SEA 29.0
+		PIT 17.0     SEA 34.0
+		Shows possible game results.
+		PIT 20.0     SEA 26.0
+		 -6.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: SEA ML and ATS***
+	
+	14.	BUF(-5.5, -240) at TEN(+5.5, +210)
+		TEN QB: Ryan Tannehill
+		BUF QB: Josh Allen
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 70.58823529411765% ATS%: 66.66499999999999%
+		TEN 36.0     BUF 34.0
+		TEN 32.0     BUF 34.0
+		TEN 32.0     BUF 34.0
+		Shows possible game results.
+		TEN 25.0     BUF 34.0
+		 -8.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: BUF ML and ATS***		
+						
 
 		
 														
