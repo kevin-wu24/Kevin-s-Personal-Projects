@@ -19,8 +19,8 @@ ATS pushes occur when a game ends with the difference of scores equaling the cho
 	against the spread right before kickoff.	
 	
 2021-2022 Season Predictions & Results
-Record ATS: 34-43-3
-Record ML: 42-33-5
+Record ATS: 41-50-3
+Record ML: 52-37-5
 
 Weeks 1-4: basically below .500, using combined last and this year data for sim; right idea?
 
@@ -1149,7 +1149,7 @@ Week 5 Record:(ATS: 8-6-2; ML: 11-5-0)
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: BAL ML and ATS***
 
-Week 6 Record:(ATS: 0-0-0; ML: 0-0-0)
+Week 6 Record:(ATS: 7-7-0; ML: 10-4-0)
 	1.	TB(-6.5, -278) at PHI(+7, +240)
 		PHI QB: Jalen Hurts
 		TB QB: Tom Brady
@@ -1345,6 +1345,21 @@ Week 6 Record:(ATS: 0-0-0; ML: 0-0-0)
 		 -8.0
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: BUF ML and ATS***		
+
+Week 7 Record:(ATS: 0-0-0; ML: 0-0-0)
+	1.	DEN(+1, +120) at CLE(-1, -110)
+		CLE QB: Case Keenum
+		DEN QB: Teddy Bridgewater
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 54.54545454545454% ATS%: 53.03%
+		CLE 36.0     DEN 26.0
+		CLE 9.0     DEN 16.0
+		CLE 26.0     DEN 22.0
+		Shows possible game results.
+		CLE 21.0     DEN 23.0
+		 -4.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: DEN ML and ATS***
 						
 
 		

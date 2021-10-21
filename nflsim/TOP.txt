@@ -719,20 +719,19 @@
         	<ul class="nav-list hidden">
 				<li><a href="/nfl/schedules/season/" >Season Schedule</a></li>
 				
-			    			      			        <li><a href="/nfl/matchup/buccaneers-eagles-week-6-2021" >Tampa Bay @ Philadelphia</a></li>
-			      			        <li><a href="/nfl/matchup/dolphins-jaguars-week-6-2021" >Miami vs. Jacksonville</a></li>
-			      			        <li><a href="/nfl/matchup/vikings-panthers-week-6-2021" >Minnesota @ Carolina</a></li>
-			      			        <li><a href="/nfl/matchup/chargers-ravens-week-6-2021" >LA Chargers @ Baltimore</a></li>
-			      			        <li><a href="/nfl/matchup/packers-bears-week-6-2021" >Green Bay @ Chicago</a></li>
-			      			        <li><a href="/nfl/matchup/bengals-lions-week-6-2021" >Cincinnati @ Detroit</a></li>
-			      			        <li><a href="/nfl/matchup/texans-colts-week-6-2021" >Houston @ Indianapolis</a></li>
-			      			        <li><a href="/nfl/matchup/rams-giants-week-6-2021" >LA Rams @ NY Giants</a></li>
-			      			        <li><a href="/nfl/matchup/chiefs-football-team-week-6-2021" >Kansas City @ Washington</a></li>
-			      			        <li><a href="/nfl/matchup/cardinals-browns-week-6-2021" >Arizona @ Cleveland</a></li>
-			      			        <li><a href="/nfl/matchup/raiders-broncos-week-6-2021" >Las Vegas @ Denver</a></li>
-			      			        <li><a href="/nfl/matchup/cowboys-patriots-week-6-2021" >Dallas @ New England</a></li>
-			      			        <li><a href="/nfl/matchup/seahawks-steelers-week-6-2021" >Seattle @ Pittsburgh</a></li>
-			      			        <li><a href="/nfl/matchup/bills-titans-week-6-2021" >Buffalo @ Tennessee</a></li>
+			    			      			        <li><a href="/nfl/matchup/broncos-browns-week-7-2021" >Denver @ Cleveland</a></li>
+			      			        <li><a href="/nfl/matchup/jets-patriots-week-7-2021" >NY Jets @ New England</a></li>
+			      			        <li><a href="/nfl/matchup/bengals-ravens-week-7-2021" >Cincinnati @ Baltimore</a></li>
+			      			        <li><a href="/nfl/matchup/falcons-dolphins-week-7-2021" >Atlanta @ Miami</a></li>
+			      			        <li><a href="/nfl/matchup/football-team-packers-week-7-2021" >Washington @ Green Bay</a></li>
+			      			        <li><a href="/nfl/matchup/chiefs-titans-week-7-2021" >Kansas City @ Tennessee</a></li>
+			      			        <li><a href="/nfl/matchup/panthers-giants-week-7-2021" >Carolina @ NY Giants</a></li>
+			      			        <li><a href="/nfl/matchup/lions-rams-week-7-2021" >Detroit @ LA Rams</a></li>
+			      			        <li><a href="/nfl/matchup/eagles-raiders-week-7-2021" >Philadelphia @ Las Vegas</a></li>
+			      			        <li><a href="/nfl/matchup/texans-cardinals-week-7-2021" >Houston @ Arizona</a></li>
+			      			        <li><a href="/nfl/matchup/bears-buccaneers-week-7-2021" >Chicago @ Tampa Bay</a></li>
+			      			        <li><a href="/nfl/matchup/colts-49ers-week-7-2021" >Indianapolis @ San Francisco</a></li>
+			      			        <li><a href="/nfl/matchup/saints-seahawks-week-7-2021" >New Orleans @ Seattle</a></li>
 			      			    			</ul>
 		</li>
         <li><a href="#" class="expand-controller ">Rankings <svg class="icon"><use xlink:href="#icon-arrow-right2"></use></svg></a>
@@ -822,21 +821,21 @@
 	        <ul class="nav-list hidden">
 				<li><a href="/ncf/schedules/season/" >Season Schedule</a></li>
                                 
-                                                                                          <li><a href="/college-football/matchup/midshipmen-tigers-week-7-2021" >Navy @ Memphis</a></li>
-                                                              <li><a href="/college-football/matchup/eagles-jaguars-week-7-2021" >GA Southern @ S Alabama</a></li>
-                                                              <li><a href="/college-football/matchup/thundering-herd-mean-green-week-7-2021" >Marshall @ North Texas</a></li>
-                                                              <li><a href="/college-football/matchup/tigers-orange-week-7-2021" >Clemson @ Syracuse</a></li>
-                                                              <li><a href="/college-football/matchup/aztecs-spartans-week-7-2021" >San Diego St @ San Jose St</a></li>
-                                                              <li><a href="/college-football/matchup/golden-bears-ducks-week-7-2021" >California @ Oregon</a></li>
-                                                              <li><a href="/college-football/matchup/scarlet-knights-wildcats-week-7-2021" >Rutgers @ Northwestern</a></li>
-                                                              <li><a href="/college-football/matchup/golden-hurricane-bulls-week-7-2021" >Tulsa @ S Florida</a></li>
-                                                              <li><a href="/college-football/matchup/spartans-hoosiers-week-7-2021" >Michigan St @ Indiana</a></li>
-                                                              <li><a href="/college-football/matchup/bobcats-bulls-week-7-2021" >Ohio @ Buffalo</a></li>
-                                                              <li><a href="/college-football/matchup/knights-bearcats-week-7-2021" >Central FL @ Cincinnati</a></li>
-                                                              <li><a href="/college-football/matchup/aggies-tigers-week-7-2021" >Texas A&amp;M @ Missouri</a></li>
-                                                              <li><a href="/college-football/matchup/cornhuskers-golden-gophers-week-7-2021" >Nebraska @ Minnesota</a></li>
-                                                              <li><a href="/college-football/matchup/gators-tigers-week-7-2021" >Florida @ LSU</a></li>
-                                                              <li><a href="/college-football/matchup/cowboys-longhorns-week-7-2021" >Oklahoma St @ Texas</a></li>
+                                                                                          <li><a href="/college-football/matchup/owls-49ers-week-8-2021" >Fla Atlantic @ Charlotte</a></li>
+                                                              <li><a href="/college-football/matchup/green-wave-mustangs-week-8-2021" >Tulane @ S Methodist</a></li>
+                                                              <li><a href="/college-football/matchup/ragin-cajuns-red-wolves-week-8-2021" >LA Lafayette @ Arkansas St</a></li>
+                                                              <li><a href="/college-football/matchup/spartans-rebels-week-8-2021" >San Jose St @ UNLV</a></li>
+                                                              <li><a href="/college-football/matchup/blue-raiders-huskies-week-8-2021" >Middle Tenn @ Connecticut</a></li>
+                                                              <li><a href="/college-football/matchup/tigers-knights-week-8-2021" >Memphis @ Central FL</a></li>
+                                                              <li><a href="/college-football/matchup/rams-aggies-week-8-2021" >Colorado St @ Utah State</a></li>
+                                                              <li><a href="/college-football/matchup/huskies-wildcats-week-8-2021" >Washington @ Arizona</a></li>
+                                                              <li><a href="/college-football/matchup/minutemen-seminoles-week-8-2021" >U Mass @ Florida St</a></li>
+                                                              <li><a href="/college-football/matchup/eagles-falcons-week-8-2021" >E Michigan @ Bowling Grn</a></li>
+                                                              <li><a href="/college-football/matchup/huskies-chippewas-week-8-2021" >N Illinois @ Central Mich</a></li>
+                                                              <li><a href="/college-football/matchup/fighting-illini-nittany-lions-week-8-2021" >Illinois @ Penn State</a></li>
+                                                              <li><a href="/college-football/matchup/sooners-jayhawks-week-8-2021" >Oklahoma @ Kansas</a></li>
+                                                              <li><a href="/college-football/matchup/wildcats-wolverines-week-8-2021" >Northwestern @ Michigan</a></li>
+                                                              <li><a href="/college-football/matchup/bearcats-midshipmen-week-8-2021" >Cincinnati @ Navy</a></li>
                                                           				<li><a href="/ncf/schedules/season/">More...</a></li>
 			</ul>
 		</li>
@@ -902,7 +901,7 @@
 				<li><a href="/mlb/schedules/" >Daily Schedule</a></li>
 				<li><a href="/mlb/schedules/season/" >Season Schedule</a></li>
                                 
-                                                                                          <li><a href="/mlb/matchup/dodgers-giants-2021-10-14" >LA Dodgers @ SF Giants</a></li>
+                                                                                          <li><a href="/mlb/matchup/braves-dodgers-2021-10-21" >Atlanta @ LA Dodgers</a></li>
                                                           							</ul>
 		</li>
         <li><a href="#" class="expand-controller ">Rankings <svg class="icon"><use xlink:href="#icon-arrow-right2"></use></svg></a>
@@ -989,8 +988,9 @@
 				<li><a href="/nba/schedules/" >Daily Schedule</a></li>
 				<li><a href="/nba/schedules/season/" >Season Schedule</a></li>
                                 
-                                                                                          <li><a href="/nba/matchup/nets-bucks-2021-10-19" >Brooklyn @ Milwaukee</a></li>
-                                                              <li><a href="/nba/matchup/warriors-lakers-2021-10-19" >Golden State @ LA Lakers</a></li>
+                                                                                          <li><a href="/nba/matchup/bucks-heat-2021-10-21" >Milwaukee @ Miami</a></li>
+                                                              <li><a href="/nba/matchup/clippers-warriors-2021-10-21" >LA Clippers @ Golden State</a></li>
+                                                              <li><a href="/nba/matchup/mavericks-hawks-2021-10-21" >Dallas @ Atlanta</a></li>
                                                           			</ul>
 		</li>
         <li><a href="#" class="expand-controller ">Rankings <svg class="icon"><use xlink:href="#icon-arrow-right2"></use></svg></a>
@@ -1707,7 +1707,7 @@
 					<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 				</div>
 			<input type="hidden" name="team_id" value="" class="team-id-val">
-			<input type="hidden" name="formtime" value="1634152845" class="formtime-val">
+			<input type="hidden" name="formtime" value="1634837893" class="formtime-val">
 			<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 				
 				<div class="msg msg-success space-bottom hidden"></div>
@@ -1958,7 +1958,7 @@
 								<input type="submit" class="team-signup-submit btn btn-blue btn-width-full" value="Get Updates">
 							</div>
 							<input type="hidden" name="team_id" value="" class="team-id-val">
-							<input type="hidden" name="formtime" value="1634152845" class="formtime-val">
+							<input type="hidden" name="formtime" value="1634837893" class="formtime-val">
 							<input type="hidden" name="league_abbr" value="nfl" class="league-abbr-val">
 						</div> <!-- desktop-bar-text-wrapper -->
 					</div> <!-- desktop-bar-wrapper -->
@@ -2311,13 +2311,13 @@
                                                                         <option value="2019-02-04" >2018</option>
                                                                         <option value="2020-02-03" >2019</option>
                                                                         <option value="2021-02-08" >2020</option>
-                                                                        <option value="2021-10-14" SELECTED>2021</option>
+                                                                        <option value="2021-10-21" SELECTED>2021</option>
                                                         </select>
                 </div> <!-- table-filter -->
 
                 <div class="table-filter">
                         <label for="custom_date">Date:</label>
-                        <input type="text" class="custom-date" data-query-param-name="date" value="10/14/2021" readonly="true">
+                        <input type="text" class="custom-date" data-query-param-name="date" value="10/21/2021" readonly="true">
                 </div> <!-- table-filter -->		        </div> <!-- table-filters -->
 
 	<table class="tr-table datatable scrollable">
@@ -2338,75 +2338,95 @@
 	        		        			<tr>
 			        <td class="rank text-center" data-sort="1">1</td>
 				<td class="text-left nowrap" data-sort="Carolina"><a href="https://www.teamrankings.com/nfl/team/carolina-panthers">Carolina</a></td>
-				<td class="text-right" data-sort="2091.2">34:51</td>
-				<td class="text-right" data-sort="2088">34:48</td>
-				<td class="text-right" data-sort="2103">35:03</td>
-				<td class="text-right" data-sort="2098.33">34:58</td>
+				<td class="text-right" data-sort="2008.33">33:28</td>
+				<td class="text-right" data-sort="1904.33">31:44</td>
+				<td class="text-right" data-sort="1594">26:34</td>
+				<td class="text-right" data-sort="1972.25">32:52</td>
 				<td class="text-right" data-sort="2080.5">34:40</td>
 				<td class="text-right" data-sort="1859.31">30:59</td>
 			</tr>
 				        			<tr>
 			        <td class="rank text-center" data-sort="2">2</td>
 				<td class="text-left nowrap" data-sort="Cleveland"><a href="https://www.teamrankings.com/nfl/team/cleveland-browns">Cleveland</a></td>
-				<td class="text-right" data-sort="2086.4">34:46</td>
-				<td class="text-right" data-sort="2231.33">37:11</td>
-				<td class="text-right" data-sort="2188">36:28</td>
-				<td class="text-right" data-sort="2239.5">37:19</td>
+				<td class="text-right" data-sort="1992.17">33:12</td>
+				<td class="text-right" data-sort="1947">32:27</td>
+				<td class="text-right" data-sort="1521">25:21</td>
+				<td class="text-right" data-sort="2000">33:20</td>
 				<td class="text-right" data-sort="1984.33">33:04</td>
 				<td class="text-right" data-sort="1836.72">30:36</td>
 			</tr>
 				        			<tr>
 			        <td class="rank text-center" data-sort="3">3</td>
-				<td class="text-left nowrap" data-sort="Tennessee"><a href="https://www.teamrankings.com/nfl/team/tennessee-titans">Tennessee</a></td>
-				<td class="text-right" data-sort="2003.8">33:23</td>
-				<td class="text-right" data-sort="2040.67">34:00</td>
-				<td class="text-right" data-sort="1890">31:30</td>
-				<td class="text-right" data-sort="1822.5">30:22</td>
-				<td class="text-right" data-sort="2124.67">35:24</td>
-				<td class="text-right" data-sort="1692.76">28:12</td>
-			</tr>
-				        			<tr>
-			        <td class="rank text-center" data-sort="4">4</td>
 				<td class="text-left nowrap" data-sort="Denver"><a href="https://www.teamrankings.com/nfl/team/denver-broncos">Denver</a></td>
-				<td class="text-right" data-sort="1963.6">32:43</td>
-				<td class="text-right" data-sort="1792.67">29:52</td>
-				<td class="text-right" data-sort="1618">26:58</td>
-				<td class="text-right" data-sort="1880">31:20</td>
+				<td class="text-right" data-sort="1981.83">33:01</td>
+				<td class="text-right" data-sort="1768">29:28</td>
+				<td class="text-right" data-sort="2073">34:33</td>
+				<td class="text-right" data-sort="1944.33">32:24</td>
 				<td class="text-right" data-sort="2019.33">33:39</td>
 				<td class="text-right" data-sort="1738.75">28:58</td>
 			</tr>
 				        			<tr>
+			        <td class="rank text-center" data-sort="4">4</td>
+				<td class="text-left nowrap" data-sort="Arizona"><a href="https://www.teamrankings.com/nfl/team/arizona-cardinals">Arizona</a></td>
+				<td class="text-right" data-sort="1960.33">32:40</td>
+				<td class="text-right" data-sort="1958.33">32:38</td>
+				<td class="text-right" data-sort="2079">34:39</td>
+				<td class="text-right" data-sort="1799">29:59</td>
+				<td class="text-right" data-sort="2041">34:01</td>
+				<td class="text-right" data-sort="1730.62">28:50</td>
+			</tr>
+				        			<tr>
 			        <td class="rank text-center" data-sort="5">5</td>
 				<td class="text-left nowrap" data-sort="Buffalo"><a href="https://www.teamrankings.com/nfl/team/buffalo-bills">Buffalo</a></td>
-				<td class="text-right" data-sort="1958">32:38</td>
-				<td class="text-right" data-sort="2029">33:49</td>
-				<td class="text-right" data-sort="1655">27:35</td>
+				<td class="text-right" data-sort="1960">32:40</td>
+				<td class="text-right" data-sort="1973.33">32:53</td>
+				<td class="text-right" data-sort="1970">32:50</td>
 				<td class="text-right" data-sort="2143">35:43</td>
-				<td class="text-right" data-sort="1680.5">28:00</td>
+				<td class="text-right" data-sort="1777">29:37</td>
 				<td class="text-right" data-sort="1854.11">30:54</td>
 			</tr>
 				        			<tr>
 			        <td class="rank text-center" data-sort="6">6</td>
-				<td class="text-left nowrap" data-sort="Arizona"><a href="https://www.teamrankings.com/nfl/team/arizona-cardinals">Arizona</a></td>
-				<td class="text-right" data-sort="1936.6">32:16</td>
-				<td class="text-right" data-sort="1923.33">32:03</td>
-				<td class="text-right" data-sort="1686">28:06</td>
-				<td class="text-right" data-sort="1799">29:59</td>
-				<td class="text-right" data-sort="2028.33">33:48</td>
-				<td class="text-right" data-sort="1730.62">28:50</td>
+				<td class="text-left nowrap" data-sort="Baltimore"><a href="https://www.teamrankings.com/nfl/team/baltimore-ravens">Baltimore</a></td>
+				<td class="text-right" data-sort="1944.33">32:24</td>
+				<td class="text-right" data-sort="2009.67">33:29</td>
+				<td class="text-right" data-sort="2287">38:07</td>
+				<td class="text-right" data-sort="2067">34:27</td>
+				<td class="text-right" data-sort="1821.67">30:21</td>
+				<td class="text-right" data-sort="1903.83">31:43</td>
 			</tr>
 				        			<tr>
 			        <td class="rank text-center" data-sort="7">7</td>
-				<td class="text-left nowrap" data-sort="Indianapolis"><a href="https://www.teamrankings.com/nfl/team/indianapolis-colts">Indianapolis</a></td>
-				<td class="text-right" data-sort="1933.4">32:13</td>
-				<td class="text-right" data-sort="1876">31:16</td>
-				<td class="text-right" data-sort="1845">30:45</td>
-				<td class="text-right" data-sort="2019.5">33:39</td>
-				<td class="text-right" data-sort="1876">31:16</td>
-				<td class="text-right" data-sort="1870.29">31:10</td>
+				<td class="text-left nowrap" data-sort="Tennessee"><a href="https://www.teamrankings.com/nfl/team/tennessee-titans">Tennessee</a></td>
+				<td class="text-right" data-sort="1941.5">32:21</td>
+				<td class="text-right" data-sort="1902">31:42</td>
+				<td class="text-right" data-sort="1630">27:10</td>
+				<td class="text-right" data-sort="1758.33">29:18</td>
+				<td class="text-right" data-sort="2124.67">35:24</td>
+				<td class="text-right" data-sort="1692.76">28:12</td>
 			</tr>
 				        			<tr>
 			        <td class="rank text-center" data-sort="8">8</td>
+				<td class="text-left nowrap" data-sort="Tampa Bay"><a href="https://www.teamrankings.com/nfl/team/tampa-bay-buccaneers">Tampa Bay</a></td>
+				<td class="text-right" data-sort="1928.33">32:08</td>
+				<td class="text-right" data-sort="2219.33">36:59</td>
+				<td class="text-right" data-sort="2396">39:56</td>
+				<td class="text-right" data-sort="1783">29:43</td>
+				<td class="text-right" data-sort="2073.67">34:33</td>
+				<td class="text-right" data-sort="1746">29:06</td>
+			</tr>
+				        			<tr>
+			        <td class="rank text-center" data-sort="9">9</td>
+				<td class="text-left nowrap" data-sort="Dallas"><a href="https://www.teamrankings.com/nfl/team/dallas-cowboys">Dallas</a></td>
+				<td class="text-right" data-sort="1923.33">32:03</td>
+				<td class="text-right" data-sort="1877.33">31:17</td>
+				<td class="text-right" data-sort="2116">35:16</td>
+				<td class="text-right" data-sort="1871.33">31:11</td>
+				<td class="text-right" data-sort="1975.33">32:55</td>
+				<td class="text-right" data-sort="1701.75">28:21</td>
+			</tr>
+				        			<tr>
+			        <td class="rank text-center" data-sort="10">10</td>
 				<td class="text-left nowrap" data-sort="Atlanta"><a href="https://www.teamrankings.com/nfl/team/atlanta-falcons">Atlanta</a></td>
 				<td class="text-right" data-sort="1886.8">31:26</td>
 				<td class="text-right" data-sort="1895">31:35</td>
@@ -2416,27 +2436,47 @@
 				<td class="text-right" data-sort="1841.94">30:41</td>
 			</tr>
 				        			<tr>
-			        <td class="rank text-center" data-sort="9">9</td>
-				<td class="text-left nowrap" data-sort="Dallas"><a href="https://www.teamrankings.com/nfl/team/dallas-cowboys">Dallas</a></td>
-				<td class="text-right" data-sort="1884.8">31:24</td>
-				<td class="text-right" data-sort="1871.33">31:11</td>
-				<td class="text-right" data-sort="1932">32:12</td>
-				<td class="text-right" data-sort="1871.33">31:11</td>
-				<td class="text-right" data-sort="1905">31:45</td>
-				<td class="text-right" data-sort="1701.75">28:21</td>
-			</tr>
-				        			<tr>
-			        <td class="rank text-center" data-sort="10">10</td>
-				<td class="text-left nowrap" data-sort="Baltimore"><a href="https://www.teamrankings.com/nfl/team/baltimore-ravens">Baltimore</a></td>
-				<td class="text-right" data-sort="1875.8">31:15</td>
-				<td class="text-right" data-sort="1796">29:56</td>
-				<td class="text-right" data-sort="1755">29:15</td>
-				<td class="text-right" data-sort="1957">32:37</td>
-				<td class="text-right" data-sort="1821.67">30:21</td>
-				<td class="text-right" data-sort="1903.83">31:43</td>
-			</tr>
-				        			<tr>
 			        <td class="rank text-center" data-sort="11">11</td>
+				<td class="text-left nowrap" data-sort="Indianapolis"><a href="https://www.teamrankings.com/nfl/team/indianapolis-colts">Indianapolis</a></td>
+				<td class="text-right" data-sort="1865.67">31:05</td>
+				<td class="text-right" data-sort="1867">31:07</td>
+				<td class="text-right" data-sort="1527">25:27</td>
+				<td class="text-right" data-sort="1855.33">30:55</td>
+				<td class="text-right" data-sort="1876">31:16</td>
+				<td class="text-right" data-sort="1870.29">31:10</td>
+			</tr>
+				        			<tr>
+			        <td class="rank text-center" data-sort="12">12</td>
+				<td class="text-left nowrap" data-sort="Kansas City"><a href="https://www.teamrankings.com/nfl/team/kansas-city-chiefs">Kansas City</a></td>
+				<td class="text-right" data-sort="1864.83">31:04</td>
+				<td class="text-right" data-sort="1943.33">32:23</td>
+				<td class="text-right" data-sort="2033">33:53</td>
+				<td class="text-right" data-sort="1954.33">32:34</td>
+				<td class="text-right" data-sort="1775.33">29:35</td>
+				<td class="text-right" data-sort="1809.16">30:09</td>
+			</tr>
+				        			<tr>
+			        <td class="rank text-center" data-sort="13">13</td>
+				<td class="text-left nowrap" data-sort="Minnesota"><a href="https://www.teamrankings.com/nfl/team/minnesota-vikings">Minnesota</a></td>
+				<td class="text-right" data-sort="1861.67">31:01</td>
+				<td class="text-right" data-sort="1800">30:00</td>
+				<td class="text-right" data-sort="2006">33:26</td>
+				<td class="text-right" data-sort="1849">30:49</td>
+				<td class="text-right" data-sort="1874.33">31:14</td>
+				<td class="text-right" data-sort="1774.69">29:34</td>
+			</tr>
+				        			<tr>
+			        <td class="rank text-center" data-sort="14">14</td>
+				<td class="text-left nowrap" data-sort="Green Bay"><a href="https://www.teamrankings.com/nfl/team/green-bay-packers">Green Bay</a></td>
+				<td class="text-right" data-sort="1859.33">30:59</td>
+				<td class="text-right" data-sort="1939.67">32:19</td>
+				<td class="text-right" data-sort="1937">32:17</td>
+				<td class="text-right" data-sort="2043">34:03</td>
+				<td class="text-right" data-sort="1767.5">29:27</td>
+				<td class="text-right" data-sort="1970.83">32:50</td>
+			</tr>
+				        			<tr>
+			        <td class="rank text-center" data-sort="15">15</td>
 				<td class="text-left nowrap" data-sort="San Francisco"><a href="https://www.teamrankings.com/nfl/team/san-francisco-49ers">San Francisco</a></td>
 				<td class="text-right" data-sort="1858.8">30:58</td>
 				<td class="text-right" data-sort="1869">31:09</td>
@@ -2446,67 +2486,17 @@
 				<td class="text-right" data-sort="1883.06">31:23</td>
 			</tr>
 				        			<tr>
-			        <td class="rank text-center" data-sort="12">12</td>
-				<td class="text-left nowrap" data-sort="Green Bay"><a href="https://www.teamrankings.com/nfl/team/green-bay-packers">Green Bay</a></td>
-				<td class="text-right" data-sort="1843.8">30:43</td>
-				<td class="text-right" data-sort="1896.67">31:36</td>
-				<td class="text-right" data-sort="1801">30:01</td>
-				<td class="text-right" data-sort="2043">34:03</td>
-				<td class="text-right" data-sort="1711">28:31</td>
-				<td class="text-right" data-sort="1970.83">32:50</td>
-			</tr>
-				        			<tr>
-			        <td class="rank text-center" data-sort="13">13</td>
-				<td class="text-left nowrap" data-sort="Tampa Bay"><a href="https://www.teamrankings.com/nfl/team/tampa-bay-buccaneers">Tampa Bay</a></td>
-				<td class="text-right" data-sort="1834.8">30:34</td>
-				<td class="text-right" data-sort="2017.33">33:37</td>
-				<td class="text-right" data-sort="2227">37:07</td>
-				<td class="text-right" data-sort="1783">29:43</td>
-				<td class="text-right" data-sort="1912.5">31:52</td>
-				<td class="text-right" data-sort="1746">29:06</td>
-			</tr>
-				        			<tr>
-			        <td class="rank text-center" data-sort="14">14</td>
-				<td class="text-left nowrap" data-sort="Minnesota"><a href="https://www.teamrankings.com/nfl/team/minnesota-vikings">Minnesota</a></td>
-				<td class="text-right" data-sort="1832.8">30:32</td>
-				<td class="text-right" data-sort="1849">30:49</td>
-				<td class="text-right" data-sort="1926">32:06</td>
-				<td class="text-right" data-sort="1849">30:49</td>
-				<td class="text-right" data-sort="1808.5">30:08</td>
-				<td class="text-right" data-sort="1774.69">29:34</td>
-			</tr>
-				        			<tr>
-			        <td class="rank text-center" data-sort="14">14</td>
-				<td class="text-left nowrap" data-sort="LA Chargers"><a href="https://www.teamrankings.com/nfl/team/los-angeles-chargers">LA Chargers</a></td>
-				<td class="text-right" data-sort="1832.8">30:32</td>
-				<td class="text-right" data-sort="1714.67">28:34</td>
-				<td class="text-right" data-sort="1412">23:32</td>
-				<td class="text-right" data-sort="1784">29:44</td>
-				<td class="text-right" data-sort="1906">31:46</td>
-				<td class="text-right" data-sort="1899.38">31:39</td>
-			</tr>
-				        			<tr>
 			        <td class="rank text-center" data-sort="16">16</td>
-				<td class="text-left nowrap" data-sort="Kansas City"><a href="https://www.teamrankings.com/nfl/team/kansas-city-chiefs">Kansas City</a></td>
-				<td class="text-right" data-sort="1831.2">30:31</td>
-				<td class="text-right" data-sort="1916">31:56</td>
-				<td class="text-right" data-sort="1945">32:25</td>
-				<td class="text-right" data-sort="1954.33">32:34</td>
-				<td class="text-right" data-sort="1646.5">27:26</td>
-				<td class="text-right" data-sort="1809.16">30:09</td>
+				<td class="text-left nowrap" data-sort="Pittsburgh"><a href="https://www.teamrankings.com/nfl/team/pittsburgh-steelers">Pittsburgh</a></td>
+				<td class="text-right" data-sort="1801.17">30:01</td>
+				<td class="text-right" data-sort="1848">30:48</td>
+				<td class="text-right" data-sort="2043">34:03</td>
+				<td class="text-right" data-sort="1921.25">32:01</td>
+				<td class="text-right" data-sort="1561">26:01</td>
+				<td class="text-right" data-sort="1855.53">30:55</td>
 			</tr>
 				        			<tr>
 			        <td class="rank text-center" data-sort="17">17</td>
-				<td class="text-left nowrap" data-sort="Detroit"><a href="https://www.teamrankings.com/nfl/team/detroit-lions">Detroit</a></td>
-				<td class="text-right" data-sort="1821.4">30:21</td>
-				<td class="text-right" data-sort="1835">30:35</td>
-				<td class="text-right" data-sort="1674">27:54</td>
-				<td class="text-right" data-sort="1980.5">33:00</td>
-				<td class="text-right" data-sort="1715.33">28:35</td>
-				<td class="text-right" data-sort="1674.06">27:54</td>
-			</tr>
-				        			<tr>
-			        <td class="rank text-center" data-sort="18">18</td>
 				<td class="text-left nowrap" data-sort="New Orleans"><a href="https://www.teamrankings.com/nfl/team/new-orleans-saints">New Orleans</a></td>
 				<td class="text-right" data-sort="1799.4">29:59</td>
 				<td class="text-right" data-sort="1877.67">31:17</td>
@@ -2516,104 +2506,114 @@
 				<td class="text-right" data-sort="1906.94">31:46</td>
 			</tr>
 				        			<tr>
+			        <td class="rank text-center" data-sort="18">18</td>
+				<td class="text-left nowrap" data-sort="Cincinnati"><a href="https://www.teamrankings.com/nfl/team/cincinnati-bengals">Cincinnati</a></td>
+				<td class="text-right" data-sort="1782.33">29:42</td>
+				<td class="text-right" data-sort="1942">32:22</td>
+				<td class="text-right" data-sort="2152">35:52</td>
+				<td class="text-right" data-sort="1781.67">29:41</td>
+				<td class="text-right" data-sort="1783">29:43</td>
+				<td class="text-right" data-sort="1850.19">30:50</td>
+			</tr>
+				        			<tr>
 			        <td class="rank text-center" data-sort="19">19</td>
-				<td class="text-left nowrap" data-sort="Las Vegas"><a href="https://www.teamrankings.com/nfl/team/las-vegas-raiders">Las Vegas</a></td>
-				<td class="text-right" data-sort="1794">29:54</td>
-				<td class="text-right" data-sort="1713.33">28:33</td>
-				<td class="text-right" data-sort="1678">27:58</td>
-				<td class="text-right" data-sort="1797">29:57</td>
-				<td class="text-right" data-sort="1789.5">29:49</td>
-				<td class="text-right" data-sort="1838.94">30:38</td>
+				<td class="text-left nowrap" data-sort="Detroit"><a href="https://www.teamrankings.com/nfl/team/detroit-lions">Detroit</a></td>
+				<td class="text-right" data-sort="1759.17">29:19</td>
+				<td class="text-right" data-sort="1666.33">27:46</td>
+				<td class="text-right" data-sort="1448">24:08</td>
+				<td class="text-right" data-sort="1803">30:03</td>
+				<td class="text-right" data-sort="1715.33">28:35</td>
+				<td class="text-right" data-sort="1674.06">27:54</td>
 			</tr>
 				        			<tr>
 			        <td class="rank text-center" data-sort="20">20</td>
-				<td class="text-left nowrap" data-sort="New England"><a href="https://www.teamrankings.com/nfl/team/new-england-patriots">New England</a></td>
-				<td class="text-right" data-sort="1783.2">29:43</td>
-				<td class="text-right" data-sort="1680.33">28:00</td>
-				<td class="text-right" data-sort="1844">30:44</td>
-				<td class="text-right" data-sort="1800">30:00</td>
-				<td class="text-right" data-sort="1758">29:18</td>
-				<td class="text-right" data-sort="1737.81">28:57</td>
-			</tr>
-				        			<tr>
-			        <td class="rank text-center" data-sort="21">21</td>
 				<td class="text-left nowrap" data-sort="Chicago"><a href="https://www.teamrankings.com/nfl/team/chicago-bears">Chicago</a></td>
-				<td class="text-right" data-sort="1773.2">29:33</td>
-				<td class="text-right" data-sort="1623.67">27:03</td>
-				<td class="text-right" data-sort="1922">32:02</td>
-				<td class="text-right" data-sort="1802">30:02</td>
+				<td class="text-right" data-sort="1754.83">29:14</td>
+				<td class="text-right" data-sort="1769.33">29:29</td>
+				<td class="text-right" data-sort="1663">27:43</td>
+				<td class="text-right" data-sort="1755.67">29:15</td>
 				<td class="text-right" data-sort="1754">29:14</td>
 				<td class="text-right" data-sort="1784.06">29:44</td>
 			</tr>
 				        			<tr>
+			        <td class="rank text-center" data-sort="21">21</td>
+				<td class="text-left nowrap" data-sort="Las Vegas"><a href="https://www.teamrankings.com/nfl/team/las-vegas-raiders">Las Vegas</a></td>
+				<td class="text-right" data-sort="1749.5">29:09</td>
+				<td class="text-right" data-sort="1574">26:14</td>
+				<td class="text-right" data-sort="1527">25:27</td>
+				<td class="text-right" data-sort="1797">29:57</td>
+				<td class="text-right" data-sort="1702">28:22</td>
+				<td class="text-right" data-sort="1838.94">30:38</td>
+			</tr>
+				        			<tr>
 			        <td class="rank text-center" data-sort="22">22</td>
-				<td class="text-left nowrap" data-sort="Pittsburgh"><a href="https://www.teamrankings.com/nfl/team/pittsburgh-steelers">Pittsburgh</a></td>
-				<td class="text-right" data-sort="1752.8">29:12</td>
-				<td class="text-right" data-sort="1874.33">31:14</td>
-				<td class="text-right" data-sort="1982">33:02</td>
-				<td class="text-right" data-sort="1880.67">31:20</td>
-				<td class="text-right" data-sort="1561">26:01</td>
-				<td class="text-right" data-sort="1855.53">30:55</td>
+				<td class="text-left nowrap" data-sort="LA Chargers"><a href="https://www.teamrankings.com/nfl/team/los-angeles-chargers">LA Chargers</a></td>
+				<td class="text-right" data-sort="1746.17">29:06</td>
+				<td class="text-right" data-sort="1602.67">26:42</td>
+				<td class="text-right" data-sort="1313">21:53</td>
+				<td class="text-right" data-sort="1784">29:44</td>
+				<td class="text-right" data-sort="1708.33">28:28</td>
+				<td class="text-right" data-sort="1899.38">31:39</td>
 			</tr>
 				        			<tr>
 			        <td class="rank text-center" data-sort="23">23</td>
-				<td class="text-left nowrap" data-sort="Cincinnati"><a href="https://www.teamrankings.com/nfl/team/cincinnati-bengals">Cincinnati</a></td>
-				<td class="text-right" data-sort="1708.4">28:28</td>
-				<td class="text-right" data-sort="1717.33">28:37</td>
-				<td class="text-right" data-sort="1799">29:59</td>
-				<td class="text-right" data-sort="1781.67">29:41</td>
-				<td class="text-right" data-sort="1598.5">26:38</td>
-				<td class="text-right" data-sort="1850.19">30:50</td>
+				<td class="text-left nowrap" data-sort="LA Rams"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">LA Rams</a></td>
+				<td class="text-right" data-sort="1736.5">28:56</td>
+				<td class="text-right" data-sort="1805">30:05</td>
+				<td class="text-right" data-sort="1942">32:22</td>
+				<td class="text-right" data-sort="1595.33">26:35</td>
+				<td class="text-right" data-sort="1877.67">31:17</td>
+				<td class="text-right" data-sort="1899.33">31:39</td>
 			</tr>
 				        			<tr>
 			        <td class="rank text-center" data-sort="24">24</td>
+				<td class="text-left nowrap" data-sort="New England"><a href="https://www.teamrankings.com/nfl/team/new-england-patriots">New England</a></td>
+				<td class="text-right" data-sort="1733.33">28:53</td>
+				<td class="text-right" data-sort="1631">27:11</td>
+				<td class="text-right" data-sort="1484">24:44</td>
+				<td class="text-right" data-sort="1721">28:41</td>
+				<td class="text-right" data-sort="1758">29:18</td>
+				<td class="text-right" data-sort="1737.81">28:57</td>
+			</tr>
+				        			<tr>
+			        <td class="rank text-center" data-sort="25">25</td>
+				<td class="text-left nowrap" data-sort="Houston"><a href="https://www.teamrankings.com/nfl/team/houston-texans">Houston</a></td>
+				<td class="text-right" data-sort="1698">28:18</td>
+				<td class="text-right" data-sort="1711.33">28:31</td>
+				<td class="text-right" data-sort="2073">34:33</td>
+				<td class="text-right" data-sort="1771.67">29:31</td>
+				<td class="text-right" data-sort="1624.33">27:04</td>
+				<td class="text-right" data-sort="1638">27:18</td>
+			</tr>
+				        			<tr>
+			        <td class="rank text-center" data-sort="26">26</td>
 				<td class="text-left nowrap" data-sort="Washington"><a href="https://www.teamrankings.com/nfl/team/washington-football-team">Washington</a></td>
-				<td class="text-right" data-sort="1708">28:28</td>
-				<td class="text-right" data-sort="1802.33">30:02</td>
-				<td class="text-right" data-sort="2186">36:26</td>
-				<td class="text-right" data-sort="1773">29:33</td>
+				<td class="text-right" data-sort="1684.5">28:04</td>
+				<td class="text-right" data-sort="1837">30:37</td>
+				<td class="text-right" data-sort="1567">26:07</td>
+				<td class="text-right" data-sort="1721.5">28:41</td>
 				<td class="text-right" data-sort="1610.5">26:50</td>
 				<td class="text-right" data-sort="1790.88">29:50</td>
 			</tr>
 				        			<tr>
-			        <td class="rank text-center" data-sort="25">25</td>
-				<td class="text-left nowrap" data-sort="LA Rams"><a href="https://www.teamrankings.com/nfl/team/los-angeles-rams">LA Rams</a></td>
-				<td class="text-right" data-sort="1695.4">28:15</td>
-				<td class="text-right" data-sort="1761">29:21</td>
-				<td class="text-right" data-sort="1983">33:03</td>
-				<td class="text-right" data-sort="1595.33">26:35</td>
-				<td class="text-right" data-sort="1845.5">30:45</td>
-				<td class="text-right" data-sort="1899.33">31:39</td>
-			</tr>
-				        			<tr>
-			        <td class="rank text-center" data-sort="26">26</td>
+			        <td class="rank text-center" data-sort="27">27</td>
 				<td class="text-left nowrap" data-sort="NY Giants"><a href="https://www.teamrankings.com/nfl/team/new-york-giants">NY Giants</a></td>
-				<td class="text-right" data-sort="1664.8">27:44</td>
-				<td class="text-right" data-sort="1642.67">27:22</td>
-				<td class="text-right" data-sort="1668">27:48</td>
-				<td class="text-right" data-sort="1701.5">28:21</td>
+				<td class="text-right" data-sort="1663.67">27:43</td>
+				<td class="text-right" data-sort="1558.33">25:58</td>
+				<td class="text-right" data-sort="1658">27:38</td>
+				<td class="text-right" data-sort="1687">28:07</td>
 				<td class="text-right" data-sort="1640.33">27:20</td>
 				<td class="text-right" data-sort="1722">28:42</td>
 			</tr>
 				        			<tr>
-			        <td class="rank text-center" data-sort="27">27</td>
-				<td class="text-left nowrap" data-sort="Houston"><a href="https://www.teamrankings.com/nfl/team/houston-texans">Houston</a></td>
-				<td class="text-right" data-sort="1623">27:03</td>
-				<td class="text-right" data-sort="1505.33">25:05</td>
-				<td class="text-right" data-sort="1756">29:16</td>
-				<td class="text-right" data-sort="1771.67">29:31</td>
-				<td class="text-right" data-sort="1400">23:20</td>
-				<td class="text-right" data-sort="1638">27:18</td>
-			</tr>
-				        			<tr>
-			        <td class="rank text-center" data-sort="27">27</td>
-				<td class="text-left nowrap" data-sort="Philadelphia"><a href="https://www.teamrankings.com/nfl/team/philadelphia-eagles">Philadelphia</a></td>
-				<td class="text-right" data-sort="1623">27:03</td>
-				<td class="text-right" data-sort="1582.33">26:22</td>
-				<td class="text-right" data-sort="1497">24:57</td>
-				<td class="text-right" data-sort="1627">27:07</td>
-				<td class="text-right" data-sort="1620.33">27:00</td>
-				<td class="text-right" data-sort="1737.19">28:57</td>
+			        <td class="rank text-center" data-sort="28">28</td>
+				<td class="text-left nowrap" data-sort="Miami"><a href="https://www.teamrankings.com/nfl/team/miami-dolphins">Miami</a></td>
+				<td class="text-right" data-sort="1608.33">26:48</td>
+				<td class="text-right" data-sort="1568">26:08</td>
+				<td class="text-right" data-sort="1960">32:40</td>
+				<td class="text-right" data-sort="1632.5">27:12</td>
+				<td class="text-right" data-sort="1596.25">26:36</td>
+				<td class="text-right" data-sort="1876.69">31:16</td>
 			</tr>
 				        			<tr>
 			        <td class="rank text-center" data-sort="29">29</td>
@@ -2628,31 +2628,31 @@
 				        			<tr>
 			        <td class="rank text-center" data-sort="30">30</td>
 				<td class="text-left nowrap" data-sort="Jacksonville"><a href="https://www.teamrankings.com/nfl/team/jacksonville-jaguars">Jacksonville</a></td>
-				<td class="text-right" data-sort="1565">26:05</td>
-				<td class="text-right" data-sort="1687">28:07</td>
-				<td class="text-right" data-sort="1710">28:30</td>
+				<td class="text-right" data-sort="1577.5">26:17</td>
+				<td class="text-right" data-sort="1691.67">28:11</td>
+				<td class="text-right" data-sort="1640">27:20</td>
 				<td class="text-right" data-sort="1534.67">25:34</td>
-				<td class="text-right" data-sort="1610.5">26:50</td>
+				<td class="text-right" data-sort="1620.33">27:00</td>
 				<td class="text-right" data-sort="1668.06">27:48</td>
 			</tr>
 				        			<tr>
 			        <td class="rank text-center" data-sort="31">31</td>
-				<td class="text-left nowrap" data-sort="Miami"><a href="https://www.teamrankings.com/nfl/team/miami-dolphins">Miami</a></td>
-				<td class="text-right" data-sort="1538">25:38</td>
-				<td class="text-right" data-sort="1466.33">24:26</td>
-				<td class="text-right" data-sort="1373">22:53</td>
-				<td class="text-right" data-sort="1632.5">27:12</td>
-				<td class="text-right" data-sort="1475">24:35</td>
-				<td class="text-right" data-sort="1876.69">31:16</td>
+				<td class="text-left nowrap" data-sort="Philadelphia"><a href="https://www.teamrankings.com/nfl/team/philadelphia-eagles">Philadelphia</a></td>
+				<td class="text-right" data-sort="1553.17">25:53</td>
+				<td class="text-right" data-sort="1483">24:43</td>
+				<td class="text-right" data-sort="1204">20:04</td>
+				<td class="text-right" data-sort="1486">24:46</td>
+				<td class="text-right" data-sort="1620.33">27:00</td>
+				<td class="text-right" data-sort="1737.19">28:57</td>
 			</tr>
 				        			<tr>
 			        <td class="rank text-center" data-sort="32">32</td>
 				<td class="text-left nowrap" data-sort="Seattle"><a href="https://www.teamrankings.com/nfl/team/seattle-seahawks">Seattle</a></td>
-				<td class="text-right" data-sort="1503.6">25:03</td>
-				<td class="text-right" data-sort="1587.67">26:27</td>
-				<td class="text-right" data-sort="1617">26:57</td>
+				<td class="text-right" data-sort="1512.5">25:12</td>
+				<td class="text-right" data-sort="1624.33">27:04</td>
+				<td class="text-right" data-sort="1557">25:57</td>
 				<td class="text-right" data-sort="1459.5">24:19</td>
-				<td class="text-right" data-sort="1533">25:33</td>
+				<td class="text-right" data-sort="1539">25:39</td>
 				<td class="text-right" data-sort="1772.24">29:32</td>
 			</tr>
 			</tbody>
@@ -2761,20 +2761,19 @@
         	<ul class="nav-list hidden">
 				<li><a href="/nfl/schedules/season/" >Season Schedule</a></li>
 				
-			    			      			        <li><a href="/nfl/matchup/buccaneers-eagles-week-6-2021" >Tampa Bay @ Philadelphia</a></li>
-			      			        <li><a href="/nfl/matchup/dolphins-jaguars-week-6-2021" >Miami vs. Jacksonville</a></li>
-			      			        <li><a href="/nfl/matchup/vikings-panthers-week-6-2021" >Minnesota @ Carolina</a></li>
-			      			        <li><a href="/nfl/matchup/chargers-ravens-week-6-2021" >LA Chargers @ Baltimore</a></li>
-			      			        <li><a href="/nfl/matchup/packers-bears-week-6-2021" >Green Bay @ Chicago</a></li>
-			      			        <li><a href="/nfl/matchup/bengals-lions-week-6-2021" >Cincinnati @ Detroit</a></li>
-			      			        <li><a href="/nfl/matchup/texans-colts-week-6-2021" >Houston @ Indianapolis</a></li>
-			      			        <li><a href="/nfl/matchup/rams-giants-week-6-2021" >LA Rams @ NY Giants</a></li>
-			      			        <li><a href="/nfl/matchup/chiefs-football-team-week-6-2021" >Kansas City @ Washington</a></li>
-			      			        <li><a href="/nfl/matchup/cardinals-browns-week-6-2021" >Arizona @ Cleveland</a></li>
-			      			        <li><a href="/nfl/matchup/raiders-broncos-week-6-2021" >Las Vegas @ Denver</a></li>
-			      			        <li><a href="/nfl/matchup/cowboys-patriots-week-6-2021" >Dallas @ New England</a></li>
-			      			        <li><a href="/nfl/matchup/seahawks-steelers-week-6-2021" >Seattle @ Pittsburgh</a></li>
-			      			        <li><a href="/nfl/matchup/bills-titans-week-6-2021" >Buffalo @ Tennessee</a></li>
+			    			      			        <li><a href="/nfl/matchup/broncos-browns-week-7-2021" >Denver @ Cleveland</a></li>
+			      			        <li><a href="/nfl/matchup/jets-patriots-week-7-2021" >NY Jets @ New England</a></li>
+			      			        <li><a href="/nfl/matchup/bengals-ravens-week-7-2021" >Cincinnati @ Baltimore</a></li>
+			      			        <li><a href="/nfl/matchup/falcons-dolphins-week-7-2021" >Atlanta @ Miami</a></li>
+			      			        <li><a href="/nfl/matchup/football-team-packers-week-7-2021" >Washington @ Green Bay</a></li>
+			      			        <li><a href="/nfl/matchup/chiefs-titans-week-7-2021" >Kansas City @ Tennessee</a></li>
+			      			        <li><a href="/nfl/matchup/panthers-giants-week-7-2021" >Carolina @ NY Giants</a></li>
+			      			        <li><a href="/nfl/matchup/lions-rams-week-7-2021" >Detroit @ LA Rams</a></li>
+			      			        <li><a href="/nfl/matchup/eagles-raiders-week-7-2021" >Philadelphia @ Las Vegas</a></li>
+			      			        <li><a href="/nfl/matchup/texans-cardinals-week-7-2021" >Houston @ Arizona</a></li>
+			      			        <li><a href="/nfl/matchup/bears-buccaneers-week-7-2021" >Chicago @ Tampa Bay</a></li>
+			      			        <li><a href="/nfl/matchup/colts-49ers-week-7-2021" >Indianapolis @ San Francisco</a></li>
+			      			        <li><a href="/nfl/matchup/saints-seahawks-week-7-2021" >New Orleans @ Seattle</a></li>
 			      			    			</ul>
 		</li>
         <li><a href="#" class="expand-controller ">Rankings <svg class="icon"><use xlink:href="#icon-plus3"></use></svg></a>
