@@ -19,8 +19,8 @@ ATS pushes occur when a game ends with the difference of scores equaling the cho
 	against the spread right before kickoff.	
 	
 2021-2022 Season Predictions & Results
-Record ATS: 41-50-3
-Record ML: 52-37-5
+Record ATS: 49-55-3
+Record ML: 60-41-6
 
 Weeks 1-4: basically below .500, using combined last and this year data for sim; right idea?
 
@@ -1346,7 +1346,7 @@ Week 6 Record:(ATS: 7-7-0; ML: 10-4-0)
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: BUF ML and ATS***		
 
-Week 7 Record:(ATS: 0-0-0; ML: 0-0-0)
+Week 7 Record:(ATS: 8-5-0; ML: 8-4-1)
 	1.	DEN(+1, +120) at CLE(-1, -110)
 		CLE QB: Case Keenum
 		DEN QB: Teddy Bridgewater
@@ -1528,7 +1528,24 @@ Week 7 Record:(ATS: 0-0-0; ML: 0-0-0)
 		 -5.0
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: NO ML and ATS***
-						
+
+Week 8 Record: (ATS: 0-0-0; ML: 0-0-0)
+	1.	GB(+6.5, +220) at ARI(-6.5, -270)
+		ARI QB: Kyler Murray
+		GB QB: Aaron Rodgers
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 72.97297297297297% ATS%: 69.695%
+		ARI 38.0     GB 29.0
+		ARI 38.0     GB 22.0
+		ARI 38.0     GB 34.0
+		Shows possible game results.
+		ARI 38.0     GB 28.0
+		 -10.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: ARI ML and ATS***
+	
+	2.
+					
 
 		
 														

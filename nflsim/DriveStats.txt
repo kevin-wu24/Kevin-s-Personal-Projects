@@ -45,7 +45,7 @@
 <meta name="msapplication-wide310x150logo" content="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/favicons/mstile-310x150.png" />
 <meta name="msapplication-square310x310logo" content="https://cdn.footballoutsiders.net/themes/custom/fo_front/img/favicons/mstile-310x310.png" />
 <link rel="stylesheet" media="all" href="https://cdn.footballoutsiders.net/files/css/css_gQBfVIO1wREbINgVVZ7fSTwE2tARvzBjJ0L9lQzPXic.css" />
-<link rel="stylesheet" media="all" href="https://cdn.footballoutsiders.net/files/css/css_ciri1EmVev_0PusgEhfFliVnpSgfgqyn8OqldRbMHX0.css" />
+<link rel="stylesheet" media="all" href="https://cdn.footballoutsiders.net/files/css/css_xBkR1_h_tc0Twd-ObLZvM7WQoQS_kkgjRvQQ9fBIBsY.css" />
 
 
 <script type="application/ld+json">
@@ -618,13 +618,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div id="content-wrap" class="container">
       <div class="inner">
         <div id="left-big">
-                    
-          <!-- #content -->
-          <main id="content">
-            <a id="main-content" tabindex="-1"></a>
+                    <div id="left-big-content">
+            
+            <!-- #content -->
+            <main id="content">
+              <a id="main-content" tabindex="-1"></a>
 
-                          <!-- #content-before -->
-              <div id="content-before">  <div class="region region-content-before">
+                              <!-- #content-before -->
+                <div id="content-before">  <div class="region region-content-before">
     <div id="block-ad-fos-970v-1" class="block block-region-content_before block-type-html">
   
     
@@ -635,10 +636,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   </div>
 </div>
-              <!-- /#content-before -->
-            
-            
-              <div class="region region-content">
+                <!-- /#content-before -->
+              
+              
+                <div class="region region-content">
     <div id="block-statsnavigation" class="block block-region-content container">
   
     
@@ -652,7 +653,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <label for="edit-offense-defense" class="visually-hidden">Offense / Defense</label>
         <select data-drupal-selector="edit-offense-defense" id="edit-offense-defense" name="offense_defense" class="form-select"><option value="overall" >Overall</option><option value="offense" selected="selected" >Offense</option><option value="defense" >Defense</option></select>
         </div>
-<span class="form-please-wait">Loading, please wait...</span><input autocomplete="off" data-drupal-selector="form-qucjruh8vx9kqnbr6ldw2wnaaw9wey9yae2vtmxea2e" type="hidden" name="form_build_id" value="form-qucJRUH8VX9KQNBR6LdW2wnAAw9wEY9yAE2VTmxEa2E" />
+<span class="form-please-wait">Loading, please wait...</span><input autocomplete="off" data-drupal-selector="form-wjdwterskmrc-dmc6tr5-vn8ncc44roqkwnh6ox9o-k" type="hidden" name="form_build_id" value="form-wjDWterskMRC-dMC6tR5-vn8nCc44roqKwNh6Ox9o-k" />
 <input data-drupal-selector="edit-fo-stats-navigation-form" type="hidden" name="form_id" value="fo_stats_navigation_form" />
 <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" name="op" value="View Stats" class="button button--primary js-form-submit form-submit" />
 </div>
@@ -2182,7 +2183,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <input data-drupal-selector="edit-pass" placeholder="Password" type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required" required="required" aria-required="true" />
 
         </div>
-<input autocomplete="off" data-drupal-selector="form-rzuicjeo6ca8-snhswsvtuxv78doteiqchb1guiiob4" type="hidden" name="form_build_id" value="form-rZUicjeO6ca8-SnhswsVTuxV78DOTeIQcHb1guIiob4" />
+<input autocomplete="off" data-drupal-selector="form-edb3-b3ohf6aotpjjs6t-idroapxhnq32udifu330wm" type="hidden" name="form_build_id" value="form-edb3_B3ohf6aOtPJJS6t-IdRoaPxHnQ32UdiFu330WM" />
 <input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" />
 <p><i><a href="/user/password">Forgot password?</a></i></p><div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" class="orange button js-form-submit form-submit" type="submit" id="edit-submit" name="op" value="Login" />
 <div class="form-additional-links header"><a href="/user/login" class="login-link" data-drupal-selector="edit-login" id="edit-login">Login</a><a href="/user/password" data-drupal-selector="edit-reset" id="edit-reset">Forgot Password?</a><a href="/foplus/trial/start" data-drupal-selector="edit-trial" id="edit-trial">Start Your FO+ Free Trial</a></div><div class="form-additional-links content"><div><a href="/user/password" data-drupal-selector="edit-reset" id="edit-reset--2">Forgot Password?</a></div><div>Don't have an account? <a href="/register">Register now!</a></div></div></div>
@@ -2205,9 +2206,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 
 
-            
-          </main>
-          <!-- /#content -->
+              
+            </main>
+            <!-- /#content -->
+          </div>
         </div>
 
                   <!-- #right -->
@@ -2216,24 +2218,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
     
       
-<div id="fo-main-podcast-block" class="live">
+<div id="fo-main-podcast-block" class="not-live">
 
   <header>
-          <i class="pulsating-circle-wrap" aria-hidden="true"><span class="pulsating-circle"></span></i>
-      On Air
+          <i class="fa fa-microphone" aria-hidden="true"></i> Most Recent Podcast
       </header>
 
-  <h2>NFL Week 7 Preview with Anthony Reinhard</h2>
+  <h2>NFL Week 8 AMA with Cale Clinton</h2>
 
-      <p>Week 7: Oct 21</p>
+      <p>Week 8: Oct 27</p>
   
       <div class="video-iframe-wrap">
-      <iframe src="https://www.youtube.com/embed/iyeGRYX_8iQ?modestbranding=1&start=0&autohide=1&showinfo=0&autoplay=1&mute=1" title="NFL Week 7 Preview with Anthony Reinhard" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+      <a class="video-iframe-toggle"><img src="https://www.footballoutsiders.com/files/FO-AMA-Title.png" alt="NFL Week 8 AMA with Cale Clinton" /></a>
+      <iframe title="NFL Week 8 AMA with Cale Clinton" frameborder="0" allow="autoplay" allowfullscreen style="display: none;"></iframe>
     </div>
   
   <footer>
     <a href="/podcasts">
-              View all episodes
+              View previous episodes
             <i class="fa fa-arrow-right" aria-hidden="true"></i>
     </a>
   </footer>
@@ -2247,7 +2249,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       
 <div id="dvoa-ratings-block">
   <header>
-    <p>October 19, 2:16pm ET</p>
+    <p>October 26, 11:01am ET</p>
     <h2>DVOA Ratings</h2>
   </header>
 
@@ -2276,7 +2278,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">2</span>
             <span class="team-icon team-ari"></span>
             <span class="name">Cardinals</span>
-            <span class="dvoa font-overpass">33.9%</span>
+            <span class="dvoa font-overpass">33.7%</span>
           </a>
         </li>
                 <li>
@@ -2284,7 +2286,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">3</span>
             <span class="team-icon team-lar"></span>
             <span class="name">Rams</span>
-            <span class="dvoa font-overpass">30.9%</span>
+            <span class="dvoa font-overpass">33.2%</span>
           </a>
         </li>
                 <li>
@@ -2292,7 +2294,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">4</span>
             <span class="team-icon team-tb"></span>
             <span class="name">Buccaneers</span>
-            <span class="dvoa font-overpass">29.2%</span>
+            <span class="dvoa font-overpass">31.8%</span>
           </a>
         </li>
                 <li>
@@ -2300,7 +2302,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">5</span>
             <span class="team-icon team-dal"></span>
             <span class="name">Cowboys</span>
-            <span class="dvoa font-overpass">23.7%</span>
+            <span class="dvoa font-overpass">25.4%</span>
           </a>
         </li>
               </ol>
@@ -2317,39 +2319,39 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">1</span>
             <span class="team-icon team-tb"></span>
             <span class="name">Buccaneers</span>
-            <span class="dvoa font-overpass">29.3%</span>
-          </a>
-        </li>
-                <li>
-          <a href="https://www.footballoutsiders.com/team/kc">
-            <span class="rank font-overpass">2</span>
-            <span class="team-icon team-kc"></span>
-            <span class="name">Chiefs</span>
-            <span class="dvoa font-overpass">24.4%</span>
+            <span class="dvoa font-overpass">25.9%</span>
           </a>
         </li>
                 <li>
           <a href="https://www.footballoutsiders.com/team/lar">
-            <span class="rank font-overpass">3</span>
+            <span class="rank font-overpass">2</span>
             <span class="team-icon team-lar"></span>
             <span class="name">Rams</span>
-            <span class="dvoa font-overpass">22.4%</span>
+            <span class="dvoa font-overpass">25.5%</span>
           </a>
         </li>
                 <li>
           <a href="https://www.footballoutsiders.com/team/dal">
-            <span class="rank font-overpass">4</span>
+            <span class="rank font-overpass">3</span>
             <span class="team-icon team-dal"></span>
             <span class="name">Cowboys</span>
-            <span class="dvoa font-overpass">18.9%</span>
+            <span class="dvoa font-overpass">20.5%</span>
           </a>
         </li>
                 <li>
           <a href="https://www.footballoutsiders.com/team/gb">
-            <span class="rank font-overpass">5</span>
+            <span class="rank font-overpass">4</span>
             <span class="team-icon team-gb"></span>
             <span class="name">Packers</span>
-            <span class="dvoa font-overpass">17.7%</span>
+            <span class="dvoa font-overpass">17.8%</span>
+          </a>
+        </li>
+                <li>
+          <a href="https://www.footballoutsiders.com/team/kc">
+            <span class="rank font-overpass">5</span>
+            <span class="team-icon team-kc"></span>
+            <span class="name">Chiefs</span>
+            <span class="dvoa font-overpass">14.7%</span>
           </a>
         </li>
               </ol>
@@ -2366,7 +2368,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">1</span>
             <span class="team-icon team-buf"></span>
             <span class="name">Bills</span>
-            <span class="dvoa font-overpass">-31.4%</span>
+            <span class="dvoa font-overpass">-30.1%</span>
           </a>
         </li>
                 <li>
@@ -2374,7 +2376,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">2</span>
             <span class="team-icon team-ari"></span>
             <span class="name">Cardinals</span>
-            <span class="dvoa font-overpass">-18.4%</span>
+            <span class="dvoa font-overpass">-21.0%</span>
           </a>
         </li>
                 <li>
@@ -2382,7 +2384,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">3</span>
             <span class="team-icon team-no"></span>
             <span class="name">Saints</span>
-            <span class="dvoa font-overpass">-13.0%</span>
+            <span class="dvoa font-overpass">-16.5%</span>
           </a>
         </li>
                 <li>
@@ -2390,7 +2392,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">4</span>
             <span class="team-icon team-lar"></span>
             <span class="name">Rams</span>
-            <span class="dvoa font-overpass">-12.5%</span>
+            <span class="dvoa font-overpass">-11.1%</span>
           </a>
         </li>
                 <li>
@@ -2398,7 +2400,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">5</span>
             <span class="team-icon team-cin"></span>
             <span class="name">Bengals</span>
-            <span class="dvoa font-overpass">-12.1%</span>
+            <span class="dvoa font-overpass">-10.1%</span>
           </a>
         </li>
               </ol>
@@ -2420,7 +2422,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div id="fo-main-playoff-odds-block">
 
   <header>
-    <p>October 19, 10:25am ET</p>
+    <p>October 26, 10:06am ET</p>
     <h2>Current Odds</h2>
   </header>
 
@@ -2432,7 +2434,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">1</span>
             <span class="team-icon team-buf"></span>
             <span class="name">Bills</span>
-            <span class="odds font-overpass">20.6%</span>
+            <span class="odds font-overpass">21.8%</span>
           </a>
         </li>
               <li>
@@ -2440,31 +2442,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">2</span>
             <span class="team-icon team-tb"></span>
             <span class="name">Buccaneers</span>
-            <span class="odds font-overpass">19.0%</span>
-          </a>
-        </li>
-              <li>
-          <a href="https://www.footballoutsiders.com/team/bal">
-            <span class="rank font-overpass">3</span>
-            <span class="team-icon team-bal"></span>
-            <span class="name">Ravens</span>
-            <span class="odds font-overpass">12.6%</span>
+            <span class="odds font-overpass">19.8%</span>
           </a>
         </li>
               <li>
           <a href="https://www.footballoutsiders.com/team/ari">
-            <span class="rank font-overpass">4</span>
+            <span class="rank font-overpass">3</span>
             <span class="team-icon team-ari"></span>
             <span class="name">Cardinals</span>
-            <span class="odds font-overpass">9.7%</span>
+            <span class="odds font-overpass">10.3%</span>
           </a>
         </li>
               <li>
           <a href="https://www.footballoutsiders.com/team/lar">
-            <span class="rank font-overpass">5</span>
+            <span class="rank font-overpass">4</span>
             <span class="team-icon team-lar"></span>
             <span class="name">Rams</span>
-            <span class="odds font-overpass">7.8%</span>
+            <span class="odds font-overpass">9.1%</span>
+          </a>
+        </li>
+              <li>
+          <a href="https://www.footballoutsiders.com/team/bal">
+            <span class="rank font-overpass">5</span>
+            <span class="team-icon team-bal"></span>
+            <span class="name">Ravens</span>
+            <span class="odds font-overpass">7.5%</span>
           </a>
         </li>
           </ol>
@@ -2478,39 +2480,39 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">1</span>
             <span class="team-icon team-tb"></span>
             <span class="name">Buccaneers</span>
-            <span class="odds font-overpass">97.9%</span>
-          </a>
-        </li>
-              <li>
-          <a href="https://www.footballoutsiders.com/team/buf">
-            <span class="rank font-overpass">2</span>
-            <span class="team-icon team-buf"></span>
-            <span class="name">Bills</span>
-            <span class="odds font-overpass">97.7%</span>
+            <span class="odds font-overpass">99.4%</span>
           </a>
         </li>
               <li>
           <a href="https://www.footballoutsiders.com/team/ari">
-            <span class="rank font-overpass">3</span>
+            <span class="rank font-overpass">2</span>
             <span class="team-icon team-ari"></span>
             <span class="name">Cardinals</span>
-            <span class="odds font-overpass">96.3%</span>
+            <span class="odds font-overpass">98.3%</span>
+          </a>
+        </li>
+              <li>
+          <a href="https://www.footballoutsiders.com/team/buf">
+            <span class="rank font-overpass">3</span>
+            <span class="team-icon team-buf"></span>
+            <span class="name">Bills</span>
+            <span class="odds font-overpass">97.1%</span>
+          </a>
+        </li>
+              <li>
+          <a href="https://www.footballoutsiders.com/team/lar">
+            <span class="rank font-overpass">4</span>
+            <span class="team-icon team-lar"></span>
+            <span class="name">Rams</span>
+            <span class="odds font-overpass">96.5%</span>
           </a>
         </li>
               <li>
           <a href="https://www.footballoutsiders.com/team/dal">
-            <span class="rank font-overpass">4</span>
+            <span class="rank font-overpass">5</span>
             <span class="team-icon team-dal"></span>
             <span class="name">Cowboys</span>
-            <span class="odds font-overpass">93.9%</span>
-          </a>
-        </li>
-              <li>
-          <a href="https://www.footballoutsiders.com/team/bal">
-            <span class="rank font-overpass">5</span>
-            <span class="team-icon team-bal"></span>
-            <span class="name">Ravens</span>
-            <span class="odds font-overpass">93.2%</span>
+            <span class="odds font-overpass">96.0%</span>
           </a>
         </li>
           </ol>
@@ -2520,43 +2522,43 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <h3>#1 Pick</h3>
     <ol>
               <li>
-          <a href="https://www.footballoutsiders.com/team/det">
+          <a href="https://www.footballoutsiders.com/team/nyj">
             <span class="rank font-overpass">1</span>
-            <span class="team-icon team-det"></span>
-            <span class="name">Lions</span>
-            <span class="odds font-overpass">26.4%</span>
+            <span class="team-icon team-nyj"></span>
+            <span class="name">Jets</span>
+            <span class="odds font-overpass">29.5%</span>
           </a>
         </li>
               <li>
-          <a href="https://www.footballoutsiders.com/team/nyj">
+          <a href="https://www.footballoutsiders.com/team/det">
             <span class="rank font-overpass">2</span>
-            <span class="team-icon team-nyj"></span>
-            <span class="name">Jets</span>
+            <span class="team-icon team-det"></span>
+            <span class="name">Lions</span>
+            <span class="odds font-overpass">24.4%</span>
+          </a>
+        </li>
+              <li>
+          <a href="https://www.footballoutsiders.com/team/hou">
+            <span class="rank font-overpass">3</span>
+            <span class="team-icon team-hou"></span>
+            <span class="name">Texans</span>
             <span class="odds font-overpass">19.5%</span>
           </a>
         </li>
               <li>
           <a href="https://www.footballoutsiders.com/team/jax">
-            <span class="rank font-overpass">3</span>
+            <span class="rank font-overpass">4</span>
             <span class="team-icon team-jax"></span>
             <span class="name">Jaguars</span>
-            <span class="odds font-overpass">17.7%</span>
+            <span class="odds font-overpass">13.7%</span>
           </a>
         </li>
               <li>
-          <a href="https://www.footballoutsiders.com/team/hou">
-            <span class="rank font-overpass">4</span>
-            <span class="team-icon team-hou"></span>
-            <span class="name">Texans</span>
-            <span class="odds font-overpass">14.6%</span>
-          </a>
-        </li>
-              <li>
-          <a href="https://www.footballoutsiders.com/team/nyg">
+          <a href="https://www.footballoutsiders.com/team/mia">
             <span class="rank font-overpass">5</span>
-            <span class="team-icon team-nyg"></span>
-            <span class="name">Giants</span>
-            <span class="odds font-overpass">8.1%</span>
+            <span class="team-icon team-mia"></span>
+            <span class="name">Dolphins</span>
+            <span class="odds font-overpass">4.7%</span>
           </a>
         </li>
           </ol>
@@ -3043,7 +3045,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
         
           
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><em>Database updated: 10/19/2021 3:42 PM EST</em></p>
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><em>Database updated: 10/27/2021 7:38 PM EST</em></p>
 <p>These stats are computed from NFL Drive Charts and are not adjusted for strength of schedule or situation.</p>
 <p><b>DSR</b> represents Drive Success Rate, as introduced in <i>Pro Football Prospectus 2005</i>, which measures the percentage of down series that result in a first down or touchdown. <b>TO/Dr</b> represents turnovers per drive. <b>FUM/Dr</b> represents fumbles lost per drive. <b>LOS/Dr</b> represents average starting field position (line of scrimmage) per drive. <b>TOP/Dr</b> represents time of possession per drive.</p>
 <p>Take-a-knee drives at the end of a half are discarded. <b>NET</b> values are simply <b>OFFENSE</b> minus <b>DEFENSE.</b></p>
@@ -3067,7 +3069,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"stats\/nfl\/overall-drive-statsoff\/2020","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","routeName":"fo_stats.offensive_drive"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"chosen\/drupal.chosen,chosen_lib\/chosen.css,classy\/base,classy\/messages,core\/drupal.tableresponsive,core\/normalize,fo_ccm\/utm,fo_front\/global-styling,fo_main\/admin_menu,fo_main\/main,fo_main\/podcast_block,fo_shared\/grid,fo_stats\/nav_widget,fo_store\/yahoo,fo_stripe\/stripe,ga\/analytics,system\/base","theme":"fo_front","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"FOCCM":{"utmFields":{"endpoint":"\/ajax\/ccm\/utm","list":["sce","utm_source","utm_campaign","utm_term","utm_medium","utm_content","campaignid","adgroupid","adsetid","adid","keyword","adposition","placement","network","loc_interest_ms","loc_physical_ms","target","targetid","matchtype","device","devicemodel","sitelink","campaign_name","campaign_category","campaign_date"]}},"FOMain":{"NFLTeams":{"2TM":{"id":"AAAAAA","city":"Two","nickname":"Teams","abbrev":"2TM","year_min":1985,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Two_Teams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Two_Teams.png"},"ARI":{"id":"31R64Y","city":"Arizona","nickname":"Cardinals","abbrev":"ARI","year_min":1994,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Arizona_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Arizona_Cardinals.png"},"ATL":{"id":"1NJYCE","city":"Atlanta","nickname":"Falcons","abbrev":"ATL","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Atlanta_Falcons.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Atlanta_Falcons.png"},"BAL":{"id":"CU2QVY","city":"Baltimore","nickname":"Ravens","abbrev":"BAL","year_min":1996,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Baltimore_Ravens.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Baltimore_Ravens.png"},"BALC":{"id":"N2LWDD","city":"Baltimore","nickname":"Colts","abbrev":"BALC","year_min":1983,"year_max":1983,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Baltimore_Colts.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Baltimore_Colts.png"},"BUF":{"id":"3XRMV5","city":"Buffalo","nickname":"Bills","abbrev":"BUF","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Buffalo_Bills.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Buffalo_Bills.png"},"CAR":{"id":"NW374Y","city":"Carolina","nickname":"Panthers","abbrev":"CAR","year_min":1995,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Carolina_Panthers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Carolina_Panthers.png"},"CHI":{"id":"0Q8UBU","city":"Chicago","nickname":"Bears","abbrev":"CHI","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Chicago_Bears.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Chicago_Bears.png"},"CIN":{"id":"CHI76M","city":"Cincinnati","nickname":"Bengals","abbrev":"CIN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cincinnati_Bengals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cincinnati_Bengals.png"},"CLE":{"id":"UKPC2W","city":"Cleveland","nickname":"Browns","abbrev":"CLE","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cleveland_Browns.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cleveland_Browns.png"},"CLE1":{"id":"CU2QVY","city":"Cleveland","nickname":"Browns","abbrev":"CLE1","year_min":1985,"year_max":1995,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cleveland_Browns.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cleveland_Browns.png"},"DAL":{"id":"V9PDBK","city":"Dallas","nickname":"Cowboys","abbrev":"DAL","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Dallas_Cowboys.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Dallas_Cowboys.png"},"DEN":{"id":"UN4420","city":"Denver","nickname":"Broncos","abbrev":"DEN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Denver_Broncos.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Denver_Broncos.png"},"DET":{"id":"QJ0Z20","city":"Detroit","nickname":"Lions","abbrev":"DET","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Detroit_Lions.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Detroit_Lions.png"},"GB":{"id":"EQC28Y","city":"Green Bay","nickname":"Packers","abbrev":"GB","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Green_Bay_Packers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Green_Bay_Packers.png"},"HOIL":{"id":"ZHFQ4R","city":"Houston","nickname":"Oilers","abbrev":"HOIL","year_min":1983,"year_max":1996,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Houston_Oilers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Houston_Oilers.png"},"HOU":{"id":"9LMVNZ","city":"Houston","nickname":"Texans","abbrev":"HOU","year_min":2002,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Houston_Texans.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Houston_Texans.png"},"IND":{"id":"N2LWDD","city":"Indianapolis","nickname":"Colts","abbrev":"IND","year_min":1984,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Indianapolis_Colts.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Indianapolis_Colts.png"},"JAX":{"id":"CL7RBW","city":"Jacksonville","nickname":"Jaguars","abbrev":"JAX","year_min":1995,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Jacksonville_Jaguars.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Jacksonville_Jaguars.png"},"KC":{"id":"MVCF5W","city":"Kansas City","nickname":"Chiefs","abbrev":"KC","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Kansas_City_Chiefs.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Kansas_City_Chiefs.png"},"LAC":{"id":"XE0W6H","city":"Los Angeles","nickname":"Chargers","abbrev":"LAC","year_min":2017,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Chargers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Chargers.png"},"LAR":{"id":"PVS60L","city":"Los Angeles","nickname":"Rams","abbrev":"LAR","year_min":2016,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Rams.png"},"LARD":{"id":"A7F9J0","city":"Los Angeles","nickname":"Raiders","abbrev":"LARD","year_min":1983,"year_max":1994,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Raiders.png"},"LARM":{"id":"PVS60L","city":"Los Angeles","nickname":"Rams","abbrev":"LARM","year_min":1983,"year_max":1994,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Rams.png"},"LV":{"id":"A7F9J0","city":"Las Vegas","nickname":"Raiders","abbrev":"LV","year_min":2020,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Las_Vegas_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Las_Vegas_Raiders.png"},"MIA":{"id":"1CGKY9","city":"Miami","nickname":"Dolphins","abbrev":"MIA","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Miami_Dolphins.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Miami_Dolphins.png"},"MIN":{"id":"VR6E7K","city":"Minnesota","nickname":"Vikings","abbrev":"MIN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Minnesota_Vikings.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Minnesota_Vikings.png"},"NE":{"id":"RLTZ4P","city":"New England","nickname":"Patriots","abbrev":"NE","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_England_Patriots.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_England_Patriots.png"},"NO":{"id":"SC1N3V","city":"New Orleans","nickname":"Saints","abbrev":"NO","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_Orleans_Saints.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_Orleans_Saints.png"},"NYG":{"id":"J941T8","city":"New York","nickname":"Giants","abbrev":"NYG","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_York_Giants.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_York_Giants.png"},"NYJ":{"id":"HCKX05","city":"New York","nickname":"Jets","abbrev":"NYJ","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_York_Jets.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_York_Jets.png"},"OAK":{"id":"A7F9J0","city":"Oakland","nickname":"Raiders","abbrev":"OAK","year_min":1995,"year_max":2019,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Oakland_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Oakland_Raiders.png"},"PHI":{"id":"6IX2FV","city":"Philadelphia","nickname":"Eagles","abbrev":"PHI","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Philadelphia_Eagles.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Philadelphia_Eagles.png"},"PHX":{"id":"31R64Y","city":"Phoenix","nickname":"Cardinals","abbrev":"PHX","year_min":1988,"year_max":1993,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Phoenix_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Phoenix_Cardinals.png"},"PIT":{"id":"7SIKNN","city":"Pittsburgh","nickname":"Steelers","abbrev":"PIT","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Pittsburgh_Steelers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Pittsburgh_Steelers.png"},"SD":{"id":"XE0W6H","city":"San Diego","nickname":"Chargers","abbrev":"SD","year_min":1983,"year_max":2016,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/San_Diego_Chargers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/San_Diego_Chargers.png"},"SEA":{"id":"6QHD3D","city":"Seattle","nickname":"Seahawks","abbrev":"SEA","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Seattle_Seahawks.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Seattle_Seahawks.png"},"SF":{"id":"06JQ6F","city":"San Francisco","nickname":"49ers","abbrev":"SF","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/San_Francisco_49ers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/San_Francisco_49ers.png"},"STL":{"id":"PVS60L","city":"St. Louis","nickname":"Rams","abbrev":"STL","year_min":1995,"year_max":2015,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/St._Louis_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/St._Louis_Rams.png"},"STLC":{"id":"31R64Y","city":"St. Louis","nickname":"Cardinals","abbrev":"STLC","year_min":1983,"year_max":1987,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/St._Louis_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/St._Louis_Cardinals.png"},"TB":{"id":"RAP22Q","city":"Tampa Bay","nickname":"Buccaneers","abbrev":"TB","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Tampa_Bay_Buccaneers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Tampa_Bay_Buccaneers.png"},"TEN":{"id":"ZHFQ4R","city":"Tennessee","nickname":"Titans","abbrev":"TEN","year_min":1997,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Tennessee_Titans.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Tennessee_Titans.png"},"WAS":{"id":"X50HNK","city":"Washington","nickname":"Football Team","abbrev":"WAS","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Washington_Football_Team.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Washington_Football_Team.png"}},"trial":{"isActive":false,"daysRemaining":null},"yearsAndWeeks":{"1985":16,"1986":16,"1987":16,"1988":16,"1989":16,"1990":17,"1991":17,"1992":17,"1993":18,"1994":17,"1995":17,"1996":17,"1997":17,"1998":17,"1999":17,"2000":17,"2001":17,"2002":17,"2003":17,"2004":17,"2005":17,"2006":17,"2007":17,"2008":17,"2009":17,"2010":17,"2011":17,"2012":17,"2013":17,"2014":17,"2015":17,"2016":17,"2017":17,"2018":17,"2019":17,"2020":17},"podcast":{"isLive":1,"title":"NFL Week 7 Preview with Anthony Reinhard","videoId":"iyeGRYX_8iQ","listenNow":"https:\/\/www.youtube.com\/watch?v=iyeGRYX_8iQ","subheading":"Week 7: Oct 21","startAt":"0","coverImageUrl":"https:\/\/www.footballoutsiders.com\/files\/Schatz%26Tanier.png"}},"ga":{"commands":[["create","UA-5013951-1","auto"],["send","pageview"]]},"FOStats":{"selectedPage":"offensive_drive"},"chosen":{"selector":"select[multiple]:visible","minimum_single":20,"minimum_multiple":0,"minimum_width":0,"use_relative_width":false,"options":{"disable_search":false,"disable_search_threshold":0,"allow_single_deselect":false,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","max_shown_results":null,"inherit_select_classes":true}},"user":{"uid":0,"permissionsHash":"8727ec5cca87c3dfc0d9b567a1b23156907ea407f17302970ab194425e5df258"}}</script>
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"stats\/nfl\/overall-drive-statsoff\/2020","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","routeName":"fo_stats.offensive_drive"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"chosen\/drupal.chosen,chosen_lib\/chosen.css,classy\/base,classy\/messages,core\/drupal.tableresponsive,core\/normalize,fo_ccm\/utm,fo_front\/global-styling,fo_main\/admin_menu,fo_main\/main,fo_main\/podcast_block,fo_shared\/grid,fo_stats\/nav_widget,fo_store\/yahoo,fo_stripe\/stripe,ga\/analytics,system\/base","theme":"fo_front","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"FOCCM":{"utmFields":{"endpoint":"\/ajax\/ccm\/utm","list":["sce","utm_source","utm_campaign","utm_term","utm_medium","utm_content","campaignid","adgroupid","adsetid","adid","keyword","adposition","placement","network","loc_interest_ms","loc_physical_ms","target","targetid","matchtype","device","devicemodel","sitelink","campaign_name","campaign_category","campaign_date"]}},"FOMain":{"NFLTeams":{"2TM":{"id":"AAAAAA","city":"Two","nickname":"Teams","abbrev":"2TM","year_min":1985,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Two_Teams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Two_Teams.png"},"ARI":{"id":"31R64Y","city":"Arizona","nickname":"Cardinals","abbrev":"ARI","year_min":1994,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Arizona_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Arizona_Cardinals.png"},"ATL":{"id":"1NJYCE","city":"Atlanta","nickname":"Falcons","abbrev":"ATL","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Atlanta_Falcons.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Atlanta_Falcons.png"},"BAL":{"id":"CU2QVY","city":"Baltimore","nickname":"Ravens","abbrev":"BAL","year_min":1996,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Baltimore_Ravens.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Baltimore_Ravens.png"},"BALC":{"id":"N2LWDD","city":"Baltimore","nickname":"Colts","abbrev":"BALC","year_min":1983,"year_max":1983,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Baltimore_Colts.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Baltimore_Colts.png"},"BUF":{"id":"3XRMV5","city":"Buffalo","nickname":"Bills","abbrev":"BUF","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Buffalo_Bills.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Buffalo_Bills.png"},"CAR":{"id":"NW374Y","city":"Carolina","nickname":"Panthers","abbrev":"CAR","year_min":1995,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Carolina_Panthers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Carolina_Panthers.png"},"CHI":{"id":"0Q8UBU","city":"Chicago","nickname":"Bears","abbrev":"CHI","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Chicago_Bears.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Chicago_Bears.png"},"CIN":{"id":"CHI76M","city":"Cincinnati","nickname":"Bengals","abbrev":"CIN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cincinnati_Bengals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cincinnati_Bengals.png"},"CLE":{"id":"UKPC2W","city":"Cleveland","nickname":"Browns","abbrev":"CLE","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cleveland_Browns.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cleveland_Browns.png"},"CLE1":{"id":"CU2QVY","city":"Cleveland","nickname":"Browns","abbrev":"CLE1","year_min":1985,"year_max":1995,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cleveland_Browns.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cleveland_Browns.png"},"DAL":{"id":"V9PDBK","city":"Dallas","nickname":"Cowboys","abbrev":"DAL","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Dallas_Cowboys.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Dallas_Cowboys.png"},"DEN":{"id":"UN4420","city":"Denver","nickname":"Broncos","abbrev":"DEN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Denver_Broncos.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Denver_Broncos.png"},"DET":{"id":"QJ0Z20","city":"Detroit","nickname":"Lions","abbrev":"DET","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Detroit_Lions.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Detroit_Lions.png"},"GB":{"id":"EQC28Y","city":"Green Bay","nickname":"Packers","abbrev":"GB","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Green_Bay_Packers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Green_Bay_Packers.png"},"HOIL":{"id":"ZHFQ4R","city":"Houston","nickname":"Oilers","abbrev":"HOIL","year_min":1983,"year_max":1996,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Houston_Oilers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Houston_Oilers.png"},"HOU":{"id":"9LMVNZ","city":"Houston","nickname":"Texans","abbrev":"HOU","year_min":2002,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Houston_Texans.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Houston_Texans.png"},"IND":{"id":"N2LWDD","city":"Indianapolis","nickname":"Colts","abbrev":"IND","year_min":1984,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Indianapolis_Colts.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Indianapolis_Colts.png"},"JAX":{"id":"CL7RBW","city":"Jacksonville","nickname":"Jaguars","abbrev":"JAX","year_min":1995,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Jacksonville_Jaguars.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Jacksonville_Jaguars.png"},"KC":{"id":"MVCF5W","city":"Kansas City","nickname":"Chiefs","abbrev":"KC","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Kansas_City_Chiefs.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Kansas_City_Chiefs.png"},"LAC":{"id":"XE0W6H","city":"Los Angeles","nickname":"Chargers","abbrev":"LAC","year_min":2017,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Chargers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Chargers.png"},"LAR":{"id":"PVS60L","city":"Los Angeles","nickname":"Rams","abbrev":"LAR","year_min":2016,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Rams.png"},"LARD":{"id":"A7F9J0","city":"Los Angeles","nickname":"Raiders","abbrev":"LARD","year_min":1983,"year_max":1994,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Raiders.png"},"LARM":{"id":"PVS60L","city":"Los Angeles","nickname":"Rams","abbrev":"LARM","year_min":1983,"year_max":1994,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Rams.png"},"LV":{"id":"A7F9J0","city":"Las Vegas","nickname":"Raiders","abbrev":"LV","year_min":2020,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Las_Vegas_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Las_Vegas_Raiders.png"},"MIA":{"id":"1CGKY9","city":"Miami","nickname":"Dolphins","abbrev":"MIA","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Miami_Dolphins.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Miami_Dolphins.png"},"MIN":{"id":"VR6E7K","city":"Minnesota","nickname":"Vikings","abbrev":"MIN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Minnesota_Vikings.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Minnesota_Vikings.png"},"NE":{"id":"RLTZ4P","city":"New England","nickname":"Patriots","abbrev":"NE","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_England_Patriots.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_England_Patriots.png"},"NO":{"id":"SC1N3V","city":"New Orleans","nickname":"Saints","abbrev":"NO","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_Orleans_Saints.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_Orleans_Saints.png"},"NYG":{"id":"J941T8","city":"New York","nickname":"Giants","abbrev":"NYG","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_York_Giants.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_York_Giants.png"},"NYJ":{"id":"HCKX05","city":"New York","nickname":"Jets","abbrev":"NYJ","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_York_Jets.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_York_Jets.png"},"OAK":{"id":"A7F9J0","city":"Oakland","nickname":"Raiders","abbrev":"OAK","year_min":1995,"year_max":2019,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Oakland_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Oakland_Raiders.png"},"PHI":{"id":"6IX2FV","city":"Philadelphia","nickname":"Eagles","abbrev":"PHI","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Philadelphia_Eagles.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Philadelphia_Eagles.png"},"PHX":{"id":"31R64Y","city":"Phoenix","nickname":"Cardinals","abbrev":"PHX","year_min":1988,"year_max":1993,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Phoenix_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Phoenix_Cardinals.png"},"PIT":{"id":"7SIKNN","city":"Pittsburgh","nickname":"Steelers","abbrev":"PIT","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Pittsburgh_Steelers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Pittsburgh_Steelers.png"},"SD":{"id":"XE0W6H","city":"San Diego","nickname":"Chargers","abbrev":"SD","year_min":1983,"year_max":2016,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/San_Diego_Chargers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/San_Diego_Chargers.png"},"SEA":{"id":"6QHD3D","city":"Seattle","nickname":"Seahawks","abbrev":"SEA","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Seattle_Seahawks.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Seattle_Seahawks.png"},"SF":{"id":"06JQ6F","city":"San Francisco","nickname":"49ers","abbrev":"SF","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/San_Francisco_49ers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/San_Francisco_49ers.png"},"STL":{"id":"PVS60L","city":"St. Louis","nickname":"Rams","abbrev":"STL","year_min":1995,"year_max":2015,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/St._Louis_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/St._Louis_Rams.png"},"STLC":{"id":"31R64Y","city":"St. Louis","nickname":"Cardinals","abbrev":"STLC","year_min":1983,"year_max":1987,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/St._Louis_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/St._Louis_Cardinals.png"},"TB":{"id":"RAP22Q","city":"Tampa Bay","nickname":"Buccaneers","abbrev":"TB","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Tampa_Bay_Buccaneers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Tampa_Bay_Buccaneers.png"},"TEN":{"id":"ZHFQ4R","city":"Tennessee","nickname":"Titans","abbrev":"TEN","year_min":1997,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Tennessee_Titans.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Tennessee_Titans.png"},"WAS":{"id":"X50HNK","city":"Washington","nickname":"Football Team","abbrev":"WAS","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Washington_Football_Team.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Washington_Football_Team.png"}},"trial":{"isActive":false,"daysRemaining":null},"yearsAndWeeks":{"1985":16,"1986":16,"1987":16,"1988":16,"1989":16,"1990":17,"1991":17,"1992":17,"1993":18,"1994":17,"1995":17,"1996":17,"1997":17,"1998":17,"1999":17,"2000":17,"2001":17,"2002":17,"2003":17,"2004":17,"2005":17,"2006":17,"2007":17,"2008":17,"2009":17,"2010":17,"2011":17,"2012":17,"2013":17,"2014":17,"2015":17,"2016":17,"2017":17,"2018":17,"2019":17,"2020":17},"podcast":{"isLive":0,"title":"NFL Week 8 AMA with Cale Clinton","videoId":"cU0ZGrn480s","listenNow":"https:\/\/www.youtube.com\/watch?v=cU0ZGrn480s","subheading":"Week 8: Oct 27","startAt":"0","coverImageUrl":"https:\/\/www.footballoutsiders.com\/files\/FO-AMA-Title.png"}},"ga":{"commands":[["create","UA-5013951-1","auto"],["send","pageview"]]},"FOStats":{"selectedPage":"offensive_drive"},"chosen":{"selector":"select[multiple]:visible","minimum_single":20,"minimum_multiple":0,"minimum_width":0,"use_relative_width":false,"options":{"disable_search":false,"disable_search_threshold":0,"allow_single_deselect":false,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","max_shown_results":null,"inherit_select_classes":true}},"user":{"uid":0,"permissionsHash":"8727ec5cca87c3dfc0d9b567a1b23156907ea407f17302970ab194425e5df258"}}</script>
 <script src="/files/js/js_khmSVeGY0Wu3KKwntxxWc8UM8g1AP2n_GX9U2MMtGF8.js"></script>
 <script src="https://js.stripe.com/v3/"></script>
 <script src="/files/js/js_V7kn-apie4VdIGxRnNllLWnAkUnEH0CQGN1svtObXvM.js"></script>
