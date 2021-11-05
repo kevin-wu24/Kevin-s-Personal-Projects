@@ -1754,6 +1754,190 @@ Week 9 Record:(ATS: 0-0-0; ML: 0-0-0)
 		 -14.0
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: IND ML and ATS***
+	
+	2.	CLE(+2.5, +120) at CIN(-2.5, -132)
+		CIN QB: Joe Burrow
+		CLE QB: Baker Mayfield
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 56.896551724137936% ATS%: 57.574999999999996%
+		CIN 37.0     CLE 17.0
+		CIN 37.0     CLE 21.0
+		CIN 37.0     CLE 22.0
+		Shows possible game results.
+		CIN 35.0     CLE 25.0
+		 -9.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: CIN ML and ATS***
+	
+	3.	DEN(+10, +375) at DAL(-9.5, -400)
+		DAL QB: Dak Prescott
+		DEN QB: Teddy Bridgewater
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 80.0% ATS%: 78.785%
+		DAL 38.0     DEN 26.0
+		DAL 37.0     DEN 34.0
+		DAL 38.0     DEN 28.0
+		Shows possible game results.
+		DAL 36.0     DEN 25.0
+		 -11.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: DAL ML and ATS***
+	
+	4.	HOU(+6, +210) at MIA(-5.5, -227)
+		MIA QB: Tua Tagovailoa
+		HOU QB: Tyrod Taylor
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 69.41896024464832% ATS%: 66.66499999999999%
+		MIA 14.0     HOU 26.0
+		MIA 19.0     HOU 19.0
+		MIA 22.0     HOU 28.0
+		Shows possible game results.
+		MIA 16.0     HOU 23.0
+		 -7.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: HOU ML and ATS***
+	
+	5.	ATL(+6.5, +225) at NO(-6, -250)
+		NO QB: Trevor Siemian
+		ATL QB: Matt Ryan
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 71.42857142857143% ATS%: 68.17999999999999%
+		NO 37.0     ATL 17.0
+		NO 32.0     ATL 7.0
+		NO 37.0     ATL 28.0
+		Shows possible game results.
+		NO 32.0     ATL 17.0
+		 -15.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: NO ML and ATS***
+	
+	6.	LV(-3, -167) at NYG(+3.5, +155)
+		NYG QB: Daniel Jones
+		LV QB: Derek Carr
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 62.546816479400746% ATS%: 59.089999999999996%
+		NYG 19.0     LV 28.0
+		NYG 15.0     LV 26.0
+		NYG 26.0     LV 34.0
+		Shows possible game results.
+		NYG 18.0     LV 28.0
+		 -10.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: LV ML and ATS***
+	
+	7.	NE(-3.5, -175) at CAR(+4, +170)
+		CAR QB: Sam Darnold
+		NE QB: Mac Jones
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 63.63636363636363% ATS%: 60.605%
+		CAR 13.0     NE 23.0
+		CAR 20.0     NE 21.0
+		CAR 30.0     NE 33.0
+		Shows possible game results.
+		CAR 22.0     NE 26.0
+		 -4.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: NE ML and ATS***
+	
+	8.	BUF(-14.5, -900) at JAX(+14.5, +700)
+		JAX QB: Trevor Lawrence
+		BUF QB: Josh Allen
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 90.0% ATS%: 93.935%
+		JAX 9.0     BUF 34.0
+		JAX 18.0     BUF 34.0
+		JAX 22.0     BUF 34.0
+		Shows possible game results.
+		JAX 15.0     BUF 33.0
+		 -18.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: BUF ML and ATS***
+	
+	9.	MIN(+6, +220) at BAL(-6, -250)
+		BAL QB: Lamar Jackson
+		MIN QB: Kirk Cousins
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 71.42857142857143% ATS%: 68.17999999999999%
+		BAL 37.0     MIN 23.0
+		BAL 37.0     MIN 18.0
+		BAL 37.0     MIN 20.0
+		Shows possible game results.
+		BAL 34.0     MIN 27.0
+		 -8.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: BAL ML and ATS***
+	
+	10.	LAC(-1, -121) at PHI(+2, +110)
+		PHI QB: Jalen Hurts
+		LAC QB: Justin Herbert
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 54.75113122171946% ATS%: 53.03%
+		PHI 27.0     LAC 30.0
+		PHI 20.0     LAC 33.0
+		PHI 29.0     LAC 21.0
+		Shows possible game results.
+		PHI 28.0     LAC 25.0
+		 -3.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: PHI ML and ATS***
+	
+	11.	GB(+7.5, +250) at KC(-7, -300)
+		KC QB: Patrick Mahomes
+		GB QB: Jordan Love
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 75.0% ATS%: 71.21%
+		KC 29.0     GB 34.0
+		KC 27.0     GB 33.0
+		KC 30.0     GB 34.0
+		Shows possible game results.
+		KC 24.0     GB 30.0
+		 -6.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: GB ML and ATS***
+	
+	12.	ARI(+2.5, +125) at SF(-2, -125)
+		SF QB: Jimmy Garoppolo
+		ARI QB: Kyler Murray
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 55.55555555555556% ATS%: 56.06%
+		SF 28.0     ARI 34.0
+		SF 36.0     ARI 34.0
+		SF 22.0     ARI 34.0
+		Shows possible game results.
+		SF 30.0     ARI 34.0
+		 -4.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: ARI ML and ATS***
+	
+	13.	TEN(+7.5, +290) at LAR(-7, -320)
+		LAR QB: Matthew Stafford
+		TEN QB: Ryan Tannehill
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 76.19047619047619% ATS%: 71.21%
+		LAR 38.0     TEN 34.0
+		LAR 38.0     TEN 25.0
+		LAR 38.0     TEN 33.0
+		Shows possible game results.
+		LAR 37.0     TEN 28.0
+		 -9.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: LAR ML and ATS***
+	
+	14.	CHI(+6.5, +230) at PIT(-6, -250)
+		PIT QB: Ben Roethlisberger
+		CHI QB: Justin Fields
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 71.42857142857143% ATS%: 68.17999999999999%
+		PIT 29.0     CHI 13.0
+		PIT 29.0     CHI 11.0
+		PIT 30.0     CHI 16.0
+		Shows possible game results.
+		PIT 22.0     CHI 10.0
+		 -12.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: PIT ML and ATS***
+	
+Week 10 Record:(ATS: 0-0-0; ML: 0-0-0)
 					
 
 		
