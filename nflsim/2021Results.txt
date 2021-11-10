@@ -19,8 +19,8 @@ ATS pushes occur when a game ends with the difference of scores equaling the cho
 	against the spread right before kickoff.	
 	
 2021-2022 Season Predictions & Results
-Record ATS: 59-58-4
-Record ML: 69-46-7
+Record ATS: 63-68-4
+Record ML: 74-55-7
 
 Weeks 1-4: basically below .500, using combined last and this year data for sim; right idea?
 
@@ -1740,7 +1740,7 @@ Week 8 Record: (ATS: 10-3-2; ML: 9-5-1)
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: KC ML and No pick ATS***
 	
-Week 9 Record:(ATS: 0-0-0; ML: 0-0-0)
+Week 9 Record:(ATS: 4-10-0; ML: 5-9-0)
 	1.	NYJ(+10.5, +385) at IND(-10.5, -535)
 		IND QB: Carson Wentz
 		NYJ QB: Mike White
@@ -1938,7 +1938,19 @@ Week 9 Record:(ATS: 0-0-0; ML: 0-0-0)
 		***Pick: PIT ML and ATS***
 	
 Week 10 Record:(ATS: 0-0-0; ML: 0-0-0)
-					
+	1.	BAL(-7.5, -380) at MIA(+7.5, +290)
+		MIA QB: Tua Tagovailoa
+		BAL QB: Lamar Jackson
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 79.16666666666666% ATS%: 72.725%
+		MIA 11.0     BAL 34.0
+		MIA 15.0     BAL 34.0
+		MIA 25.0     BAL 34.0
+		Shows possible game results.
+		MIA 17.0     BAL 31.0
+		 -14.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: BAL ML and ATS***			
 
 		
 														
