@@ -19,8 +19,8 @@ ATS pushes occur when a game ends with the difference of scores equaling the cho
 	against the spread right before kickoff.	
 	
 2021-2022 Season Predictions & Results
-Record ATS: 66-79-4
-Record ML: 79-64-8
+Record ATS: 72-88-4
+Record ML: 89-68-9
 
 Weeks 1-4: basically below .500, using combined last and this year data for sim; right idea?
 
@@ -2134,7 +2134,7 @@ Week 10 Record:(ATS: 3-11-0; ML: 5-9-1)
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: LAR ML and ATS***	
 		
-Week 11 Record:(ATS: 0-0-0; ML: 0-0-0)
+Week 11 Record:(ATS: 6-9-0; ML: 10-4-1)
 	1.	NE(-7, -310) at ATL(+7, +265)
 		ATL QB: Matt Ryan
 		NE QB: Mac Jones
@@ -2163,7 +2163,7 @@ Week 11 Record:(ATS: 0-0-0; ML: 0-0-0)
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: BUF ML and ATS***
 	
-	3.	BaL(-5, -215) at CHI(+5.5, +190)
+	3.	BAL(-5, -215) at CHI(+5.5, +190)
 		CHI QB: Justin Fields
 		BAL QB: Lamar Jackson
 		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
@@ -2344,7 +2344,49 @@ Week 11 Record:(ATS: 0-0-0; ML: 0-0-0)
 		 -19.0
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: TB ML and ATS***
-		
+
+Week 12 Record:(ATS: 0-0-0, ML: 0-0-0)
+	1.	CHI(-0.5, -116) at DET(+2.5, +120)
+		DET QB: Jared Goff
+		CHI QB: Andy Dalton
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 53.70370370370371% ATS%: 57.574999999999996%
+		DET 10.0     CHI 8.0
+		DET 22.0     CHI 16.0
+		DET 11.0     CHI 20.0
+		Shows possible game results.
+		DET 15.0     CHI 15.0
+		 -0.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: No Pick ML and DET ATS***
+	
+	2.	LV(+7.5, +300) at DAL(-7.5, -320)
+		DAL QB: Dak Prescott
+		LV QB: Derek Carr
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 76.19047619047619% ATS%: 72.725%
+		DAL 37.0     LV 25.0
+		DAL 31.0     LV 30.0
+		DAL 37.0     LV 19.0
+		Shows possible game results.
+		DAL 34.0     LV 20.0
+		 -14.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: DAL ML and ATS***
+	
+	3.	BUF(-6.5, -275) at NO(+7, +270)
+		NO QB: Trevor Siemian
+		BUF QB: Josh Allen
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 73.33333333333333% ATS%: 69.695%
+		NO 36.0     BUF 34.0
+		NO 22.0     BUF 34.0
+		NO 37.0     BUF 34.0
+		Shows possible game results.
+		NO 30.0     BUF 32.0
+		 -2.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: BUF ML and NO ATS***
 		
 														
 										
