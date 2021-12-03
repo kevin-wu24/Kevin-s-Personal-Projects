@@ -2345,7 +2345,7 @@ Week 11 Record:(ATS: 6-9-0; ML: 10-4-1)
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: TB ML and ATS***
 
-Week 12 Record:(ATS: 0-0-0, ML: 0-0-0)
+Week 12 Record:(ATS: 0-0-0; ML: 0-0-0)
 	1.	CHI(-0.5, -116) at DET(+2.5, +120)
 		DET QB: Jared Goff
 		CHI QB: Andy Dalton
@@ -2555,6 +2555,23 @@ Week 12 Record:(ATS: 0-0-0, ML: 0-0-0)
 		 -5.0
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: SEA ML and ATS***	
+
+Week 13 Recotd:(ATS: 0-0-0; ML: 0-0-0)
+	1.	DAL(-6.5, -250) at NO(+6.5, +230)
+		NO QB: Taysom Hill
+		DAL QB: Dak Prescott
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 71.42857142857143% ATS%: 69.695%
+		NO 36.0     DAL 34.0
+		NO 26.0     DAL 34.0
+		NO 29.0     DAL 22.0
+		Shows possible game results.
+		NO 25.0     DAL 30.0
+		 -4.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: DAL ML and NO ATS***
+	
+	2.
 																
 										
 										

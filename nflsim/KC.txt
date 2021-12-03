@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0" />
-    <link rel="dns-prefetch" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231" />
+    <link rel="dns-prefetch" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021" />
 <!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
 <script type="text/javascript" async=true>
     (function() {
@@ -208,7 +208,7 @@ loadJS( _sr_modern_url, function() { vjs_ready(sr_fire_js); });
 
 
 
-    <meta name="revised" content="08:51:06 25-Nov-2021" />
+    <meta name="revised" content="14:30:13 02-Dec-2021" />
     <meta name="HandheldFriendly" content="True" />
     <meta name="HandheldFriendly" content="True" />
     <meta name="generated-by"     content="build_team_pages.pl" />
@@ -231,36 +231,36 @@ loadJS( _sr_modern_url, function() { vjs_ready(sr_fire_js); });
     <meta property="og:site_name"    content="Pro-Football-Reference.com">
     <meta property="og:type"         content="    article" />
     <meta property="og:description"  content="2021 Kansas City Chiefs Statistics &amp; Players: 7-4 (1st in AFC West), Coach: Andy Reid">
-    <meta property="og:image"        content="http://ssref.net/scripts/image_resize.cgi?min=200&url=https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/tlogo/pfr/kan-2021.png">
+    <meta property="og:image"        content="http://ssref.net/scripts/image_resize.cgi?min=200&url=https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/tlogo/pfr/kan-2021.png">
     <meta name="twitter:card"         content="summary">
     <meta name="twitter:site"         content="@pfref">
     <meta name="twitter:creator"      content="@pfref">
-    <meta property="twitter:image"    content="http://ssref.net/scripts/image_resize.cgi?min=200&url=https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/tlogo/pfr/kan-2021.png">
+    <meta property="twitter:image"    content="http://ssref.net/scripts/image_resize.cgi?min=200&url=https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/tlogo/pfr/kan-2021.png">
     <meta name="twitter:domain"       content="Pro-Football-Reference.com">
     <meta name="referrer" content="unsafe-url">
     <!-- HeaderSeoSocial:END -->
 
     <!-- tiles, touch, favicons -->
-    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/apple-touch-icon-180x180-precomposed.png">
-    <link rel="icon"                         sizes="48x48"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/favicon-48.png">
-    <link rel="shortcut icon"                sizes="228x228" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/apple-touch-icon-228x228-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="228x228" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/apple-touch-icon-228x228-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="195x195" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/apple-touch-icon-195x195-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="180x180" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/apple-touch-icon-180x180-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="152x152" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/apple-touch-icon-152x152-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="144x144" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/apple-touch-icon-144x144-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="128x128" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/apple-touch-icon-128x128-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="120x120" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/apple-touch-icon-120x120-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="114x114" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/apple-touch-icon-114x114-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="76x76"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/apple-touch-icon-76x76-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="72x72"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/apple-touch-icon-72x72-precomposed.png">
-    <link rel="apple-touch-icon"             sizes="57x57"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/apple-touch-icon-57x57-precomposed.png">
-    <link rel="icon"                         sizes="32x32"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/favicon-32.png">
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/apple-touch-icon-180x180-precomposed.png">
+    <link rel="icon"                         sizes="48x48"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/favicon-48.png">
+    <link rel="shortcut icon"                sizes="228x228" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/apple-touch-icon-228x228-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="228x228" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/apple-touch-icon-228x228-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="195x195" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/apple-touch-icon-195x195-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="180x180" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/apple-touch-icon-180x180-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="152x152" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/apple-touch-icon-152x152-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="144x144" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/apple-touch-icon-144x144-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="128x128" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/apple-touch-icon-128x128-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="120x120" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/apple-touch-icon-120x120-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="114x114" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="76x76"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/apple-touch-icon-76x76-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="72x72"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon"             sizes="57x57"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/apple-touch-icon-57x57-precomposed.png">
+    <link rel="icon"                         sizes="32x32"   href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/favicon-32.png">
     <!--[if IE]>
-    <link rel="shortcut icon"                                href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/favicon.ico"><![endif]-->
+    <link rel="shortcut icon"                                href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/favicon.ico"><![endif]-->
     <meta name="msapplication-TileColor" content="#005629" />
-    <meta name="msapplication-TileImage" content="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/favicons/pfr/ms-tile-144.png" />
-    <link rel=search        type="application/opensearchdescription+xml" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/opensearch/opensearch-pfr.xml" title=" Player and Team Search">
+    <meta name="msapplication-TileImage" content="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/favicons/pfr/ms-tile-144.png" />
+    <link rel=search        type="application/opensearchdescription+xml" href="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/opensearch/opensearch-pfr.xml" title=" Player and Team Search">
     <!-- tiles, touch, favicons:end -->
 
 <!-- ad code: begin -->
@@ -324,7 +324,7 @@ loadJS( _sr_modern_url, function() { vjs_ready(sr_fire_js); });
 	
 	
 	
-	<li><a href="https://fbref.com/fr/">Football</a></li>
+	<li><a href="https://fbref.com/es/">F�tbol</a></li>
 
 	<li><a href="https://www.sports-reference.com/blog/">Blog</a></li>
 
@@ -339,7 +339,7 @@ loadJS( _sr_modern_url, function() { vjs_ready(sr_fire_js); });
 
 </ul>
 
-  <a href="/"><img src="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/logos/pfr-logo.svg" onerror="this.src='https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/logos/pfr-logo.png'; this.onerror = null;" alt="Pro-Football-Reference.com Logo &amp; Link to home page" /></a>
+  <a href="/"><img src="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/logos/pfr-logo.svg" onerror="this.src='https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/logos/pfr-logo.png'; this.onerror = null;" alt="Pro-Football-Reference.com Logo &amp; Link to home page" /></a>
 <div id="nav_trigger" role="button"><a href="#site_menu_link">MENU</a></div>
 <div id="nav" role="navigation" aria-label="Pro-Football-Reference.com sections">
 	<ul id="main_nav" class="hoversmooth nohover">	        <li id="header_players" ><a href="/players">Players</a></li>
@@ -423,7 +423,7 @@ sr_menus_setupMainNav_button_inline();
 
 
 	<div class="media-item logo loader">
-		<img class="teamlogo" itemscope="image" 			src="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/tlogo/pfr/kan-2021.png"
+		<img class="teamlogo" itemscope="image" 			src="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/tlogo/pfr/kan-2021.png"
 			alt="2021 Kansas City Chiefs Logo">
 		
 			<p><a href="http://www.sportslogos.net/">via Sports Logos.net</a></p>
@@ -464,11 +464,11 @@ sr_menus_setupMainNav_button_inline();
  <a href="/coaches/ReidAn0.htm">Andy Reid</a> (7-4-0)</p>
 
 
-<p><strong>Points For:</strong> 281 (25.5/g) 12th of 32</p>
-<p><strong>Points Against:</strong> 250 (22.7/g) 16th of 32</p>
+<p><strong>Points For:</strong> 281 (25.5/g) 9th of 32</p>
+<p><strong>Points Against:</strong> 250 (22.7/g) 13th of 32</p>
 <p><strong><a href="/about/glossary.htm#expwl" class="tooltip" tip="The expected wins given their points scored and allowed">Expected W-L</a>:</strong> 6.3-4.7</p>
-<p><a href="/about/glossary.htm#srs"><strong>SRS</strong></a>: 4.09 (10th of 32),&nbsp;
-  <a href="/about/glossary.htm#sos"><strong>SOS</strong></a>: 1.27
+<p><a href="/about/glossary.htm#srs"><strong>SRS</strong></a>: 4.13 (7th of 32),&nbsp;
+  <a href="/about/glossary.htm#sos"><strong>SOS</strong></a>: 1.31
 </p>
 
 
@@ -996,7 +996,7 @@ var sr_menus_checkInfoCookie_run_inline = true;
     
         <div id="inpage_nav" class="html_built">
             <p class="listhead inpage">On this page:</p>
-            <ul class="in_list inpage"><li><a href="#all_kan_injury_report">Week 11 Injury Report</a></li> <li><a href="#all_team_stats">Team Stats and Rankings</a></li> <li><a href="#all_games">Schedule &amp; Game Results</a></li> <li><a href="#all_team_conversions">Team Conversions</a></li> <li><a href="#all_passing">Passing</a></li> <li><a href="#all_rushing_and_receiving">Rushing &amp; Receiving</a></li> <li><a href="#all_returns">Kick &amp; Punt Returns</a></li> <li><a href="#all_kicking">Kicking &amp; Punting</a></li> <li><a href="#all_defense">Defense &amp; Fumbles</a></li> <li><a href="#all_scoring">Scoring Summary</a></li> <li><a href="#all_team_td_log">Touchdown Log</a></li> <li><a href="#all_opp_td_log">Opponent Touchdown Log</a></li> <li><a href="#site_menu_link">Full Site Menu</a></li></ul>
+            <ul class="in_list inpage"><li><a href="#all_kan_injury_report">Week 13 Injury Report</a></li> <li><a href="#all_team_stats">Team Stats and Rankings</a></li> <li><a href="#all_games">Schedule &amp; Game Results</a></li> <li><a href="#all_team_conversions">Team Conversions</a></li> <li><a href="#all_passing">Passing</a></li> <li><a href="#all_rushing_and_receiving">Rushing &amp; Receiving</a></li> <li><a href="#all_returns">Kick &amp; Punt Returns</a></li> <li><a href="#all_kicking">Kicking &amp; Punting</a></li> <li><a href="#all_defense">Defense &amp; Fumbles</a></li> <li><a href="#all_scoring">Scoring Summary</a></li> <li><a href="#all_team_td_log">Touchdown Log</a></li> <li><a href="#all_opp_td_log">Opponent Touchdown Log</a></li> <li><a href="#site_menu_link">Full Site Menu</a></li></ul>
         </div>
     
 </div><!-- div#inner_nav -->
@@ -1036,8 +1036,8 @@ var sr_menus_checkInfoCookie_run_inline = true;
 <div id="all_kan_injury_report" class="table_wrapper setup_commented commented">
 
 <div class="section_heading assoc_kan_injury_report" id="kan_injury_report_sh">
-  <span class="section_anchor" id="kan_injury_report_link" data-label="Week 11 Injury Report"></span><h2>Week 11 Injury Report</h2>    <div class="section_heading_text">
-      <ul><li>Updated November 17, 2021</li><li><button class="sr_preset tooltip" type="button" data-toggle=".injured_reserve">Show Injured Reserve</button></li>
+  <span class="section_anchor" id="kan_injury_report_link" data-label="Week 13 Injury Report"></span><h2>Week 13 Injury Report</h2>    <div class="section_heading_text">
+      <ul><li>Updated December 01, 2021</li><li><button class="sr_preset tooltip" type="button" data-toggle=".injured_reserve">Show Injured Reserve</button></li>
       </ul>
     </div>
     		
@@ -1047,7 +1047,7 @@ var sr_menus_checkInfoCookie_run_inline = true;
 <div class="table_container" id="div_kan_injury_report">
     
     <table class="sortable stats_table" id="kan_injury_report" data-cols-to-freeze=",1">
-    <caption>Week 11 Injury Report Table</caption>
+    <caption>Week 13 Injury Report Table</caption>
     
    <colgroup><col><col><col><col><col></colgroup>
    <thead>      
@@ -1061,18 +1061,18 @@ var sr_menus_checkInfoCookie_run_inline = true;
       </thead>
 <tbody><tr class="injured_reserve hidden" ><th scope="row" class="left " data-append-csv="FortJo01" data-stat="player" csk="Fortson,Joe" ><a href="/players/F/FortJo01.htm">Joe Fortson</a></th><td class="left " data-stat="pos" >WR</td><td class="left iz" data-stat="practice_status" ></td><td class="left " data-stat="status" >Injured Reserve</td><td class="left iz" data-stat="injury_comment" ></td></tr>
 <tr class="injured_reserve hidden" ><th scope="row" class="left " data-append-csv="KainJo00" data-stat="player" csk="Kaindoh,Joshua" ><a href="/players/K/KainJo00.htm">Joshua Kaindoh</a></th><td class="left " data-stat="pos" >DE</td><td class="left iz" data-stat="practice_status" ></td><td class="left " data-stat="status" >Injured Reserve</td><td class="left iz" data-stat="injury_comment" ></td></tr>
+<tr class="injured_reserve hidden" ><th scope="row" class="left " data-append-csv="McKiJe00" data-stat="player" csk="McKinnon,Jerick" ><a href="/players/M/McKiJe00.htm">Jerick McKinnon</a></th><td class="left " data-stat="pos" >RB</td><td class="left iz" data-stat="practice_status" ></td><td class="left " data-stat="status" >Injured Reserve</td><td class="left iz" data-stat="injury_comment" ></td></tr>
 <tr class="injured_reserve hidden" ><th scope="row" class="left " data-append-csv="RemmMi00" data-stat="player" csk="Remmers,Mike" ><a href="/players/R/RemmMi00.htm">Mike Remmers</a></th><td class="left " data-stat="pos" >T</td><td class="left iz" data-stat="practice_status" ></td><td class="left " data-stat="status" >Injured Reserve</td><td class="left iz" data-stat="injury_comment" ></td></tr>
-<tr ><th scope="row" class="left " data-append-csv="BrowOr00" data-stat="player" csk="Brown,Orlando" ><a href="/players/B/BrowOr00.htm">Orlando Brown Jr.</a></th><td class="left " data-stat="pos" >OT</td><td class="left " data-stat="practice_status" >Full</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Toe</td></tr>
+<tr class="injured_reserve hidden" ><th scope="row" class="left " data-append-csv="SaunKh00" data-stat="player" csk="Saunders,Khalen" ><a href="/players/S/SaunKh00.htm">Khalen Saunders</a></th><td class="left " data-stat="pos" >DT</td><td class="left iz" data-stat="practice_status" ></td><td class="left " data-stat="status" >Injured Reserve</td><td class="left iz" data-stat="injury_comment" ></td></tr>
 <tr ><th scope="row" class="left " data-append-csv="BurtMi00" data-stat="player" csk="Burton,Michael" ><a href="/players/B/BurtMi00.htm">Michael Burton</a></th><td class="left " data-stat="pos" >FB</td><td class="left " data-stat="practice_status" >Full</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Pectoral</td></tr>
-<tr ><th scope="row" class="left " data-append-csv="HillTy00" data-stat="player" csk="Hill,Tyreek" ><a href="/players/H/HillTy00.htm">Tyreek Hill</a></th><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="practice_status" >Full</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Groin</td></tr>
-<tr ><th scope="row" class="left " data-append-csv="HughMi00" data-stat="player" csk="Hughes,Mike" ><a href="/players/H/HughMi00.htm">Mike Hughes</a></th><td class="left " data-stat="pos" >CB</td><td class="left " data-stat="practice_status" >Full</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Elbow</td></tr>
-<tr ><th scope="row" class="left " data-append-csv="KelcTr00" data-stat="player" csk="Kelce,Travis" ><a href="/players/K/KelcTr00.htm">Travis Kelce</a></th><td class="left " data-stat="pos" >TE</td><td class="left " data-stat="practice_status" >Full</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Neck</td></tr>
-<tr ><th scope="row" class="left " data-append-csv="NianLu00" data-stat="player" csk="Niang,Lucas" ><a href="/players/N/NianLu00.htm">Lucas Niang</a></th><td class="left " data-stat="pos" >OL</td><td class="left " data-stat="practice_status" >DNP</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Ribs</td></tr>
-<tr ><th scope="row" class="left " data-append-csv="NnadDe00" data-stat="player" csk="Nnadi,Derrick" ><a href="/players/N/NnadDe00.htm">Derrick Nnadi</a></th><td class="left " data-stat="pos" >DT</td><td class="left " data-stat="practice_status" >Full</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Hip</td></tr>
+<tr ><th scope="row" class="left " data-append-csv="FentRa00" data-stat="player" csk="Fenton,Rashad" ><a href="/players/F/FentRa00.htm">Rashad Fenton</a></th><td class="left " data-stat="pos" >CB</td><td class="left " data-stat="practice_status" >DNP</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Knee</td></tr>
+<tr ><th scope="row" class="left " data-append-csv="HardMe00" data-stat="player" csk="Hardman,Mecole" ><a href="/players/H/HardMe00.htm">Mecole Hardman</a></th><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="practice_status" >DNP</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Non Injury Related</td></tr>
+<tr ><th scope="row" class="left " data-append-csv="HillTy00" data-stat="player" csk="Hill,Tyreek" ><a href="/players/H/HillTy00.htm">Tyreek Hill</a></th><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="practice_status" >DNP</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Non Injury Related</td></tr>
+<tr ><th scope="row" class="left " data-append-csv="LammCh00" data-stat="player" csk="Lammons,Chris" ><a href="/players/L/LammCh00.htm">Chris Lammons</a></th><td class="left " data-stat="pos" >DB</td><td class="left " data-stat="practice_status" >Full</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Hip</td></tr>
+<tr ><th scope="row" class="left " data-append-csv="LongKy00" data-stat="player" csk="Long,Kyle" ><a href="/players/L/LongKy00.htm">Kyle Long</a></th><td class="left " data-stat="pos" >OT</td><td class="left " data-stat="practice_status" >Full</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Knee</td></tr>
+<tr ><th scope="row" class="left " data-append-csv="NianLu00" data-stat="player" csk="Niang,Lucas" ><a href="/players/N/NianLu00.htm">Lucas Niang</a></th><td class="left " data-stat="pos" >OL</td><td class="left " data-stat="practice_status" >Limited</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Ribs</td></tr>
 <tr ><th scope="row" class="left " data-append-csv="ODanDo00" data-stat="player" csk="O'Daniel,Dorian" ><a href="/players/O/ODanDo00.htm">Dorian O'Daniel</a></th><td class="left " data-stat="pos" >OLB</td><td class="left " data-stat="practice_status" >Full</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Shoulder</td></tr>
-<tr ><th scope="row" class="left " data-append-csv="SmitTr05" data-stat="player" csk="Smith,Trey" ><a href="/players/S/SmitTr05.htm">Trey Smith</a></th><td class="left " data-stat="pos" >G</td><td class="left " data-stat="practice_status" >Full</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Ankle</td></tr>
-<tr ><th scope="row" class="left " data-append-csv="SneeLJ00" data-stat="player" csk="Sneed,L'Jarius" ><a href="/players/S/SneeLJ00.htm">L'Jarius Sneed</a></th><td class="left " data-stat="pos" >S</td><td class="left " data-stat="practice_status" >Limited</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Knee</td></tr>
-<tr ><th scope="row" class="left " data-append-csv="ThunJo00" data-stat="player" csk="Thuney,Joe" ><a href="/players/T/ThunJo00.htm">Joe Thuney</a></th><td class="left " data-stat="pos" >OG</td><td class="left " data-stat="practice_status" >Full</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Hand</td></tr>
+<tr ><th scope="row" class="left " data-append-csv="SneeLJ00" data-stat="player" csk="Sneed,L'Jarius" ><a href="/players/S/SneeLJ00.htm">L'Jarius Sneed</a></th><td class="left " data-stat="pos" >S</td><td class="left " data-stat="practice_status" >Full</td><td class="left iz" data-stat="status" ></td><td class="left " data-stat="injury_comment" >Knee</td></tr>
 
 </table>
 
@@ -1152,8 +1152,8 @@ var sr_menus_checkInfoCookie_run_inline = true;
       </thead>
 <tbody><tr ><th scope="row" class="left " data-stat="player" >Team Stats</th><td class="right " data-stat="points" >281</td><td class="right " data-stat="total_yards" >4426</td><td class="right " data-stat="plays_offense" >756</td><td class="right " data-stat="yds_per_play_offense" >5.9</td><td class="right " data-stat="turnovers" >22</td><td class="right " data-stat="fumbles_lost" >11</td><td class="right " data-stat="first_down" >281</td><td class="right " data-stat="pass_cmp" >306</td><td class="right " data-stat="pass_att" >466</td><td class="right " data-stat="pass_yds" >3195</td><td class="right " data-stat="pass_td" >25</td><td class="right " data-stat="pass_int" >11</td><td class="right " data-stat="pass_net_yds_per_att" >6.6</td><td class="right " data-stat="pass_fd" >182</td><td class="right " data-stat="rush_att" >270</td><td class="right " data-stat="rush_yds" >1231</td><td class="right " data-stat="rush_td" >8</td><td class="right " data-stat="rush_yds_per_att" >4.6</td><td class="right " data-stat="rush_fd" >76</td><td class="right " data-stat="penalties" >72</td><td class="right " data-stat="penalties_yds" >597</td><td class="right " data-stat="pen_fd" >23</td><td class="right " data-stat="drives" >111</td><td class="right " data-stat="score_pct" >43.2</td><td class="right " data-stat="turnover_pct" >18.0</td><td class="right " data-stat="start_avg" >Own 28.3</td><td class="right " data-stat="time_avg" >3:03</td><td class="right " data-stat="plays_per_drive" >6.97</td><td class="right " data-stat="yds_per_drive" >39.8</td><td class="right " data-stat="points_avg" >2.49</td></tr>
 <tr ><th scope="row" class="left " data-stat="player" >Opp. Stats</th><td class="right " data-stat="points" >250</td><td class="right " data-stat="total_yards" >4008</td><td class="right " data-stat="plays_offense" >662</td><td class="right " data-stat="yds_per_play_offense" >6.1</td><td class="right " data-stat="turnovers" >15</td><td class="right " data-stat="fumbles_lost" >5</td><td class="right " data-stat="first_down" >233</td><td class="right " data-stat="pass_cmp" >253</td><td class="right " data-stat="pass_att" >378</td><td class="right " data-stat="pass_yds" >2780</td><td class="right " data-stat="pass_td" >18</td><td class="right " data-stat="pass_int" >10</td><td class="right " data-stat="pass_net_yds_per_att" >7.0</td><td class="right " data-stat="pass_fd" >139</td><td class="right " data-stat="rush_att" >265</td><td class="right " data-stat="rush_yds" >1228</td><td class="right " data-stat="rush_td" >10</td><td class="right " data-stat="rush_yds_per_att" >4.6</td><td class="right " data-stat="rush_fd" >74</td><td class="right " data-stat="penalties" >81</td><td class="right " data-stat="penalties_yds" >582</td><td class="right " data-stat="pen_fd" >20</td><td class="right " data-stat="drives" >111</td><td class="right " data-stat="score_pct" >38.7</td><td class="right " data-stat="turnover_pct" >12.6</td><td class="right " data-stat="start_avg" >Own 26.2</td><td class="right " data-stat="time_avg" >2:53</td><td class="right " data-stat="plays_per_drive" >6.1</td><td class="right " data-stat="yds_per_drive" >35.9</td><td class="right " data-stat="points_avg" >2.21</td></tr>
-<tr ><th scope="row" class="left " data-stat="player" >Lg Rank Offense</th><td class="right " data-stat="points" >12</td><td class="right " data-stat="total_yards" >4</td><td class="right iz" data-stat="plays_offense" ></td><td class="right iz" data-stat="yds_per_play_offense" ></td><td class="right " data-stat="turnovers" >31</td><td class="right " data-stat="fumbles_lost" >32</td><td class="right " data-stat="first_down" >1</td><td class="right iz" data-stat="pass_cmp" ></td><td class="right " data-stat="pass_att" >2</td><td class="right " data-stat="pass_yds" >2</td><td class="right " data-stat="pass_td" >3</td><td class="right " data-stat="pass_int" >26</td><td class="right " data-stat="pass_net_yds_per_att" >13</td><td class="right iz" data-stat="pass_fd" ></td><td class="right " data-stat="rush_att" >19</td><td class="right " data-stat="rush_yds" >18</td><td class="right " data-stat="rush_td" >21</td><td class="right " data-stat="rush_yds_per_att" >11</td><td class="right iz" data-stat="rush_fd" ></td><td class="right iz" data-stat="penalties" ></td><td class="right iz" data-stat="penalties_yds" ></td><td class="right iz" data-stat="pen_fd" ></td><td class="right iz" data-stat="drives" ></td><td class="right " data-stat="score_pct" >9</td><td class="right " data-stat="turnover_pct" >2</td><td class="right " data-stat="start_avg" >16</td><td class="right " data-stat="time_avg" >4</td><td class="right " data-stat="plays_per_drive" >1</td><td class="right " data-stat="yds_per_drive" >1</td><td class="right " data-stat="points_avg" >7</td></tr>
-<tr ><th scope="row" class="left " data-stat="player" >Lg Rank Defense</th><td class="right " data-stat="points" >16</td><td class="right " data-stat="total_yards" >22</td><td class="right iz" data-stat="plays_offense" ></td><td class="right iz" data-stat="yds_per_play_offense" ></td><td class="right " data-stat="turnovers" >13</td><td class="right " data-stat="fumbles_lost" >18</td><td class="right " data-stat="first_down" >19</td><td class="right iz" data-stat="pass_cmp" ></td><td class="right " data-stat="pass_att" >13</td><td class="right " data-stat="pass_yds" >23</td><td class="right " data-stat="pass_td" >17</td><td class="right " data-stat="pass_int" >11</td><td class="right " data-stat="pass_net_yds_per_att" >26</td><td class="right iz" data-stat="pass_fd" ></td><td class="right " data-stat="rush_att" >9</td><td class="right " data-stat="rush_yds" >15</td><td class="right " data-stat="rush_td" >17</td><td class="right " data-stat="rush_yds_per_att" >28</td><td class="right iz" data-stat="rush_fd" ></td><td class="right iz" data-stat="penalties" ></td><td class="right iz" data-stat="penalties_yds" ></td><td class="right iz" data-stat="pen_fd" ></td><td class="right iz" data-stat="drives" ></td><td class="right " data-stat="score_pct" >14</td><td class="right " data-stat="turnover_pct" >11</td><td class="right " data-stat="start_avg" >5</td><td class="right " data-stat="time_avg" >22</td><td class="right " data-stat="plays_per_drive" >20</td><td class="right " data-stat="yds_per_drive" >31</td><td class="right " data-stat="points_avg" >21</td></tr>
+<tr ><th scope="row" class="left " data-stat="player" >Lg Rank Offense</th><td class="right " data-stat="points" >9</td><td class="right " data-stat="total_yards" >2</td><td class="right iz" data-stat="plays_offense" ></td><td class="right iz" data-stat="yds_per_play_offense" ></td><td class="right " data-stat="turnovers" >31</td><td class="right " data-stat="fumbles_lost" >32</td><td class="right " data-stat="first_down" >1</td><td class="right iz" data-stat="pass_cmp" ></td><td class="right " data-stat="pass_att" >1</td><td class="right " data-stat="pass_yds" >4</td><td class="right " data-stat="pass_td" >3</td><td class="right " data-stat="pass_int" >24</td><td class="right " data-stat="pass_net_yds_per_att" >13</td><td class="right iz" data-stat="pass_fd" ></td><td class="right " data-stat="rush_att" >19</td><td class="right " data-stat="rush_yds" >16</td><td class="right " data-stat="rush_td" >22</td><td class="right " data-stat="rush_yds_per_att" >10</td><td class="right iz" data-stat="rush_fd" ></td><td class="right iz" data-stat="penalties" ></td><td class="right iz" data-stat="penalties_yds" ></td><td class="right iz" data-stat="pen_fd" ></td><td class="right iz" data-stat="drives" ></td><td class="right " data-stat="score_pct" >7</td><td class="right " data-stat="turnover_pct" >2</td><td class="right " data-stat="start_avg" >15</td><td class="right " data-stat="time_avg" >3</td><td class="right " data-stat="plays_per_drive" >1</td><td class="right " data-stat="yds_per_drive" >1</td><td class="right " data-stat="points_avg" >8</td></tr>
+<tr ><th scope="row" class="left " data-stat="player" >Lg Rank Defense</th><td class="right " data-stat="points" >13</td><td class="right " data-stat="total_yards" >23</td><td class="right iz" data-stat="plays_offense" ></td><td class="right iz" data-stat="yds_per_play_offense" ></td><td class="right " data-stat="turnovers" >12</td><td class="right " data-stat="fumbles_lost" >16</td><td class="right " data-stat="first_down" >20</td><td class="right iz" data-stat="pass_cmp" ></td><td class="right " data-stat="pass_att" >16</td><td class="right " data-stat="pass_yds" >24</td><td class="right " data-stat="pass_td" >17</td><td class="right " data-stat="pass_int" >12</td><td class="right " data-stat="pass_net_yds_per_att" >27</td><td class="right iz" data-stat="pass_fd" ></td><td class="right " data-stat="rush_att" >8</td><td class="right " data-stat="rush_yds" >15</td><td class="right " data-stat="rush_td" >13</td><td class="right " data-stat="rush_yds_per_att" >28</td><td class="right iz" data-stat="rush_fd" ></td><td class="right iz" data-stat="penalties" ></td><td class="right iz" data-stat="penalties_yds" ></td><td class="right iz" data-stat="pen_fd" ></td><td class="right iz" data-stat="drives" ></td><td class="right " data-stat="score_pct" >14</td><td class="right " data-stat="turnover_pct" >12</td><td class="right " data-stat="start_avg" >4</td><td class="right " data-stat="time_avg" >24</td><td class="right " data-stat="plays_per_drive" >21</td><td class="right " data-stat="yds_per_drive" >32</td><td class="right " data-stat="points_avg" >22</td></tr>
 
 </table>
 
@@ -1318,8 +1318,8 @@ var sr_menus_checkInfoCookie_run_inline = true;
       </thead>
 <tbody><tr ><th scope="row" class="left " data-stat="player" >Team Stats</th><td class="right " data-stat="third_down_att" >132</td><td class="right " data-stat="third_down_success" >68</td><td class="right " data-stat="third_down_pct" >51.5</td><td class="right " data-stat="fourth_down_att" >11</td><td class="right " data-stat="fourth_down_success" >7</td><td class="right " data-stat="fourth_down_pct" >63.6</td><td class="right " data-stat="red_zone_att" >42</td><td class="right " data-stat="red_zone_scores" >25</td><td class="right " data-stat="red_zone_pct" >59.5</td></tr>
 <tr ><th scope="row" class="left " data-stat="player" >Opp. Stats</th><td class="right " data-stat="third_down_att" >126</td><td class="right " data-stat="third_down_success" >50</td><td class="right " data-stat="third_down_pct" >39.7</td><td class="right " data-stat="fourth_down_att" >15</td><td class="right " data-stat="fourth_down_success" >10</td><td class="right " data-stat="fourth_down_pct" >66.7</td><td class="right " data-stat="red_zone_att" >34</td><td class="right " data-stat="red_zone_scores" >22</td><td class="right " data-stat="red_zone_pct" >64.7</td></tr>
-<tr ><th scope="row" class="left " data-stat="player" >Lg Rank Offense</th><td class="right iz" data-stat="third_down_att" ></td><td class="right iz" data-stat="third_down_success" ></td><td class="right " data-stat="third_down_pct" >1</td><td class="right iz" data-stat="fourth_down_att" ></td><td class="right iz" data-stat="fourth_down_success" ></td><td class="right " data-stat="fourth_down_pct" >7</td><td class="right iz" data-stat="red_zone_att" ></td><td class="right iz" data-stat="red_zone_scores" ></td><td class="right " data-stat="red_zone_pct" >15</td></tr>
-<tr ><th scope="row" class="left " data-stat="player" >Lg Rank Defense</th><td class="right iz" data-stat="third_down_att" ></td><td class="right iz" data-stat="third_down_success" ></td><td class="right " data-stat="third_down_pct" >15</td><td class="right iz" data-stat="fourth_down_att" ></td><td class="right iz" data-stat="fourth_down_success" ></td><td class="right " data-stat="fourth_down_pct" >26</td><td class="right iz" data-stat="red_zone_att" ></td><td class="right iz" data-stat="red_zone_scores" ></td><td class="right " data-stat="red_zone_pct" >23</td></tr>
+<tr ><th scope="row" class="left " data-stat="player" >Lg Rank Offense</th><td class="right iz" data-stat="third_down_att" ></td><td class="right iz" data-stat="third_down_success" ></td><td class="right " data-stat="third_down_pct" >1</td><td class="right iz" data-stat="fourth_down_att" ></td><td class="right iz" data-stat="fourth_down_success" ></td><td class="right " data-stat="fourth_down_pct" >6</td><td class="right iz" data-stat="red_zone_att" ></td><td class="right iz" data-stat="red_zone_scores" ></td><td class="right " data-stat="red_zone_pct" >16</td></tr>
+<tr ><th scope="row" class="left " data-stat="player" >Lg Rank Defense</th><td class="right iz" data-stat="third_down_att" ></td><td class="right iz" data-stat="third_down_success" ></td><td class="right " data-stat="third_down_pct" >13</td><td class="right iz" data-stat="fourth_down_att" ></td><td class="right iz" data-stat="fourth_down_success" ></td><td class="right " data-stat="fourth_down_pct" >26</td><td class="right iz" data-stat="red_zone_att" ></td><td class="right iz" data-stat="red_zone_scores" ></td><td class="right " data-stat="red_zone_pct" >23</td></tr>
 
 </table>
 
@@ -1409,8 +1409,8 @@ var sr_menus_checkInfoCookie_run_inline = true;
          <th aria-label="Game-Winning Drives" data-stat="gwd" scope="col" class=" poptip center" data-tip="Game-winning drives led by quarterback.<br />Must be an offensive scoring drive in the 4th quarter or overtime that puts the winning team ahead for the last time." >GWD</th>
       </tr>
       </thead>
-<tbody><tr ><th scope="row" class="right " data-stat="uniform_number" >15</th><td class="left " data-append-csv="MahoPa00" data-stat="player" csk="Mahomes,Patrick" ><a href="/players/M/MahoPa00.htm">Patrick Mahomes</a></td><td class="right " data-stat="age" >26</td><td class="left " data-stat="pos" >QB</td><td class="right " data-stat="g" >11</td><td class="right " data-stat="gs" >11</td><td class="right " data-stat="qb_rec" csk="0.63636" >7-4-0</td><td class="right " data-stat="pass_cmp" >294</td><td class="right " data-stat="pass_att" >449</td><td class="right " data-stat="pass_cmp_perc" >65.5</td><td class="right " data-stat="pass_yds" >3200</td><td class="right " data-stat="pass_td" >25</td><td class="right " data-stat="pass_td_perc" >5.6</td><td class="right " data-stat="pass_int" >11</td><td class="right " data-stat="pass_int_perc" >2.4</td><td class="right " data-stat="pass_long" >75</td><td class="right " data-stat="pass_yds_per_att" >7.1</td><td class="right " data-stat="pass_adj_yds_per_att" >7.1</td><td class="right " data-stat="pass_yds_per_cmp" >10.9</td><td class="right " data-stat="pass_yds_per_g" >290.9</td><td class="right " data-stat="pass_rating" >94.7</td><td class="right " data-stat="qbr" >57.2</td><td class="right " data-stat="pass_sacked" >20</td><td class="right " data-stat="pass_sacked_yds" >103</td><td class="right " data-stat="pass_sacked_perc" >4.3</td><td class="right " data-stat="pass_net_yds_per_att" >6.60</td><td class="right " data-stat="pass_adj_net_yds_per_att" >6.61</td><td class="right " data-stat="comebacks" >2</td><td class="right " data-stat="gwd" >2</td></tr>
-<tr ><th scope="row" class="right " data-stat="uniform_number" >4</th><td class="left " data-append-csv="HennCh01" data-stat="player" csk="Henne,Chad" ><a href="/players/H/HennCh01.htm">Chad Henne</a></td><td class="right " data-stat="age" >36</td><td class="left iz" data-stat="pos" ></td><td class="right " data-stat="g" >2</td><td class="right iz" data-stat="gs" >0</td><td class="right iz" data-stat="qb_rec" ></td><td class="right " data-stat="pass_cmp" >11</td><td class="right " data-stat="pass_att" >16</td><td class="right " data-stat="pass_cmp_perc" >68.8</td><td class="right " data-stat="pass_yds" >82</td><td class="right iz" data-stat="pass_td" >0</td><td class="right iz" data-stat="pass_td_perc" >0.0</td><td class="right iz" data-stat="pass_int" >0</td><td class="right iz" data-stat="pass_int_perc" >0.0</td><td class="right " data-stat="pass_long" >17</td><td class="right " data-stat="pass_yds_per_att" >5.1</td><td class="right " data-stat="pass_adj_yds_per_att" >5.1</td><td class="right " data-stat="pass_yds_per_cmp" >7.5</td><td class="right " data-stat="pass_yds_per_g" >41.0</td><td class="right " data-stat="pass_rating" >80.7</td><td class="right " data-stat="qbr" >66.0</td><td class="right iz" data-stat="pass_sacked" >0</td><td class="right iz" data-stat="pass_sacked_yds" >0</td><td class="right iz" data-stat="pass_sacked_perc" >0.0</td><td class="right " data-stat="pass_net_yds_per_att" >5.13</td><td class="right " data-stat="pass_adj_net_yds_per_att" >5.13</td><td class="right iz" data-stat="comebacks" ></td><td class="right iz" data-stat="gwd" ></td></tr>
+<tbody><tr ><th scope="row" class="right " data-stat="uniform_number" >15</th><td class="left " data-append-csv="MahoPa00" data-stat="player" csk="Mahomes,Patrick" ><a href="/players/M/MahoPa00.htm">Patrick Mahomes</a></td><td class="right " data-stat="age" >26</td><td class="left " data-stat="pos" >QB</td><td class="right " data-stat="g" >11</td><td class="right " data-stat="gs" >11</td><td class="right " data-stat="qb_rec" csk="0.63636" >7-4-0</td><td class="right " data-stat="pass_cmp" >294</td><td class="right " data-stat="pass_att" >449</td><td class="right " data-stat="pass_cmp_perc" >65.5</td><td class="right " data-stat="pass_yds" >3200</td><td class="right " data-stat="pass_td" >25</td><td class="right " data-stat="pass_td_perc" >5.6</td><td class="right " data-stat="pass_int" >11</td><td class="right " data-stat="pass_int_perc" >2.4</td><td class="right " data-stat="pass_long" >75</td><td class="right " data-stat="pass_yds_per_att" >7.1</td><td class="right " data-stat="pass_adj_yds_per_att" >7.1</td><td class="right " data-stat="pass_yds_per_cmp" >10.9</td><td class="right " data-stat="pass_yds_per_g" >290.9</td><td class="right " data-stat="pass_rating" >94.7</td><td class="right " data-stat="qbr" >57.4</td><td class="right " data-stat="pass_sacked" >20</td><td class="right " data-stat="pass_sacked_yds" >103</td><td class="right " data-stat="pass_sacked_perc" >4.3</td><td class="right " data-stat="pass_net_yds_per_att" >6.60</td><td class="right " data-stat="pass_adj_net_yds_per_att" >6.61</td><td class="right " data-stat="comebacks" >2</td><td class="right " data-stat="gwd" >2</td></tr>
+<tr ><th scope="row" class="right " data-stat="uniform_number" >4</th><td class="left " data-append-csv="HennCh01" data-stat="player" csk="Henne,Chad" ><a href="/players/H/HennCh01.htm">Chad Henne</a></td><td class="right " data-stat="age" >36</td><td class="left iz" data-stat="pos" ></td><td class="right " data-stat="g" >2</td><td class="right iz" data-stat="gs" >0</td><td class="right iz" data-stat="qb_rec" ></td><td class="right " data-stat="pass_cmp" >11</td><td class="right " data-stat="pass_att" >16</td><td class="right " data-stat="pass_cmp_perc" >68.8</td><td class="right " data-stat="pass_yds" >82</td><td class="right iz" data-stat="pass_td" >0</td><td class="right iz" data-stat="pass_td_perc" >0.0</td><td class="right iz" data-stat="pass_int" >0</td><td class="right iz" data-stat="pass_int_perc" >0.0</td><td class="right " data-stat="pass_long" >17</td><td class="right " data-stat="pass_yds_per_att" >5.1</td><td class="right " data-stat="pass_adj_yds_per_att" >5.1</td><td class="right " data-stat="pass_yds_per_cmp" >7.5</td><td class="right " data-stat="pass_yds_per_g" >41.0</td><td class="right " data-stat="pass_rating" >80.7</td><td class="right " data-stat="qbr" >64.3</td><td class="right iz" data-stat="pass_sacked" >0</td><td class="right iz" data-stat="pass_sacked_yds" >0</td><td class="right iz" data-stat="pass_sacked_perc" >0.0</td><td class="right " data-stat="pass_net_yds_per_att" >5.13</td><td class="right " data-stat="pass_adj_net_yds_per_att" >5.13</td><td class="right iz" data-stat="comebacks" ></td><td class="right iz" data-stat="gwd" ></td></tr>
 <tr ><th scope="row" class="right " data-stat="uniform_number" >5</th><td class="left " data-append-csv="TownTo01" data-stat="player" csk="Townsend,Tommy" ><a href="/players/T/TownTo01.htm">Tommy Townsend</a></td><td class="right " data-stat="age" >25</td><td class="left " data-stat="pos" >p</td><td class="right " data-stat="g" >11</td><td class="right iz" data-stat="gs" >0</td><td class="right iz" data-stat="qb_rec" ></td><td class="right " data-stat="pass_cmp" >1</td><td class="right " data-stat="pass_att" >1</td><td class="right " data-stat="pass_cmp_perc" >100.0</td><td class="right " data-stat="pass_yds" >16</td><td class="right iz" data-stat="pass_td" >0</td><td class="right iz" data-stat="pass_td_perc" >0.0</td><td class="right iz" data-stat="pass_int" >0</td><td class="right iz" data-stat="pass_int_perc" >0.0</td><td class="right " data-stat="pass_long" >16</td><td class="right " data-stat="pass_yds_per_att" >16.0</td><td class="right " data-stat="pass_adj_yds_per_att" >16.0</td><td class="right " data-stat="pass_yds_per_cmp" >16.0</td><td class="right " data-stat="pass_yds_per_g" >1.5</td><td class="right " data-stat="pass_rating" >118.7</td><td class="right iz" data-stat="qbr" ></td><td class="right iz" data-stat="pass_sacked" >0</td><td class="right iz" data-stat="pass_sacked_yds" >0</td><td class="right iz" data-stat="pass_sacked_perc" >0.0</td><td class="right " data-stat="pass_net_yds_per_att" >16.00</td><td class="right " data-stat="pass_adj_net_yds_per_att" >16.00</td><td class="right iz" data-stat="comebacks" ></td><td class="right iz" data-stat="gwd" ></td></tr>
 </tbody><tfoot><tr ><th scope="row" class="right iz" data-stat="uniform_number" ></th><td class="left " data-stat="player" >Team Total</td><td class="right " data-stat="age" >26.3</td><td class="left iz" data-stat="pos" ></td><td class="right " data-stat="g" >11</td><td class="right iz" data-stat="gs" ></td><td class="right " data-stat="qb_rec" csk="7" >7-4-0</td><td class="right " data-stat="pass_cmp" >306</td><td class="right " data-stat="pass_att" >466</td><td class="right " data-stat="pass_cmp_perc" >65.7</td><td class="right " data-stat="pass_yds" >3298</td><td class="right " data-stat="pass_td" >25</td><td class="right " data-stat="pass_td_perc" >5.4</td><td class="right " data-stat="pass_int" >11</td><td class="right " data-stat="pass_int_perc" >2.4</td><td class="right " data-stat="pass_long" >75</td><td class="right " data-stat="pass_yds_per_att" >7.1</td><td class="right " data-stat="pass_adj_yds_per_att" >7.1</td><td class="right " data-stat="pass_yds_per_cmp" >10.8</td><td class="right " data-stat="pass_yds_per_g" >299.8</td><td class="right " data-stat="pass_rating" >94.3</td><td class="right iz" data-stat="qbr" ></td><td class="right " data-stat="pass_sacked" >20</td><td class="right " data-stat="pass_sacked_yds" >103</td><td class="right " data-stat="pass_sacked_perc" >4.1</td><td class="right " data-stat="pass_net_yds_per_att" >6.57</td><td class="right " data-stat="pass_adj_net_yds_per_att" >6.58</td><td class="right " data-stat="comebacks" >2</td><td class="right " data-stat="gwd" >2</td></tr>
 <tr ><th scope="row" class="right iz" data-stat="uniform_number" ></th><td class="left " data-stat="player" >Opp Total</td><td class="right iz" data-stat="age" ></td><td class="left iz" data-stat="pos" ></td><td class="right " data-stat="g" >11</td><td class="right iz" data-stat="gs" ></td><td class="right iz" data-stat="qb_rec" ></td><td class="right " data-stat="pass_cmp" >253</td><td class="right " data-stat="pass_att" >378</td><td class="right " data-stat="pass_cmp_perc" >66.9</td><td class="right " data-stat="pass_yds" >2908</td><td class="right " data-stat="pass_td" >18</td><td class="right " data-stat="pass_td_perc" >4.8</td><td class="right " data-stat="pass_int" >10</td><td class="right " data-stat="pass_int_perc" >2.6</td><td class="right iz" data-stat="pass_long" ></td><td class="right " data-stat="pass_yds_per_att" >7.7</td><td class="right " data-stat="pass_adj_yds_per_att" >7.46</td><td class="right " data-stat="pass_yds_per_cmp" >11.5</td><td class="right " data-stat="pass_yds_per_g" >264.4</td><td class="right " data-stat="pass_rating" >94.8</td><td class="right iz" data-stat="qbr" ></td><td class="right " data-stat="pass_sacked" >19</td><td class="right " data-stat="pass_sacked_yds" >128</td><td class="right " data-stat="pass_sacked_perc" >4.8</td><td class="right " data-stat="pass_net_yds_per_att" >7.0</td><td class="right " data-stat="pass_adj_net_yds_per_att" >6.8</td><td class="right iz" data-stat="comebacks" ></td><td class="right iz" data-stat="gwd" ></td></tr>
@@ -2145,7 +2145,7 @@ var sr_menus_checkInfoCookie_run_inline = true;
 			
 				    <ul>
 	<li><a href="/players">Players</a>
-	    <div>In the News: <a title="Aaron Rodgers" href="/players/R/RodgAa00.htm">Aaron Rodgers</a>, <a title="Cam Newton" href="/players/N/NewtCa00.htm">Cam Newton</a>, <a title="Baker Mayfield" href="/players/M/MayfBa00.htm">Baker Mayfield</a>, <a title="Jimmy Garoppolo" href="/players/G/GaroJi00.htm">Jimmy Garoppolo</a>, <a title="Justin Fields" href="/players/F/FielJu00.htm">Justin Fields</a>, <a title="Deebo Samuel" href="/players/S/SamuDe00.htm">Deebo Samuel</a> <a href="/players/">...</a></div>
+	    <div>In the News: <a title="Aaron Rodgers" href="/players/R/RodgAa00.htm">Aaron Rodgers</a>, <a title="Deebo Samuel" href="/players/S/SamuDe00.htm">Deebo Samuel</a>, <a title="Jimmy Garoppolo" href="/players/G/GaroJi00.htm">Jimmy Garoppolo</a>, <a title="Kirk Cousins" href="/players/C/CousKi00.htm">Kirk Cousins</a>, <a title="Cam Newton" href="/players/N/NewtCa00.htm">Cam Newton</a>, <a title="Justin Fields" href="/players/F/FielJu00.htm">Justin Fields</a> <a href="/players/">...</a></div>
 	<div>Popular: <a title="Tom Brady" href="/players/B/BradTo00.htm">Tom Brady</a>, <a title="Cam Newton" href="/players/N/NewtCa00.htm">Cam Newton</a>, <a title="Aaron Donald" href="/players/D/DonaAa00.htm">Aaron Donald</a>, <a title="Russell Wilson" href="/players/W/WilsRu00.htm">Russell Wilson</a>, <a title="Aaron Rodgers" href="/players/R/RodgAa00.htm">Aaron Rodgers</a>, <a title="Odell Beckham" href="/players/B/BeckOd00.htm">Odell Beckham Jr.</a>, <a title="J.J. Watt" href="/players/W/WattJ.00.htm">J.J. Watt</a>, <a title="Peyton Manning" href="/players/M/MannPe00.htm">Peyton Manning</a>, <a title="Patrick Mahomes" href="/players/M/MahoPa00.htm">Patrick Mahomes</a>, <a title="Julio Jones" href="/players/J/JoneJu02.htm">Julio Jones</a>, <a title="Antonio Brown" href="/players/B/BrowAn04.htm">Antonio Brown</a>, <a title="Ben Roethlisberger" href="/players/R/RoetBe00.htm">Ben Roethlisberger</a>, <a title="Drew Brees" href="/players/B/BreeDr00.htm">Drew Brees</a>, <a title="Todd Gurley" href="/players/G/GurlTo01.htm">Todd Gurley</a> <a href="/players/">...</a></div>
 
 	<div><a href="/hof/">Hall of Famers</a>, <a href="/probowl/">Pro Bowlers</a>, <a href="/awards/ap-nfl-mvp-award.htm">MVPs</a>, <a href="/friv/linkify.cgi">Player Linker Tool</a> ...</div>
@@ -2153,12 +2153,12 @@ var sr_menus_checkInfoCookie_run_inline = true;
 
 	<li><a href="/teams/">Teams</a>
 	<div>AFC East: <a href="/teams/nwe/2021.htm">Patriots</a>, <a href="/teams/buf/2021.htm">Bills</a>, <a href="/teams/mia/2021.htm">Dolphins</a>, <a href="/teams/nyj/2021.htm">Jets</a></div>
-<div>AFC North: <a href="/teams/rav/2021.htm">Ravens</a>, <a href="/teams/cin/2021.htm">Bengals</a>, <a href="/teams/pit/2021.htm">Steelers</a>, <a href="/teams/cle/2021.htm">Browns</a></div>
+<div>AFC North: <a href="/teams/rav/2021.htm">Ravens</a>, <a href="/teams/cin/2021.htm">Bengals</a>, <a href="/teams/cle/2021.htm">Browns</a>, <a href="/teams/pit/2021.htm">Steelers</a></div>
 <div>AFC South: <a href="/teams/oti/2021.htm">Titans</a>, <a href="/teams/clt/2021.htm">Colts</a>, <a href="/teams/htx/2021.htm">Texans</a>, <a href="/teams/jax/2021.htm">Jaguars</a></div>
 <div>AFC West: <a href="/teams/kan/2021.htm">Chiefs</a>, <a href="/teams/sdg/2021.htm">Chargers</a>, <a href="/teams/rai/2021.htm">Raiders</a>, <a href="/teams/den/2021.htm">Broncos</a></div>
-<div>NFC East: <a href="/teams/dal/2021.htm">Cowboys</a>, <a href="/teams/phi/2021.htm">Eagles</a>, <a href="/teams/was/2021.htm">Football Team</a>, <a href="/teams/nyg/2021.htm">Giants</a></div>
+<div>NFC East: <a href="/teams/dal/2021.htm">Cowboys</a>, <a href="/teams/was/2021.htm">Football Team</a>, <a href="/teams/phi/2021.htm">Eagles</a>, <a href="/teams/nyg/2021.htm">Giants</a></div>
 <div>NFC North: <a href="/teams/gnb/2021.htm">Packers</a>, <a href="/teams/min/2021.htm">Vikings</a>, <a href="/teams/chi/2021.htm">Bears</a>, <a href="/teams/det/2021.htm">Lions</a></div>
-<div>NFC South: <a href="/teams/tam/2021.htm">Buccaneers</a>, <a href="/teams/nor/2021.htm">Saints</a>, <a href="/teams/car/2021.htm">Panthers</a>, <a href="/teams/atl/2021.htm">Falcons</a></div>
+<div>NFC South: <a href="/teams/tam/2021.htm">Buccaneers</a>, <a href="/teams/nor/2021.htm">Saints</a>, <a href="/teams/atl/2021.htm">Falcons</a>, <a href="/teams/car/2021.htm">Panthers</a></div>
 <div>NFC West: <a href="/teams/crd/2021.htm">Cardinals</a>, <a href="/teams/ram/2021.htm">Rams</a>, <a href="/teams/sfo/2021.htm">49ers</a>, <a href="/teams/sea/2021.htm">Seahawks</a></div>
 
 	</li>
@@ -2246,7 +2246,7 @@ var sr_menus_checkInfoCookie_run_inline = true;
 	<a href="https://www.paypal.me/sportsref" data-tip="Send us money via PayPal" data-label="PayPal" aria-label="PayPal" class="poptip"><svg class="icon paypal"><use xlink:href="#ic-paypal"></use></svg></a>
 
 <p>Every <a href="https://www.sports-reference.com/blog/sports-reference-social-media/">Sports Reference Social Media Account</a></p>
-<p><strong>Site Last Updated:</strong> Thursday, November 25,  9:01AM
+<p><strong>Site Last Updated:</strong> Thursday, December  2,  2:30PM
 </p>
 <p><a href="#" onclick="FreshworksWidget('open'); return false;" class="button" style="display: block">Question, Comment, Feedback, or Correction?</a></p>
 
@@ -2286,7 +2286,7 @@ var sr_menus_checkInfoCookie_run_inline = true;
 				
 <div class="notice">
 <p>Data Provided By
-	<a href="https://www.sportradar.com/" rel="nofollow"><img alt="SportRadar" border=0 width=275 src="https://d2p3bygnnzw9w3.cloudfront.net/req/202111231/images/klecko/sportradar.png"  style="background-color:#666; padding:.5em; border-radius:.25em"></a>
+	<a href="https://www.sportradar.com/" rel="nofollow"><img alt="SportRadar" border=0 width=275 src="https://d2p3bygnnzw9w3.cloudfront.net/req/202112021/images/klecko/sportradar.png"  style="background-color:#666; padding:.5em; border-radius:.25em"></a>
 	</p>
 	
 	
@@ -2311,7 +2311,7 @@ var sr_menus_checkInfoCookie_run_inline = true;
 	
 	
 	
-	<li><a href="https://fbref.com/pt/">Futebol</a></li>
+	<li><a href="https://fbref.com/de/">Fu�ball</a></li>
 
 	<li><a href="https://www.sports-reference.com/blog/">Blog</a></li>
 
@@ -2321,7 +2321,17 @@ var sr_menus_checkInfoCookie_run_inline = true;
 
 </ul>
 
-	<div id="about"><a href="//www.sports-reference.com/about.html">About</a> &bull; <a href="//www.sports-reference.com/privacy.html">Privacy Statement</a> &bull; <a href="//www.sports-reference.com/termsofuse.html">Conditions &amp; Terms of Service</a> &bull; <a href="//www.sports-reference.com/advertise.html">Advertise With Us</a> &bull; <a href="//www.sports-reference.com/data_use.html">Use of Data</a></div><!-- div#about -->
+	<div id="about">
+  <a href="//www.sports-reference.com/about.html">About</a> &bull;
+  <a href="//www.sports-reference.com/termsofuse.html">Conditions &amp; Terms of Service</a> &bull;
+  <a href="//www.sports-reference.com/advertise.html">Advertise With Us</a>
+  <br><br>
+  <a href="//www.sports-reference.com/privacy.html">Privacy Policy</a> &bull;
+  <a href="//www.sports-reference.com/gambling-revenue-policy.html">Gambling Revenue Policy</a> &bull;
+  <a href="//www.sports-reference.com/accessibility-policy.html">Accessibility Policy</a> &bull;
+  <a href="//www.sports-reference.com/data_use.html">Use of Data</a>
+  </div>
+  <!-- div#about -->
 </div><!-- div#footer -->
 
 </div><!-- div#wrap -->
