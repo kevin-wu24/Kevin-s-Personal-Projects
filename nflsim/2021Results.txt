@@ -19,8 +19,8 @@ ATS pushes occur when a game ends with the difference of scores equaling the cho
 	against the spread right before kickoff.	
 	
 2021-2022 Season Predictions & Results
-Record ATS: 72-88-4
-Record ML: 89-68-9
+Record ATS: 85-103-5
+Record ML: 104-80-11
 
 Weeks 1-4: basically below .500, using combined last and this year data for sim; right idea?
 
@@ -2345,7 +2345,7 @@ Week 11 Record:(ATS: 6-9-0; ML: 10-4-1)
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: TB ML and ATS***
 
-Week 12 Record:(ATS: 0-0-0; ML: 0-0-0)
+Week 12 Record:(ATS: 6-8-1; ML: 7-6-2)
 	1.	CHI(-0.5, -116) at DET(+2.5, +120)
 		DET QB: Jared Goff
 		CHI QB: Andy Dalton
@@ -2556,7 +2556,7 @@ Week 12 Record:(ATS: 0-0-0; ML: 0-0-0)
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: SEA ML and ATS***	
 
-Week 13 Recotd:(ATS: 0-0-0; ML: 0-0-0)
+Week 13 Record:(ATS: 7-7-0; ML: 8-6-0)
 	1.	DAL(-6.5, -250) at NO(+6.5, +230)
 		NO QB: Taysom Hill
 		DAL QB: Dak Prescott
@@ -2752,6 +2752,23 @@ Week 13 Recotd:(ATS: 0-0-0; ML: 0-0-0)
 		 -4.0
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: BUF ML and ATS***
+
+Week 14 Record:(ATS: 0-0-0; ML: 0-0-0)
+	1.	PIT(+3, +140) at MIN(-3, -165)
+		MIN QB: Kirk Cousins
+		PIT QB: Ben Roethlisberger
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 62.264150943396224% ATS%: 59.089999999999996%
+		MIN 29.0     PIT 26.0
+		MIN 36.0     PIT 13.0
+		MIN 25.0     PIT 16.0
+		Shows possible game results.
+		MIN 30.0     PIT 20.0
+		 -11.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: MIN ML and ATS***
+	
+	2.
 	
 	
 										
