@@ -2768,7 +2768,187 @@ Week 14 Record:(ATS: 0-0-0; ML: 0-0-0)
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: MIN ML and ATS***
 	
-	2.
+	2.	BAL(+3, +125) at CLE(-2.5, -140)
+		CLE QB: Baker Mayfield
+		BAL QB: Lamar Jackson
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 58.333333333333336% ATS%: 57.574999999999996%
+		CLE 27.0     BAL 29.0
+		CLE 20.0     BAL 16.0
+		CLE 17.0     BAL 18.0
+		Shows possible game results.
+		CLE 25.0     BAL 27.0
+		 -1.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: BAL ML and ATS***
+	
+	3. JAX(+9, +375) at TEN(-8, -425)
+		TEN QB: Ryan Tannehill
+		JAX QB: Trevor Lawrence
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 80.95238095238095% ATS%: 74.24%
+		TEN 33.0     JAX 11.0
+		TEN 37.0     JAX 6.0
+		TEN 37.0     JAX 5.0
+		Shows possible game results.
+		TEN 28.0     JAX 10.0
+		 -18.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: TEN ML and ATS***
+	
+	4.	LV(+10, +375) at KC(-9.5, -425)
+		KC QB: Patrick Mahomes
+		LV QB: Derek Carr
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 80.95238095238095% ATS%: 78.785%
+		KC 37.0     LV 22.0
+		KC 28.0     LV 22.0
+		KC 19.0     LV 28.0
+		Shows possible game results.
+		KC 30.0     LV 20.0
+		 -10.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: KC ML and ATS***
+	
+	5.	NO(-5.5, -220) at NYJ(+5.5, +200)
+		NYJ QB: Zach Wilson
+		NO QB: Taysom Hill
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 68.75% ATS%: 66.66499999999999%
+		NYJ 11.0     NO 21.0
+		NYJ 10.0     NO 17.0
+		NYJ 13.0     NO 22.0
+		Shows possible game results.
+		NYJ 14.0     NO 20.0
+		 -7.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: NO ML and ATS***
+	
+	6.	DAL(-4, -189) at WAS(+4.5, +180)
+		WAS QB: Taylor Heinicke
+		DAL QB: Dak Prescott
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 65.39792387543253% ATS%: 62.12%
+		WAS 13.0     DAL 34.0
+		WAS 30.0     DAL 34.0
+		WAS 30.0     DAL 34.0
+		Shows possible game results.
+		WAS 20.0     DAL 30.0
+		 -9.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: DAL ML and ATS***
+	
+	7.	ATL(+3, +120) at CAR(-2.5, -135)
+		CAR QB: Cam Newton
+		ATL QB: Matt Ryan
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 57.446808510638306% ATS%: 57.574999999999996%
+		CAR 17.0     ATL 17.0
+		CAR 29.0     ATL 15.0
+		CAR 21.0     ATL 11.0
+		Shows possible game results.
+		CAR 20.0     ATL 12.0
+		 -8.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: CAR ML and ATS***
+	
+	8.	SEA(-8.5, -385) at HOU(+9, +330)
+		HOU QB: Davis Mills
+		SEA QB: Russell Wilson
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 79.38144329896907% ATS%: 75.755%
+		HOU 20.0     SEA 15.0
+		HOU 21.0     SEA 26.0
+		HOU 10.0     SEA 26.0
+		Shows possible game results.
+		HOU 13.0     SEA 24.0
+		 -11.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: SEA ML and ATS***
+	
+	9.	DET(+10, + 380) at DEN(-10, -435)
+		DEN QB: Teddy Bridgewater
+		DET QB: Jared Goff
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 81.30841121495327% ATS%: 80.3%
+		DEN 18.0     DET 10.0
+		DEN 36.0     DET 23.0
+		DEN 36.0     DET 7.0
+		Shows possible game results.
+		DEN 26.0     DET 14.0
+		 -11.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: DEN ML and ATS***
+	
+	10.	NYG(+10, + 380) at LAC(-9.5, -425)
+		LAC QB: Justin Herbert
+		NYG QB: Daniel Jones
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 80.95238095238095% ATS%: 78.785%
+		LAC 37.0     NYG 14.0
+		LAC 18.0     NYG 9.0
+		LAC 22.0     NYG 20.0
+		Shows possible game results.
+		LAC 29.0     NYG 13.0
+		 -15.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: LAC ML and ATS***
+	
+	11.	SF(-1.5, -120) at CIN(+2, +108)
+		CIN QB: Joe Burrow
+		SF QB: Jimmy Garoppolo
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 54.54545454545454% ATS%: 54.545%
+		CIN 37.0     SF 34.0
+		CIN 26.0     SF 21.0
+		CIN 37.0     SF 22.0
+		Shows possible game results.
+		CIN 34.0     SF 29.0
+		 -4.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: CIN ML and ATS***
+	
+	12.	BUF(+3.5, +152) at TB(-3.5, -170)
+		TB QB: Tom Brady
+		BUF QB: Josh Allen
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 62.96296296296296% ATS%: 60.605%
+		TB 38.0     BUF 34.0
+		TB 38.0     BUF 34.0
+		TB 37.0     BUF 34.0
+		Shows possible game results.
+		TB 36.0     BUF 32.0
+		 -4.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: TB ML and ATS***
+	
+	13.	CHI(+13, +500) at GB(-12, -590)
+		GB QB: Aaron Rodgers
+		CHI QB: Justin Fields
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 85.5072463768116% ATS%: 86.36%
+		GB 37.0     CHI 9.0
+		GB 37.0     CHI 6.0
+		GB 33.0     CHI 10.0
+		Shows possible game results.
+		GB 32.0     CHI 13.0
+		 -19.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: GB ML and ATS***
+	
+	14.	LAR(+2.5, +116) at ARI(-2, -132)
+		ARI QB: Kyler Murray
+		LAR QB: Matthew Stafford
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 56.896551724137936% ATS%: 56.06%
+		ARI 38.0     LAR 34.0
+		ARI 38.0     LAR 34.0
+		ARI 37.0     LAR 25.0
+		Shows possible game results.
+		ARI 37.0     LAR 31.0
+		 -6.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: ARI ML and ATS***
 	
 	
 										
