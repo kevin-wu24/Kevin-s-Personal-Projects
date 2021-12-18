@@ -701,7 +701,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <label for="edit-offense-defense" class="visually-hidden">Offense / Defense</label>
         <select data-drupal-selector="edit-offense-defense" id="edit-offense-defense" name="offense_defense" class="form-select"><option value="overall" >Overall</option><option value="offense" selected="selected" >Offense</option><option value="defense" >Defense</option></select>
         </div>
-<span class="form-please-wait">Loading, please wait...</span><input autocomplete="off" data-drupal-selector="form-13d2fso904h7hk1nszglz9abkql9rovjbhiq4gza9qk" type="hidden" name="form_build_id" value="form-13D2FSO904h7Hk1nSZGLZ9ABKql9RovjBHIq4gZA9qk" />
+<span class="form-please-wait">Loading, please wait...</span><input autocomplete="off" data-drupal-selector="form-lrmsti6o8vbnjvrmzwrp0lqioh-rbmcayzv8ru-umbq" type="hidden" name="form_build_id" value="form-lrmstI6O8vBnjvrmZwrP0lqIOh_RBMcAYzv8rU-umBQ" />
 <input data-drupal-selector="edit-fo-stats-navigation-form" type="hidden" name="form_id" value="fo_stats_navigation_form" />
 <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" name="op" value="View Stats" class="button button--primary js-form-submit form-submit" />
 </div>
@@ -2231,7 +2231,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <input data-drupal-selector="edit-pass" placeholder="Password" type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required" required="required" aria-required="true" />
 
         </div>
-<input autocomplete="off" data-drupal-selector="form-xeb0yhcxvyxdacpjwonuelv5c78po2zigup8pifryne" type="hidden" name="form_build_id" value="form-xeB0yhcxVyXDacPJwoNUeLv5C78pO2ZIGuP8pifrYNE" />
+<input autocomplete="off" data-drupal-selector="form-txd0bvgfy8yst41izvpxpb6qu95oyoypayqdn1clkr0" type="hidden" name="form_build_id" value="form-txD0bVgFy8ysT41izvPxPB6qU95oYoyPAyQdn1CLkR0" />
 <input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" />
 <p><i><a href="/user/password">Forgot password?</a></i></p><div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" class="orange button js-form-submit form-submit" type="submit" id="edit-submit" name="op" value="Login" />
 <div class="form-additional-links header"><a href="/user/login" class="login-link" data-drupal-selector="edit-login" id="edit-login">Login</a><a href="/user/password" data-drupal-selector="edit-reset" id="edit-reset">Forgot Password?</a><a href="/foplus/trial/start" data-drupal-selector="edit-trial" id="edit-trial">Start Your FO+ Free Trial</a></div><div class="form-additional-links content"><div><a href="/user/password" data-drupal-selector="edit-reset" id="edit-reset--2">Forgot Password?</a></div><div>Don't have an account? <a href="/register">Register now!</a></div></div></div>
@@ -2273,13 +2273,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </header>
 
       <div class="video-iframe-wrap">
-      <a class="video-iframe-toggle"><img src="https://www.footballoutsiders.com/files/FO-AMA-Title.png" alt="What Can You Beat Bill Belichick In?" /></a>
-      <iframe title="What Can You Beat Bill Belichick In?" frameborder="0" allow="autoplay" allowfullscreen style="display: none;"></iframe>
+      <a class="video-iframe-toggle"><img src="https://www.footballoutsiders.com/files/FO-AMA-Title.png" alt="Redrafting The 2021 Top 5" /></a>
+      <iframe title="Redrafting The 2021 Top 5" frameborder="0" allow="autoplay" allowfullscreen style="display: none;"></iframe>
     </div>
   
   <div id="fo-main-podcast-block-meta">
-    <h2>What Can You Beat Bill Belichick In?</h2>
-    <p><b>NFL Week 14 &bull;</b> December 8</p>
+    <h2>Redrafting The 2021 Top 5</h2>
+    <p><b>NFL Week 15 &bull;</b> December 15</p>
   </div>
 
   <footer>
@@ -2298,7 +2298,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       
 <div id="dvoa-ratings-block">
   <header>
-    <p>December 7, 10:38am ET</p>
+    <p>December 14, 10:57am ET</p>
     <h2>DVOA Ratings</h2>
   </header>
 
@@ -2319,7 +2319,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">1</span>
             <span class="team-icon team-tb"></span>
             <span class="name">Buccaneers</span>
-            <span class="dvoa font-overpass">28.7%</span>
+            <span class="dvoa font-overpass">30.8%</span>
           </a>
         </li>
                 <li>
@@ -2327,31 +2327,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">2</span>
             <span class="team-icon team-ne"></span>
             <span class="name">Patriots</span>
-            <span class="dvoa font-overpass">28.0%</span>
-          </a>
-        </li>
-                <li>
-          <a href="https://www.footballoutsiders.com/team/buf">
-            <span class="rank font-overpass">3</span>
-            <span class="team-icon team-buf"></span>
-            <span class="name">Bills</span>
-            <span class="dvoa font-overpass">25.0%</span>
+            <span class="dvoa font-overpass">27.9%</span>
           </a>
         </li>
                 <li>
           <a href="https://www.footballoutsiders.com/team/dal">
-            <span class="rank font-overpass">4</span>
+            <span class="rank font-overpass">3</span>
             <span class="team-icon team-dal"></span>
             <span class="name">Cowboys</span>
-            <span class="dvoa font-overpass">24.7%</span>
+            <span class="dvoa font-overpass">26.3%</span>
           </a>
         </li>
                 <li>
-          <a href="https://www.footballoutsiders.com/team/ari">
+          <a href="https://www.footballoutsiders.com/team/buf">
+            <span class="rank font-overpass">4</span>
+            <span class="team-icon team-buf"></span>
+            <span class="name">Bills</span>
+            <span class="dvoa font-overpass">24.6%</span>
+          </a>
+        </li>
+                <li>
+          <a href="https://www.footballoutsiders.com/team/lar">
             <span class="rank font-overpass">5</span>
-            <span class="team-icon team-ari"></span>
-            <span class="name">Cardinals</span>
-            <span class="dvoa font-overpass">22.3%</span>
+            <span class="team-icon team-lar"></span>
+            <span class="name">Rams</span>
+            <span class="dvoa font-overpass">23.0%</span>
           </a>
         </li>
               </ol>
@@ -2368,39 +2368,39 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">1</span>
             <span class="team-icon team-tb"></span>
             <span class="name">Buccaneers</span>
-            <span class="dvoa font-overpass">25.6%</span>
-          </a>
-        </li>
-                <li>
-          <a href="https://www.footballoutsiders.com/team/lac">
-            <span class="rank font-overpass">2</span>
-            <span class="team-icon team-lac"></span>
-            <span class="name">Chargers</span>
-            <span class="dvoa font-overpass">15.5%</span>
+            <span class="dvoa font-overpass">28.4%</span>
           </a>
         </li>
                 <li>
           <a href="https://www.footballoutsiders.com/team/gb">
-            <span class="rank font-overpass">3</span>
+            <span class="rank font-overpass">2</span>
             <span class="team-icon team-gb"></span>
             <span class="name">Packers</span>
-            <span class="dvoa font-overpass">15.0%</span>
+            <span class="dvoa font-overpass">17.9%</span>
           </a>
         </li>
                 <li>
-          <a href="https://www.footballoutsiders.com/team/sf">
-            <span class="rank font-overpass">4</span>
-            <span class="team-icon team-sf"></span>
-            <span class="name">49ers</span>
-            <span class="dvoa font-overpass">13.8%</span>
+          <a href="https://www.footballoutsiders.com/team/lac">
+            <span class="rank font-overpass">3</span>
+            <span class="team-icon team-lac"></span>
+            <span class="name">Chargers</span>
+            <span class="dvoa font-overpass">17.0%</span>
           </a>
         </li>
                 <li>
           <a href="https://www.footballoutsiders.com/team/lar">
-            <span class="rank font-overpass">5</span>
+            <span class="rank font-overpass">4</span>
             <span class="team-icon team-lar"></span>
             <span class="name">Rams</span>
-            <span class="dvoa font-overpass">13.6%</span>
+            <span class="dvoa font-overpass">13.7%</span>
+          </a>
+        </li>
+                <li>
+          <a href="https://www.footballoutsiders.com/team/kc">
+            <span class="rank font-overpass">5</span>
+            <span class="team-icon team-kc"></span>
+            <span class="name">Chiefs</span>
+            <span class="dvoa font-overpass">13.5%</span>
           </a>
         </li>
               </ol>
@@ -2417,7 +2417,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">1</span>
             <span class="team-icon team-buf"></span>
             <span class="name">Bills</span>
-            <span class="dvoa font-overpass">-21.0%</span>
+            <span class="dvoa font-overpass">-17.6%</span>
           </a>
         </li>
                 <li>
@@ -2425,23 +2425,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">2</span>
             <span class="team-icon team-ne"></span>
             <span class="name">Patriots</span>
-            <span class="dvoa font-overpass">-17.0%</span>
-          </a>
-        </li>
-                <li>
-          <a href="https://www.footballoutsiders.com/team/ari">
-            <span class="rank font-overpass">3</span>
-            <span class="team-icon team-ari"></span>
-            <span class="name">Cardinals</span>
-            <span class="dvoa font-overpass">-13.4%</span>
+            <span class="dvoa font-overpass">-17.3%</span>
           </a>
         </li>
                 <li>
           <a href="https://www.footballoutsiders.com/team/dal">
-            <span class="rank font-overpass">4</span>
+            <span class="rank font-overpass">3</span>
             <span class="team-icon team-dal"></span>
             <span class="name">Cowboys</span>
-            <span class="dvoa font-overpass">-11.8%</span>
+            <span class="dvoa font-overpass">-15.7%</span>
+          </a>
+        </li>
+                <li>
+          <a href="https://www.footballoutsiders.com/team/ari">
+            <span class="rank font-overpass">4</span>
+            <span class="team-icon team-ari"></span>
+            <span class="name">Cardinals</span>
+            <span class="dvoa font-overpass">-12.8%</span>
           </a>
         </li>
                 <li>
@@ -2449,7 +2449,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">5</span>
             <span class="team-icon team-no"></span>
             <span class="name">Saints</span>
-            <span class="dvoa font-overpass">-9.3%</span>
+            <span class="dvoa font-overpass">-9.8%</span>
           </a>
         </li>
               </ol>
@@ -2471,7 +2471,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div id="fo-main-playoff-odds-block">
 
   <header>
-    <p>December 7, 9:57am ET</p>
+    <p>December 14, 10:22am ET</p>
     <h2>Current Odds</h2>
   </header>
 
@@ -2483,7 +2483,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">1</span>
             <span class="team-icon team-ne"></span>
             <span class="name">Patriots</span>
-            <span class="odds font-overpass">33.7%</span>
+            <span class="odds font-overpass">29.2%</span>
           </a>
         </li>
               <li>
@@ -2491,15 +2491,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">2</span>
             <span class="team-icon team-tb"></span>
             <span class="name">Buccaneers</span>
-            <span class="odds font-overpass">14.4%</span>
+            <span class="odds font-overpass">19.1%</span>
           </a>
         </li>
               <li>
-          <a href="https://www.footballoutsiders.com/team/ari">
+          <a href="https://www.footballoutsiders.com/team/kc">
             <span class="rank font-overpass">3</span>
-            <span class="team-icon team-ari"></span>
-            <span class="name">Cardinals</span>
-            <span class="odds font-overpass">11.2%</span>
+            <span class="team-icon team-kc"></span>
+            <span class="name">Chiefs</span>
+            <span class="odds font-overpass">10.5%</span>
           </a>
         </li>
               <li>
@@ -2507,7 +2507,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">4</span>
             <span class="team-icon team-dal"></span>
             <span class="name">Cowboys</span>
-            <span class="odds font-overpass">8.5%</span>
+            <span class="odds font-overpass">10.1%</span>
           </a>
         </li>
               <li>
@@ -2515,7 +2515,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">5</span>
             <span class="team-icon team-gb"></span>
             <span class="name">Packers</span>
-            <span class="odds font-overpass">7.6%</span>
+            <span class="odds font-overpass">7.1%</span>
           </a>
         </li>
           </ol>
@@ -2525,18 +2525,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <h3>Make Playoffs</h3>
     <ol>
               <li>
-          <a href="https://www.footballoutsiders.com/team/ari">
+          <a href="https://www.footballoutsiders.com/team/tb">
             <span class="rank font-overpass">1</span>
-            <span class="team-icon team-ari"></span>
-            <span class="name">Cardinals</span>
+            <span class="team-icon team-tb"></span>
+            <span class="name">Buccaneers</span>
             <span class="odds font-overpass">100.0%</span>
           </a>
         </li>
               <li>
-          <a href="https://www.footballoutsiders.com/team/tb">
+          <a href="https://www.footballoutsiders.com/team/ari">
             <span class="rank font-overpass">2</span>
-            <span class="team-icon team-tb"></span>
-            <span class="name">Buccaneers</span>
+            <span class="team-icon team-ari"></span>
+            <span class="name">Cardinals</span>
             <span class="odds font-overpass">100.0%</span>
           </a>
         </li>
@@ -2545,23 +2545,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">3</span>
             <span class="team-icon team-gb"></span>
             <span class="name">Packers</span>
+            <span class="odds font-overpass">100.0%</span>
+          </a>
+        </li>
+              <li>
+          <a href="https://www.footballoutsiders.com/team/dal">
+            <span class="rank font-overpass">4</span>
+            <span class="team-icon team-dal"></span>
+            <span class="name">Cowboys</span>
             <span class="odds font-overpass">99.9%</span>
           </a>
         </li>
               <li>
           <a href="https://www.footballoutsiders.com/team/ne">
-            <span class="rank font-overpass">4</span>
+            <span class="rank font-overpass">5</span>
             <span class="team-icon team-ne"></span>
             <span class="name">Patriots</span>
             <span class="odds font-overpass">99.7%</span>
-          </a>
-        </li>
-              <li>
-          <a href="https://www.footballoutsiders.com/team/dal">
-            <span class="rank font-overpass">5</span>
-            <span class="team-icon team-dal"></span>
-            <span class="name">Cowboys</span>
-            <span class="odds font-overpass">99.4%</span>
           </a>
         </li>
           </ol>
@@ -2575,7 +2575,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">1</span>
             <span class="team-icon team-det"></span>
             <span class="name">Lions</span>
-            <span class="odds font-overpass">49.4%</span>
+            <span class="odds font-overpass">58.5%</span>
           </a>
         </li>
               <li>
@@ -2583,7 +2583,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">2</span>
             <span class="team-icon team-hou"></span>
             <span class="name">Texans</span>
-            <span class="odds font-overpass">25.8%</span>
+            <span class="odds font-overpass">20.9%</span>
           </a>
         </li>
               <li>
@@ -2591,7 +2591,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">3</span>
             <span class="team-icon team-jax"></span>
             <span class="name">Jaguars</span>
-            <span class="odds font-overpass">21.8%</span>
+            <span class="odds font-overpass">18.5%</span>
           </a>
         </li>
               <li>
@@ -2599,7 +2599,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span class="rank font-overpass">4</span>
             <span class="team-icon team-nyj"></span>
             <span class="name">Jets</span>
-            <span class="odds font-overpass">2.9%</span>
+            <span class="odds font-overpass">2.1%</span>
           </a>
         </li>
               <li>
@@ -3094,7 +3094,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
         
           
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><em>Database updated: 12/08/2021 11:13 AM EST</em></p>
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><em>Database updated: 12/14/2021 1:50 PM EST</em></p>
 <p>These stats are computed from NFL Drive Charts and are not adjusted for strength of schedule or situation.</p>
 <p><b>DSR</b> represents Drive Success Rate, as introduced in <i>Pro Football Prospectus 2005</i>, which measures the percentage of down series that result in a first down or touchdown. <b>TO/Dr</b> represents turnovers per drive. <b>FUM/Dr</b> represents fumbles lost per drive. <b>LOS/Dr</b> represents average starting field position (line of scrimmage) per drive. <b>TOP/Dr</b> represents time of possession per drive.</p>
 <p>Take-a-knee drives at the end of a half are discarded. <b>NET</b> values are simply <b>OFFENSE</b> minus <b>DEFENSE.</b></p>
@@ -3157,7 +3157,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 
 
-<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"stats\/nfl\/overall-drive-statsoff\/2020","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","routeName":"fo_stats.offensive_drive"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"chosen\/drupal.chosen,chosen_lib\/chosen.css,classy\/base,classy\/messages,core\/drupal.tableresponsive,core\/normalize,fo_ccm\/utm,fo_components\/my_app,fo_front\/global-styling,fo_main\/99c_modal,fo_main\/admin_menu,fo_main\/podcast_block,fo_shared\/grid,fo_stats\/nav_widget,fo_store\/yahoo,fo_stripe\/stripe,ga\/analytics,system\/base","theme":"fo_front","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"FOCCM":{"utmFields":{"endpoint":"\/ajax\/ccm\/utm","list":["sce","utm_source","utm_campaign","utm_term","utm_medium","utm_content","campaignid","adgroupid","adsetid","adid","keyword","adposition","placement","network","loc_interest_ms","loc_physical_ms","target","targetid","matchtype","device","devicemodel","sitelink","campaign_name","campaign_category","campaign_date"]}},"foComponents":{"scheduleBanner":{"discussionLink":"https:\/\/www.footballoutsiders.com\/open-discussion\/2021\/week-12-open-discussion"},"schedule":[{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["MIN","PIT"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"1fbe9b27-6e72-40c5-824c-e9dde770860b","home_team":"MIN","season_week":"14","season_stage":"reg","starts_at":"2021-12-10T01:20:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["PIT","MIN"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"1fbe9b27-6e72-40c5-824c-e9dde770860b","home_team":"MIN","season_week":"14","season_stage":"reg","starts_at":"2021-12-10T01:20:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["ATL","CAR"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"ed738f56-30c1-4e20-ba57-060bdab8eed0","home_team":"CAR","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["BAL","CLE"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"0ffb3c3a-686f-4989-b175-fca4e6a1e7a6","home_team":"CLE","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["CAR","ATL"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"ed738f56-30c1-4e20-ba57-060bdab8eed0","home_team":"CAR","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["CIN","SF"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"2f043bbf-05f9-409c-b1e9-874609c95c4d","home_team":"CIN","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T21:25:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["CLE","BAL"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"0ffb3c3a-686f-4989-b175-fca4e6a1e7a6","home_team":"CLE","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["DAL","WAS"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"17945088-62b4-469b-a663-494fc6536034","home_team":"WAS","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["HOU","SEA"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"90a833ba-5391-4aae-8f8e-f47af38542da","home_team":"HOU","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["JAX","TEN"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"daba1ca6-4920-4a15-a038-069ec64f328b","home_team":"TEN","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["KC","LV"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"1f868057-1d87-47ae-b955-44b5e1e154a4","home_team":"KC","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["NYJ","NO"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"e5e9e137-ee27-4b28-aa2b-66a62536cbaf","home_team":"NYJ","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["NO","NYJ"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"e5e9e137-ee27-4b28-aa2b-66a62536cbaf","home_team":"NYJ","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["LV","KC"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"1f868057-1d87-47ae-b955-44b5e1e154a4","home_team":"KC","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["SF","CIN"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"2f043bbf-05f9-409c-b1e9-874609c95c4d","home_team":"CIN","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T21:25:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["SEA","HOU"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"90a833ba-5391-4aae-8f8e-f47af38542da","home_team":"HOU","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["TEN","JAX"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"daba1ca6-4920-4a15-a038-069ec64f328b","home_team":"TEN","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["WAS","DAL"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"17945088-62b4-469b-a663-494fc6536034","home_team":"WAS","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["DEN","DET"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"56e6a65a-f1ea-4b6a-be1b-44710637acea","home_team":"DEN","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T21:05:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["DET","DEN"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"56e6a65a-f1ea-4b6a-be1b-44710637acea","home_team":"DEN","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T21:05:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["NYG","LAC"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"fc935c5a-99af-4ef7-a57f-378916e31ce7","home_team":"LAC","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T21:05:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["LAC","NYG"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"fc935c5a-99af-4ef7-a57f-378916e31ce7","home_team":"LAC","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T21:05:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["BUF","TB"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"8ef09cb5-4d74-40ae-8370-5f360eacba71","home_team":"TB","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T21:25:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["TB","BUF"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"8ef09cb5-4d74-40ae-8370-5f360eacba71","home_team":"TB","season_week":"14","season_stage":"reg","starts_at":"2021-12-12T21:25:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["CHI","GB"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"bd8801ea-849d-4e02-92ab-053f53e43fc4","home_team":"GB","season_week":"14","season_stage":"reg","starts_at":"2021-12-13T01:20:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["GB","CHI"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"bd8801ea-849d-4e02-92ab-053f53e43fc4","home_team":"GB","season_week":"14","season_stage":"reg","starts_at":"2021-12-13T01:20:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["ARI","LAR"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"db445907-41f7-4f35-b6bb-918430044fa5","home_team":"ARI","season_week":"14","season_stage":"reg","starts_at":"2021-12-14T01:15:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["LAR","ARI"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"db445907-41f7-4f35-b6bb-918430044fa5","home_team":"ARI","season_week":"14","season_stage":"reg","starts_at":"2021-12-14T01:15:00-05:00"}],"dvoa":[],"dave":[],"scheduleCacheEndpoints":{"scheduleInit":"\/cache\/schedule-init","liveGame":"\/cache\/live-game","totalDvoa":"\/cache\/total-dvoa","totalDave":"\/cache\/total-dave"}},"FOMain":{"NFLTeams":{"2TM":{"id":"AAAAAA","city":"Two","nickname":"Teams","abbrev":"2TM","year_min":1985,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Two_Teams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Two_Teams.png"},"ARI":{"id":"31R64Y","city":"Arizona","nickname":"Cardinals","abbrev":"ARI","year_min":1994,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Arizona_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Arizona_Cardinals.png"},"ATL":{"id":"1NJYCE","city":"Atlanta","nickname":"Falcons","abbrev":"ATL","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Atlanta_Falcons.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Atlanta_Falcons.png"},"BAL":{"id":"CU2QVY","city":"Baltimore","nickname":"Ravens","abbrev":"BAL","year_min":1996,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Baltimore_Ravens.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Baltimore_Ravens.png"},"BALC":{"id":"N2LWDD","city":"Baltimore","nickname":"Colts","abbrev":"BALC","year_min":1983,"year_max":1983,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Baltimore_Colts.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Baltimore_Colts.png"},"BUF":{"id":"3XRMV5","city":"Buffalo","nickname":"Bills","abbrev":"BUF","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Buffalo_Bills.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Buffalo_Bills.png"},"CAR":{"id":"NW374Y","city":"Carolina","nickname":"Panthers","abbrev":"CAR","year_min":1995,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Carolina_Panthers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Carolina_Panthers.png"},"CHI":{"id":"0Q8UBU","city":"Chicago","nickname":"Bears","abbrev":"CHI","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Chicago_Bears.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Chicago_Bears.png"},"CIN":{"id":"CHI76M","city":"Cincinnati","nickname":"Bengals","abbrev":"CIN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cincinnati_Bengals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cincinnati_Bengals.png"},"CLE":{"id":"UKPC2W","city":"Cleveland","nickname":"Browns","abbrev":"CLE","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cleveland_Browns.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cleveland_Browns.png"},"CLE1":{"id":"CU2QVY","city":"Cleveland","nickname":"Browns","abbrev":"CLE1","year_min":1985,"year_max":1995,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cleveland_Browns.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cleveland_Browns.png"},"DAL":{"id":"V9PDBK","city":"Dallas","nickname":"Cowboys","abbrev":"DAL","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Dallas_Cowboys.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Dallas_Cowboys.png"},"DEN":{"id":"UN4420","city":"Denver","nickname":"Broncos","abbrev":"DEN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Denver_Broncos.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Denver_Broncos.png"},"DET":{"id":"QJ0Z20","city":"Detroit","nickname":"Lions","abbrev":"DET","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Detroit_Lions.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Detroit_Lions.png"},"GB":{"id":"EQC28Y","city":"Green Bay","nickname":"Packers","abbrev":"GB","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Green_Bay_Packers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Green_Bay_Packers.png"},"HOIL":{"id":"ZHFQ4R","city":"Houston","nickname":"Oilers","abbrev":"HOIL","year_min":1983,"year_max":1996,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Houston_Oilers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Houston_Oilers.png"},"HOU":{"id":"9LMVNZ","city":"Houston","nickname":"Texans","abbrev":"HOU","year_min":2002,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Houston_Texans.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Houston_Texans.png"},"IND":{"id":"N2LWDD","city":"Indianapolis","nickname":"Colts","abbrev":"IND","year_min":1984,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Indianapolis_Colts.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Indianapolis_Colts.png"},"JAX":{"id":"CL7RBW","city":"Jacksonville","nickname":"Jaguars","abbrev":"JAX","year_min":1995,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Jacksonville_Jaguars.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Jacksonville_Jaguars.png"},"KC":{"id":"MVCF5W","city":"Kansas City","nickname":"Chiefs","abbrev":"KC","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Kansas_City_Chiefs.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Kansas_City_Chiefs.png"},"LAC":{"id":"XE0W6H","city":"Los Angeles","nickname":"Chargers","abbrev":"LAC","year_min":2017,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Chargers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Chargers.png"},"LAR":{"id":"PVS60L","city":"Los Angeles","nickname":"Rams","abbrev":"LAR","year_min":2016,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Rams.png"},"LARD":{"id":"A7F9J0","city":"Los Angeles","nickname":"Raiders","abbrev":"LARD","year_min":1983,"year_max":1994,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Raiders.png"},"LARM":{"id":"PVS60L","city":"Los Angeles","nickname":"Rams","abbrev":"LARM","year_min":1983,"year_max":1994,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Rams.png"},"LV":{"id":"A7F9J0","city":"Las Vegas","nickname":"Raiders","abbrev":"LV","year_min":2020,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Las_Vegas_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Las_Vegas_Raiders.png"},"MIA":{"id":"1CGKY9","city":"Miami","nickname":"Dolphins","abbrev":"MIA","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Miami_Dolphins.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Miami_Dolphins.png"},"MIN":{"id":"VR6E7K","city":"Minnesota","nickname":"Vikings","abbrev":"MIN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Minnesota_Vikings.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Minnesota_Vikings.png"},"NE":{"id":"RLTZ4P","city":"New England","nickname":"Patriots","abbrev":"NE","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_England_Patriots.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_England_Patriots.png"},"NO":{"id":"SC1N3V","city":"New Orleans","nickname":"Saints","abbrev":"NO","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_Orleans_Saints.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_Orleans_Saints.png"},"NYG":{"id":"J941T8","city":"New York","nickname":"Giants","abbrev":"NYG","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_York_Giants.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_York_Giants.png"},"NYJ":{"id":"HCKX05","city":"New York","nickname":"Jets","abbrev":"NYJ","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_York_Jets.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_York_Jets.png"},"OAK":{"id":"A7F9J0","city":"Oakland","nickname":"Raiders","abbrev":"OAK","year_min":1995,"year_max":2019,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Oakland_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Oakland_Raiders.png"},"PHI":{"id":"6IX2FV","city":"Philadelphia","nickname":"Eagles","abbrev":"PHI","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Philadelphia_Eagles.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Philadelphia_Eagles.png"},"PHX":{"id":"31R64Y","city":"Phoenix","nickname":"Cardinals","abbrev":"PHX","year_min":1988,"year_max":1993,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Phoenix_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Phoenix_Cardinals.png"},"PIT":{"id":"7SIKNN","city":"Pittsburgh","nickname":"Steelers","abbrev":"PIT","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Pittsburgh_Steelers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Pittsburgh_Steelers.png"},"SD":{"id":"XE0W6H","city":"San Diego","nickname":"Chargers","abbrev":"SD","year_min":1983,"year_max":2016,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/San_Diego_Chargers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/San_Diego_Chargers.png"},"SEA":{"id":"6QHD3D","city":"Seattle","nickname":"Seahawks","abbrev":"SEA","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Seattle_Seahawks.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Seattle_Seahawks.png"},"SF":{"id":"06JQ6F","city":"San Francisco","nickname":"49ers","abbrev":"SF","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/San_Francisco_49ers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/San_Francisco_49ers.png"},"STL":{"id":"PVS60L","city":"St. Louis","nickname":"Rams","abbrev":"STL","year_min":1995,"year_max":2015,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/St._Louis_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/St._Louis_Rams.png"},"STLC":{"id":"31R64Y","city":"St. Louis","nickname":"Cardinals","abbrev":"STLC","year_min":1983,"year_max":1987,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/St._Louis_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/St._Louis_Cardinals.png"},"TB":{"id":"RAP22Q","city":"Tampa Bay","nickname":"Buccaneers","abbrev":"TB","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Tampa_Bay_Buccaneers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Tampa_Bay_Buccaneers.png"},"TEN":{"id":"ZHFQ4R","city":"Tennessee","nickname":"Titans","abbrev":"TEN","year_min":1997,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Tennessee_Titans.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Tennessee_Titans.png"},"WAS":{"id":"X50HNK","city":"Washington","nickname":"Football Team","abbrev":"WAS","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Washington_Football_Team.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Washington_Football_Team.png"}},"trial":{"isActive":false,"daysRemaining":null},"yearsAndWeeks":{"1985":16,"1986":16,"1987":16,"1988":16,"1989":16,"1990":17,"1991":17,"1992":17,"1993":18,"1994":17,"1995":17,"1996":17,"1997":17,"1998":17,"1999":17,"2000":17,"2001":17,"2002":17,"2003":17,"2004":17,"2005":17,"2006":17,"2007":17,"2008":17,"2009":17,"2010":17,"2011":17,"2012":17,"2013":17,"2014":17,"2015":17,"2016":17,"2017":17,"2018":17,"2019":17,"2020":17},"podcast":{"isLive":0,"title":"What Can You Beat Bill Belichick In?","videoId":"6EsG2ZjoYsM","listenNow":"https:\/\/www.youtube.com\/watch?v=6EsG2ZjoYsM","subheading":"December 8","startAt":"0","coverImageUrl":"https:\/\/www.footballoutsiders.com\/files\/FO-AMA-Title.png"}},"ga":{"commands":[["create","UA-5013951-1","auto"],["send","pageview"]]},"FOStats":{"selectedPage":"offensive_drive"},"chosen":{"selector":"select[multiple]:visible","minimum_single":20,"minimum_multiple":0,"minimum_width":0,"use_relative_width":false,"options":{"disable_search":false,"disable_search_threshold":0,"allow_single_deselect":false,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","max_shown_results":null,"inherit_select_classes":true}},"user":{"uid":0,"permissionsHash":"8727ec5cca87c3dfc0d9b567a1b23156907ea407f17302970ab194425e5df258"}}</script>
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"stats\/nfl\/overall-drive-statsoff\/2020","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","routeName":"fo_stats.offensive_drive"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"chosen\/drupal.chosen,chosen_lib\/chosen.css,classy\/base,classy\/messages,core\/drupal.tableresponsive,core\/normalize,fo_ccm\/utm,fo_components\/my_app,fo_front\/global-styling,fo_main\/99c_modal,fo_main\/admin_menu,fo_main\/podcast_block,fo_shared\/grid,fo_stats\/nav_widget,fo_store\/yahoo,fo_stripe\/stripe,ga\/analytics,system\/base","theme":"fo_front","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"FOCCM":{"utmFields":{"endpoint":"\/ajax\/ccm\/utm","list":["sce","utm_source","utm_campaign","utm_term","utm_medium","utm_content","campaignid","adgroupid","adsetid","adid","keyword","adposition","placement","network","loc_interest_ms","loc_physical_ms","target","targetid","matchtype","device","devicemodel","sitelink","campaign_name","campaign_category","campaign_date"]}},"foComponents":{"scheduleBanner":{"discussionLink":"https:\/\/www.footballoutsiders.com\/open-discussion\/2021\/week-12-open-discussion"},"schedule":[{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["KC","LAC"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"57732765-3336-4b97-a2b7-146db3ae5323","home_team":"LAC","season_week":"15","season_stage":"reg","starts_at":"2021-12-17T01:20:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["LAC","KC"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"57732765-3336-4b97-a2b7-146db3ae5323","home_team":"LAC","season_week":"15","season_stage":"reg","starts_at":"2021-12-17T01:20:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["ARI","DET"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"23cd844d-eaac-4ba0-9639-bdfb49c4c08e","home_team":"DET","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["BAL","GB"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"3f5abf7c-ced2-4a9c-b625-251d1802b604","home_team":"BAL","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T21:25:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["BUF","CAR"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"601dac57-4d93-46ee-be81-9dd6ac29c026","home_team":"BUF","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["CAR","BUF"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"601dac57-4d93-46ee-be81-9dd6ac29c026","home_team":"BUF","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["CLE","LV"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"128ee788-5b3d-4951-901d-26cbe4965991","home_team":"CLE","season_week":"15","season_stage":"reg","starts_at":"2021-12-18T21:30:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["DAL","NYG"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"1a1bb155-cd75-4fba-b881-26c905dfb87c","home_team":"NYG","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["DET","ARI"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"23cd844d-eaac-4ba0-9639-bdfb49c4c08e","home_team":"DET","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["GB","BAL"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"3f5abf7c-ced2-4a9c-b625-251d1802b604","home_team":"BAL","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T21:25:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["HOU","JAX"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"50ec1ea8-04e1-4227-971d-931ee521670c","home_team":"JAX","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["IND","NE"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"e149d717-226d-48e7-a184-bb2323a4b2ff","home_team":"IND","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T01:20:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["JAX","HOU"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"50ec1ea8-04e1-4227-971d-931ee521670c","home_team":"JAX","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["MIA","NYJ"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"2208d956-b804-4977-80b3-98e3310d9701","home_team":"MIA","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["NYG","DAL"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"1a1bb155-cd75-4fba-b881-26c905dfb87c","home_team":"NYG","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["NYJ","MIA"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"2208d956-b804-4977-80b3-98e3310d9701","home_team":"MIA","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["NE","IND"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"e149d717-226d-48e7-a184-bb2323a4b2ff","home_team":"IND","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T01:20:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["LV","CLE"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"128ee788-5b3d-4951-901d-26cbe4965991","home_team":"CLE","season_week":"15","season_stage":"reg","starts_at":"2021-12-18T21:30:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["PHI","WAS"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"17322278-baa0-4ee7-80ae-3ee4912ab8e7","home_team":"PHI","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["PIT","TEN"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"3173455e-807d-421d-8907-ef2eaf137ce0","home_team":"PIT","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["TEN","PIT"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"3173455e-807d-421d-8907-ef2eaf137ce0","home_team":"PIT","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["WAS","PHI"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"17322278-baa0-4ee7-80ae-3ee4912ab8e7","home_team":"PHI","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T18:00:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["ATL","SF"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"62c594f0-447f-41dc-942c-84dfda61643f","home_team":"SF","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T21:05:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["CIN","DEN"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"f7047655-17aa-423d-89ed-71408caba767","home_team":"DEN","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T21:05:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["DEN","CIN"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"f7047655-17aa-423d-89ed-71408caba767","home_team":"DEN","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T21:05:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["SF","ATL"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"62c594f0-447f-41dc-942c-84dfda61643f","home_team":"SF","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T21:05:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["SEA","LAR"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"487bb209-e93f-484d-98eb-25e623b474be","home_team":"LAR","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T21:25:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["LAR","SEA"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"487bb209-e93f-484d-98eb-25e623b474be","home_team":"LAR","season_week":"15","season_stage":"reg","starts_at":"2021-12-19T21:25:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["NO","TB"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"94604a1e-d153-4525-9d97-68e4ece51c6b","home_team":"TB","season_week":"15","season_stage":"reg","starts_at":"2021-12-20T01:20:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["TB","NO"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"94604a1e-d153-4525-9d97-68e4ece51c6b","home_team":"TB","season_week":"15","season_stage":"reg","starts_at":"2021-12-20T01:20:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["CHI","MIN"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"1d9bc650-91e5-42fe-b56a-4a2c8829d99b","home_team":"CHI","season_week":"15","season_stage":"reg","starts_at":"2021-12-21T01:15:00-05:00"},{"status":"complete","period":1,"score":null,"clock":"00:00","sport_radar_id":null,"teams":["MIN","CHI"],"broadcast_network":null,"possession":null,"season_year":"2021","id":"1d9bc650-91e5-42fe-b56a-4a2c8829d99b","home_team":"CHI","season_week":"15","season_stage":"reg","starts_at":"2021-12-21T01:15:00-05:00"}],"dvoa":[],"dave":[],"scheduleCacheEndpoints":{"scheduleInit":"\/cache\/schedule-init","liveGame":"\/cache\/live-game","totalDvoa":"\/cache\/total-dvoa","totalDave":"\/cache\/total-dave"}},"FOMain":{"NFLTeams":{"2TM":{"id":"AAAAAA","city":"Two","nickname":"Teams","abbrev":"2TM","year_min":1985,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Two_Teams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Two_Teams.png"},"ARI":{"id":"31R64Y","city":"Arizona","nickname":"Cardinals","abbrev":"ARI","year_min":1994,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Arizona_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Arizona_Cardinals.png"},"ATL":{"id":"1NJYCE","city":"Atlanta","nickname":"Falcons","abbrev":"ATL","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Atlanta_Falcons.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Atlanta_Falcons.png"},"BAL":{"id":"CU2QVY","city":"Baltimore","nickname":"Ravens","abbrev":"BAL","year_min":1996,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Baltimore_Ravens.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Baltimore_Ravens.png"},"BALC":{"id":"N2LWDD","city":"Baltimore","nickname":"Colts","abbrev":"BALC","year_min":1983,"year_max":1983,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Baltimore_Colts.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Baltimore_Colts.png"},"BUF":{"id":"3XRMV5","city":"Buffalo","nickname":"Bills","abbrev":"BUF","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Buffalo_Bills.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Buffalo_Bills.png"},"CAR":{"id":"NW374Y","city":"Carolina","nickname":"Panthers","abbrev":"CAR","year_min":1995,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Carolina_Panthers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Carolina_Panthers.png"},"CHI":{"id":"0Q8UBU","city":"Chicago","nickname":"Bears","abbrev":"CHI","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Chicago_Bears.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Chicago_Bears.png"},"CIN":{"id":"CHI76M","city":"Cincinnati","nickname":"Bengals","abbrev":"CIN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cincinnati_Bengals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cincinnati_Bengals.png"},"CLE":{"id":"UKPC2W","city":"Cleveland","nickname":"Browns","abbrev":"CLE","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cleveland_Browns.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cleveland_Browns.png"},"CLE1":{"id":"CU2QVY","city":"Cleveland","nickname":"Browns","abbrev":"CLE1","year_min":1985,"year_max":1995,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Cleveland_Browns.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Cleveland_Browns.png"},"DAL":{"id":"V9PDBK","city":"Dallas","nickname":"Cowboys","abbrev":"DAL","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Dallas_Cowboys.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Dallas_Cowboys.png"},"DEN":{"id":"UN4420","city":"Denver","nickname":"Broncos","abbrev":"DEN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Denver_Broncos.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Denver_Broncos.png"},"DET":{"id":"QJ0Z20","city":"Detroit","nickname":"Lions","abbrev":"DET","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Detroit_Lions.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Detroit_Lions.png"},"GB":{"id":"EQC28Y","city":"Green Bay","nickname":"Packers","abbrev":"GB","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Green_Bay_Packers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Green_Bay_Packers.png"},"HOIL":{"id":"ZHFQ4R","city":"Houston","nickname":"Oilers","abbrev":"HOIL","year_min":1983,"year_max":1996,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Houston_Oilers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Houston_Oilers.png"},"HOU":{"id":"9LMVNZ","city":"Houston","nickname":"Texans","abbrev":"HOU","year_min":2002,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Houston_Texans.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Houston_Texans.png"},"IND":{"id":"N2LWDD","city":"Indianapolis","nickname":"Colts","abbrev":"IND","year_min":1984,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Indianapolis_Colts.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Indianapolis_Colts.png"},"JAX":{"id":"CL7RBW","city":"Jacksonville","nickname":"Jaguars","abbrev":"JAX","year_min":1995,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Jacksonville_Jaguars.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Jacksonville_Jaguars.png"},"KC":{"id":"MVCF5W","city":"Kansas City","nickname":"Chiefs","abbrev":"KC","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Kansas_City_Chiefs.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Kansas_City_Chiefs.png"},"LAC":{"id":"XE0W6H","city":"Los Angeles","nickname":"Chargers","abbrev":"LAC","year_min":2017,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Chargers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Chargers.png"},"LAR":{"id":"PVS60L","city":"Los Angeles","nickname":"Rams","abbrev":"LAR","year_min":2016,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Rams.png"},"LARD":{"id":"A7F9J0","city":"Los Angeles","nickname":"Raiders","abbrev":"LARD","year_min":1983,"year_max":1994,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Raiders.png"},"LARM":{"id":"PVS60L","city":"Los Angeles","nickname":"Rams","abbrev":"LARM","year_min":1983,"year_max":1994,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Los_Angeles_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Los_Angeles_Rams.png"},"LV":{"id":"A7F9J0","city":"Las Vegas","nickname":"Raiders","abbrev":"LV","year_min":2020,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Las_Vegas_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Las_Vegas_Raiders.png"},"MIA":{"id":"1CGKY9","city":"Miami","nickname":"Dolphins","abbrev":"MIA","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Miami_Dolphins.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Miami_Dolphins.png"},"MIN":{"id":"VR6E7K","city":"Minnesota","nickname":"Vikings","abbrev":"MIN","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Minnesota_Vikings.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Minnesota_Vikings.png"},"NE":{"id":"RLTZ4P","city":"New England","nickname":"Patriots","abbrev":"NE","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_England_Patriots.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_England_Patriots.png"},"NO":{"id":"SC1N3V","city":"New Orleans","nickname":"Saints","abbrev":"NO","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_Orleans_Saints.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_Orleans_Saints.png"},"NYG":{"id":"J941T8","city":"New York","nickname":"Giants","abbrev":"NYG","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_York_Giants.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_York_Giants.png"},"NYJ":{"id":"HCKX05","city":"New York","nickname":"Jets","abbrev":"NYJ","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/New_York_Jets.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/New_York_Jets.png"},"OAK":{"id":"A7F9J0","city":"Oakland","nickname":"Raiders","abbrev":"OAK","year_min":1995,"year_max":2019,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Oakland_Raiders.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Oakland_Raiders.png"},"PHI":{"id":"6IX2FV","city":"Philadelphia","nickname":"Eagles","abbrev":"PHI","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Philadelphia_Eagles.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Philadelphia_Eagles.png"},"PHX":{"id":"31R64Y","city":"Phoenix","nickname":"Cardinals","abbrev":"PHX","year_min":1988,"year_max":1993,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Phoenix_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Phoenix_Cardinals.png"},"PIT":{"id":"7SIKNN","city":"Pittsburgh","nickname":"Steelers","abbrev":"PIT","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Pittsburgh_Steelers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Pittsburgh_Steelers.png"},"SD":{"id":"XE0W6H","city":"San Diego","nickname":"Chargers","abbrev":"SD","year_min":1983,"year_max":2016,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/San_Diego_Chargers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/San_Diego_Chargers.png"},"SEA":{"id":"6QHD3D","city":"Seattle","nickname":"Seahawks","abbrev":"SEA","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Seattle_Seahawks.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Seattle_Seahawks.png"},"SF":{"id":"06JQ6F","city":"San Francisco","nickname":"49ers","abbrev":"SF","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/San_Francisco_49ers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/San_Francisco_49ers.png"},"STL":{"id":"PVS60L","city":"St. Louis","nickname":"Rams","abbrev":"STL","year_min":1995,"year_max":2015,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/St._Louis_Rams.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/St._Louis_Rams.png"},"STLC":{"id":"31R64Y","city":"St. Louis","nickname":"Cardinals","abbrev":"STLC","year_min":1983,"year_max":1987,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/St._Louis_Cardinals.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/St._Louis_Cardinals.png"},"TB":{"id":"RAP22Q","city":"Tampa Bay","nickname":"Buccaneers","abbrev":"TB","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Tampa_Bay_Buccaneers.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Tampa_Bay_Buccaneers.png"},"TEN":{"id":"ZHFQ4R","city":"Tennessee","nickname":"Titans","abbrev":"TEN","year_min":1997,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Tennessee_Titans.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Tennessee_Titans.png"},"WAS":{"id":"X50HNK","city":"Washington","nickname":"Football Team","abbrev":"WAS","year_min":1983,"year_max":2021,"logo_small":"\/themes\/custom\/fo_front\/img\/team-icons\/Washington_Football_Team.png","logo_full":"\/themes\/custom\/fo_front\/img\/team-icons\/full-sizes\/Washington_Football_Team.png"}},"trial":{"isActive":false,"daysRemaining":null},"yearsAndWeeks":{"1985":16,"1986":16,"1987":16,"1988":16,"1989":16,"1990":17,"1991":17,"1992":17,"1993":18,"1994":17,"1995":17,"1996":17,"1997":17,"1998":17,"1999":17,"2000":17,"2001":17,"2002":17,"2003":17,"2004":17,"2005":17,"2006":17,"2007":17,"2008":17,"2009":17,"2010":17,"2011":17,"2012":17,"2013":17,"2014":17,"2015":17,"2016":17,"2017":17,"2018":17,"2019":17,"2020":17},"podcast":{"isLive":0,"title":"Redrafting The 2021 Top 5","videoId":"UNyPw41HK1Y","listenNow":"https:\/\/www.youtube.com\/watch?v=UNyPw41HK1Y","subheading":"December 15","startAt":"0","coverImageUrl":"https:\/\/www.footballoutsiders.com\/files\/FO-AMA-Title.png"}},"ga":{"commands":[["create","UA-5013951-1","auto"],["send","pageview"]]},"FOStats":{"selectedPage":"offensive_drive"},"chosen":{"selector":"select[multiple]:visible","minimum_single":20,"minimum_multiple":0,"minimum_width":0,"use_relative_width":false,"options":{"disable_search":false,"disable_search_threshold":0,"allow_single_deselect":false,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","max_shown_results":null,"inherit_select_classes":true}},"user":{"uid":0,"permissionsHash":"8727ec5cca87c3dfc0d9b567a1b23156907ea407f17302970ab194425e5df258"}}</script>
 <script src="/files/js/js_2UYa2SOgzH82t4mz1W4tcfVrHr3xYBbCaOAj5C40jp8.js"></script>
 <script src="https://js.stripe.com/v3/"></script>
 <script src="/files/js/js_V7kn-apie4VdIGxRnNllLWnAkUnEH0CQGN1svtObXvM.js"></script>

@@ -2,8 +2,8 @@
 62-38-2 ATS
 
 2020-2021 Season Predictions & Results
-Record ATS: 106-127-7
-Record ML: 143-88-6
+Record ATS: 117-130-7
+Record ML: 153-92-6
 
 Format of output:
 	AwayTeam(ATS odds, ML odds) at HomeTeam(ATS odds, ML odds)
@@ -2753,7 +2753,7 @@ Week 13 Record:(ATS: 7-7-0; ML: 8-6-0)
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: BUF ML and ATS***
 
-Week 14 Record:(ATS: 0-0-0; ML: 0-0-0)
+Week 14 Record:(ATS: 11-3-0; ML: 10-4-0)
 	1.	PIT(+3, +140) at MIN(-3, -165)
 		MIN QB: Kirk Cousins
 		PIT QB: Ben Roethlisberger
@@ -2949,6 +2949,33 @@ Week 14 Record:(ATS: 0-0-0; ML: 0-0-0)
 		 -6.0
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: ARI ML and ATS***
+
+Week 15 Record:(ATS: 0-1-0; ML: 0-1-0)
+	1.	LAC QB: Justin Herbert
+		KC QB: Patrick Mahomes
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 61.832061068702295% ATS%: 59.089999999999996%
+		LAC 30.0     KC 18.0
+		LAC 37.0     KC 23.0
+		LAC 37.0     KC 30.0
+		Shows possible game results.
+		LAC 31.0     KC 29.0
+		 -2.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+	
+	2.	NE(+2.5, +120)	at IND(-2, -133)
+		IND QB: Carson Wentz
+		NE QB: Mac Jones
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 57.08154506437768% ATS%: 56.06%
+		IND 31.0     NE 34.0
+		IND 36.0     NE 34.0
+		IND 37.0     NE 34.0
+		Shows possible game results.
+		IND 31.0     NE 32.0
+		 -1.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: NE ML and ATS***
 	
 	
 										
