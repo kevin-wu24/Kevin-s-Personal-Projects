@@ -2,8 +2,8 @@
 62-38-2 ATS
 
 2020-2021 Season Predictions & Results
-Record ATS: 117-130-7
-Record ML: 153-92-6
+Record ATS: 127-136-7
+Record ML: 163-97-7
 
 Format of output:
 	AwayTeam(ATS odds, ML odds) at HomeTeam(ATS odds, ML odds)
@@ -2950,8 +2950,9 @@ Week 14 Record:(ATS: 11-3-0; ML: 10-4-0)
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: ARI ML and ATS***
 
-Week 15 Record:(ATS: 0-1-0; ML: 0-1-0)
-	1.	LAC QB: Justin Herbert
+Week 15 Record:(ATS: 10-6-0; ML: 10-5-1)
+	1.	KC(-3.5, -180) at LAC(+3.5, +170)
+		LAC QB: Justin Herbert
 		KC QB: Patrick Mahomes
 		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
 		ML %: 61.832061068702295% ATS%: 59.089999999999996%
@@ -2962,6 +2963,7 @@ Week 15 Record:(ATS: 0-1-0; ML: 0-1-0)
 		LAC 31.0     KC 29.0
 		 -2.0
 		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: LAC ML and ATS***
 	
 	2.	NE(+2.5, +120)	at IND(-2, -133)
 		IND QB: Carson Wentz
@@ -3172,7 +3174,21 @@ Week 15 Record:(ATS: 0-1-0; ML: 0-1-0)
 		 -9.0
 		Shows long run score over 1000 simulations and ideal spread for favorite.
 		***Pick: LAR ML and ATS***
-		
+
+Week 16 Record:(ATS: 0-0-0; ML: 0-0-0)
+	1.	SF(-3, -167) at TEN(+3.5, +155)
+		TEN QB: Ryan Tannehill
+		SF QB: Jimmy Garoppolo
+		Estimated Probability of Favored Team Winning by Vegas' Opening ML and Spread
+		ML %: 62.546816479400746% ATS%: 59.089999999999996%
+		TEN 21.0     SF 34.0
+		TEN 31.0     SF 34.0
+		TEN 37.0     SF 34.0
+		Shows possible game results.
+		TEN 27.0     SF 30.0
+		 -3.0
+		Shows long run score over 1000 simulations and ideal spread for favorite.
+		***Pick: SF ML and No pick ATS***
 		
 	
 	
